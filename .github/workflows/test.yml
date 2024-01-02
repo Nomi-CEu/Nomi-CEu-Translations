@@ -71,7 +71,7 @@ jobs:
           matrix-step-name: ${{ github.job }}
           matrix-key: ${{ matrix.modules }}
           outputs: |
-            - FILE_NAME=${{ steps.name.outputs.file }}
+            - file=${{ steps.name.outputs.file }}
           
   read:
       runs-on: ubuntu-latest
@@ -94,4 +94,4 @@ jobs:
           - ${{ fromJson(needs.configure.outputs.matrix).modules }}
           - "combined"
     steps:
-      - run: echo ${{ fromJson(needs.read.outputs.result).FILE_NAME.combined }}
+      - run: echo ${{ fromJson(needs.read.outputs.result).file.combined }}
