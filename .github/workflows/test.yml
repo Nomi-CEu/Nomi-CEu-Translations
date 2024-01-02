@@ -36,7 +36,7 @@ jobs:
         
       - name: Make Names
         working-directory: ./tools
-        id: name
+        id: names
         run: npx gulp makeGHANames
  
   printNames:
