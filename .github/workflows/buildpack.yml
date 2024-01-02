@@ -84,7 +84,7 @@ jobs:
   makeNames:
     name: Make Names (${{ inputs.tag }})
     runs-on: ubuntu-latest
-    soutputs:
+    outputs:
       names: ${{ steps.names.outputs.names }}
     env:
       GITHUB_TAG: ${{ inputs.tag }}
