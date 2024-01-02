@@ -1,0 +1,7 @@
+{
+  "modules": [
+    "nomi-ceu",
+    "nomi-labs",
+    "gregtech-drawers"
+  ]
+}
