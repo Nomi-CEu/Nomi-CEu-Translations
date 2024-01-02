@@ -108,7 +108,7 @@ jobs:
       - uses: geekyeggo/delete-artifact@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          name: my-*
+          name: "[A-Za-z0-9 ]*"
           
       #- uses: geekyeggo/delete-artifact@v4
        # with:
