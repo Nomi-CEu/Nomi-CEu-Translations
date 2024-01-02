@@ -1,13 +1,15 @@
 {
 	"buildDestinationDirectory": "../build",
 	"baseName": "translations",
+	"combinedName": "combined",
 	"normalCopyGlobs": [
 		"**/*",
 		"!pack.mcmeta"
 	],
-	"copyToSharedDirGlobs": [
-		"**/*",
-		"!pack.mcmeta",
-		"!pack.png"
+	"copyToCombinedDirGlobs": [
+		"assets/**/*"
+	],
+	"copyPackPngGlobs": [
+		"pack.png"
 	]
 }
