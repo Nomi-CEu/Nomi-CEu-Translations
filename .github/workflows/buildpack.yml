@@ -170,7 +170,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.FILENAME }}
-          path: ${{ format(./build/{0}/**/*, matrix.MODULE) }}
+          path: ${{ format("./build/{0}/**/*", matrix.MODULE) }}
           if-no-files-found: error
         
         
