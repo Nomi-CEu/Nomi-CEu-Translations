@@ -29,13 +29,7 @@ on:
       true_sha:
         type: string
         required: false
-      sha:
-        type: string
-        required: false
-      ref:
-        type: string
-        required: false
-
+        
 jobs:
   buildSingle:
     name: Build Pack (${{ inputs.tag }})
@@ -46,8 +40,6 @@ jobs:
       RELEASE_TYPE: ${{ inputs.release_type }}
       GITHUB_HEAD_REF: ${{ inputs.head_ref }}
       TRUE_SHA: ${{ inputs.true_sha }}
-      GITHUB_SHA: ${{ inputs.sha }}
-      GITHUB_REF: ${{ inputs.ref }}
 
     steps:
       - name: Checkout Ref
@@ -89,6 +81,99 @@ jobs:
             ./build/*.zip
           if-no-files-found: error
 
+  makeNames:
+    name: Make Names (${{ inputs.tag }})
+    runs-on: ubuntu-latest
+    soutputs:
+      names: ${{ steps.names.outputs.names }}
+    env:
+      GITHUB_TAG: ${{ inputs.tag }}
+      RELEASE_TYPE: ${{ inputs.release_type }}
+      GITHUB_HEAD_REF: ${{ inputs.head_ref }}
+      TRUE_SHA: ${{ inputs.true_sha }}
+    steps:
+      - name: Checkout Ref
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.tag }}
+
+      - name: Restore Cached Files
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            ~/.npm
+            ./.cache
+            ./tools/node_modules
+          key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
+          restore-keys: ${{ runner.os }}-bunny-
+
+      - name: Setup NodeJS v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          check-latest: true
+
+      - name: Setup NPM Packages
+        working-directory: ./tools
+        run: npm ci
+        
+      - name: Make Names
+        working-directory: ./tools
+        id: names
+        run: npx gulp makeGHANames
+        
+  buildSeperate:
+    name: Build Pack Seperate (${{ inputs.tag }})
+    runs-on: ubuntu-latest
+    if: ${{ inputs.separate_upload }}
+    needs: makeNames
+    strategy:
+      matrix: 
+        include: ${{ fromJson(needs.makeNames.outputs.names) }}
+    steps:
+      - name: Checkout Ref
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.tag }}
+
+      - name: Restore Cached Files
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            ~/.npm
+            ./.cache
+            ./tools/node_modules
+          key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
+          restore-keys: ${{ runner.os }}-bunny-
+
+      - name: Setup NodeJS v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          check-latest: true
+
+      - name: Setup NPM Packages
+        working-directory: ./tools
+        run: npm ci
+
+      - name: Copy Module
+        working-directory: ./tools
+        run: npx gulp copySpecifiedModule
+        env:
+          MODULE: ${{ matrix.MODULE }}
+          
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.FILENAME }}
+          path: ${{ format(./build/{0}/**/*, matrix.MODULE) }}
+          if-no-files-found: error
+        
+        
   buildPackSeperate:
     name: Build Pack Seperate (${{ inputs.tag }})
     runs-on: ubuntu-latest

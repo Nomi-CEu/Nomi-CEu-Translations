@@ -14,7 +14,7 @@ export async function copyCombinedTask(): Promise<void> {
 	return zipOrCopyCombined(false);
 }
 
-async function zipOrCopyCombined(zip: boolean) {
+export async function zipOrCopyCombined(zip: boolean): Promise<void> {
 	const dir = upath.join(rootDirectory, buildConfig.combinedName);
 	const dest = upath.join(buildConfig.buildDestinationDirectory, buildConfig.combinedName);
 	log(`${zip ? "Zipping" : "Copying"} Combined...`);
