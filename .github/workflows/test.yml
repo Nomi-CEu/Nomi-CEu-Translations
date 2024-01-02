@@ -94,4 +94,4 @@ jobs:
           - ${{ fromJson(needs.configure.outputs.matrix).modules }}
           - "combined"
     steps:
-      - run: echo ${{ fromJson(needs.read.outputs.result).file.combined }}
+      - run: echo ${{ needs.read.outputs.result }}
