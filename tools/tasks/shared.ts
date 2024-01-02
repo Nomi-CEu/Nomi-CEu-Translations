@@ -18,11 +18,16 @@ export async function copySpecifiedModuleTask(): Promise<void> {
 }
 
 async function zipOrCopySpecifiedModule(zip: boolean) {
-	const module = process.env.MODULE;
+	let module = process.env.MODULE;
 	if (!module) throw new Error("Module Env Variable must not be empty.");
+	module = module.trim();
 	if (module === buildConfig.combinedName) return zipOrCopyCombined(zip);
-	if (!(module in modulesFile.modules))
-		throw new Error(`Module Env Variable must be a module specified in module.json, or 'combined'. Found: ${module}.`);
+	if (!modulesFile.modules.includes(module))
+		throw new Error(
+			`Module Env Variable must be a module specified in module.json, or 'combined'. Found: '${module}'. Accepted: [${modulesFile.modules.join(
+				", ",
+			)}, combined].`,
+		);
 
 	return zipOrCopyModule(zip, module);
 }
