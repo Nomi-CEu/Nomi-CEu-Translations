@@ -1,9 +1,9 @@
 import upath from "upath";
 import { modulesFile, rootDirectory } from "../globals";
 import buildConfig from "../buildConfig";
-import { cleanUp, copy, createDirs, transformMCMeta, zipFolder } from "../util/util";
+import { cleanUp, copy, createDirs, transformMCMeta, zipFolder } from "./util";
 import sanitize from "sanitize-filename";
-import { makeName } from "../util/name";
+import { makeName } from "./name";
 import log from "fancy-log";
 
 export async function compressCombinedTask(): Promise<void> {
@@ -14,7 +14,7 @@ export async function copyCombinedTask(): Promise<void> {
 	return zipOrCopyCombined(false);
 }
 
-async function zipOrCopyCombined(zip: boolean) {
+export async function zipOrCopyCombined(zip: boolean): Promise<void> {
 	const dir = upath.join(rootDirectory, buildConfig.combinedName);
 	const dest = upath.join(buildConfig.buildDestinationDirectory, buildConfig.combinedName);
 	log(`${zip ? "Zipping" : "Copying"} Combined...`);
