@@ -7,9 +7,17 @@ import { makeName } from "../util/name";
 import log from "fancy-log";
 
 export async function compressCombinedTask(): Promise<void> {
+	return zipOrCopyCombined(true);
+}
+
+export async function copyCombinedTask(): Promise<void> {
+	return zipOrCopyCombined(false);
+}
+
+async function zipOrCopyCombined(zip: boolean) {
 	const dir = upath.join(rootDirectory, buildConfig.combinedName);
 	const dest = upath.join(buildConfig.buildDestinationDirectory, buildConfig.combinedName);
-	log("Zippping Combined...");
+	log(`${zip ? "Zipping" : "Copying"} Combined...`);
 	await cleanUp(dest);
 	await createDirs(dest);
 	for (const module of modulesFile.modules) {
@@ -20,6 +28,6 @@ export async function compressCombinedTask(): Promise<void> {
 	}
 	await copy(dir, dest, buildConfig.copyPackPngGlobs);
 	await transformMCMeta(dir, dest);
-	await zipFolder(dest, sanitize(`${makeName(buildConfig.combinedName)}.zip`).toLowerCase());
-	log("Zipped Combined!");
+	if (zip) await zipFolder(dest, sanitize(`${makeName(buildConfig.combinedName)}.zip`).toLowerCase());
+	log(`${zip ? "Zipped" : "Copied"} Combined!`);
 }

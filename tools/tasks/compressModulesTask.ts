@@ -7,15 +7,23 @@ import { cleanUp, createDirs, copy, transformMCMeta, zipFolder } from "../util/u
 import log from "fancy-log";
 
 export async function compressModulesTask(): Promise<void> {
+	return zipOrCopyModules(true);
+}
+
+export async function copyModulesTask(): Promise<void> {
+	return zipOrCopyModules(false);
+}
+
+async function zipOrCopyModules(zip: boolean) {
 	for (const module of modulesFile.modules) {
 		const moduleDir = upath.join(rootDirectory, module);
 		const moduleDest = upath.join(buildConfig.buildDestinationDirectory, module);
-		log(`Zippping Module ${module}...`);
+		log(`${zip ? "Zipping" : "Copying"} Module ${module}...`);
 		await cleanUp(moduleDest);
 		await createDirs(moduleDest);
 		await copy(moduleDir, moduleDest, buildConfig.normalCopyGlobs);
 		await transformMCMeta(moduleDir, moduleDest);
-		await zipFolder(moduleDest, sanitize(`${makeName(module)}.zip`).toLowerCase());
-		log(`Zipped Module ${module}!`);
+		if (zip) await zipFolder(moduleDest, sanitize(`${makeName(module)}.zip`).toLowerCase());
+		log(`${zip ? "Zipped" : "Copied"} Module ${module}!`);
 	}
 }
