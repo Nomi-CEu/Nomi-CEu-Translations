@@ -107,7 +107,7 @@ jobs:
     steps:
       - uses: geekyeggo/delete-artifact@v4
         with:
-          token: ${{ env.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           name: "*"
 
     
