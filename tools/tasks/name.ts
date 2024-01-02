@@ -1,5 +1,8 @@
 import buildConfig from "../buildConfig";
 import { McMeta } from "../types/mcmeta";
+import sanitize from "sanitize-filename";
+import { setOutput } from "@actions/core";
+import { modulesFile } from "../globals";
 
 let date: string;
 
@@ -7,6 +10,11 @@ export function makeName(bodyName: string): string {
 	const body = makeArtifactNameBody();
 	if (body) return `${buildConfig.baseName}-${makeArtifactNameBody()}-${bodyName}`;
 	return `${buildConfig.baseName}-${bodyName}`;
+}
+
+export async function makeGHAFileName(): Promise<void> {
+	const name = process.env.MODULE;
+	setOutput("file", sanitize(makeName(name).toLowerCase()));
 }
 
 /**

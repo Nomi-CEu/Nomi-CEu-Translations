@@ -1,4 +1,4 @@
-import { cleanUp, createDirs } from "../util/util";
+import { cleanUp, createDirs } from "./util";
 import buildConfig from "../buildConfig";
 
 export async function setup(): Promise<void> {

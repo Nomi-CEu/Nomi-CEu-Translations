@@ -2,8 +2,8 @@ import { modulesFile, rootDirectory } from "../globals";
 import upath from "upath";
 import buildConfig from "../buildConfig";
 import sanitize from "sanitize-filename";
-import { makeName } from "../util/name";
-import { cleanUp, createDirs, copy, transformMCMeta, zipFolder } from "../util/util";
+import { makeName } from "./name";
+import { cleanUp, createDirs, copy, transformMCMeta, zipFolder } from "./util";
 import log from "fancy-log";
 
 export async function compressModulesTask(): Promise<void> {

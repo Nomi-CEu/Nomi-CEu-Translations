@@ -1,0 +1,134 @@
+name: Build Pack
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Tag to Build.
+        required: false
+        type: string
+      separate_upload:
+        description: Whether to upload each zip, from each module and combined, seperately. If not set, will just upload all files into one artifact (Built Pack).
+        required: true
+        type: boolean
+      
+  workflow_call:
+    inputs:
+      tag:
+        description: Tag to Checkout and Release.
+        required: false
+        type: string
+      separate_upload:
+        description: Whether to upload each zip, from each module and combined, seperately. If not set, will just upload all files into one artifact (Built Pack).
+        required: false
+        default: false
+        type: boolean
+      head_ref:
+        type: string
+        required: false
+      true_sha:
+        type: string
+        required: false
+      sha:
+        type: string
+        required: false
+      ref:
+        type: string
+        required: false
+
+jobs:
+  buildSingle:
+    name: Build Pack (${{ inputs.tag }})
+    runs-on: ubuntu-latest
+    if: ${{ !inputs.separate_upload }}
+    env:
+      GITHUB_TAG: ${{ inputs.tag }}
+      RELEASE_TYPE: ${{ inputs.release_type }}
+      GITHUB_HEAD_REF: ${{ inputs.head_ref }}
+      TRUE_SHA: ${{ inputs.true_sha }}
+      GITHUB_SHA: ${{ inputs.sha }}
+      GITHUB_REF: ${{ inputs.ref }}
+
+    steps:
+      - name: Checkout Ref
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.tag }}
+
+      - name: Restore Cached Files
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            ~/.npm
+            ./.cache
+            ./tools/node_modules
+          key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
+          restore-keys: ${{ runner.os }}-bunny-
+
+      - name: Setup NodeJS v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          check-latest: true
+
+      - name: Setup NPM Packages
+        working-directory: ./tools
+        run: npm ci
+
+      - name: Build and Zip Pack
+        working-directory: ./tools
+        run: npx gulp
+
+      - name: Upload All Files
+        uses: actions/upload-artifact@v3
+        with:
+          name: Built Pack
+          path: |
+            ./build/*.zip
+          if-no-files-found: error
+
+  buildPackSeperate:
+    name: Build Pack Seperate (${{ inputs.tag }})
+    runs-on: ubuntu-latest
+    if: ${{ inputs.separate_upload }}
+    env:
+      GITHUB_TAG: ${{ inputs.tag }}
+      RELEASE_TYPE: ${{ inputs.release_type }}
+      GITHUB_HEAD_REF: ${{ inputs.head_ref }}
+      TRUE_SHA: ${{ inputs.true_sha }}
+      GITHUB_SHA: ${{ inputs.sha }}
+      GITHUB_REF: ${{ inputs.ref }}
+    steps:
+      - name: Checkout Ref
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.tag }}
+
+      - name: Restore Cached Files
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            ~/.npm
+            ./.cache
+            ./tools/node_modules
+          key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
+          restore-keys: ${{ runner.os }}-bunny-
+
+      - name: Setup NodeJS v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          check-latest: true
+
+      - name: Setup NPM Packages
+        working-directory: ./tools
+        run: npm ci
+
+      - name: Make Artifact Names
+        id: artifactNames
+        working-directory: ./tools
+        run: npx gulp makeGHANames

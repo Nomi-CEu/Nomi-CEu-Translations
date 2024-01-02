@@ -1,0 +1,25 @@
+# Test Builds pack from pushes and pull requests in same repo.
+name: "[NOT CALLABLE] Push Build Pack"
+on:
+  push:
+    branches:
+      - main
+      - test_buildscript*
+    paths-ignore:
+      - "README.md"
+
+# if a second commit is pushed quickly after the first, cancel the first one's build
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+  
+jobs:
+  build:
+    name: Push Build Pack
+    uses: ./.github/workflows/buildpack.yml
+    with:
+      separate_upload: true
+      head_ref: ${{ github.head_ref }}
+      true_sha: ${{ github.event.pull_request.head.sha }}
+      sha: 
+
