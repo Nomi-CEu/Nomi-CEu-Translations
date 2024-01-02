@@ -83,12 +83,10 @@ jobs:
     needs: [configure, read]
     strategy:
       matrix: 
-        include:
-          ${{ fromJson(needs.read.outputs.result).* }}
+        modules: ${{ fromJson(needs.configure.outputs.matrix).modules }}
     steps:
       - run: |
-          echo ${{ matrix.FILENAME }}
-          echo ${{ matrix.MODULE }}
+          echo ${{ fromJson(needs.read.outputs.result)[matrix.modules].FILENAME }}
           
   deleteArtifacts:
     needs: printNames
