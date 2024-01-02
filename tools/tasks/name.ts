@@ -3,6 +3,7 @@ import { McMeta } from "../types/mcmeta";
 import sanitize from "sanitize-filename";
 import { setOutput } from "@actions/core";
 import { modulesFile } from "../globals";
+import { OutputName } from "../types/outputName";
 
 let date: string;
 
@@ -12,9 +13,15 @@ export function makeName(bodyName: string): string {
 	return `${buildConfig.baseName}-${bodyName}`;
 }
 
-export async function makeGHAFileName(): Promise<void> {
-	const name = process.env.MODULE;
-	setOutput("file", sanitize(makeName(name).toLowerCase()));
+export async function makeGHAFileNames(): Promise<void> {
+	const names = modulesFile.modules.map((module) => {
+		return { MODULE: module, FILENAME: sanitize(makeName(module).toLowerCase()) } as OutputName;
+	});
+	names.push({
+		MODULE: buildConfig.combinedName,
+		FILENAME: sanitize(makeName(buildConfig.combinedName).toLowerCase()),
+	});
+	setOutput("names", JSON.stringify(names));
 }
 
 /**
