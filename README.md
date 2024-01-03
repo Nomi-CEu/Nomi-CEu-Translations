@@ -17,4 +17,17 @@ If you are playing the [Nomi-CEu](https://github.com/Nomi-CEu/Nomi-CEu) modpack,
 If you want translations for a specific mod, download the zip with the mod's name (for example, 'nomi-labs' for [Nomi Labs](https://github.com/Nomi-CEu/Nomi-Labs))
 
 
+## Supported Lanuages:
 
+|Type|Chinese|Russian|Japanese|
+|---|---|---|---|
+|Nomi-CEu|✅|❓|🔨|
+|Gregtech Drawers|❌|❌|❌|
+|Nomi Labs|🔨|🔨|🔨|
+|Overall|❓|❓|🔨|
+
+### Key:
+- ✅: Well Supported, Complete
+- ❓: Partially Supported, Somewhat Complete
+- ❌: Not Suported, Not Complete, No Work Done Yet
+- 🔨: Work In Progress
