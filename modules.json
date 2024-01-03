@@ -1,6 +1,13 @@
 {
+  "_exampleModule": {
+    "name": "The Name of the Module. Has to be a folder in the root directory of this project. Will also be the name of the output zip. Example: 'nomi-ceu-translations'.",
+    "git": "HTTP link to the git object to clone (for GitHub Repos, end the link in .git). Example: 'https://github.com/Nomi-CEu/Nomi-CEu-Translations.git'.",
+    "pathToAssets": "Path from base of the repo to the assets folder where the en_us.langs are grabbed from. Example: 'nomi-ceu/assets'."
+  },
+  
   "modules": [
     {
+      "_comment": "This Module has Special Behaviours connected to it! Check that they work after any change!",
       "name": "nomi-ceu",
       "git": "https://github.com/Nomi-CEu/Nomi-CEu.git",
       "pathToAssets": "overrides/resources"

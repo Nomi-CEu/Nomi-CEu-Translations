@@ -3,11 +3,13 @@
 	"baseName": "translations",
 	"combinedName": "combined",
 	"normalCopyGlobs": [
-		"**/*",
-		"!pack.mcmeta"
+		"assets/**/*",
+		"pack.png",
+		"!**/[eE][nN][-_][uU][sS].lang"
 	],
 	"copyToCombinedDirGlobs": [
-		"assets/**/*"
+		"**/*",
+		"!**/[eE][nN][-_][uU][sS].lang"
 	],
 	"copyPackPngGlobs": [
 		"pack.png"

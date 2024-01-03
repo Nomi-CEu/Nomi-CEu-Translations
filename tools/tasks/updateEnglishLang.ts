@@ -1,12 +1,13 @@
 import simpleGit from "simple-git";
 import buildConfig from "../buildConfig";
 import { checkModuleEnv, copy } from "./util";
-import { assetsFolderName, cloneDirectory, modulesFile, rootDirectory } from "../globals";
+import { assetsFolderName, cloneDirectory, modulesFile, rootDirectory, shouldTransformQuestBook } from "../globals";
 import upath from "upath";
 import del from "del";
 import log from "fancy-log";
+import { transformQuestBook } from "./moduleSpecific/transformQuestBook";
 
-export async function cloneRepo(): Promise<void> {
+export async function updateEnglishLangTask(): Promise<void> {
 	checkModuleEnv(false);
 
 	const module = modulesFile.modules.find((module) => module.name === process.env.MODULE.trim());
@@ -18,6 +19,11 @@ export async function cloneRepo(): Promise<void> {
 	log(`Cloning into ${module.git}...`);
 	await git.clone(module.git, cloneDirectory, []);
 	log(`Cloned into ${module.git}!`);
+
+	// Transform Quest Book if Needed
+	if (shouldTransformQuestBook(module)) {
+		await transformQuestBook();
+	}
 
 	await copy(
 		upath.join(cloneDirectory, module.pathToAssets),

@@ -5,7 +5,7 @@ import { compressModulesTask, copyModulesTask } from "./tasks/compressModulesTas
 import { compressCombinedTask, copyCombinedTask } from "./tasks/compressCombinedTask";
 import { compressSpecifiedModuleTask, copySpecifiedModuleTask, setup } from "./tasks/shared";
 import { makeGHAFileNames } from "./tasks/name";
-import { cloneRepo } from "./tasks/updateEnglishLang";
+import { updateEnglishLangTask } from "./tasks/updateEnglishLang";
 
 export const compressModules = gulp.series(setup, compressModulesTask);
 export const copyModules = gulp.series(setup, copyModulesTask);
@@ -16,6 +16,6 @@ export const copySpecifiedModule = gulp.series(setup, copySpecifiedModuleTask);
 
 export const makeGHANames = gulp.series(makeGHAFileNames);
 
-export const cloneRepoTest = gulp.series(setup, cloneRepo);
+export const updateEnglishLang = gulp.series(setup, updateEnglishLangTask);
 
 exports.default = gulp.series(setup, gulp.parallel(compressModulesTask, compressCombinedTask));

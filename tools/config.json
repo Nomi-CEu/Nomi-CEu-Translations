@@ -4,10 +4,14 @@
 	"combinedName": "combined",
 	"normalCopyGlobs": [
 		"**/*",
+		"!**/[eE][nN][-_][uU][sS].lang",
 		"!pack.mcmeta"
 	],
 	"copyToCombinedDirGlobs": [
-		"assets/**/*"
+		"**/*",
+		"!**/[eE][nN][-_][uU][sS].lang",
+		"!pack.mcmeta",
+		"!pack.png"
 	],
 	"copyPackPngGlobs": [
 		"pack.png"

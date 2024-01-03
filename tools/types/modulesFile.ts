@@ -4,12 +4,12 @@ export interface ModulesFile {
 
 export interface Module {
 	/**
-	 * Must be same as the name of the directory.
+	 * The Name of the Module. Has to be a folder in the root directory of this project. Will also be the name of the output zip.
 	 */
 	name: string;
 
 	/**
-	 * HTTPS link to the git object to clone (for GitHub Repos, end the link in .git)
+	 * HTTP link to the git object to clone (for GitHub Repos, end the link in .git). Example: https://github.com/Nomi-CEu/Nomi-CEu-Translations.git (for this project)
 	 */
 	git: string;
 
