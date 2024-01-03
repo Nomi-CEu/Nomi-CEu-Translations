@@ -1,9 +1,18 @@
 {
 	"buildDestinationDirectory": "../build",
 	"baseName": "translations",
-	"copyToCombinedDirGlobs": [
+	"combinedName": "combined",
+	"normalCopyGlobs": [
 		"**/*",
-		"!pack.mcmeta",
-		"!pack.png"
+		"!pack.mcmeta"
+	],
+	"copyToCombinedDirGlobs": [
+		"assets/**/*"
+	],
+	"copyPackPngGlobs": [
+		"pack.png"
+	],
+	"copyEnglishLangGlobs": [
+		"**/[eE][nN][-_][uU][sS].lang"
 	]
 }

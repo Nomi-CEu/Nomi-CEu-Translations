@@ -25,6 +25,7 @@
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "sanitize-filename": "^1.6.3",
+    "simple-git": "^3.22.0",
     "upath": "^2.0.1"
   }
 }

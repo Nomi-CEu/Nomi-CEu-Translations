@@ -1,0 +1,8 @@
+button.de.destructCore.start.txt=Start Destructing Core
+button.de.destructCore.instant.txt=Destruct Core
+button.de.destructCore.stop.txt=Stop Destructing Core
+
+button.de.assembleCore.start.txt=Start Assembling Core
+button.de.assembleCore.instant.txt=Assemble Core
+button.de.assembleCore.stop.txt=Stop Assembling Core
+ecore.de.assemble_missing_required_new.txt=Unable to complete structure! Missing required block(s): %s.

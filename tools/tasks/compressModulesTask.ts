@@ -16,18 +16,18 @@ export async function copyModulesTask(): Promise<void> {
 
 export async function zipOrCopyModules(zip: boolean): Promise<void> {
 	for (const module of modulesFile.modules) {
-		await zipOrCopyModule(zip, module);
+		await zipOrCopyModule(zip, module.name);
 	}
 }
 
-export async function zipOrCopyModule(zip: boolean, module: string): Promise<void> {
-	const moduleDir = upath.join(rootDirectory, module);
-	const moduleDest = upath.join(buildConfig.buildDestinationDirectory, module);
-	log(`${zip ? "Zipping" : "Copying"} Module ${module}...`);
+export async function zipOrCopyModule(zip: boolean, moduleName: string): Promise<void> {
+	const moduleDir = upath.join(rootDirectory, moduleName);
+	const moduleDest = upath.join(buildConfig.buildDestinationDirectory, moduleName);
+	log(`${zip ? "Zipping" : "Copying"} Module ${moduleName}...`);
 	await cleanUp(moduleDest);
 	await createDirs(moduleDest);
 	await copy(moduleDir, moduleDest, buildConfig.normalCopyGlobs);
 	await transformMCMeta(moduleDir, moduleDest);
-	if (zip) await zipFolder(moduleDest, sanitize(`${makeName(module)}.zip`).toLowerCase());
-	log(`${zip ? "Zipped" : "Copied"} Module ${module}!`);
+	if (zip) await zipFolder(moduleDest, sanitize(`${makeName(moduleName)}.zip`).toLowerCase());
+	log(`${zip ? "Zipped" : "Copied"} Module ${moduleName}!`);
 }

@@ -1,0 +1,7 @@
+itemGroup.gregtechdrawers=Gregtech Drawers
+storagedrawers.mod=Mod: %s
+storagedrawers.trim=%1$s %2$s
+tile.storagedrawers.trim.name=Trim
+
+storagedrawers.material.gregtech.rubber_wood=Rubber Wood
+storagedrawers.material.gregtech.treated_wood=Treated Wood

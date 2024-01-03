@@ -6,6 +6,8 @@ import { McMeta } from "../types/mcmeta";
 import { transformMCMetaObj } from "./name";
 import zip from "gulp-zip";
 import buildConfig from "../buildConfig";
+import { OperationType } from "../types/operationType";
+import { modulesFile } from "../globals";
 
 export async function cleanUp(dir: string) {
 	await del(upath.join(dir, "*"), { force: true });
@@ -18,7 +20,6 @@ export async function createDirs(dir: string) {
 }
 
 export async function copy(baseDir: string, destDir: string, globs: string[]) {
-	// Don't copy pack.mcmeta, it is transformed into the build folder
 	return new Promise((resolve) => {
 		gulp.src(globs, { cwd: baseDir }).pipe(gulp.dest(destDir)).on("end", resolve);
 	});
@@ -39,4 +40,37 @@ export async function zipFolder(path: string, zipName: string): Promise<void> {
 			.pipe(gulp.dest(buildConfig.buildDestinationDirectory))
 			.on("end", resolve);
 	});
+}
+
+/**
+ * Checks the module env variable.
+ * @param allowCombined Whether combined is allowed. If false, will throw if combined.
+ * @return type Always returns Module if allowCombined is false.
+ */
+export function checkModuleEnv(allowCombined: boolean): OperationType {
+	let module = process.env.MODULE;
+	if (!module) throw new Error("Module Env Variable must not be empty.");
+
+	module = module.trim();
+
+	if (module === buildConfig.combinedName) {
+		if (allowCombined) return "COMBINED";
+		else throw new Error(`Module Env Variable cannot be '${buildConfig.combinedName}' for this operation!`);
+	}
+
+	if (!modulesFile.modules.map((module) => module.name).includes(module)) {
+		if (allowCombined)
+			throw new Error(
+				`Module Env Variable must be a module specified in module.json, or '${
+					buildConfig.combinedName
+				}'. Found: '${module}'. Accepted: [${modulesFile.modules.join(", ")}, ${buildConfig.combinedName}].`,
+			);
+		else
+			throw new Error(
+				`Module Env Variable must be a module specified in module.json. Found: '${module}'. Accepted: [${modulesFile.modules.join(
+					", ",
+				)}. Module Env Variable cannot be '${buildConfig.combinedName}' for this operation!`,
+			);
+	}
+	return "MODULE";
 }

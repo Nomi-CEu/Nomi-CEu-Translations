@@ -15,7 +15,7 @@ export function makeName(bodyName: string): string {
 
 export async function makeGHAFileNames(): Promise<void> {
 	const names = modulesFile.modules.map((module) => {
-		return { MODULE: module, FILENAME: sanitize(makeName(module).toLowerCase()) } as OutputName;
+		return { MODULE: module.name, FILENAME: sanitize(makeName(module.name).toLowerCase()) } as OutputName;
 	});
 	names.push({
 		MODULE: buildConfig.combinedName,

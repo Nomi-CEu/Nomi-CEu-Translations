@@ -21,10 +21,10 @@ export async function zipOrCopyCombined(zip: boolean): Promise<void> {
 	await cleanUp(dest);
 	await createDirs(dest);
 	for (const module of modulesFile.modules) {
-		log(`Copying Module ${module} for combined...`);
-		const moduleDir = upath.join(rootDirectory, module);
+		log(`Copying Module ${module.name} for combined...`);
+		const moduleDir = upath.join(rootDirectory, module.name);
 		await copy(moduleDir, dest, buildConfig.copyToCombinedDirGlobs);
-		log(`Copied Module ${module} for combined!`);
+		log(`Copied Module ${module.name} for combined!`);
 	}
 	await copy(dir, dest, buildConfig.copyPackPngGlobs);
 	await transformMCMeta(dir, dest);

@@ -1,7 +1,19 @@
 {
   "modules": [
-    "nomi-ceu",
-    "nomi-labs",
-    "gregtech-drawers"
+    {
+      "name": "nomi-ceu",
+      "git": "https://github.com/Nomi-CEu/Nomi-CEu.git",
+      "pathToAssets": "overrides/resources"
+    },
+    {
+      "name": "nomi-labs",
+      "git": "https://github.com/Nomi-CEu/Nomi-Labs.git",
+      "pathToAssets": "src/main/resources/assets"
+    },
+    {
+      "name": "gregtech-drawers",
+      "git": "https://github.com/Nomi-CEu/gregtech-drawers.git",
+      "pathToAssets": "src/main/resources/assets"
+    }
   ]
 }
