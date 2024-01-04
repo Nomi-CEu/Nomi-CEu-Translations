@@ -1,0 +1,13 @@
+item.toolbelt.belt.name=ツールベルト
+item.toolbelt.pouch.name=ベルトポーチ
+key.toolbelt.open=GUIを開く
+key.toolbelt.category=ツールベルト
+key.toolbelt.slot=ベルトスロットのGUIを開く
+key.toolbelt.cycle.left=左側のツール
+key.toolbelt.cycle.right=右側のツール
+text.toolbelt.empty=空き
+text.toolbelt.swap=持ち替え
+text.toolbelt.insert=仕舞う
+text.toolbelt.extract=取り出す
+text.toolbelt.tooltip=アップデート: %s (%s スロット)
+text.toolbelt.name=ツールベルト
