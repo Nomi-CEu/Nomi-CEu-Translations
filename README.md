@@ -22,7 +22,7 @@ If you want translations for a specific mod, download the zip with the mod's nam
 |Type|Chinese|Russian|Japanese|
 |---|---|---|---|
 |Nomi-CEu|✅|❓|🔨|
-|Gregtech Drawers|❌|❌|❌|
+|Gregtech Drawers|❌|❌|✅|
 |Nomi Labs|🔨|🔨|🔨|
 |Overall|❓|❓|🔨|
 
