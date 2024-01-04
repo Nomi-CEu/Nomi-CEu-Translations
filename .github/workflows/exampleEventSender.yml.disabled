@@ -25,7 +25,7 @@ jobs:
         with:
           # Shared Org Secret: Contains the Nomi-CEu-Management App ID (773030)
           application_id: ${{ secrets.APP_ID }}
-          # Shared Org Secret: Contaisn the Nomi-CEu-Management App's Private Key.
+          # Shared Org Secret: Contains the Nomi-CEu-Management App's Private Key.
           # run `cat {PEM_FILE_PATH} | base64 -w 0 && echo` to encode the key first if changing the key.
           # Paste the output of the command into the secret value.
           application_private_key: ${{ secrets.APP_KEY }}
