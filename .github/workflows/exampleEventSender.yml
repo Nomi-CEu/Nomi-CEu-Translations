@@ -1,5 +1,5 @@
 # Tells Nomi-CEu-Translations to Update English Lang
-name: "Update English Lang"
+name: "Update English Lang in Nomi-CEu-Translations"
 
 on:
   workflow_dispatch:
@@ -38,7 +38,7 @@ jobs:
           # A Javascript Function Body to send the Workflow Dispatch Event.
           script: |
             await github.rest.repos.createDispatchEvent({
-              owner: "Nomi-CEu",
+              owner: "Nomi-CEu", 
               repo: "Nomi-CEu-Translations",
               event_type: "update_english_lang",
               client_payload: {
