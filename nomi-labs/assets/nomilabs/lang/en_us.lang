@@ -244,25 +244,6 @@ item.nomilabs.ornateessentianeedle.name=Ornate Essentia Needle
 item.nomilabs.woodenmortar.name=Wooden Mortar
 item.nomilabs.blockofleaddust.name=Block of Lead Dust
 
-item.nomilabs.combinationcircuit.name=Primitive Processor
-item.nomilabs.electronicprocessor.name=Electronic Processor
-item.nomilabs.electronicprocessorarray.name=Electronic Processor Array
-item.nomilabs.refinedcircuit.name=Refined Circuit
-item.nomilabs.refinedprocessor.name=Refined Processor
-item.nomilabs.refinedprocessorarray.name=Refined Processor Array
-item.nomilabs.refinedprocessormainframe.name=Refined Processor Mainframe
-item.nomilabs.crystalcircuit.name=Crystal Circuit
-item.nomilabs.crystalprocessorarray.name=Crystal Processor Array
-item.nomilabs.crystalprocessormainframe.name=Crystal Processor Mainframe
-item.nomilabs.quantumprocessor.name=Quantum Processor
-item.nomilabs.quantumprocessorarray.name=Quantum Processor Array
-item.nomilabs.quantumprocessormainframe.name=Quantum Processor Mainframe
-item.nomilabs.nanoprocessorarray.name=Nanoprocessor Array
-item.nomilabs.nanoprocessormainframe.name=Nanoprocessor Mainframe
-item.nomilabs.microcircuit.name=Microcircuit
-item.nomilabs.microprocessorarray.name=Microprocessor Array
-item.nomilabs.microprocessormainframe.name=Microprocessor Mainframe
-
 item.nomilabs.tieroneship.name=Steel Plated Micro Miner [Tier One]
 item.nomilabs.tiertwoship.name=Titanium Plated Micro Miner [Tier Two]
 item.nomilabs.tierthreeship.name=Tungsten Carbide Plated Micro Miner [Tier Three]
