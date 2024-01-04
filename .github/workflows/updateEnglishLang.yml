@@ -21,10 +21,19 @@ jobs:
       # Falls back to workflow_dispatch input if not repository_dispatch
       MODULE: ${{ github.event.client_payload.module || github.event.inputs.module }}
     steps:
+      - name: Get Token
+        id: token
+        uses: peter-murray/workflow-application-token-action@v2.1.0
+        with:
+          application_id: ${{ secrets.APP_ID }}
+          application_private_key: ${{ secrets.APP_KEY }}
+          organization: Nomi-CEu
+          
       - name: Checkout Ref
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ steps.token.outputs.token }}
 
       - name: Restore Cached Files
         uses: actions/cache@v3
