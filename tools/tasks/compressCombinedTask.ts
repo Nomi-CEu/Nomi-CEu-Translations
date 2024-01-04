@@ -15,19 +15,19 @@ export async function copyCombinedTask(): Promise<void> {
 }
 
 export async function zipOrCopyCombined(zip: boolean): Promise<void> {
-	const dir = upath.join(rootDirectory, buildConfig.combinedName);
-	const dest = upath.join(buildConfig.buildDestinationDirectory, buildConfig.combinedName);
-	log(`${zip ? "Zipping" : "Copying"} Combined...`);
+	const dir = upath.join(rootDirectory, modulesFile.combined.name);
+	const dest = upath.join(buildConfig.buildDestinationDirectory, modulesFile.combined.name);
+	log(`${zip ? "Zipping" : "Copying"} ${modulesFile.combined.formattedName} / Combined...`);
 	await cleanUp(dest);
 	await createDirs(dest);
 	for (const module of modulesFile.modules) {
-		log(`Copying Module ${module.name} for combined...`);
+		log(`Copying Module ${module.name} for ${modulesFile.combined.formattedName} / Combined...`);
 		const moduleDir = upath.join(rootDirectory, module.name);
 		await copy(moduleDir, dest, buildConfig.copyToCombinedDirGlobs);
-		log(`Copied Module ${module.name} for combined!`);
+		log(`Copied Module ${module.name} for ${modulesFile.combined.formattedName} / Combined!`);
 	}
 	await copy(dir, dest, buildConfig.copyPackPngGlobs);
 	await transformMCMeta(dir, dest);
-	if (zip) await zipFolder(dest, sanitize(`${makeName(buildConfig.combinedName)}.zip`).toLowerCase());
-	log(`${zip ? "Zipped" : "Copied"} Combined!`);
+	if (zip) await zipFolder(dest, sanitize(`${makeName(modulesFile.combined.name)}.zip`).toLowerCase());
+	log(`${zip ? "Zipped" : "Copied"} ${modulesFile.combined.formattedName} / Combined!`);
 }

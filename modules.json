@@ -1,9 +1,20 @@
 {
   "_exampleModule": {
     "name": "The Name of the Module. Has to be a folder in the root directory of this project. Will also be the name of the output zip. Example: 'nomi-ceu-translations'.",
-    "formattedName": "The formatted name of the Module, used in English Lang Update Commit Messages.",
-    "git": "Link to the project's github page (without a slash at the end)",
-    "pathToAssets": "Path from base of the repo to the assets folder where the en_us.langs are grabbed from. Example: 'nomi-ceu/assets'."
+    "formattedName": "The formatted name of the Module, used in English Lang Update Commit Messages. Example: 'Nomi CEu Translations'.",
+    "git": "Link to the project's github page (without a slash at the end). Example: 'https://github.com/Nomi-CEu/Nomi-CEu-Translations'.",
+    "pathToAssets": "Path from base of the repo to the assets folder where the en_us.langs are grabbed from. Example: 'nomi-ceu/assets'.",
+    "shouldProvideSeparately": "Whether this module should be provided as a separate zip. Example: 'true'."
+  },
+  
+  "_exampleCombined": {
+    "name": "Name of the Combined Zip. The Directory where the pack.mcmeta and pack.png are grabbed from. Example: 'combined'.",
+    "formattedName": "Formatted Name of the Combined Zip. Used in log. Example: 'Combined'."
+  },
+  
+  "combined": {
+    "name": "nomi-ceu",
+    "formattedName": "Nomi-CEu"
   },
   
   "modules": [
@@ -12,19 +23,22 @@
       "name": "nomi-ceu",
       "formattedName": "Nomi-CEu",
       "git": "https://github.com/Nomi-CEu/Nomi-CEu",
-      "pathToAssets": "overrides/resources"
+      "pathToAssets": "overrides/resources",
+      "shouldProvideSeparately": false
     },
     {
       "name": "nomi-labs",
       "formattedName": "Nomi Labs",
       "git": "https://github.com/Nomi-CEu/Nomi-Labs",
-      "pathToAssets": "src/main/resources/assets"
+      "pathToAssets": "src/main/resources/assets",
+      "shouldProvideSeparately": true
     },
     {
       "name": "gregtech-drawers",
       "formattedName": "GregTech Drawers",
       "git": "https://github.com/Nomi-CEu/gregtech-drawers",
-      "pathToAssets": "src/main/resources/assets"
+      "pathToAssets": "src/main/resources/assets",
+      "shouldProvideSeparately": true
     }
   ]
 }

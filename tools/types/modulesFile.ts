@@ -1,5 +1,18 @@
 export interface ModulesFile {
+	combined: Combined;
 	modules: Module[];
+}
+
+export interface Combined {
+	/**
+	 * Name of the Combined Zip. The Directory where the pack.mcmeta and pack.png are grabbed from.
+	 */
+	name: string;
+
+	/**
+	 * Formatted Name of the Combined Zip. Used in log.
+	 */
+	formattedName: string;
 }
 
 export interface Module {
@@ -22,4 +35,9 @@ export interface Module {
 	 * Path from base of the repo to the assets folder where the en_us.langs are grabbed from.
 	 */
 	pathToAssets: string;
+
+	/**
+	 * Whether this module should be provided as a separate zip.
+	 */
+	shouldProvideSeparately: boolean;
 }

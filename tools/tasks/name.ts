@@ -14,12 +14,15 @@ export function makeName(bodyName: string): string {
 }
 
 export async function makeGHAFileNames(): Promise<void> {
-	const names = modulesFile.modules.map((module) => {
-		return { MODULE: module.name, FILENAME: sanitize(makeName(module.name).toLowerCase()) } as OutputName;
-	});
+	// Output list of names should not include modules that have output zip disabled
+	const names = modulesFile.modules
+		.filter((module) => module.shouldProvideSeparately)
+		.map((module) => {
+			return { MODULE: module.name, FILENAME: sanitize(makeName(module.name).toLowerCase()) } as OutputName;
+		});
 	names.push({
-		MODULE: buildConfig.combinedName,
-		FILENAME: sanitize(makeName(buildConfig.combinedName).toLowerCase()),
+		MODULE: modulesFile.combined.name,
+		FILENAME: sanitize(makeName(modulesFile.combined.name).toLowerCase()),
 	});
 	setOutput("names", JSON.stringify(names));
 }

@@ -2,6 +2,7 @@ import { checkModuleEnv, cleanUp, createDirs } from "./util";
 import buildConfig from "../buildConfig";
 import { zipOrCopyCombined } from "./compressCombinedTask";
 import { zipOrCopyModule } from "./compressModulesTask";
+import { modulesFile } from "../globals";
 
 export async function setup(): Promise<void> {
 	await cleanUp(buildConfig.buildDestinationDirectory);
@@ -18,5 +19,8 @@ export async function copySpecifiedModuleTask(): Promise<void> {
 
 async function zipOrCopySpecifiedModule(zip: boolean) {
 	if (checkModuleEnv(true) === "COMBINED") return zipOrCopyCombined(zip);
-	return zipOrCopyModule(zip, process.env.MODULE.trim());
+	return zipOrCopyModule(
+		zip,
+		modulesFile.modules.find((module) => module.name === process.env.MODULE.trim()),
+	);
 }

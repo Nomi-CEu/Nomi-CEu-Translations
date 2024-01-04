@@ -1,7 +1,6 @@
 {
 	"buildDestinationDirectory": "../build",
 	"baseName": "translations",
-	"combinedName": "combined",
 	"normalCopyGlobs": [
 		"assets/**/*",
 		"pack.png",

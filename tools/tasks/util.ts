@@ -53,23 +53,23 @@ export function checkModuleEnv(allowCombined: boolean): OperationType {
 
 	module = module.trim();
 
-	if (module === buildConfig.combinedName) {
+	if (module === modulesFile.combined.name) {
 		if (allowCombined) return "COMBINED";
-		else throw new Error(`Module Env Variable cannot be '${buildConfig.combinedName}' for this operation!`);
+		else throw new Error(`Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`);
 	}
 
 	if (!modulesFile.modules.map((module) => module.name).includes(module)) {
 		if (allowCombined)
 			throw new Error(
 				`Module Env Variable must be a module specified in module.json, or '${
-					buildConfig.combinedName
-				}'. Found: '${module}'. Accepted: [${modulesFile.modules.join(", ")}, ${buildConfig.combinedName}].`,
+					modulesFile.combined.name
+				}'. Found: '${module}'. Accepted: [${modulesFile.modules.join(", ")}, ${modulesFile.combined.name}].`,
 			);
 		else
 			throw new Error(
 				`Module Env Variable must be a module specified in module.json. Found: '${module}'. Accepted: [${modulesFile.modules.join(
 					", ",
-				)}. Module Env Variable cannot be '${buildConfig.combinedName}' for this operation!`,
+				)}. Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`,
 			);
 	}
 	return "MODULE";

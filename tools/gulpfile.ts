@@ -18,4 +18,4 @@ export const makeGHANames = gulp.series(makeGHAFileNames);
 
 export const updateEnglishLang = gulp.series(setup, updateEnglishLangTask);
 
-exports.default = gulp.series(setup, gulp.parallel(compressModulesTask, compressCombinedTask));
+exports.default = gulp.series(setup, compressModulesTask, compressCombinedTask);
