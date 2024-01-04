@@ -1,0 +1,20 @@
+on:
+  workflow_dispatch:
+    inputs:
+      module:
+        required: true
+        type: string
+        
+  repository_dispatch:
+    types: [update_english_lang]
+        
+jobs:
+  updateEnglishLang:
+    name: Build Pack (${{ inputs.tag }})
+    runs-on: ubuntu-latest
+    env:
+      # Falls back to workflow_dispatch input if not repository_dispatch
+      MODULE: ${{ github.event.client_payload.module || github.event.inputs.module }}
+    steps:
+      - run: echo $MODULE
+      
