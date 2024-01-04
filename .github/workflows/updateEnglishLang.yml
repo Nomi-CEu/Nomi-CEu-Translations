@@ -62,7 +62,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         id: commit
         with:
-          commit_message: "Update English Lang Files For Module ${{ fromJson(steps.update.outputs.module).formattedName }}\n\nNow Up To Date with Commit ${{ steps.update.outputs.link }}."
+          commit_message: "Update English Lang Files For Module ${{ fromJson(steps.update.outputs.module).formattedName }}\n\nNow Up To Date with Commit ${{ steps.update.outputs.link }}\n\n[skip ci]."
           commit_author: nomi-ceu-management[bot] <155502507+nomi-ceu-management[bot]@users.noreply.github.com>
           commit_user_name: nomi-ceu-management[bot]
           commit_user_email: 155502507+nomi-ceu-management[bot]@users.noreply.github.com
