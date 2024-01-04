@@ -31,3 +31,8 @@ If you want translations for a specific mod, download the zip with the mod's nam
 - ❓: Partially Supported, Somewhat Complete
 - ❌: Not Suported, Not Complete, No Work Done Yet
 - 🔨: Work In Progress
+
+
+## Why are there English Lang Files?
+These are for the translators to base off, and are automatically updated when a commit occurs in that module, with a delay of 30s - 2min.
+These are not included in resource pack builds.
