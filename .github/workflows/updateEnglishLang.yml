@@ -1,3 +1,5 @@
+name: Update English Lang
+
 on:
   workflow_dispatch:
     inputs:
@@ -10,7 +12,7 @@ on:
         
 jobs:
   updateEnglishLang:
-    name: Build Pack (${{ inputs.tag }})
+    name: Update English Lang
     runs-on: ubuntu-latest
     env:
       # Falls back to workflow_dispatch input if not repository_dispatch
