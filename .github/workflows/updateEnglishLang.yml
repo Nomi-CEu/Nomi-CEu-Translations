@@ -17,6 +17,7 @@ jobs:
     env:
       # Falls back to workflow_dispatch input if not repository_dispatch
       MODULE: ${{ github.event.client_payload.module || github.event.inputs.module }}
+    if: "${{ github.repository_owner == 'Nomi-CEu' }}"
     steps:
       - name: Get Token
         id: token

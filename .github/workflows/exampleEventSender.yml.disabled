@@ -16,6 +16,7 @@ jobs:
   updateLang:
     name: Update English Lang in Nomi-CEu-Translations
     runs-on: ubuntu-latest
+    if: "${{ github.repository_owner == 'Nomi-CEu' }}"
     steps:
       # We have to use a custom app token, as the default GITHUB_TOKEN only has access to the base repo.
       # Nomi-CEu-Management has access to all of Nomi-CEu's Repos.
