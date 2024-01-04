@@ -12,7 +12,7 @@ on:
     
 jobs:
   updateEnglishLang:
-    name: Update English Lang
+    name: Update English Lang (${{ github.event.client_payload.module || github.event.inputs.module }})
     runs-on: ubuntu-latest
     env:
       # Falls back to workflow_dispatch input if not repository_dispatch
