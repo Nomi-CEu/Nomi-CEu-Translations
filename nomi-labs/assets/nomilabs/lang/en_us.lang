@@ -47,6 +47,21 @@ config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 
+# Custom Fluids
+fluid.uranium233=Uranium 233
+fluid.plutonium2=Plutonium
+
+fluid.moltenempoweredrestonia=Molten Empowered Restonia Crystal
+fluid.moltenempoweredpalis=Molten Empowered Palis Crystal
+fluid.moltenempoweredenori=Molten Empowered Enori Crystal
+fluid.moltenempowereddiamatine=Molten Empowered Diamatine Crystal
+fluid.moltenempoweredemeradic=Molten Empowered Emeradic Crystal
+fluid.moltenempoweredvoid=Molten Empowered Void Crystal
+
+fluid.elementalreduction=Elemental Reduction Fluid
+fluid.tough_alloy=Tough Alloy
+fluid.moltendarksoularium=Molten Dark Soularium
+
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi Labs
 
@@ -229,11 +244,6 @@ item.nomilabs.ornateessentianeedle.name=Ornate Essentia Needle
 item.nomilabs.woodenmortar.name=Wooden Mortar
 item.nomilabs.blockofleaddust.name=Block of Lead Dust
 
-fluid.quicksilver=Quicksilver
-fluid.aether=Aether
-fluid.brimstone=Brimstone
-fluid.aquafortis=Aqua Fortis
-
 item.nomilabs.combinationcircuit.name=Primitive Processor
 item.nomilabs.electronicprocessor.name=Electronic Processor
 item.nomilabs.electronicprocessorarray.name=Electronic Processor Array
@@ -361,31 +371,6 @@ item.nomilabs.solidifiedxenon.name=Solidified Xenon
 item.nomilabs.netherstarsouth.name=Nether Star Tip South
 item.nomilabs.netherstareast.name=Nether Star Tip East
 item.nomilabs.netherstarwest.name=Nether Star Tip West
-
-fluid.neon=Neon Gas
-fluid.xenon=Xenon Gas
-fluid.krypton=Krypton Gas
-fluid.elementalreduction=Elemental Reduction Fluid
-fluid.einsteinium=Einsteinium
-fluid.berkelium=Berkelium
-fluid.californium=Californium
-fluid.awakeneddraconium=Molten Awakened Draconium
-fluid.curium=Curium
-fluid.neptunium=Neptunium
-fluid.plutonium2=Plutonium
-fluid.uranium233=Uranium 233
-fluid.tough_alloy=Tough Alloy
-fluid.moltencreativeportabletank=Molten Creative Portable Tank
-fluid.moltencrystalmatrix=Molten Crystal Matrix
-fluid.moltennetherstar=Molten Nether Star
-fluid.moltenempoweredvoid=Molten Empowered Void Crystal
-fluid.moltenempoweredrestonia=Molten Empowered Restonia Crystal
-fluid.moltenempoweredpalis=Molten Empowered Palis Crystal
-fluid.moltenempoweredenori=Molten Empowered Enori Crystal
-fluid.moltenempowereddiamatine=Molten Empowered Diamatine Crystal
-fluid.moltenempoweredemeradic=Molten Empowered Emeradic Crystal
-fluid.moltensoularium=Molten Soularium
-fluid.moltendarksoularium=Molten Dark Soularium
 
 item.nomilabs.stabilizedeinsteinium.name=Stabilized Einsteinium
 item.nomilabs.stabilizedberkelium.name=Stabilized Berkelium
