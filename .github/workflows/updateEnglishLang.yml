@@ -9,10 +9,7 @@ on:
         
   repository_dispatch:
     types: [update_english_lang]
-
-permissions:
-  contents: write
-
+    
 jobs:
   updateEnglishLang:
     name: Update English Lang
