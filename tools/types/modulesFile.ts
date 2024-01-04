@@ -9,7 +9,12 @@ export interface Module {
 	name: string;
 
 	/**
-	 * HTTP link to the git object to clone (for GitHub Repos, end the link in .git). Example: https://github.com/Nomi-CEu/Nomi-CEu-Translations.git (for this project)
+	 * The formatted name of the Module, used in English Lang Update Commit Messages.
+	 */
+	formattedName: string;
+
+	/**
+	 * Link to the project's github page (without a slash at the end)
 	 */
 	git: string;
 

@@ -1,7 +1,8 @@
 {
   "_exampleModule": {
     "name": "The Name of the Module. Has to be a folder in the root directory of this project. Will also be the name of the output zip. Example: 'nomi-ceu-translations'.",
-    "git": "HTTP link to the git object to clone (for GitHub Repos, end the link in .git). Example: 'https://github.com/Nomi-CEu/Nomi-CEu-Translations.git'.",
+    "formattedName": "The formatted name of the Module, used in English Lang Update Commit Messages.",
+    "git": "Link to the project's github page (without a slash at the end)",
     "pathToAssets": "Path from base of the repo to the assets folder where the en_us.langs are grabbed from. Example: 'nomi-ceu/assets'."
   },
   
@@ -9,17 +10,20 @@
     {
       "_comment": "This Module has Special Behaviours connected to it! Check that they work after any change!",
       "name": "nomi-ceu",
-      "git": "https://github.com/Nomi-CEu/Nomi-CEu.git",
+      "formattedName": "Nomi-CEu",
+      "git": "https://github.com/Nomi-CEu/Nomi-CEu",
       "pathToAssets": "overrides/resources"
     },
     {
       "name": "nomi-labs",
-      "git": "https://github.com/Nomi-CEu/Nomi-Labs.git",
+      "formattedName": "Nomi Labs",
+      "git": "https://github.com/Nomi-CEu/Nomi-Labs",
       "pathToAssets": "src/main/resources/assets"
     },
     {
       "name": "gregtech-drawers",
-      "git": "https://github.com/Nomi-CEu/gregtech-drawers.git",
+      "formattedName": "GregTech Drawers",
+      "git": "https://github.com/Nomi-CEu/gregtech-drawers",
       "pathToAssets": "src/main/resources/assets"
     }
   ]

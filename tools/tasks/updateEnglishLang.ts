@@ -6,6 +6,7 @@ import upath from "upath";
 import del from "del";
 import log from "fancy-log";
 import { transformQuestBook } from "./moduleSpecific/transformQuestBook";
+import { setOutput } from "@actions/core";
 
 export async function updateEnglishLangTask(): Promise<void> {
 	checkModuleEnv(false);
@@ -16,9 +17,10 @@ export async function updateEnglishLangTask(): Promise<void> {
 
 	// Remove Clone Dir, if it exists
 	await del(cloneDirectory, { force: true });
-	log(`Cloning into ${module.git}...`);
-	await git.clone(module.git, cloneDirectory, []);
-	log(`Cloned into ${module.git}!`);
+	const cloneLink = `${module.git}.git`;
+	log(`Cloning into ${cloneLink}...`);
+	await git.clone(cloneLink, cloneDirectory, []);
+	log(`Cloned into ${cloneLink}!`);
 
 	// Transform Quest Book if Needed
 	if (shouldTransformQuestBook(module)) {
@@ -30,4 +32,8 @@ export async function updateEnglishLangTask(): Promise<void> {
 		upath.join(rootDirectory, module.name, assetsFolderName),
 		buildConfig.copyEnglishLangGlobs,
 	);
+
+	// Must specify simple git in clone dir to work
+	const hash = (await simpleGit(cloneDirectory).log()).latest.hash;
+	setOutput("updated", JSON.stringify({ module: module, link: `${module.git}/commit/${hash}` }));
 }
