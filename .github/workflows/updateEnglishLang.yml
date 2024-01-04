@@ -18,5 +18,32 @@ jobs:
       # Falls back to workflow_dispatch input if not repository_dispatch
       MODULE: ${{ github.event.client_payload.module || github.event.inputs.module }}
     steps:
-      - run: echo $MODULE
-      
+      - name: Checkout Ref
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore Cached Files
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            ~/.npm
+            ./.cache
+            ./tools/node_modules
+          key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
+          restore-keys: ${{ runner.os }}-bunny-
+
+      - name: Setup NodeJS v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          check-latest: true
+
+      - name: Setup NPM Packages
+        working-directory: ./tools
+        run: npm ci
+
+      - name: Update English Lang
+        working-directory: ./tools
+        run: npx gulp updateEnglishLang
