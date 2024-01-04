@@ -35,5 +35,6 @@ export async function updateEnglishLangTask(): Promise<void> {
 
 	// Must specify simple git in clone dir to work
 	const hash = (await simpleGit(cloneDirectory).log()).latest.hash;
-	setOutput("updated", JSON.stringify({ module: module, link: `${module.git}/commit/${hash}` }));
+	setOutput("module", JSON.stringify(module));
+	setOutput("link", `${module.git}/commit/${hash}`);
 }
