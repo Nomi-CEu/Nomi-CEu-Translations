@@ -33,5 +33,7 @@ export async function updateEnglishLangTask(): Promise<void> {
 		buildConfig.copyEnglishLangGlobs,
 	);
 
-	setOutput("module", JSON.stringify(module));
+	// Must specify simple git in clone dir to work
+	const hash = (await simpleGit(cloneDirectory).log()).latest.hash;
+	setOutput("updated", JSON.stringify({ module: module, link: `${module.git}/commit/${hash}` }));
 }
