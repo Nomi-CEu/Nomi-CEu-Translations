@@ -9,8 +9,8 @@ on:
       - main
     paths:
       # Specify the path to 'assets' folder, suffixed by '/**/[eE][nN]_[uU][sS].lang', then another one, suffixed by '/**/[eE][nN]-[uU][sS].lang' (Can't use character group [-_])
-      - "**/[eE][nN]_[uU][sS].lang"
-      - "**/[eE][nN]-[uU][sS].lang"
+      - "example/assets/**/[eE][nN]_[uU][sS].lang"
+      - "example/assets/**/[eE][nN]-[uU][sS].lang"
 
 jobs:
   updateLang:
