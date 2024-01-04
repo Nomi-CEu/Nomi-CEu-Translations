@@ -1,5 +1,4 @@
 itemGroup.gregtechdrawers=GregTech Drawers
-storagedrawers.mod=Mod: %s
 storagedrawers.trim=%1$s %2$s
 tile.storagedrawers.trim.name=Trim
 
