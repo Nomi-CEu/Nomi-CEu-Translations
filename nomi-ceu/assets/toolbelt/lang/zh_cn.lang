@@ -1,0 +1,5 @@
+key.toolbelt.open=打开 GUI
+key.toolbelt.slot=打开腰带栏
+key.toolbelt.cycle.left=向左循环使用工具
+key.toolbelt.cycle.right=向右循环使用工具
+text.toolbelt.tooltip=升级数量：%s（%s格）
