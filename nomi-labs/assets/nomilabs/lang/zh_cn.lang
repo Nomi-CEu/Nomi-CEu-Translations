@@ -419,7 +419,7 @@ nomilabs.machine.naquadah_reactor_1.name=一类硅岩反应堆
 nomilabs.machine.naquadah_reactor_2.name=二类硅岩反应堆
 nomilabs.machine.actualization_chamber.name=实体化仓
 nomilabs.machine.universal_crystallizer.name=万能结晶器
-nomilabs.machine.dme_sim_chamber.name=超级模拟计算机
+nomilabs.machine.dme_sim_chamber.name=DME 超级模拟计算机
 
 # Recipe Maps
 recipemap.microverse_projector_1.name=一类微型宇宙
@@ -495,55 +495,3 @@ tooltip.nomilabs.actualization_chamber.description=一台强大的机器，可�
 tooltip.nomilabs.universal_crystallizer.description=一种巨大的装置，能够将原材料转化为复杂物质。
 tooltip.nomilabs.dme_sim_chamber.description=一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。
 tooltip.nomilabs.greenhouse.description=一个高功率的生长室，即使是最难以理解的植物也能大规模生长。
-
-
-
-# missing entries in en_us.lang
-item.nomilabs.combinationcircuit.name=原始处理器
-item.nomilabs.electronicprocessor.name=电子处理器
-item.nomilabs.electronicprocessorarray.name=电子处理器阵列
-item.nomilabs.refinedcircuit.name=精制电路板
-item.nomilabs.refinedprocessor.name=精制处理器
-item.nomilabs.refinedprocessorarray.name=精制处理器阵列
-item.nomilabs.refinedprocessormainframe.name=精制处理器主机
-item.nomilabs.crystalcircuit.name=晶体电路板
-item.nomilabs.crystalprocessorarray.name=晶体处理器阵列
-item.nomilabs.crystalprocessormainframe.name=晶体处理器主机
-item.nomilabs.quantumprocessor.name=量子处理器
-item.nomilabs.quantumprocessorarray.name=量子处理器阵列
-item.nomilabs.quantumprocessormainframe.name=量子处理器主机
-item.nomilabs.nanoprocessorarray.name=纳米处理器阵列
-item.nomilabs.nanoprocessormainframe.name=纳米处理器主机
-item.nomilabs.microcircuit.name=微型电路板
-item.nomilabs.microprocessorarray.name=微型处理器阵列
-item.nomilabs.microprocessormainframe.name=微型处理器主机
-
-fluid.quicksilver=水银
-fluid.aether=以太
-fluid.brimstone=硫磺
-fluid.aquafortis=硝酸
-
-fluid.neon=氖气
-fluid.xenon=氙气
-fluid.krypton=氪气
-fluid.elementalreduction=元素还原液
-fluid.einsteinium=锿
-fluid.berkelium=锫
-fluid.californium=锎
-fluid.awakeneddraconium=熔融觉醒龙锭
-fluid.curium=锔
-fluid.neptunium=镎
-fluid.plutonium2=钚
-fluid.uranium233=铀-233
-fluid.tough_alloy=高强合金
-fluid.moltencreativeportabletank=熔融创造便携储罐
-fluid.moltencrystalmatrix=熔融水晶矩阵
-fluid.moltennetherstar=熔融下界之星
-fluid.moltenempoweredvoid=熔融充能虚空水晶
-fluid.moltenempoweredrestonia=熔融充能红石水晶
-fluid.moltenempoweredpalis=熔融充能青金石水晶
-fluid.moltenempoweredenori=熔融充能铁晶
-fluid.moltenempowereddiamatine=熔融充能钻石水晶
-fluid.moltenempoweredemeradic=熔融充能绿宝石水晶
-fluid.moltensoularium=熔融魂金
-fluid.moltendarksoularium=熔融浓缩魂金合金
