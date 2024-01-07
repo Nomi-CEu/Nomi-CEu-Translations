@@ -419,7 +419,7 @@ nomilabs.machine.naquadah_reactor_1.name=Naquadah Reactor I
 nomilabs.machine.naquadah_reactor_2.name=Naquadah Reactor II
 nomilabs.machine.actualization_chamber.name=Actualization Chamber
 nomilabs.machine.universal_crystallizer.name=Universal Crystallizer
-nomilabs.machine.dme_sim_chamber.name=Simulation Supercomputer
+nomilabs.machine.dme_sim_chamber.name=DME Simulation Supercomputer
 
 # Recipe Maps
 recipemap.microverse_projector_1.name=Mission (MK I)

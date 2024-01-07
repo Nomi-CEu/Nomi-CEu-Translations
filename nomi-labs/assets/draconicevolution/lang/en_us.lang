@@ -1,6 +1,6 @@
-button.de.destructCore.start.txt=Start Destructing Core
-button.de.destructCore.instant.txt=Destruct Core
-button.de.destructCore.stop.txt=Stop Destructing Core
+button.de.destructCore.start.txt=Start Disassembling Core
+button.de.destructCore.instant.txt=Disassemble Core
+button.de.destructCore.stop.txt=Stop Disassembling Core
 
 button.de.assembleCore.start.txt=Start Assembling Core
 button.de.assembleCore.instant.txt=Assemble Core
