@@ -1218,7 +1218,7 @@ nomifactory.quest.normal.db.309.desc=如果你不喜欢搜寻热力元素，或�
 
 # db 310 of mode normal
 nomifactory.quest.normal.db.310.title=有机灌注器
-nomifactory.quest.normal.db.310.desc=赞美太阳。\[T]/%n%n这台机器使用不同级别的§6光合堆肥§r和§9水§r来生长植物。%n%n它可以用各种§a增强§r进行定制。
+nomifactory.quest.normal.db.310.desc=赞美太阳。[T]/%n%n这台机器使用不同级别的§6光合堆肥§r和§9水§r来生长植物。%n%n它可以用各种§a增强§r进行定制。
 
 # db 311 of mode normal
 nomifactory.quest.normal.db.311.title=钨钢线圈方块
@@ -3506,7 +3506,7 @@ nomifactory.quest.normal.db.1039.desc=§3化学浸洗器§r主要用作矿石加
 
 # db 1040 of mode normal
 nomifactory.quest.normal.db.1040.title=§2硅锭
-nomifactory.quest.normal.db.1040.desc=需要§6硅§r的固体形式生产§6晶体管§r，这是§6HV电路§r所需要的。请注意，§6热硅锭§r的配方需要§d2273 K§r。这就是为什么我们之前建立了§6坎塔尔合金线圈§r——§6白铜线圈§r不能达到那个温度。%n%n直接加热从电解各种材料中获得的硅粉是一种选择，但速度慢且耗能大。更好的方法是通过重新利用为脉冲聚合粘土生产的§6玻璃§r来获得§6二氧化硅粉§r，并用§6碳粉§r加热它。这种生产§6硅锭§r的方法速度超过前者§d5倍多§r，副产物§e一氧化碳§r可以用于各种化学配方。%n%n不要忘记，从§3	电力高炉§r中出来的是§6热锭§r——在使用前先在§6化学浸洗器§r中冷却。之后，你将建立一个§3真空冷冻机§r，可以做得更好。
+nomifactory.quest.normal.db.1040.desc=需要§6硅§r的固体形式生产§6晶体管§r，这是§6HV电路§r所需要的。请注意，§6热硅锭§r的配方需要§d2273 K§r。这就是为什么我们之前建立了§6坎塔尔合金线圈§r——§6白铜线圈§r不能达到那个温度。%n%n直接加热从电解各种材料中获得的硅粉是一种选择，但速度慢且耗能大。更好的方法是通过重新利用为脉冲聚合粘土生产的§6玻璃§r来获得§6二氧化硅粉§r，并用§6碳粉§r加热它。这种生产§6硅锭§r的方法速度超过前者§d5倍多§r，副产物§e一氧化碳§r可以用于各种化学配方。%n%n不要忘记，从§3\t电力高炉§r中出来的是§6热锭§r——在使用前先在§6化学浸洗器§r中冷却。之后，你将建立一个§3真空冷冻机§r，可以做得更好。
 
 # db 1041 of mode normal
 nomifactory.quest.normal.db.1041.title=§2有源变压器
@@ -4736,7 +4736,7 @@ nomifactory.quest.expert.db.309.desc=一旦你获得了§9氟锑酸§r，你就�
 
 # db 310 of mode expert
 nomifactory.quest.expert.db.310.title=有机灌注器
-nomifactory.quest.expert.db.310.desc=赞美太阳。\[T]/%n%n这台机器使用不同级别的§6光合堆肥§r和§9水§r来生长植物。%n%n它可以用各种§a增强§r进行定制。
+nomifactory.quest.expert.db.310.desc=赞美太阳。[T]/%n%n这台机器使用不同级别的§6光合堆肥§r和§9水§r来生长植物。%n%n它可以用各种§a增强§r进行定制。
 
 # db 311 of mode expert
 nomifactory.quest.expert.db.311.title=钨钢线圈方块
@@ -6668,7 +6668,7 @@ nomifactory.quest.expert.db.950.desc=§3化学浸洗器§r主要用作矿石加�
 
 # db 951 of mode expert
 nomifactory.quest.expert.db.951.title=§2硅锭
-nomifactory.quest.expert.db.951.desc=需要§6硅§r的固体形式生产§6晶体管§r，这是§6HV电路§r所需要的。请注意，§6热硅锭§r的配方需要§d2273 K§r。这就是为什么我们之前建立了§6坎塔尔合金线圈§r——§6白铜线圈§r不能达到那个温度。%n%n直接加热从电解各种材料中获得的硅粉是一种选择，但速度慢且耗能大。更好的方法是通过重新利用为脉冲聚合粘土生产的§6玻璃§r来获得§6二氧化硅粉§r，并用§6碳粉§r加热它。这种生产§6硅锭§r的方法速度超过前者§d5倍多§r，副产物§e一氧化碳§r可以用于各种化学配方。%n%n不要忘记，从§3	电力高炉§r中出来的是§6热锭§r——在使用前先在§6化学浸洗器§r中冷却。之后，你将建立一个§3真空冷冻机§r，可以做得更好。
+nomifactory.quest.expert.db.951.desc=需要§6硅§r的固体形式生产§6晶体管§r，这是§6HV电路§r所需要的。请注意，§6热硅锭§r的配方需要§d2273 K§r。这就是为什么我们之前建立了§6坎塔尔合金线圈§r——§6白铜线圈§r不能达到那个温度。%n%n直接加热从电解各种材料中获得的硅粉是一种选择，但速度慢且耗能大。更好的方法是通过重新利用为脉冲聚合粘土生产的§6玻璃§r来获得§6二氧化硅粉§r，并用§6碳粉§r加热它。这种生产§6硅锭§r的方法速度超过前者§d5倍多§r，副产物§e一氧化碳§r可以用于各种化学配方。%n%n不要忘记，从§3\t电力高炉§r中出来的是§6热锭§r——在使用前先在§6化学浸洗器§r中冷却。之后，你将建立一个§3真空冷冻机§r，可以做得更好。
 
 # db 952 of mode expert
 nomifactory.quest.expert.db.952.title=§2有源变压器
