@@ -970,7 +970,7 @@ nomifactory.quest.normal.db.242.desc=The most advanced substrate available, prep
 
 # db 243 of mode normal
 nomifactory.quest.normal.db.243.title=Tritanium Coils
-nomifactory.quest.normal.db.243.desc=
+nomifactory.quest.normal.db.243.desc=§5Tritanium Coils§r §3are the final coil material. With a temperature of 10800K, it's capable of smelting every material known.
 
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=Draconic Reactor Core
@@ -1622,7 +1622,7 @@ nomifactory.quest.normal.db.502.desc=§6Capacitors§r are devices that store ele
 
 # db 503 of mode normal
 nomifactory.quest.normal.db.503.title=Dark Soularium Ingots
-nomifactory.quest.normal.db.503.desc= 
+nomifactory.quest.normal.db.503.desc=
 
 # db 504 of mode normal
 nomifactory.quest.normal.db.504.title=§2Brewery
@@ -1638,7 +1638,7 @@ nomifactory.quest.normal.db.507.desc=You'll need §9Chlorine§r at this point. I
 
 # db 508 of mode normal
 nomifactory.quest.normal.db.508.title=§2Ruridit Ingots
-nomifactory.quest.normal.db.508.desc= 
+nomifactory.quest.normal.db.508.desc=Ruridit Ingots are required to make gears for the §aAssembly Line§r and §dDragon Egg Mill §r. The Dragon Egg Mill creates 500GP, the most powerful source of GP (behind the Creative Mill).
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2Lossless Cables
@@ -1658,7 +1658,7 @@ nomifactory.quest.normal.db.512.desc=The §3Slice'N'Splice§r is a machine from 
 
 # db 513 of mode normal
 nomifactory.quest.normal.db.513.title=Red Steel Ingots
-nomifactory.quest.normal.db.513.desc= 
+nomifactory.quest.normal.db.513.desc=
 
 # db 516 of mode normal
 nomifactory.quest.normal.db.516.title=LV Conveyor
@@ -1762,7 +1762,7 @@ nomifactory.quest.normal.db.542.desc=The §3Soul Binder§r is an §bEnderIO§r m
 
 # db 543 of mode normal
 nomifactory.quest.normal.db.543.title=Blue Steel Ingots
-nomifactory.quest.normal.db.543.desc= 
+nomifactory.quest.normal.db.543.desc=
 
 # db 544 of mode normal
 nomifactory.quest.normal.db.544.title=Hardened Satchel
@@ -1834,87 +1834,87 @@ nomifactory.quest.normal.db.580.desc=As you continue to progress, crafting times
 
 # db 582 of mode normal
 nomifactory.quest.normal.db.582.title=Fluxed Electrum Ingots
-nomifactory.quest.normal.db.582.desc= 
+nomifactory.quest.normal.db.582.desc=
 
 # db 583 of mode normal
 nomifactory.quest.normal.db.583.title=Signalum Ingots
-nomifactory.quest.normal.db.583.desc= 
+nomifactory.quest.normal.db.583.desc=
 
 # db 584 of mode normal
 nomifactory.quest.normal.db.584.title=Enderium Ingots
-nomifactory.quest.normal.db.584.desc= 
+nomifactory.quest.normal.db.584.desc=
 
 # db 585 of mode normal
 nomifactory.quest.normal.db.585.title=§2Rhodium Plated Lumium-Palladium
-nomifactory.quest.normal.db.585.desc= 
+nomifactory.quest.normal.db.585.desc=
 
 # db 586 of mode normal
 nomifactory.quest.normal.db.586.title=High Speed Steel Type E Ingot
-nomifactory.quest.normal.db.586.desc= 
+nomifactory.quest.normal.db.586.desc=
 
 # db 587 of mode normal
 nomifactory.quest.normal.db.587.title=High Speed Steel Type G Ingots
-nomifactory.quest.normal.db.587.desc= 
+nomifactory.quest.normal.db.587.desc=
 
 # db 588 of mode normal
 nomifactory.quest.normal.db.588.title=High Speed Steel Type S Ingots
-nomifactory.quest.normal.db.588.desc= 
+nomifactory.quest.normal.db.588.desc=
 
 # db 589 of mode normal
 nomifactory.quest.normal.db.589.title=Crystal Matrix Ingots
-nomifactory.quest.normal.db.589.desc= 
+nomifactory.quest.normal.db.589.desc=
 
 # db 591 of mode normal
 nomifactory.quest.normal.db.591.title=Vanadium Steel Ingots
-nomifactory.quest.normal.db.591.desc= 
+nomifactory.quest.normal.db.591.desc=
 
 # db 592 of mode normal
 nomifactory.quest.normal.db.592.title=Electrical Steel Ingots
-nomifactory.quest.normal.db.592.desc= 
+nomifactory.quest.normal.db.592.desc=
 
 # db 593 of mode normal
 nomifactory.quest.normal.db.593.title=End Steel Ingots
-nomifactory.quest.normal.db.593.desc= 
+nomifactory.quest.normal.db.593.desc=
 
 # db 594 of mode normal
 nomifactory.quest.normal.db.594.title=Microversium Ingots
-nomifactory.quest.normal.db.594.desc= 
+nomifactory.quest.normal.db.594.desc=
 
 # db 595 of mode normal
 nomifactory.quest.normal.db.595.title=Mana Infused Ingots
-nomifactory.quest.normal.db.595.desc= 
+nomifactory.quest.normal.db.595.desc=
 
 # db 596 of mode normal
 nomifactory.quest.normal.db.596.title=Dark Steel Ingots
-nomifactory.quest.normal.db.596.desc= 
+nomifactory.quest.normal.db.596.desc=
 
 # db 597 of mode normal
 nomifactory.quest.normal.db.597.title=Vibrant Alloy Ingots
-nomifactory.quest.normal.db.597.desc= 
+nomifactory.quest.normal.db.597.desc=
 
 # db 598 of mode normal
 nomifactory.quest.normal.db.598.title=Energetic Alloy Ingots
-nomifactory.quest.normal.db.598.desc= 
+nomifactory.quest.normal.db.598.desc=
 
 # db 599 of mode normal
 nomifactory.quest.normal.db.599.title=Soularium Ingots
-nomifactory.quest.normal.db.599.desc= 
+nomifactory.quest.normal.db.599.desc=
 
 # db 600 of mode normal
 nomifactory.quest.normal.db.600.title=Manyullyn Ingots
-nomifactory.quest.normal.db.600.desc= 
+nomifactory.quest.normal.db.600.desc=
 
 # db 601 of mode normal
 nomifactory.quest.normal.db.601.title=Magnalium Ingots
-nomifactory.quest.normal.db.601.desc= 
+nomifactory.quest.normal.db.601.desc=
 
 # db 602 of mode normal
 nomifactory.quest.normal.db.602.title=Kanthal Ingots
-nomifactory.quest.normal.db.602.desc= 
+nomifactory.quest.normal.db.602.desc=
 
 # db 603 of mode normal
 nomifactory.quest.normal.db.603.title=Nichrome Ingots
-nomifactory.quest.normal.db.603.desc= 
+nomifactory.quest.normal.db.603.desc=
 
 # db 604 of mode normal
 nomifactory.quest.normal.db.604.title=Heart Of A Universe
@@ -1954,227 +1954,227 @@ nomifactory.quest.normal.db.612.desc=The ZPM tier §3Compressor§r is needed for
 
 # db 613 of mode normal
 nomifactory.quest.normal.db.613.title=Element 001: Hydrogen
-nomifactory.quest.normal.db.613.desc= 
+nomifactory.quest.normal.db.613.desc=
 
 # db 614 of mode normal
 nomifactory.quest.normal.db.614.title=Element 002: Helium
-nomifactory.quest.normal.db.614.desc= 
+nomifactory.quest.normal.db.614.desc=
 
 # db 615 of mode normal
 nomifactory.quest.normal.db.615.title=Element 003: Lithium
-nomifactory.quest.normal.db.615.desc= 
+nomifactory.quest.normal.db.615.desc=
 
 # db 616 of mode normal
 nomifactory.quest.normal.db.616.title=Element 004: Beryllium
-nomifactory.quest.normal.db.616.desc= 
+nomifactory.quest.normal.db.616.desc=
 
 # db 617 of mode normal
 nomifactory.quest.normal.db.617.title=Element 005: Boron
-nomifactory.quest.normal.db.617.desc= 
+nomifactory.quest.normal.db.617.desc=
 
 # db 618 of mode normal
 nomifactory.quest.normal.db.618.title=§2Element 006: Carbon
-nomifactory.quest.normal.db.618.desc= 
+nomifactory.quest.normal.db.618.desc=
 
 # db 619 of mode normal
 nomifactory.quest.normal.db.619.title=Element 007: Nitrogen
-nomifactory.quest.normal.db.619.desc= 
+nomifactory.quest.normal.db.619.desc=
 
 # db 620 of mode normal
 nomifactory.quest.normal.db.620.title=Element 008: Oxygen
-nomifactory.quest.normal.db.620.desc= 
+nomifactory.quest.normal.db.620.desc=
 
 # db 621 of mode normal
 nomifactory.quest.normal.db.621.title=Element 009: Fluorine
-nomifactory.quest.normal.db.621.desc= 
+nomifactory.quest.normal.db.621.desc=
 
 # db 622 of mode normal
 nomifactory.quest.normal.db.622.title=Element 010: Neon
-nomifactory.quest.normal.db.622.desc= 
+nomifactory.quest.normal.db.622.desc=
 
 # db 623 of mode normal
 nomifactory.quest.normal.db.623.title=Element 011: Sodium
-nomifactory.quest.normal.db.623.desc= 
+nomifactory.quest.normal.db.623.desc=
 
 # db 624 of mode normal
 nomifactory.quest.normal.db.624.title=Element 012: Magnesium
-nomifactory.quest.normal.db.624.desc= 
+nomifactory.quest.normal.db.624.desc=
 
 # db 625 of mode normal
 nomifactory.quest.normal.db.625.title=Element 013: Aluminium
-nomifactory.quest.normal.db.625.desc= 
+nomifactory.quest.normal.db.625.desc=
 
 # db 626 of mode normal
 nomifactory.quest.normal.db.626.title=Element 014: Silicon
-nomifactory.quest.normal.db.626.desc= 
+nomifactory.quest.normal.db.626.desc=
 
 # db 627 of mode normal
 nomifactory.quest.normal.db.627.title=Element 015: Phosphorus
-nomifactory.quest.normal.db.627.desc= 
+nomifactory.quest.normal.db.627.desc=
 
 # db 628 of mode normal
 nomifactory.quest.normal.db.628.title=Element 016: Sulfur
-nomifactory.quest.normal.db.628.desc= 
+nomifactory.quest.normal.db.628.desc=
 
 # db 629 of mode normal
 nomifactory.quest.normal.db.629.title=Element 017: Chlorine
-nomifactory.quest.normal.db.629.desc= 
+nomifactory.quest.normal.db.629.desc=
 
 # db 630 of mode normal
 nomifactory.quest.normal.db.630.title=Element 018: Argon
-nomifactory.quest.normal.db.630.desc= 
+nomifactory.quest.normal.db.630.desc=
 
 # db 631 of mode normal
 nomifactory.quest.normal.db.631.title=Element 019: Potassium
-nomifactory.quest.normal.db.631.desc= 
+nomifactory.quest.normal.db.631.desc=
 
 # db 632 of mode normal
 nomifactory.quest.normal.db.632.title=Element 020: Calcium
-nomifactory.quest.normal.db.632.desc= 
+nomifactory.quest.normal.db.632.desc=
 
 # db 633 of mode normal
 nomifactory.quest.normal.db.633.title=Element 057: Lanthanum
-nomifactory.quest.normal.db.633.desc= 
+nomifactory.quest.normal.db.633.desc=
 
 # db 634 of mode normal
 nomifactory.quest.normal.db.634.title=Element 022: Titanium
-nomifactory.quest.normal.db.634.desc= 
+nomifactory.quest.normal.db.634.desc=
 
 # db 635 of mode normal
 nomifactory.quest.normal.db.635.title=Element 023: Vanadium
-nomifactory.quest.normal.db.635.desc= 
+nomifactory.quest.normal.db.635.desc=
 
 # db 636 of mode normal
 nomifactory.quest.normal.db.636.title=Element 024: Chromium
-nomifactory.quest.normal.db.636.desc= 
+nomifactory.quest.normal.db.636.desc=
 
 # db 637 of mode normal
 nomifactory.quest.normal.db.637.title=Element 025: Manganese
-nomifactory.quest.normal.db.637.desc= 
+nomifactory.quest.normal.db.637.desc=
 
 # db 638 of mode normal
 nomifactory.quest.normal.db.638.title=Element 026: Iron
-nomifactory.quest.normal.db.638.desc= 
+nomifactory.quest.normal.db.638.desc=
 
 # db 639 of mode normal
 nomifactory.quest.normal.db.639.title=Element 027: Cobalt
-nomifactory.quest.normal.db.639.desc= 
+nomifactory.quest.normal.db.639.desc=
 
 # db 640 of mode normal
 nomifactory.quest.normal.db.640.title=Element 028: Nickel
-nomifactory.quest.normal.db.640.desc= 
+nomifactory.quest.normal.db.640.desc=
 
 # db 641 of mode normal
 nomifactory.quest.normal.db.641.title=Element 029: Copper
-nomifactory.quest.normal.db.641.desc= 
+nomifactory.quest.normal.db.641.desc=
 
 # db 642 of mode normal
 nomifactory.quest.normal.db.642.title=Element 030: Zinc
-nomifactory.quest.normal.db.642.desc= 
+nomifactory.quest.normal.db.642.desc=
 
 # db 643 of mode normal
 nomifactory.quest.normal.db.643.title=Element 031: Gallium
-nomifactory.quest.normal.db.643.desc= 
+nomifactory.quest.normal.db.643.desc=
 
 # db 644 of mode normal
 nomifactory.quest.normal.db.644.title=Element 033: Arsenic
-nomifactory.quest.normal.db.644.desc= 
+nomifactory.quest.normal.db.644.desc=
 
 # db 645 of mode normal
 nomifactory.quest.normal.db.645.title=Element 036: Krypton
-nomifactory.quest.normal.db.645.desc= 
+nomifactory.quest.normal.db.645.desc=
 
 # db 646 of mode normal
 nomifactory.quest.normal.db.646.title=Element 039: Yttrium
-nomifactory.quest.normal.db.646.desc= 
+nomifactory.quest.normal.db.646.desc=
 
 # db 647 of mode normal
 nomifactory.quest.normal.db.647.title=Element 046: Palladium
-nomifactory.quest.normal.db.647.desc= 
+nomifactory.quest.normal.db.647.desc=
 
 # db 648 of mode normal
 nomifactory.quest.normal.db.648.title=Element 047: Silver
-nomifactory.quest.normal.db.648.desc= 
+nomifactory.quest.normal.db.648.desc=
 
 # db 649 of mode normal
 nomifactory.quest.normal.db.649.title=Element 049: Indium
-nomifactory.quest.normal.db.649.desc= 
+nomifactory.quest.normal.db.649.desc=
 
 # db 650 of mode normal
 nomifactory.quest.normal.db.650.title=Element 050: Tin
-nomifactory.quest.normal.db.650.desc= 
+nomifactory.quest.normal.db.650.desc=
 
 # db 651 of mode normal
 nomifactory.quest.normal.db.651.title=Element 051: Antimony
-nomifactory.quest.normal.db.651.desc= 
+nomifactory.quest.normal.db.651.desc=
 
 # db 652 of mode normal
 nomifactory.quest.normal.db.652.title=Element 054: Xenon
-nomifactory.quest.normal.db.652.desc= 
+nomifactory.quest.normal.db.652.desc=
 
 # db 653 of mode normal
 nomifactory.quest.normal.db.653.title=Element 074: Tungsten
-nomifactory.quest.normal.db.653.desc= 
+nomifactory.quest.normal.db.653.desc=
 
 # db 654 of mode normal
 nomifactory.quest.normal.db.654.title=Element 076: Osmium
-nomifactory.quest.normal.db.654.desc= 
+nomifactory.quest.normal.db.654.desc=
 
 # db 655 of mode normal
 nomifactory.quest.normal.db.655.title=Element 077: Iridium
-nomifactory.quest.normal.db.655.desc= 
+nomifactory.quest.normal.db.655.desc=
 
 # db 656 of mode normal
 nomifactory.quest.normal.db.656.title=Element 078: Platinum
-nomifactory.quest.normal.db.656.desc= 
+nomifactory.quest.normal.db.656.desc=
 
 # db 657 of mode normal
 nomifactory.quest.normal.db.657.title=Element 079: Gold
-nomifactory.quest.normal.db.657.desc= 
+nomifactory.quest.normal.db.657.desc=
 
 # db 658 of mode normal
 nomifactory.quest.normal.db.658.title=Element 080: Mercury
-nomifactory.quest.normal.db.658.desc= 
+nomifactory.quest.normal.db.658.desc=
 
 # db 659 of mode normal
 nomifactory.quest.normal.db.659.title=Element 086: Radon
-nomifactory.quest.normal.db.659.desc= 
+nomifactory.quest.normal.db.659.desc=
 
 # db 660 of mode normal
 nomifactory.quest.normal.db.660.title=Element 090: Thorium
-nomifactory.quest.normal.db.660.desc= 
+nomifactory.quest.normal.db.660.desc=
 
 # db 661 of mode normal
 nomifactory.quest.normal.db.661.title=Element 092: Uranium
-nomifactory.quest.normal.db.661.desc= 
+nomifactory.quest.normal.db.661.desc=
 
 # db 662 of mode normal
 nomifactory.quest.normal.db.662.title=Element 093: Neptunium
-nomifactory.quest.normal.db.662.desc= 
+nomifactory.quest.normal.db.662.desc=
 
 # db 663 of mode normal
 nomifactory.quest.normal.db.663.title=Element 094: Plutonium
-nomifactory.quest.normal.db.663.desc= 
+nomifactory.quest.normal.db.663.desc=
 
 # db 664 of mode normal
 nomifactory.quest.normal.db.664.title=§2Element 095: Americium
-nomifactory.quest.normal.db.664.desc= 
+nomifactory.quest.normal.db.664.desc=
 
 # db 665 of mode normal
 nomifactory.quest.normal.db.665.title=Element 096: Curium
-nomifactory.quest.normal.db.665.desc= 
+nomifactory.quest.normal.db.665.desc=
 
 # db 666 of mode normal
 nomifactory.quest.normal.db.666.title=Element 097: Berkelium
-nomifactory.quest.normal.db.666.desc= 
+nomifactory.quest.normal.db.666.desc=
 
 # db 667 of mode normal
 nomifactory.quest.normal.db.667.title=Element 098: Californium
-nomifactory.quest.normal.db.667.desc= 
+nomifactory.quest.normal.db.667.desc=
 
 # db 668 of mode normal
 nomifactory.quest.normal.db.668.title=Element 099: Einsteinium
-nomifactory.quest.normal.db.668.desc= 
+nomifactory.quest.normal.db.668.desc=
 
 # db 669 of mode normal
 nomifactory.quest.normal.db.669.title=Uranium Fission
@@ -5140,7 +5140,7 @@ nomifactory.quest.expert.db.502.desc=§6Capacitors§r are devices that store ele
 
 # db 503 of mode expert
 nomifactory.quest.expert.db.503.title=Dark Soularium Ingots
-nomifactory.quest.expert.db.503.desc= 
+nomifactory.quest.expert.db.503.desc=
 
 # db 504 of mode expert
 nomifactory.quest.expert.db.504.title=Brewery
@@ -5156,7 +5156,7 @@ nomifactory.quest.expert.db.507.desc=You'll need §9Chlorine§r at this point. I
 
 # db 508 of mode expert
 nomifactory.quest.expert.db.508.title=§2Ruridit Ingots
-nomifactory.quest.expert.db.508.desc= 
+nomifactory.quest.expert.db.508.desc=
 
 # db 509 of mode expert
 nomifactory.quest.expert.db.509.title=§2Lossless Cables
@@ -5176,7 +5176,7 @@ nomifactory.quest.expert.db.512.desc=The §3Slice'N'Splice§r is a machine from 
 
 # db 513 of mode expert
 nomifactory.quest.expert.db.513.title=Red Steel Ingots
-nomifactory.quest.expert.db.513.desc= 
+nomifactory.quest.expert.db.513.desc=
 
 # db 516 of mode expert
 nomifactory.quest.expert.db.516.title=LV Conveyor
@@ -5280,7 +5280,7 @@ nomifactory.quest.expert.db.542.desc=The §3Soul Binder§r is an §bEnderIO§r m
 
 # db 543 of mode expert
 nomifactory.quest.expert.db.543.title=Blue Steel Ingots
-nomifactory.quest.expert.db.543.desc= 
+nomifactory.quest.expert.db.543.desc=
 
 # db 544 of mode expert
 nomifactory.quest.expert.db.544.title=Hardened Satchel
@@ -5352,87 +5352,87 @@ nomifactory.quest.expert.db.580.desc=As you continue to progress, crafting times
 
 # db 582 of mode expert
 nomifactory.quest.expert.db.582.title=Fluxed Electrum Ingots
-nomifactory.quest.expert.db.582.desc= 
+nomifactory.quest.expert.db.582.desc=
 
 # db 583 of mode expert
 nomifactory.quest.expert.db.583.title=Signalum Ingots
-nomifactory.quest.expert.db.583.desc= 
+nomifactory.quest.expert.db.583.desc=
 
 # db 584 of mode expert
 nomifactory.quest.expert.db.584.title=Enderium Ingots
-nomifactory.quest.expert.db.584.desc= 
+nomifactory.quest.expert.db.584.desc=
 
 # db 585 of mode expert
 nomifactory.quest.expert.db.585.title=§2Rhodium Plated Lumium-Palladium
-nomifactory.quest.expert.db.585.desc= 
+nomifactory.quest.expert.db.585.desc=
 
 # db 586 of mode expert
 nomifactory.quest.expert.db.586.title=High Speed Steel Type E Ingot
-nomifactory.quest.expert.db.586.desc= 
+nomifactory.quest.expert.db.586.desc=
 
 # db 587 of mode expert
 nomifactory.quest.expert.db.587.title=High Speed Steel Type G Ingots
-nomifactory.quest.expert.db.587.desc= 
+nomifactory.quest.expert.db.587.desc=
 
 # db 588 of mode expert
 nomifactory.quest.expert.db.588.title=High Speed Steel Type S Ingots
-nomifactory.quest.expert.db.588.desc= 
+nomifactory.quest.expert.db.588.desc=
 
 # db 589 of mode expert
 nomifactory.quest.expert.db.589.title=Crystal Matrix Ingots
-nomifactory.quest.expert.db.589.desc= 
+nomifactory.quest.expert.db.589.desc=
 
 # db 591 of mode expert
 nomifactory.quest.expert.db.591.title=Vanadium Steel Ingots
-nomifactory.quest.expert.db.591.desc= 
+nomifactory.quest.expert.db.591.desc=
 
 # db 592 of mode expert
 nomifactory.quest.expert.db.592.title=Electrical Steel Ingots
-nomifactory.quest.expert.db.592.desc= 
+nomifactory.quest.expert.db.592.desc=
 
 # db 593 of mode expert
 nomifactory.quest.expert.db.593.title=End Steel Ingots
-nomifactory.quest.expert.db.593.desc= 
+nomifactory.quest.expert.db.593.desc=
 
 # db 594 of mode expert
 nomifactory.quest.expert.db.594.title=Microversium Ingots
-nomifactory.quest.expert.db.594.desc= 
+nomifactory.quest.expert.db.594.desc=
 
 # db 595 of mode expert
 nomifactory.quest.expert.db.595.title=Mana Infused Ingots
-nomifactory.quest.expert.db.595.desc= 
+nomifactory.quest.expert.db.595.desc=
 
 # db 596 of mode expert
 nomifactory.quest.expert.db.596.title=Dark Steel Ingots
-nomifactory.quest.expert.db.596.desc= 
+nomifactory.quest.expert.db.596.desc=
 
 # db 597 of mode expert
 nomifactory.quest.expert.db.597.title=Vibrant Alloy Ingots
-nomifactory.quest.expert.db.597.desc= 
+nomifactory.quest.expert.db.597.desc=
 
 # db 598 of mode expert
 nomifactory.quest.expert.db.598.title=Energetic Alloy Ingots
-nomifactory.quest.expert.db.598.desc= 
+nomifactory.quest.expert.db.598.desc=
 
 # db 599 of mode expert
 nomifactory.quest.expert.db.599.title=Soularium Ingots
-nomifactory.quest.expert.db.599.desc= 
+nomifactory.quest.expert.db.599.desc=
 
 # db 600 of mode expert
 nomifactory.quest.expert.db.600.title=Manyullyn Ingots
-nomifactory.quest.expert.db.600.desc= 
+nomifactory.quest.expert.db.600.desc=
 
 # db 601 of mode expert
 nomifactory.quest.expert.db.601.title=Magnalium Ingots
-nomifactory.quest.expert.db.601.desc= 
+nomifactory.quest.expert.db.601.desc=
 
 # db 602 of mode expert
 nomifactory.quest.expert.db.602.title=Kanthal Ingots
-nomifactory.quest.expert.db.602.desc= 
+nomifactory.quest.expert.db.602.desc=
 
 # db 603 of mode expert
 nomifactory.quest.expert.db.603.title=Nichrome Ingots
-nomifactory.quest.expert.db.603.desc= 
+nomifactory.quest.expert.db.603.desc=
 
 # db 604 of mode expert
 nomifactory.quest.expert.db.604.title=Heart Of A Universe
@@ -5472,227 +5472,227 @@ nomifactory.quest.expert.db.612.desc=The ZPM tier §3Compressor§r is needed for
 
 # db 613 of mode expert
 nomifactory.quest.expert.db.613.title=Element 001: Hydrogen
-nomifactory.quest.expert.db.613.desc= 
+nomifactory.quest.expert.db.613.desc=
 
 # db 614 of mode expert
 nomifactory.quest.expert.db.614.title=Element 002: Helium
-nomifactory.quest.expert.db.614.desc= 
+nomifactory.quest.expert.db.614.desc=
 
 # db 615 of mode expert
 nomifactory.quest.expert.db.615.title=Element 003: Lithium
-nomifactory.quest.expert.db.615.desc= 
+nomifactory.quest.expert.db.615.desc=
 
 # db 616 of mode expert
 nomifactory.quest.expert.db.616.title=Element 004: Beryllium
-nomifactory.quest.expert.db.616.desc= 
+nomifactory.quest.expert.db.616.desc=
 
 # db 617 of mode expert
 nomifactory.quest.expert.db.617.title=Element 005: Boron
-nomifactory.quest.expert.db.617.desc= 
+nomifactory.quest.expert.db.617.desc=
 
 # db 618 of mode expert
 nomifactory.quest.expert.db.618.title=§2Element 006: Carbon
-nomifactory.quest.expert.db.618.desc= 
+nomifactory.quest.expert.db.618.desc=
 
 # db 619 of mode expert
 nomifactory.quest.expert.db.619.title=Element 007: Nitrogen
-nomifactory.quest.expert.db.619.desc= 
+nomifactory.quest.expert.db.619.desc=
 
 # db 620 of mode expert
 nomifactory.quest.expert.db.620.title=Element 008: Oxygen
-nomifactory.quest.expert.db.620.desc= 
+nomifactory.quest.expert.db.620.desc=
 
 # db 621 of mode expert
 nomifactory.quest.expert.db.621.title=Element 009: Fluorine
-nomifactory.quest.expert.db.621.desc= 
+nomifactory.quest.expert.db.621.desc=
 
 # db 622 of mode expert
 nomifactory.quest.expert.db.622.title=Element 010: Neon
-nomifactory.quest.expert.db.622.desc= 
+nomifactory.quest.expert.db.622.desc=
 
 # db 623 of mode expert
 nomifactory.quest.expert.db.623.title=§2Element 011: Sodium
-nomifactory.quest.expert.db.623.desc= 
+nomifactory.quest.expert.db.623.desc=
 
 # db 624 of mode expert
 nomifactory.quest.expert.db.624.title=§2Element 012: Magnesium
-nomifactory.quest.expert.db.624.desc= 
+nomifactory.quest.expert.db.624.desc=
 
 # db 625 of mode expert
 nomifactory.quest.expert.db.625.title=Element 013: Aluminium
-nomifactory.quest.expert.db.625.desc= 
+nomifactory.quest.expert.db.625.desc=
 
 # db 626 of mode expert
 nomifactory.quest.expert.db.626.title=Element 014: Silicon
-nomifactory.quest.expert.db.626.desc= 
+nomifactory.quest.expert.db.626.desc=
 
 # db 627 of mode expert
 nomifactory.quest.expert.db.627.title=Element 015: Phosphorus
-nomifactory.quest.expert.db.627.desc= 
+nomifactory.quest.expert.db.627.desc=
 
 # db 628 of mode expert
 nomifactory.quest.expert.db.628.title=Element 016: Sulfur
-nomifactory.quest.expert.db.628.desc= 
+nomifactory.quest.expert.db.628.desc=
 
 # db 629 of mode expert
 nomifactory.quest.expert.db.629.title=Element 017: Chlorine
-nomifactory.quest.expert.db.629.desc= 
+nomifactory.quest.expert.db.629.desc=
 
 # db 630 of mode expert
 nomifactory.quest.expert.db.630.title=Element 018: Argon
-nomifactory.quest.expert.db.630.desc= 
+nomifactory.quest.expert.db.630.desc=
 
 # db 631 of mode expert
 nomifactory.quest.expert.db.631.title=§2Element 019: Potassium
-nomifactory.quest.expert.db.631.desc= 
+nomifactory.quest.expert.db.631.desc=
 
 # db 632 of mode expert
 nomifactory.quest.expert.db.632.title=Element 020: Calcium
-nomifactory.quest.expert.db.632.desc= 
+nomifactory.quest.expert.db.632.desc=
 
 # db 633 of mode expert
 nomifactory.quest.expert.db.633.title=Element 057: Lanthanum
-nomifactory.quest.expert.db.633.desc= 
+nomifactory.quest.expert.db.633.desc=
 
 # db 634 of mode expert
 nomifactory.quest.expert.db.634.title=Element 022: Titanium
-nomifactory.quest.expert.db.634.desc= 
+nomifactory.quest.expert.db.634.desc=
 
 # db 635 of mode expert
 nomifactory.quest.expert.db.635.title=Element 023: Vanadium
-nomifactory.quest.expert.db.635.desc= 
+nomifactory.quest.expert.db.635.desc=
 
 # db 636 of mode expert
 nomifactory.quest.expert.db.636.title=Element 024: Chromium
-nomifactory.quest.expert.db.636.desc= 
+nomifactory.quest.expert.db.636.desc=
 
 # db 637 of mode expert
 nomifactory.quest.expert.db.637.title=Element 025: Manganese
-nomifactory.quest.expert.db.637.desc= 
+nomifactory.quest.expert.db.637.desc=
 
 # db 638 of mode expert
 nomifactory.quest.expert.db.638.title=Element 026: Iron
-nomifactory.quest.expert.db.638.desc= 
+nomifactory.quest.expert.db.638.desc=
 
 # db 639 of mode expert
 nomifactory.quest.expert.db.639.title=Element 027: Cobalt
-nomifactory.quest.expert.db.639.desc= 
+nomifactory.quest.expert.db.639.desc=
 
 # db 640 of mode expert
 nomifactory.quest.expert.db.640.title=Element 028: Nickel
-nomifactory.quest.expert.db.640.desc= 
+nomifactory.quest.expert.db.640.desc=
 
 # db 641 of mode expert
 nomifactory.quest.expert.db.641.title=Element 029: Copper
-nomifactory.quest.expert.db.641.desc= 
+nomifactory.quest.expert.db.641.desc=
 
 # db 642 of mode expert
 nomifactory.quest.expert.db.642.title=Element 030: Zinc
-nomifactory.quest.expert.db.642.desc= 
+nomifactory.quest.expert.db.642.desc=
 
 # db 643 of mode expert
 nomifactory.quest.expert.db.643.title=Element 031: Gallium
-nomifactory.quest.expert.db.643.desc= 
+nomifactory.quest.expert.db.643.desc=
 
 # db 644 of mode expert
 nomifactory.quest.expert.db.644.title=Element 033: Arsenic
-nomifactory.quest.expert.db.644.desc= 
+nomifactory.quest.expert.db.644.desc=
 
 # db 645 of mode expert
 nomifactory.quest.expert.db.645.title=Element 036: Krypton
-nomifactory.quest.expert.db.645.desc= 
+nomifactory.quest.expert.db.645.desc=
 
 # db 646 of mode expert
 nomifactory.quest.expert.db.646.title=Element 039: Yttrium
-nomifactory.quest.expert.db.646.desc= 
+nomifactory.quest.expert.db.646.desc=
 
 # db 647 of mode expert
 nomifactory.quest.expert.db.647.title=Element 046: Palladium
-nomifactory.quest.expert.db.647.desc= 
+nomifactory.quest.expert.db.647.desc=
 
 # db 648 of mode expert
 nomifactory.quest.expert.db.648.title=Element 047: Silver
-nomifactory.quest.expert.db.648.desc= 
+nomifactory.quest.expert.db.648.desc=
 
 # db 649 of mode expert
 nomifactory.quest.expert.db.649.title=Element 049: Indium
-nomifactory.quest.expert.db.649.desc= 
+nomifactory.quest.expert.db.649.desc=
 
 # db 650 of mode expert
 nomifactory.quest.expert.db.650.title=Element 050: Tin
-nomifactory.quest.expert.db.650.desc= 
+nomifactory.quest.expert.db.650.desc=
 
 # db 651 of mode expert
 nomifactory.quest.expert.db.651.title=Element 051: Antimony
-nomifactory.quest.expert.db.651.desc= 
+nomifactory.quest.expert.db.651.desc=
 
 # db 652 of mode expert
 nomifactory.quest.expert.db.652.title=Element 054: Xenon
-nomifactory.quest.expert.db.652.desc= 
+nomifactory.quest.expert.db.652.desc=
 
 # db 653 of mode expert
 nomifactory.quest.expert.db.653.title=Element 074: Tungsten
-nomifactory.quest.expert.db.653.desc= 
+nomifactory.quest.expert.db.653.desc=
 
 # db 654 of mode expert
 nomifactory.quest.expert.db.654.title=Element 076: Osmium
-nomifactory.quest.expert.db.654.desc= 
+nomifactory.quest.expert.db.654.desc=
 
 # db 655 of mode expert
 nomifactory.quest.expert.db.655.title=Element 077: Iridium
-nomifactory.quest.expert.db.655.desc= 
+nomifactory.quest.expert.db.655.desc=
 
 # db 656 of mode expert
 nomifactory.quest.expert.db.656.title=Element 078: Platinum
-nomifactory.quest.expert.db.656.desc= 
+nomifactory.quest.expert.db.656.desc=
 
 # db 657 of mode expert
 nomifactory.quest.expert.db.657.title=Element 079: Gold
-nomifactory.quest.expert.db.657.desc= 
+nomifactory.quest.expert.db.657.desc=
 
 # db 658 of mode expert
 nomifactory.quest.expert.db.658.title=Element 080: Mercury
-nomifactory.quest.expert.db.658.desc= 
+nomifactory.quest.expert.db.658.desc=
 
 # db 659 of mode expert
 nomifactory.quest.expert.db.659.title=Element 086: Radon
-nomifactory.quest.expert.db.659.desc= 
+nomifactory.quest.expert.db.659.desc=
 
 # db 660 of mode expert
 nomifactory.quest.expert.db.660.title=Element 090: Thorium
-nomifactory.quest.expert.db.660.desc= 
+nomifactory.quest.expert.db.660.desc=
 
 # db 661 of mode expert
 nomifactory.quest.expert.db.661.title=Element 092: Uranium
-nomifactory.quest.expert.db.661.desc= 
+nomifactory.quest.expert.db.661.desc=
 
 # db 662 of mode expert
 nomifactory.quest.expert.db.662.title=Element 093: Neptunium
-nomifactory.quest.expert.db.662.desc= 
+nomifactory.quest.expert.db.662.desc=
 
 # db 663 of mode expert
 nomifactory.quest.expert.db.663.title=Element 094: Plutonium
-nomifactory.quest.expert.db.663.desc= 
+nomifactory.quest.expert.db.663.desc=
 
 # db 664 of mode expert
 nomifactory.quest.expert.db.664.title=§2Element 095: Americium
-nomifactory.quest.expert.db.664.desc= 
+nomifactory.quest.expert.db.664.desc=
 
 # db 665 of mode expert
 nomifactory.quest.expert.db.665.title=Element 096: Curium
-nomifactory.quest.expert.db.665.desc= 
+nomifactory.quest.expert.db.665.desc=
 
 # db 666 of mode expert
 nomifactory.quest.expert.db.666.title=Element 097: Berkelium
-nomifactory.quest.expert.db.666.desc= 
+nomifactory.quest.expert.db.666.desc=
 
 # db 667 of mode expert
 nomifactory.quest.expert.db.667.title=Element 098: Californium
-nomifactory.quest.expert.db.667.desc= 
+nomifactory.quest.expert.db.667.desc=
 
 # db 668 of mode expert
 nomifactory.quest.expert.db.668.title=Element 099: Einsteinium
-nomifactory.quest.expert.db.668.desc= 
+nomifactory.quest.expert.db.668.desc=
 
 # db 669 of mode expert
 nomifactory.quest.expert.db.669.title=Uranium Fission
