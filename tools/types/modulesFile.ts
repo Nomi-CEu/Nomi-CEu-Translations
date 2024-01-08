@@ -40,4 +40,9 @@ export interface Module {
 	 * Whether this module should be provided as a separate zip.
 	 */
 	shouldProvideSeparately: boolean;
+
+	/**
+	 * Optional Field. The Branch to take the en_us.langs from. If not provided, or branch does not exist, uses the default branch.
+	 */
+	branch?: string;
 }

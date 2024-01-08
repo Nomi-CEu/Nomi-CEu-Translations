@@ -16,7 +16,7 @@
 	"copyPackPngGlobs": [
 		"pack.png"
 	],
-	"copyEnglishLangGlobs": [
+	"englishLangGlobs": [
 		"**/[eE][nN][-_][uU][sS].lang"
 	]
 }

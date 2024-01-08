@@ -18,7 +18,7 @@ export async function copySpecifiedModuleTask(): Promise<void> {
 }
 
 async function zipOrCopySpecifiedModule(zip: boolean) {
-	if (checkModuleEnv(true) === "COMBINED") return zipOrCopyCombined(zip);
+	if (checkModuleEnv(true, "COMBINED") === "COMBINED") return zipOrCopyCombined(zip);
 	return zipOrCopyModule(
 		zip,
 		modulesFile.modules.find((module) => module.name === process.env.MODULE.trim()),

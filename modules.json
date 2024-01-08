@@ -4,7 +4,8 @@
     "formattedName": "The formatted name of the Module, used in English Lang Update Commit Messages. Example: 'Nomi CEu Translations'.",
     "git": "Link to the project's github page (without a slash at the end). Example: 'https://github.com/Nomi-CEu/Nomi-CEu-Translations'.",
     "pathToAssets": "Path from base of the repo to the assets folder where the en_us.langs are grabbed from. Example: 'nomi-ceu/assets'.",
-    "shouldProvideSeparately": "Whether this module should be provided as a separate zip. Example: 'true'."
+    "shouldProvideSeparately": "Whether this module should be provided as a separate zip. Example: 'true'.",
+    "branch": "Optional Field. The Branch to take the en_us.langs from. If not provided, or branch does not exist, uses the default branch."
   },
   
   "_exampleCombined": {
@@ -24,7 +25,8 @@
       "formattedName": "Nomi-CEu",
       "git": "https://github.com/Nomi-CEu/Nomi-CEu",
       "pathToAssets": "overrides/resources",
-      "shouldProvideSeparately": false
+      "shouldProvideSeparately": false,
+      "branch": "gt-2.8"
     },
     {
       "name": "nomi-labs",

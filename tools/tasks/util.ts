@@ -6,7 +6,7 @@ import { McMeta } from "../types/mcmeta";
 import { transformMCMetaObj } from "./name";
 import zip from "gulp-zip";
 import buildConfig from "../buildConfig";
-import { OperationType } from "../types/operationType";
+import { ModuleType } from "../types/moduleType";
 import { modulesFile } from "../globals";
 
 export async function cleanUp(dir: string) {
@@ -45,32 +45,50 @@ export async function zipFolder(path: string, zipName: string): Promise<void> {
 /**
  * Checks the module env variable.
  * @param allowCombined Whether combined is allowed. If false, will throw if combined.
+ * @param prioritize Whether to prioritize COMBINED or MODULE specific operations, if combined has same name as module.
  * @return type Always returns Module if allowCombined is false.
  */
-export function checkModuleEnv(allowCombined: boolean): OperationType {
+export function checkModuleEnv(allowCombined: boolean, prioritize: ModuleType): ModuleType {
 	let module = process.env.MODULE;
 	if (!module) throw new Error("Module Env Variable must not be empty.");
 
 	module = module.trim();
+	const isCombined = module === modulesFile.combined.name;
+	const isModule = modulesFile.modules.map((module) => module.name).includes(module);
 
-	if (module === modulesFile.combined.name) {
+	if (prioritize === "COMBINED") {
+		if (isCombined) {
+			if (allowCombined) return "COMBINED";
+			throwCannotBeCombinedError();
+		}
+		if (isModule) return "MODULE";
+
+		throwNoModuleFoundError(allowCombined);
+	}
+	if (isModule) return "MODULE";
+	if (isCombined) {
 		if (allowCombined) return "COMBINED";
-		else throw new Error(`Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`);
+		throwCannotBeCombinedError();
 	}
 
-	if (!modulesFile.modules.map((module) => module.name).includes(module)) {
-		if (allowCombined)
-			throw new Error(
-				`Module Env Variable must be a module specified in module.json, or '${
-					modulesFile.combined.name
-				}'. Found: '${module}'. Accepted: [${modulesFile.modules.join(", ")}, ${modulesFile.combined.name}].`,
-			);
-		else
-			throw new Error(
-				`Module Env Variable must be a module specified in module.json. Found: '${module}'. Accepted: [${modulesFile.modules.join(
-					", ",
-				)}. Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`,
-			);
-	}
-	return "MODULE";
+	throwNoModuleFoundError(allowCombined);
+}
+
+function throwCannotBeCombinedError() {
+	throw new Error(`Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`);
+}
+
+function throwNoModuleFoundError(allowCombined: boolean) {
+	if (allowCombined)
+		throw new Error(
+			`Module Env Variable must be a module specified in module.json, or '${
+				modulesFile.combined.name
+			}'. Found: '${module}'. Accepted: [${modulesFile.modules.join(", ")}, ${modulesFile.combined.name}].`,
+		);
+
+	throw new Error(
+		`Module Env Variable must be a module specified in module.json. Found: '${module}'. Accepted: [${modulesFile.modules.join(
+			", ",
+		)}. Module Env Variable cannot be '${modulesFile.combined.name}' for this operation!`,
+	);
 }
