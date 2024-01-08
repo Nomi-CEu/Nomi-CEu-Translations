@@ -6,25 +6,25 @@ tile.unique_casing.growth_light.name=生长灯
 tile.unique_casing.air_vent.name=通风口
 
 # Sounds
-nomilabs.subtitle.tick.microverse=Projecting Microverse
+nomilabs.subtitle.tick.microverse=投影微宇宙
 
 # Config
 config.nomilabs.content=内容设置
 
 config.nomilabs.content.custom_content=自定义内容设置
-config.nomilabs.content.custom_content.items=Enable Custom Items
-config.nomilabs.content.custom_content.blocks=Enable Custom Blocks
-config.nomilabs.content.custom_content.fluids=Enable Custom Fluids
-config.nomilabs.content.custom_content.complex_recipes=Enable Complex Recipes
-config.nomilabs.content.custom_content.remap=Remap Old Content Tweaker Content
+config.nomilabs.content.custom_content.items=启用自定义物品
+config.nomilabs.content.custom_content.blocks=启用自定义方块
+config.nomilabs.content.custom_content.fluids=启用自定义流体
+config.nomilabs.content.custom_content.complex_recipes=启用复杂配方
+config.nomilabs.content.custom_content.remap=重新映射旧版内容修改器的内容
 
 config.nomilabs.content.gt_content=自定义 GT 内容设置
-config.nomilabs.content.gt_content.materials=Enable Custom GT Materials
-config.nomilabs.content.gt_content.perfect_gems=Enable Perfect Gems
-config.nomilabs.content.gt_content.remap_perfect_gems=Remap Old Perfect Gems
-config.nomilabs.content.gt_content.blocks=Enable Custom GT Blocks
-config.nomilabs.content.gt_content.old_multiblocks=Enable Old Multiblocks
-config.nomilabs.content.gt_content.new_multiblocks=Enable New Multiblocks
+config.nomilabs.content.gt_content.materials=启用自定义 GT 材料
+config.nomilabs.content.gt_content.perfect_gems=启用完美宝石
+config.nomilabs.content.gt_content.remap_perfect_gems=重新映射旧版完美宝石
+config.nomilabs.content.gt_content.blocks=启用自定义 GT 方块
+config.nomilabs.content.gt_content.old_multiblocks=启用旧版多方块结构
+config.nomilabs.content.gt_content.new_multiblocks=启用新版多方块结构
 
 config.nomilabs.mod_integration=Mod 联动设置
 config.nomilabs.mod_integration.nuclearcraft=启用 NuclearCraft 联动
@@ -38,14 +38,29 @@ config.nomilabs.mod_integration.draconicevolution.enable=启用 Draconic Evoluti
 config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=自动建造速度
 config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=自动解构速度
 
-config.nomilabs.advanced=Advanced Settings
-config.nomilabs.advanced.allow_other_modes=Allow Other Modes
-config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
-config.nomilabs.advanced.enable_data_fixes=Enable Data Fixes
-config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
-config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
-config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
-config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+config.nomilabs.advanced=高级设置
+config.nomilabs.advanced.allow_other_modes=允许其他模式
+config.nomilabs.advanced.disable_xp_scaling=禁用铁砧累计惩罚
+config.nomilabs.advanced.enable_data_fixes=启用数据修复
+config.nomilabs.advanced.ignore_items=被忽略的缺少注册的物品列表
+config.nomilabs.advanced.ignore_blocks=被忽略的缺少注册的方块列表
+config.nomilabs.advanced.ignore_entities=被忽略的缺少注册的实体列表
+config.nomilabs.advanced.ignore_biomes=被忽略的缺少注册的生物群系列表
+
+# Custom Fluids
+fluid.uranium233=铀 233
+fluid.plutonium2=钚
+
+fluid.moltenempoweredrestonia=熔融充能红石水晶
+fluid.moltenempoweredpalis=熔融充能青金石水晶
+fluid.moltenempoweredenori=熔融充能铁晶
+fluid.moltenempowereddiamatine=熔融充能钻石水晶
+fluid.moltenempoweredemeradic=熔融充能绿宝石水晶
+fluid.moltenempoweredvoid=熔融充能煤晶
+
+fluid.elementalreduction=元素还原液
+fluid.tough_alloy=高强合金
+fluid.moltendarksoularium=熔融玄色魂金
 
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi 实验室
@@ -229,30 +244,6 @@ item.nomilabs.ornateessentianeedle.name=炫彩源质针头
 item.nomilabs.woodenmortar.name=木研钵
 item.nomilabs.blockofleaddust.name=铅粉块
 
-fluid.quicksilver=水银
-fluid.aether=以太
-fluid.brimstone=硫磺
-fluid.aquafortis=硝酸
-
-item.nomilabs.combinationcircuit.name=原始处理器
-item.nomilabs.electronicprocessor.name=电子处理器
-item.nomilabs.electronicprocessorarray.name=电子处理器阵列
-item.nomilabs.refinedcircuit.name=精制电路板
-item.nomilabs.refinedprocessor.name=精制处理器
-item.nomilabs.refinedprocessorarray.name=精制处理器阵列
-item.nomilabs.refinedprocessormainframe.name=精制处理器主机
-item.nomilabs.crystalcircuit.name=晶体电路板
-item.nomilabs.crystalprocessorarray.name=晶体处理器阵列
-item.nomilabs.crystalprocessormainframe.name=晶体处理器主机
-item.nomilabs.quantumprocessor.name=量子处理器
-item.nomilabs.quantumprocessorarray.name=量子处理器阵列
-item.nomilabs.quantumprocessormainframe.name=量子处理器主机
-item.nomilabs.nanoprocessorarray.name=纳米处理器阵列
-item.nomilabs.nanoprocessormainframe.name=纳米处理器主机
-item.nomilabs.microcircuit.name=微型电路板
-item.nomilabs.microprocessorarray.name=微型处理器阵列
-item.nomilabs.microprocessormainframe.name=微型处理器主机
-
 item.nomilabs.tieroneship.name=钢制甲板级微型采掘机[壹级]
 item.nomilabs.tiertwoship.name=钛制甲板级微型采掘机[贰级]
 item.nomilabs.tierthreeship.name=碳化钨甲板级微型采掘机[叁级]
@@ -362,31 +353,6 @@ item.nomilabs.netherstarsouth.name=下界之星南角
 item.nomilabs.netherstareast.name=下界之星东角
 item.nomilabs.netherstarwest.name=下界之星西角
 
-fluid.neon=氖气
-fluid.xenon=氙气
-fluid.krypton=氪气
-fluid.elementalreduction=元素还原液
-fluid.einsteinium=锿
-fluid.berkelium=锫
-fluid.californium=锎
-fluid.awakeneddraconium=熔融觉醒龙锭
-fluid.curium=锔
-fluid.neptunium=镎
-fluid.plutonium2=钚
-fluid.uranium233=铀-233
-fluid.tough_alloy=高强合金
-fluid.moltencreativeportabletank=熔融创造便携储罐
-fluid.moltencrystalmatrix=熔融水晶矩阵
-fluid.moltennetherstar=熔融下界之星
-fluid.moltenempoweredvoid=熔融充能虚空水晶
-fluid.moltenempoweredrestonia=熔融充能红石水晶
-fluid.moltenempoweredpalis=熔融充能青金石水晶
-fluid.moltenempoweredenori=熔融充能铁晶
-fluid.moltenempowereddiamatine=熔融充能钻石水晶
-fluid.moltenempoweredemeradic=熔融充能绿宝石水晶
-fluid.moltensoularium=熔融魂金
-fluid.moltendarksoularium=熔融浓缩魂金合金
-
 item.nomilabs.stabilizedeinsteinium.name=稳定锿
 item.nomilabs.stabilizedberkelium.name=稳定锫
 item.nomilabs.stabilizedplutonium.name=稳定钚
@@ -453,7 +419,7 @@ nomilabs.machine.naquadah_reactor_1.name=一类硅岩反应堆
 nomilabs.machine.naquadah_reactor_2.name=二类硅岩反应堆
 nomilabs.machine.actualization_chamber.name=实体化仓
 nomilabs.machine.universal_crystallizer.name=万能结晶器
-nomilabs.machine.dme_sim_chamber.name=超级模拟计算机
+nomilabs.machine.dme_sim_chamber.name=DME 超级模拟计算机
 
 # Recipe Maps
 recipemap.microverse_projector_1.name=一类微型宇宙
@@ -470,10 +436,10 @@ recipemap.dme_sim_chamber.name=模拟
 #----------------Tooltips----------------#
 
 # General
-tooltip.nomilabs.general.press_shift_for_usages=按住[Shift]查看更多用法。
-tooltip.nomilabs.general.press_ctrl_for_usages=按住[Ctrl]查看更多用法。
-tooltip.nomilabs.general.press_shift_for_info=Press [Shift] for More Info.
-tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
+tooltip.nomilabs.general.press_shift_for_usages=按住 [Shift] 查看更多用法。
+tooltip.nomilabs.general.press_ctrl_for_usages=按住 [Ctrl] 查看更多用法。
+tooltip.nomilabs.general.press_shift_for_info=按住 [Shift] 查看更多信息。
+tooltip.nomilabs.general.press_ctrl_for_info=按住 [Ctrl] 查看更多信息。
 
 # Items
 tooltip.nomilabs.excitationcoil.description_block=只用于制作元件。
@@ -489,43 +455,43 @@ tooltip.nomilabs.hand_framing_tool.front=前面: %s
 
 tooltip.nomilabs.ultimate_items.description=只用于制作元件。
 
-tooltip.nomilabs.universalnavigator.description=See you later, navigator!
+tooltip.nomilabs.universalnavigator.description=晚点见，领航员！
 
-tooltip.nomilabs.eternalcatalyst.description=Gaze into the Abyss...
+tooltip.nomilabs.eternalcatalyst.description=凝视深渊……
 
-tooltip.nomilabs.tieroneship.description=Harvests Titanium and other light metals from asteroids in the microverse.
-tooltip.nomilabs.tiertwoship.description=Harvests Tungsten and other heavy metals from asteroids in the microverse.
-tooltip.nomilabs.tierthreeship.description=Harvests ultra hot metals and gems from Nether microverses.
-tooltip.nomilabs.tierfourship.description=Harvests ultra cold materials from the deepest parts of empty space.
-tooltip.nomilabs.tierfourandhalfship.description=Kills mobs in dangerous microverses and collects their highly prized skeletons and parts.
-tooltip.nomilabs.tierfiveship.description=Harvests strange materials from End microverses.
-tooltip.nomilabs.tiersixship.description=Harvests extremely rare materials from every concievable reality.
-tooltip.nomilabs.tiersevenship.description=Hunts Wyrms and End Dragons from the microverse and returns with parts from their carapaces.
-tooltip.nomilabs.tiereightship.description=Hunts inconcievable monstrosities from beyond the End and returns with bizzare trinkets.
-tooltip.nomilabs.tiereightandhalfship.description=Harvests exclusive Gems and Metals from unexplored corners, from beyond the microverse.
-tooltip.nomilabs.tiernineship.description=Collapses microversian stars and harvests their delicious neutronium cores.
-tooltip.nomilabs.tiertenship.description1=Collapses an entire microverse and harvests it whole.
-tooltip.nomilabs.tiertenship.description2=Try to aim for uninhabited ones.
+tooltip.nomilabs.tieroneship.description=从微宇宙中的小行星上采集钛和其他轻金属。
+tooltip.nomilabs.tiertwoship.description=从微宇宙中的小行星上采集钨和其他重金属。
+tooltip.nomilabs.tierthreeship.description=从下界微宇宙中采集超高温金属和宝石。
+tooltip.nomilabs.tierfourship.description=从空旷太空的最深处采集超冷材料。
+tooltip.nomilabs.tierfourandhalfship.description=在危险的微宇宙中杀死怪物，并收集他们珍贵的骨骼和零件。
+tooltip.nomilabs.tierfiveship.description=从末地微宇宙采集奇异的材料。
+tooltip.nomilabs.tiersixship.description=从每一个可理解的现实中获取极其稀有的材料。
+tooltip.nomilabs.tiersevenship.description=从微宇宙中狩猎龙和末影龙，并从它们的甲壳中携带战利品返回。
+tooltip.nomilabs.tiereightship.description=从末地微宇宙中猎杀无法想象的怪物，并带着奇异的小饰品返回。
+tooltip.nomilabs.tiereightandhalfship.description=从微宇宙之外未经探索的角落收获独特的宝石和金属。
+tooltip.nomilabs.tiernineship.description=坍缩微宇宙恒星并收获它们美味的中子核心。
+tooltip.nomilabs.tiertenship.description1=坍缩整个微宇宙并完全采集它。
+tooltip.nomilabs.tiertenship.description2=如入无人之地。
 
-tooltip.stabilized_miners.description1=A stabilized version, injected with a Heart of a Universe.
-tooltip.stabilized_miners.description2=Lasts indefinitely. Reusable. Totally not overpowered.
-tooltip.stabilized_miners.description3=It looks oddly familiar.
+tooltip.stabilized_miners.description1=一个稳定的版本，注入了宇宙之心。
+tooltip.stabilized_miners.description2=无限期持续。可重复使用。完全不 OP。
+tooltip.stabilized_miners.description3=它看起来奇怪地熟悉。
 
-tooltip.stabilized_matters.description=An infinite and incomprehensible abyss of materials.
+tooltip.stabilized_matters.description=一个无限的、费解的材料深渊。
 
-tooltip.nomilabs.capacitors.description=Ender IO Machine Upgrade
-tooltip.nomilabs.capacitors.level=Level: %s
+tooltip.nomilabs.capacitors.description=Ender IO 机器升级
+tooltip.nomilabs.capacitors.level=级别：%s
 
 # Multiblocks
 tooltip.nomilabs.microverse_projector_1.description=一种能够稳定投影进入微型宇宙中的机器，用于基本的微型采矿任务。
 tooltip.nomilabs.microverse_projector_2.description=一种能够稳定投影进入微型宇宙中的高级机器，用于基本的复杂采矿任务。
 tooltip.nomilabs.microverse_projector_3.description=一种能够稳定投影进入微型宇宙中的杰出机器，用于基本的奇特采矿任务。
-tooltip.nomilabs.creative_tank_provider.description=A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.
+tooltip.nomilabs.creative_tank_provider.description=一台复杂的机器，能够将水桶和模具变成人类无法理解的无限容器。
 tooltip.nomilabs.naquadah_reactor_1.description=一种高级的反应堆，通过利用富集硅岩和超能硅岩的衰变产生能量。
 tooltip.nomilabs.naquadah_reactor_2.description=一种杰出的反应堆，可从富集硅岩和超能硅岩的衰变中获取更多能量。
 tooltip.nomilabs.naquadah_reactor.produces=正好产生 %s 安培的 %s。
 tooltip.nomilabs.naquadah_reactor.overclock=不要超频!
-tooltip.nomilabs.actualization_chamber.description=A powerful machine that harnesses the most complex of matters and turns it into raw materials.
-tooltip.nomilabs.universal_crystallizer.description=An immense device, capable of turning raw materials into complex matters.
-tooltip.nomilabs.dme_sim_chamber.description=A high powered simulation device, capable of performing more complex simulations faster than ever.
-tooltip.nomilabs.greenhouse.description=A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.
+tooltip.nomilabs.actualization_chamber.description=一台强大的机器，可以利用最复杂的物质并将其转化为原材料。
+tooltip.nomilabs.universal_crystallizer.description=一种巨大的装置，能够将原材料转化为复杂物质。
+tooltip.nomilabs.dme_sim_chamber.description=一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。
+tooltip.nomilabs.greenhouse.description=一个高功率的生长室，即使是最难以理解的植物也能大规模生长。

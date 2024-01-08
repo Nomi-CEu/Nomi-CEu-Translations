@@ -691,6 +691,7 @@ nomifactory.quest.normal.db.168.desc=§9柴油§r是§9轻燃料§r和§9重燃�
 # db 169 of mode normal
 nomifactory.quest.normal.db.169.title=§2钯
 nomifactory.quest.normal.db.169.desc=§6钯§r在§6钯矿脉§r中发现。你可以从铂族处理中获取钯。如果你还没有发现矿脉，你可以买一些。钯需要§3电力高炉§r熔炼。
+
 # db 170 of mode normal
 nomifactory.quest.normal.db.170.title=氢氧化钠
 nomifactory.quest.normal.db.170.desc=§6氢氧化钠§r是一种强碱，是§9生物柴油§r的成分，也是其他反应的成分。%n%n§2唯一的来源§r是在一个§3电解机中分离§9盐水§r - 这也是§9氯§r的一个很好来源。你可以通过混合§6盐§r和§9水§r(咄)，§2溶解恶魂之泪，或从盐水矿脉中钻取来获得§9盐水§r，而盐水矿脉只在海洋上生成。
@@ -1621,7 +1622,7 @@ nomifactory.quest.normal.db.502.desc=§6电容§r是储存电能的装置，对�
 
 # db 503 of mode normal
 nomifactory.quest.normal.db.503.title=玄色魂金锭
-nomifactory.quest.normal.db.503.desc= 
+nomifactory.quest.normal.db.503.desc=
 
 # db 504 of mode normal
 nomifactory.quest.normal.db.504.title=§2酿造室
@@ -1637,7 +1638,7 @@ nomifactory.quest.normal.db.507.desc=这时你会需要§9氯§r。它是许多�
 
 # db 508 of mode normal
 nomifactory.quest.normal.db.508.title=§2钌铱合金锭
-nomifactory.quest.normal.db.508.desc= 
+nomifactory.quest.normal.db.508.desc=
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2无损导线
@@ -1657,7 +1658,7 @@ nomifactory.quest.normal.db.512.desc=§3头颅装配机§r是一台来自§b末�
 
 # db 513 of mode normal
 nomifactory.quest.normal.db.513.title=红钢锭
-nomifactory.quest.normal.db.513.desc= 
+nomifactory.quest.normal.db.513.desc=
 
 # db 516 of mode normal
 nomifactory.quest.normal.db.516.title=LV传送带
@@ -1682,7 +1683,6 @@ nomifactory.quest.normal.db.521.desc=为机器和能源提供更多的增强槽�
 # db 522 of mode normal
 nomifactory.quest.normal.db.522.title=LuV 压缩机
 nomifactory.quest.normal.db.522.desc=这个压缩机用于制作§6铱重板§r和§6末影锭重板§r。
-
 
 # db 523 of mode normal
 nomifactory.quest.normal.db.523.title=§2第二种五阶电路
@@ -1762,7 +1762,7 @@ nomifactory.quest.normal.db.542.desc=§3灵魂绑定器§r是一种使用§a灵�
 
 # db 543 of mode normal
 nomifactory.quest.normal.db.543.title=蓝钢锭
-nomifactory.quest.normal.db.543.desc= 
+nomifactory.quest.normal.db.543.desc=
 
 # db 544 of mode normal
 nomifactory.quest.normal.db.544.title=硬化背包
@@ -1834,87 +1834,87 @@ nomifactory.quest.normal.db.580.desc=随着你的不断发展，更高级的§3�
 
 # db 582 of mode normal
 nomifactory.quest.normal.db.582.title=通量琥珀金锭
-nomifactory.quest.normal.db.582.desc= 
+nomifactory.quest.normal.db.582.desc=
 
 # db 583 of mode normal
 nomifactory.quest.normal.db.583.title=信素锭
-nomifactory.quest.normal.db.583.desc= 
+nomifactory.quest.normal.db.583.desc=
 
 # db 584 of mode normal
 nomifactory.quest.normal.db.584.title=末影锭
-nomifactory.quest.normal.db.584.desc= 
+nomifactory.quest.normal.db.584.desc=
 
 # db 585 of mode normal
 nomifactory.quest.normal.db.585.title=§2脉冲铁锭
-nomifactory.quest.normal.db.585.desc= 
+nomifactory.quest.normal.db.585.desc=
 
 # db 586 of mode normal
 nomifactory.quest.normal.db.586.title=高速钢-E锭
-nomifactory.quest.normal.db.586.desc= 
+nomifactory.quest.normal.db.586.desc=
 
 # db 587 of mode normal
 nomifactory.quest.normal.db.587.title=高速钢-G锭
-nomifactory.quest.normal.db.587.desc= 
+nomifactory.quest.normal.db.587.desc=
 
 # db 588 of mode normal
 nomifactory.quest.normal.db.588.title=高速钢-S锭
-nomifactory.quest.normal.db.588.desc= 
+nomifactory.quest.normal.db.588.desc=
 
 # db 589 of mode normal
 nomifactory.quest.normal.db.589.title=水晶矩阵锭
-nomifactory.quest.normal.db.589.desc= 
+nomifactory.quest.normal.db.589.desc=
 
 # db 591 of mode normal
 nomifactory.quest.normal.db.591.title=钒钢锭
-nomifactory.quest.normal.db.591.desc= 
+nomifactory.quest.normal.db.591.desc=
 
 # db 592 of mode normal
 nomifactory.quest.normal.db.592.title=磁钢锭
-nomifactory.quest.normal.db.592.desc= 
+nomifactory.quest.normal.db.592.desc=
 
 # db 593 of mode normal
 nomifactory.quest.normal.db.593.title=末影钢锭
-nomifactory.quest.normal.db.593.desc= 
+nomifactory.quest.normal.db.593.desc=
 
 # db 594 of mode normal
 nomifactory.quest.normal.db.594.title=微型宇宙锭
-nomifactory.quest.normal.db.594.desc= 
+nomifactory.quest.normal.db.594.desc=
 
 # db 595 of mode normal
 nomifactory.quest.normal.db.595.title=蕴魔秘银锭
-nomifactory.quest.normal.db.595.desc= 
+nomifactory.quest.normal.db.595.desc=
 
 # db 596 of mode normal
 nomifactory.quest.normal.db.596.title=玄钢锭
-nomifactory.quest.normal.db.596.desc= 
+nomifactory.quest.normal.db.596.desc=
 
 # db 597 of mode normal
 nomifactory.quest.normal.db.597.title=脉冲合金锭
-nomifactory.quest.normal.db.597.desc= 
+nomifactory.quest.normal.db.597.desc=
 
 # db 598 of mode normal
 nomifactory.quest.normal.db.598.title=充能合金锭
-nomifactory.quest.normal.db.598.desc= 
+nomifactory.quest.normal.db.598.desc=
 
 # db 599 of mode normal
-nomifactory.quest.normal.db.598.title=充能合金锭
-nomifactory.quest.normal.db.599.desc= 
+nomifactory.quest.normal.db.599.title=魂金锭
+nomifactory.quest.normal.db.599.desc=
 
 # db 600 of mode normal
 nomifactory.quest.normal.db.600.title=玛玉灵锭
-nomifactory.quest.normal.db.600.desc= 
+nomifactory.quest.normal.db.600.desc=
 
 # db 601 of mode normal
 nomifactory.quest.normal.db.601.title=镁铝合金锭
-nomifactory.quest.normal.db.601.desc= 
+nomifactory.quest.normal.db.601.desc=
 
 # db 602 of mode normal
 nomifactory.quest.normal.db.602.title=坎塔尔合金锭
-nomifactory.quest.normal.db.602.desc= 
+nomifactory.quest.normal.db.602.desc=
 
 # db 603 of mode normal
 nomifactory.quest.normal.db.603.title=镍铬合金锭
-nomifactory.quest.normal.db.603.desc= 
+nomifactory.quest.normal.db.603.desc=
 
 # db 604 of mode normal
 nomifactory.quest.normal.db.604.title=宇宙之心
@@ -1954,227 +1954,227 @@ nomifactory.quest.normal.db.612.desc=§3ZPM 压缩机§r用于制作最高级的
 
 # db 613 of mode normal
 nomifactory.quest.normal.db.613.title=1号元素: 氢
-nomifactory.quest.normal.db.613.desc= 
+nomifactory.quest.normal.db.613.desc=
 
 # db 614 of mode normal
 nomifactory.quest.normal.db.614.title=2号元素: 氦
-nomifactory.quest.normal.db.614.desc= 
+nomifactory.quest.normal.db.614.desc=
 
 # db 615 of mode normal
 nomifactory.quest.normal.db.615.title=3号元素: 锂
-nomifactory.quest.normal.db.615.desc= 
+nomifactory.quest.normal.db.615.desc=
 
 # db 616 of mode normal
 nomifactory.quest.normal.db.616.title=4号元素: 铍
-nomifactory.quest.normal.db.616.desc= 
+nomifactory.quest.normal.db.616.desc=
 
 # db 617 of mode normal
 nomifactory.quest.normal.db.617.title=5号元素: 硼
-nomifactory.quest.normal.db.617.desc= 
+nomifactory.quest.normal.db.617.desc=
 
 # db 618 of mode normal
 nomifactory.quest.normal.db.618.title=§26号元素: 碳
-nomifactory.quest.normal.db.618.desc= 
+nomifactory.quest.normal.db.618.desc=
 
 # db 619 of mode normal
 nomifactory.quest.normal.db.619.title=7号元素: 氮
-nomifactory.quest.normal.db.619.desc= 
+nomifactory.quest.normal.db.619.desc=
 
 # db 620 of mode normal
 nomifactory.quest.normal.db.620.title=8号元素: 氧
-nomifactory.quest.normal.db.620.desc= 
+nomifactory.quest.normal.db.620.desc=
 
 # db 621 of mode normal
 nomifactory.quest.normal.db.621.title=9号元素: 氟
-nomifactory.quest.normal.db.621.desc= 
+nomifactory.quest.normal.db.621.desc=
 
 # db 622 of mode normal
 nomifactory.quest.normal.db.622.title=10号元素: 氖
-nomifactory.quest.normal.db.622.desc= 
+nomifactory.quest.normal.db.622.desc=
 
 # db 623 of mode normal
 nomifactory.quest.normal.db.623.title=11号元素: 钠
-nomifactory.quest.normal.db.623.desc= 
+nomifactory.quest.normal.db.623.desc=
 
 # db 624 of mode normal
 nomifactory.quest.normal.db.624.title=12号元素: 镁
-nomifactory.quest.normal.db.624.desc= 
+nomifactory.quest.normal.db.624.desc=
 
 # db 625 of mode normal
 nomifactory.quest.normal.db.625.title=13号元素: 铝
-nomifactory.quest.normal.db.625.desc= 
+nomifactory.quest.normal.db.625.desc=
 
 # db 626 of mode normal
 nomifactory.quest.normal.db.626.title=14号元素: 硅
-nomifactory.quest.normal.db.626.desc= 
+nomifactory.quest.normal.db.626.desc=
 
 # db 627 of mode normal
 nomifactory.quest.normal.db.627.title=15号元素: 磷
-nomifactory.quest.normal.db.627.desc= 
+nomifactory.quest.normal.db.627.desc=
 
 # db 628 of mode normal
 nomifactory.quest.normal.db.628.title=16号元素: 硫
-nomifactory.quest.normal.db.628.desc= 
+nomifactory.quest.normal.db.628.desc=
 
 # db 629 of mode normal
 nomifactory.quest.normal.db.629.title=17号元素: 氯
-nomifactory.quest.normal.db.629.desc= 
+nomifactory.quest.normal.db.629.desc=
 
 # db 630 of mode normal
 nomifactory.quest.normal.db.630.title=18号元素: 氩
-nomifactory.quest.normal.db.630.desc= 
+nomifactory.quest.normal.db.630.desc=
 
 # db 631 of mode normal
 nomifactory.quest.normal.db.631.title=§219号元素: 钾
-nomifactory.quest.normal.db.631.desc= 
+nomifactory.quest.normal.db.631.desc=
 
 # db 632 of mode normal
 nomifactory.quest.normal.db.632.title=20号元素: 钙
-nomifactory.quest.normal.db.632.desc= 
+nomifactory.quest.normal.db.632.desc=
 
 # db 633 of mode normal
 nomifactory.quest.normal.db.633.title=57号元素: 镧
-nomifactory.quest.normal.db.633.desc= 
+nomifactory.quest.normal.db.633.desc=
 
 # db 634 of mode normal
 nomifactory.quest.normal.db.634.title=22号元素: 钛
-nomifactory.quest.normal.db.634.desc= 
+nomifactory.quest.normal.db.634.desc=
 
 # db 635 of mode normal
 nomifactory.quest.normal.db.635.title=23号元素: 钒
-nomifactory.quest.normal.db.635.desc= 
+nomifactory.quest.normal.db.635.desc=
 
 # db 636 of mode normal
 nomifactory.quest.normal.db.636.title=24号元素: 铬
-nomifactory.quest.normal.db.636.desc= 
+nomifactory.quest.normal.db.636.desc=
 
 # db 637 of mode normal
 nomifactory.quest.normal.db.637.title=25号元素: 锰
-nomifactory.quest.normal.db.637.desc= 
+nomifactory.quest.normal.db.637.desc=
 
 # db 638 of mode normal
 nomifactory.quest.normal.db.638.title=26号元素: 铁
-nomifactory.quest.normal.db.638.desc= 
+nomifactory.quest.normal.db.638.desc=
 
 # db 639 of mode normal
 nomifactory.quest.normal.db.639.title=27号元素: 钴
-nomifactory.quest.normal.db.639.desc= 
+nomifactory.quest.normal.db.639.desc=
 
 # db 640 of mode normal
 nomifactory.quest.normal.db.640.title=28号元素: 镍
-nomifactory.quest.normal.db.640.desc= 
+nomifactory.quest.normal.db.640.desc=
 
 # db 641 of mode normal
 nomifactory.quest.normal.db.641.title=29号元素: 铜
-nomifactory.quest.normal.db.641.desc= 
+nomifactory.quest.normal.db.641.desc=
 
 # db 642 of mode normal
 nomifactory.quest.normal.db.642.title=30号元素: 锌
-nomifactory.quest.normal.db.642.desc= 
+nomifactory.quest.normal.db.642.desc=
 
 # db 643 of mode normal
 nomifactory.quest.normal.db.643.title=31号元素: 镓
-nomifactory.quest.normal.db.643.desc= 
+nomifactory.quest.normal.db.643.desc=
 
 # db 644 of mode normal
 nomifactory.quest.normal.db.644.title=33号元素: 砷
-nomifactory.quest.normal.db.644.desc= 
+nomifactory.quest.normal.db.644.desc=
 
 # db 645 of mode normal
 nomifactory.quest.normal.db.645.title=36号元素: 氪
-nomifactory.quest.normal.db.645.desc= 
+nomifactory.quest.normal.db.645.desc=
 
 # db 646 of mode normal
 nomifactory.quest.normal.db.646.title=39号元素: 钇
-nomifactory.quest.normal.db.646.desc= 
+nomifactory.quest.normal.db.646.desc=
 
 # db 647 of mode normal
 nomifactory.quest.normal.db.647.title=46号元素: 钯
-nomifactory.quest.normal.db.647.desc= 
+nomifactory.quest.normal.db.647.desc=
 
 # db 648 of mode normal
 nomifactory.quest.normal.db.648.title=47号元素: 银
-nomifactory.quest.normal.db.648.desc= 
+nomifactory.quest.normal.db.648.desc=
 
 # db 649 of mode normal
 nomifactory.quest.normal.db.649.title=49号元素: 铟
-nomifactory.quest.normal.db.649.desc= 
+nomifactory.quest.normal.db.649.desc=
 
 # db 650 of mode normal
 nomifactory.quest.normal.db.650.title=50号元素: 锡
-nomifactory.quest.normal.db.650.desc= 
+nomifactory.quest.normal.db.650.desc=
 
 # db 651 of mode normal
 nomifactory.quest.normal.db.651.title=51号元素: 锑
-nomifactory.quest.normal.db.651.desc= 
+nomifactory.quest.normal.db.651.desc=
 
 # db 652 of mode normal
 nomifactory.quest.normal.db.652.title=54号元素: 氙
-nomifactory.quest.normal.db.652.desc= 
+nomifactory.quest.normal.db.652.desc=
 
 # db 653 of mode normal
 nomifactory.quest.normal.db.653.title=74号元素: 钨
-nomifactory.quest.normal.db.653.desc= 
+nomifactory.quest.normal.db.653.desc=
 
 # db 654 of mode normal
 nomifactory.quest.normal.db.654.title=76号元素: 锇
-nomifactory.quest.normal.db.654.desc= 
+nomifactory.quest.normal.db.654.desc=
 
 # db 655 of mode normal
 nomifactory.quest.normal.db.655.title=77号元素: 铱
-nomifactory.quest.normal.db.655.desc= 
+nomifactory.quest.normal.db.655.desc=
 
 # db 656 of mode normal
 nomifactory.quest.normal.db.656.title=78号元素: 铂
-nomifactory.quest.normal.db.656.desc= 
+nomifactory.quest.normal.db.656.desc=
 
 # db 657 of mode normal
 nomifactory.quest.normal.db.657.title=79号元素: 金
-nomifactory.quest.normal.db.657.desc= 
+nomifactory.quest.normal.db.657.desc=
 
 # db 658 of mode normal
 nomifactory.quest.normal.db.658.title=80号元素: 汞
-nomifactory.quest.normal.db.658.desc= 
+nomifactory.quest.normal.db.658.desc=
 
 # db 659 of mode normal
 nomifactory.quest.normal.db.659.title=86号元素: 氡
-nomifactory.quest.normal.db.659.desc= 
+nomifactory.quest.normal.db.659.desc=
 
 # db 660 of mode normal
 nomifactory.quest.normal.db.660.title=90号元素: 钍
-nomifactory.quest.normal.db.660.desc= 
+nomifactory.quest.normal.db.660.desc=
 
 # db 661 of mode normal
 nomifactory.quest.normal.db.661.title=92号元素: 铀
-nomifactory.quest.normal.db.661.desc= 
+nomifactory.quest.normal.db.661.desc=
 
 # db 662 of mode normal
 nomifactory.quest.normal.db.662.title=93号元素: 镎
-nomifactory.quest.normal.db.662.desc= 
+nomifactory.quest.normal.db.662.desc=
 
 # db 663 of mode normal
 nomifactory.quest.normal.db.663.title=94号元素: 钚
-nomifactory.quest.normal.db.663.desc= 
+nomifactory.quest.normal.db.663.desc=
 
 # db 664 of mode normal
 nomifactory.quest.normal.db.664.title=§295号元素: 镅
-nomifactory.quest.normal.db.664.desc= 
+nomifactory.quest.normal.db.664.desc=
 
 # db 665 of mode normal
 nomifactory.quest.normal.db.665.title=96号元素: 锔
-nomifactory.quest.normal.db.665.desc= 
+nomifactory.quest.normal.db.665.desc=
 
 # db 666 of mode normal
 nomifactory.quest.normal.db.666.title=97号元素: 锫
-nomifactory.quest.normal.db.666.desc= 
+nomifactory.quest.normal.db.666.desc=
 
 # db 667 of mode normal
 nomifactory.quest.normal.db.667.title=98号元素: 锎
-nomifactory.quest.normal.db.667.desc= 
+nomifactory.quest.normal.db.667.desc=
 
 # db 668 of mode normal
 nomifactory.quest.normal.db.668.title=99号元素: 锿
-nomifactory.quest.normal.db.668.desc= 
+nomifactory.quest.normal.db.668.desc=
 
 # db 669 of mode normal
 nomifactory.quest.normal.db.669.title=铀裂变
@@ -2487,8 +2487,6 @@ nomifactory.quest.normal.db.784.desc=到目前为止，§9橡胶§r已经足够�
 # db 785 of mode normal
 nomifactory.quest.normal.db.785.title=Effortless Building
 nomifactory.quest.normal.db.785.desc=§bEffortless Building§r是一个简化建筑的模组。只需点击几下，您就可以创建大型平台或各种其他形状，甚至可以同时构建多个相同的结构!%n%n要使用 Effortless Building，首先按住§6Alt§r键。这将打开一个轮子形状的菜单，显示“特殊建筑模式”。打开此菜单后，只需将光标移动到所需的建筑模式上并释放§6Alt§r。这将选择该模式，然后您可以开始建筑。%n%n手持你想要的方块，在方块上右键单击，选择你的形状的起始位置。接下来，将光标移动到另一个方块，以查看最终结构的预览。再次右键单击想要结束的方块即可开始建筑。%n%n大多数形状都是平面的，并且使用起始和结束位置来定义，但是3D形状有第三个位置来完成形状。
-一些特殊模式也有§e特殊设置§r，比如制作一个§e空心立方体§r而不是一个§e实心立方体§r。如果你犯了一个错误，你可以使用菜单中的§aUndo§r按钮来破坏你刚刚放置的方块，这样你就可以收集它们并再次尝试。%n%n要改变建筑模式，只需像以前一样用§6Alt§r打开菜单，然后选择一个不同的模式。要退出特殊建筑模式，请选择“普通”模式。%n%n当你完成建筑形状时，确保你回到普通模式，因为特殊的建筑模式会干扰正常的游戏玩法。在特殊的建筑模式中，你可以制作的形状的大小受到你的§e触及距离§r的限制。你可以连续制作和吃掉几层§areach upgrades§r，以提高你的建筑范围。%n%n总的来说，§bEffortless Building§r是一个强大的模组，对建筑非常有用。尝试一下，你就会发现它能为你节省多少时间!
-
 
 # db 786 of mode normal
 nomifactory.quest.normal.db.786.title=种植站
@@ -2533,7 +2531,6 @@ nomifactory.quest.normal.db.795.desc=§6硅岩掺杂的单晶硅§r每个生产�
 # db 796 of mode normal
 nomifactory.quest.normal.db.796.title=片上系统（SoC）
 nomifactory.quest.normal.db.796.desc=§6片上系统（SoC）§r是一种将所有典型电路元件(如 §6SMDs§r)小型化到单个芯片上的零部件。这些都是非常有用的，因为它们解锁了最有效的配方来创建§6精制§r，§6微型§r和§6纳米芯片§r。每个基于 SoC 的电路配方都需要不同最低电压的§a组装机§r，纳米电路需要§eLuV§r电压。
-is a specialty component that miniaturizes all the typical circuit components (like §6SMDs§r) onto a single chip.%n%nThese are very useful as they unlock the most efficient recipes for creating §6Refined§r, §6Micro§r, and §6Nano Circuits§r.%n%nEach SoC-based circuit recipe requires a different minimum tier of §aAssembling Machine§r, with the Nano Circuits requiring §eLuV§r.
 
 # db 797 of mode normal
 nomifactory.quest.normal.db.797.title=日耀素
@@ -3035,7 +3032,6 @@ nomifactory.quest.normal.db.920.desc=增加了当前进展标签，以便你可�
 nomifactory.quest.normal.db.921.title=§2UV机械方块
 nomifactory.quest.normal.db.921.desc=§bUV§r机械方块。倒数第二个机械方块。§bUV§r是指§b极限压§r。%n%n这个机械方块是用§2鐽、钇钡铜氧合金线缆和聚苯并咪唑制成的。§r%n%n你需要它主要是为了§6核聚变反应堆MK3§r。
 
-
 # db 922 of mode normal
 nomifactory.quest.normal.db.922.title=§2“处理线”标签
 nomifactory.quest.normal.db.922.desc=§2添加这个标签是为了帮助你可视化和给你关于化学品制造的提示，以及其他重要的事情来自动化。明智地使用它!§r标签中的每个任务都会给你一个机器的描述和运行配方所需的最小电压。此外，尽管每个任务都可以通过复选框完成，但一旦您将项目定位在右侧，处理线中的所有任务都会自动完成。复选框或实现产品都将完成任务。%n%n你可能需要保持项目几秒钟，使整条线自动完成。%n%n这是不完整的，发布出来是为了测试。目前，只有脉动聚合物粘土和圆石处理实现，但更多的即将到来。将会有聚乙烯和聚氯乙烯，石油加工，环氧树脂，火箭燃料，聚四氟乙烯，高辛烷值汽油，十六烷增压柴油，聚苯并咪唑，硅岩加工和铂族加工。如果您对其他处理线或如何改进此选项卡有任何建议，请随时在 Discord 上找到 DM Integer Limit#0458 或在 GitHub 上创建 issue。
@@ -3234,7 +3230,7 @@ nomifactory.quest.normal.db.970.desc=为“脉冲聚合物粘土”生产线而�
 
 # db 971 of mode normal
 nomifactory.quest.normal.db.971.title=乙烯
-nomifactory.quest.normal.db.971.desc=
+nomifactory.quest.normal.db.971.desc=§o这个任务通过复选框或在完成乙烯后完成。
 
 # db 972 of mode normal
 nomifactory.quest.normal.db.972.title=MV化学反应釜、硫酸、酿造室和蒸馏室
@@ -3347,6 +3343,7 @@ nomifactory.quest.normal.db.998.desc=没有描述
 # db 999 of mode normal
 nomifactory.quest.normal.db.999.title=增广样板编码终端
 nomifactory.quest.normal.db.999.desc=§b封包合成§r很酷，但看看这个！%n%n§6ME增广样板终端§r是一种新设备，它允许您使用最多16个原料和6个输出的处理配方对常规§bAE2§r样板进行编码。%n%n这些对于像§3装配线§r这样的复杂多方块机器的自动化配方非常有用，同时避免了比如尴尬的循环合成类的封包合成的陷阱，因为§6解包器§r有内部缓冲区，并且能够使用§6接口终端§r，而不是在您的基地里上蹿下跳塞样板。
+
 # db 1000 of mode normal
 nomifactory.quest.normal.db.1000.title=样板拓展卡
 nomifactory.quest.normal.db.1000.desc=一种非常有用的升级卡，可以应用于§6ME接口§r。节省了机器或多方块机组的许多接口。%n%n每个接口最多可以安装§33个§6样板扩展卡§r，使样板插槽数量从9个增加到36个。
@@ -3533,7 +3530,7 @@ nomifactory.quest.normal.db.1044.desc=不要被这个名字欺骗了。§6小型
 nomifactory.quest.expert.line.0.title=一切的起点（LV）
 nomifactory.quest.expert.line.0.desc=格雷科技§7低压(LV)§r等级：开始制作一个工厂吧！%n%n解锁早期的§b末影接口§r和§b应用能源2§r中的数字化存储技术。%n%n建造§3工业高炉§r来熔炼先进的材料和金属！
 
-# line 1 of mode expert 
+# line 1 of mode expert
 nomifactory.quest.expert.line.1.title=游戏前期（MV）
 nomifactory.quest.expert.line.1.desc=格雷科技§b中压(MV)§r等级：新机器与初步的矿物处理。%n%n§6塑料§r有机化学, 制造§3蒸馏塔§r。%n%n使用§b应用能源2§r实现自动化. 最后，探索§b实用扩展§r.
 
@@ -4276,6 +4273,7 @@ nomifactory.quest.expert.db.184.desc=石油化工是与石油有关的有机化�
 # db 185 of mode expert
 nomifactory.quest.expert.db.185.title=环氧树脂
 nomifactory.quest.expert.db.185.desc=终于啊，做出了§6环氧树脂片§r。%n%n这些可以被制成电路板，作为先进电路的基板。
+
 # db 186 of mode expert
 nomifactory.quest.expert.db.186.title=§2碳纤维
 nomifactory.quest.expert.db.186.desc=§6碳纤维§r有多种用途。%n%n§2它们是用碳粉和聚合物制成的。更高级别的聚合物能提供更高的产量。这再也不是一个概率性的产出。
@@ -5142,7 +5140,7 @@ nomifactory.quest.expert.db.502.desc=§6电容§r是储存电能的装置，对�
 
 # db 503 of mode expert
 nomifactory.quest.expert.db.503.title=玄色魂金锭
-nomifactory.quest.expert.db.503.desc= 
+nomifactory.quest.expert.db.503.desc=
 
 # db 504 of mode expert
 nomifactory.quest.expert.db.504.title=酿造室
@@ -5158,7 +5156,7 @@ nomifactory.quest.expert.db.507.desc=你会需要§9氯§r。它是许多化学�
 
 # db 508 of mode expert
 nomifactory.quest.expert.db.508.title=§2钌铱合金锭
-nomifactory.quest.expert.db.508.desc= 
+nomifactory.quest.expert.db.508.desc=
 
 # db 509 of mode expert
 nomifactory.quest.expert.db.509.title=§2无损导线
@@ -5178,7 +5176,7 @@ nomifactory.quest.expert.db.512.desc=§3头颅装配机§r是一台来自§b末�
 
 # db 513 of mode expert
 nomifactory.quest.expert.db.513.title=红钢锭
-nomifactory.quest.expert.db.513.desc= 
+nomifactory.quest.expert.db.513.desc=
 
 # db 516 of mode expert
 nomifactory.quest.expert.db.516.title=LV传送带
@@ -5282,7 +5280,7 @@ nomifactory.quest.expert.db.542.desc=§3灵魂绑定器§r是一种使用§a灵�
 
 # db 543 of mode expert
 nomifactory.quest.expert.db.543.title=蓝钢锭
-nomifactory.quest.expert.db.543.desc= 
+nomifactory.quest.expert.db.543.desc=
 
 # db 544 of mode expert
 nomifactory.quest.expert.db.544.title=硬化背包
@@ -5354,87 +5352,87 @@ nomifactory.quest.expert.db.580.desc=随着你的不断发展，更高级的§3�
 
 # db 582 of mode expert
 nomifactory.quest.expert.db.582.title=通量琥珀金锭
-nomifactory.quest.expert.db.582.desc= 
+nomifactory.quest.expert.db.582.desc=
 
 # db 583 of mode expert
 nomifactory.quest.expert.db.583.title=信素锭
-nomifactory.quest.expert.db.583.desc= 
+nomifactory.quest.expert.db.583.desc=
 
 # db 584 of mode expert
 nomifactory.quest.expert.db.584.title=末影锭
-nomifactory.quest.expert.db.584.desc= 
+nomifactory.quest.expert.db.584.desc=
 
 # db 585 of mode expert
 nomifactory.quest.expert.db.585.title=§2脉冲铁锭
-nomifactory.quest.expert.db.585.desc= 
+nomifactory.quest.expert.db.585.desc=
 
 # db 586 of mode expert
 nomifactory.quest.expert.db.586.title=高速钢-E锭
-nomifactory.quest.expert.db.586.desc= 
+nomifactory.quest.expert.db.586.desc=
 
 # db 587 of mode expert
 nomifactory.quest.expert.db.587.title=高速钢-G锭
-nomifactory.quest.expert.db.587.desc= 
+nomifactory.quest.expert.db.587.desc=
 
 # db 588 of mode expert
 nomifactory.quest.expert.db.588.title=高速钢-S锭
-nomifactory.quest.expert.db.588.desc= 
+nomifactory.quest.expert.db.588.desc=
 
 # db 589 of mode expert
 nomifactory.quest.expert.db.589.title=水晶矩阵锭
-nomifactory.quest.expert.db.589.desc= 
+nomifactory.quest.expert.db.589.desc=
 
 # db 591 of mode expert
 nomifactory.quest.expert.db.591.title=钒钢锭
-nomifactory.quest.expert.db.591.desc= 
+nomifactory.quest.expert.db.591.desc=
 
 # db 592 of mode expert
 nomifactory.quest.expert.db.592.title=磁钢锭
-nomifactory.quest.expert.db.592.desc= 
+nomifactory.quest.expert.db.592.desc=
 
 # db 593 of mode expert
 nomifactory.quest.expert.db.593.title=末影钢锭
-nomifactory.quest.expert.db.593.desc= 
+nomifactory.quest.expert.db.593.desc=
 
 # db 594 of mode expert
 nomifactory.quest.expert.db.594.title=微型宇宙锭
-nomifactory.quest.expert.db.594.desc= 
+nomifactory.quest.expert.db.594.desc=
 
 # db 595 of mode expert
 nomifactory.quest.expert.db.595.title=蕴魔秘银锭
-nomifactory.quest.expert.db.595.desc= 
+nomifactory.quest.expert.db.595.desc=
 
 # db 596 of mode expert
 nomifactory.quest.expert.db.596.title=玄钢锭
-nomifactory.quest.expert.db.596.desc= 
+nomifactory.quest.expert.db.596.desc=
 
 # db 597 of mode expert
 nomifactory.quest.expert.db.597.title=脉冲合金锭
-nomifactory.quest.expert.db.597.desc= 
+nomifactory.quest.expert.db.597.desc=
 
 # db 598 of mode expert
 nomifactory.quest.expert.db.598.title=充能合金锭
-nomifactory.quest.expert.db.598.desc= 
+nomifactory.quest.expert.db.598.desc=
 
 # db 599 of mode expert
 nomifactory.quest.expert.db.599.title=魂金锭
-nomifactory.quest.expert.db.599.desc= 
+nomifactory.quest.expert.db.599.desc=
 
 # db 600 of mode expert
 nomifactory.quest.expert.db.600.title=玛玉灵锭
-nomifactory.quest.expert.db.600.desc= 
+nomifactory.quest.expert.db.600.desc=
 
 # db 601 of mode expert
 nomifactory.quest.expert.db.601.title=镁铝合金锭
-nomifactory.quest.expert.db.601.desc= 
+nomifactory.quest.expert.db.601.desc=
 
 # db 602 of mode expert
 nomifactory.quest.expert.db.602.title=坎塔尔合金锭
-nomifactory.quest.expert.db.602.desc= 
+nomifactory.quest.expert.db.602.desc=
 
 # db 603 of mode expert
 nomifactory.quest.expert.db.603.title=镍铬合金锭
-nomifactory.quest.expert.db.603.desc= 
+nomifactory.quest.expert.db.603.desc=
 
 # db 604 of mode expert
 nomifactory.quest.expert.db.604.title=宇宙之心
@@ -5474,227 +5472,227 @@ nomifactory.quest.expert.db.612.desc=§3ZPM压缩机§r用于制作最高级的�
 
 # db 613 of mode expert
 nomifactory.quest.expert.db.613.title=1号元素: 氢
-nomifactory.quest.expert.db.613.desc= 
+nomifactory.quest.expert.db.613.desc=
 
 # db 614 of mode expert
 nomifactory.quest.expert.db.614.title=2号元素: 氦
-nomifactory.quest.expert.db.614.desc= 
+nomifactory.quest.expert.db.614.desc=
 
 # db 615 of mode expert
 nomifactory.quest.expert.db.615.title=3号元素: 锂
-nomifactory.quest.expert.db.615.desc= 
+nomifactory.quest.expert.db.615.desc=
 
 # db 616 of mode expert
 nomifactory.quest.expert.db.616.title=4号元素: 铍
-nomifactory.quest.expert.db.616.desc= 
+nomifactory.quest.expert.db.616.desc=
 
 # db 617 of mode expert
 nomifactory.quest.expert.db.617.title=5号元素: 硼
-nomifactory.quest.expert.db.617.desc= 
+nomifactory.quest.expert.db.617.desc=
 
 # db 618 of mode expert
 nomifactory.quest.expert.db.618.title=§26号元素: 碳
-nomifactory.quest.expert.db.618.desc= 
+nomifactory.quest.expert.db.618.desc=
 
 # db 619 of mode expert
 nomifactory.quest.expert.db.619.title=7号元素: 氮
-nomifactory.quest.expert.db.619.desc= 
+nomifactory.quest.expert.db.619.desc=
 
 # db 620 of mode expert
 nomifactory.quest.expert.db.620.title=8号元素: 氧
-nomifactory.quest.expert.db.620.desc= 
+nomifactory.quest.expert.db.620.desc=
 
 # db 621 of mode expert
 nomifactory.quest.expert.db.621.title=9号元素: 氟
-nomifactory.quest.expert.db.621.desc= 
+nomifactory.quest.expert.db.621.desc=
 
 # db 622 of mode expert
 nomifactory.quest.expert.db.622.title=10号元素: 氖
-nomifactory.quest.expert.db.622.desc= 
+nomifactory.quest.expert.db.622.desc=
 
 # db 623 of mode expert
 nomifactory.quest.expert.db.623.title=§211号元素: 钠
-nomifactory.quest.expert.db.623.desc= 
+nomifactory.quest.expert.db.623.desc=
 
 # db 624 of mode expert
 nomifactory.quest.expert.db.624.title=§212号元素: 镁
-nomifactory.quest.expert.db.624.desc= 
+nomifactory.quest.expert.db.624.desc=
 
 # db 625 of mode expert
 nomifactory.quest.expert.db.625.title=13号元素: 铝
-nomifactory.quest.expert.db.625.desc= 
+nomifactory.quest.expert.db.625.desc=
 
 # db 626 of mode expert
 nomifactory.quest.expert.db.626.title=14号元素: 硅
-nomifactory.quest.expert.db.626.desc= 
+nomifactory.quest.expert.db.626.desc=
 
 # db 627 of mode expert
 nomifactory.quest.expert.db.627.title=15号元素: 磷
-nomifactory.quest.expert.db.627.desc= 
+nomifactory.quest.expert.db.627.desc=
 
 # db 628 of mode expert
 nomifactory.quest.expert.db.628.title=16号元素: 硫
-nomifactory.quest.expert.db.628.desc= 
+nomifactory.quest.expert.db.628.desc=
 
 # db 629 of mode expert
 nomifactory.quest.expert.db.629.title=17号元素: 氯
-nomifactory.quest.expert.db.629.desc= 
+nomifactory.quest.expert.db.629.desc=
 
 # db 630 of mode expert
 nomifactory.quest.expert.db.630.title=18号元素: 氩
-nomifactory.quest.expert.db.630.desc= 
+nomifactory.quest.expert.db.630.desc=
 
 # db 631 of mode expert
 nomifactory.quest.expert.db.631.title=§219号元素: 钾
-nomifactory.quest.expert.db.631.desc= 
+nomifactory.quest.expert.db.631.desc=
 
 # db 632 of mode expert
 nomifactory.quest.expert.db.632.title=20号元素: 钙
-nomifactory.quest.expert.db.632.desc= 
+nomifactory.quest.expert.db.632.desc=
 
 # db 633 of mode expert
 nomifactory.quest.expert.db.633.title=57号元素: 镧
-nomifactory.quest.expert.db.633.desc= 
+nomifactory.quest.expert.db.633.desc=
 
 # db 634 of mode expert
 nomifactory.quest.expert.db.634.title=22号元素: 钛
-nomifactory.quest.expert.db.634.desc= 
+nomifactory.quest.expert.db.634.desc=
 
 # db 635 of mode expert
 nomifactory.quest.expert.db.635.title=23号元素: 钒
-nomifactory.quest.expert.db.635.desc= 
+nomifactory.quest.expert.db.635.desc=
 
 # db 636 of mode expert
 nomifactory.quest.expert.db.636.title=24号元素: 铬
-nomifactory.quest.expert.db.636.desc= 
+nomifactory.quest.expert.db.636.desc=
 
 # db 637 of mode expert
 nomifactory.quest.expert.db.637.title=25号元素: 锰
-nomifactory.quest.expert.db.637.desc= 
+nomifactory.quest.expert.db.637.desc=
 
 # db 638 of mode expert
 nomifactory.quest.expert.db.638.title=26号元素: 铁
-nomifactory.quest.expert.db.638.desc= 
+nomifactory.quest.expert.db.638.desc=
 
 # db 639 of mode expert
 nomifactory.quest.expert.db.639.title=27号元素: 钴
-nomifactory.quest.expert.db.639.desc= 
+nomifactory.quest.expert.db.639.desc=
 
 # db 640 of mode expert
 nomifactory.quest.expert.db.640.title=28号元素: 镍
-nomifactory.quest.expert.db.640.desc= 
+nomifactory.quest.expert.db.640.desc=
 
 # db 641 of mode expert
 nomifactory.quest.expert.db.641.title=29号元素: 铜
-nomifactory.quest.expert.db.641.desc= 
+nomifactory.quest.expert.db.641.desc=
 
 # db 642 of mode expert
 nomifactory.quest.expert.db.642.title=30号元素: 锌
-nomifactory.quest.expert.db.642.desc= 
+nomifactory.quest.expert.db.642.desc=
 
 # db 643 of mode expert
 nomifactory.quest.expert.db.643.title=31号元素: 镓
-nomifactory.quest.expert.db.643.desc= 
+nomifactory.quest.expert.db.643.desc=
 
 # db 644 of mode expert
 nomifactory.quest.expert.db.644.title=33号元素: 砷
-nomifactory.quest.expert.db.644.desc= 
+nomifactory.quest.expert.db.644.desc=
 
 # db 645 of mode expert
 nomifactory.quest.expert.db.645.title=36号元素: 氪
-nomifactory.quest.expert.db.645.desc= 
+nomifactory.quest.expert.db.645.desc=
 
 # db 646 of mode expert
 nomifactory.quest.expert.db.646.title=39号元素: 钇
-nomifactory.quest.expert.db.646.desc= 
+nomifactory.quest.expert.db.646.desc=
 
 # db 647 of mode expert
 nomifactory.quest.expert.db.647.title=46号元素: 钯
-nomifactory.quest.expert.db.647.desc= 
+nomifactory.quest.expert.db.647.desc=
 
 # db 648 of mode expert
 nomifactory.quest.expert.db.648.title=47号元素: 银
-nomifactory.quest.expert.db.648.desc= 
+nomifactory.quest.expert.db.648.desc=
 
 # db 649 of mode expert
 nomifactory.quest.expert.db.649.title=49号元素: 铟
-nomifactory.quest.expert.db.649.desc= 
+nomifactory.quest.expert.db.649.desc=
 
 # db 650 of mode expert
 nomifactory.quest.expert.db.650.title=50号元素: 锡
-nomifactory.quest.expert.db.650.desc= 
+nomifactory.quest.expert.db.650.desc=
 
 # db 651 of mode expert
 nomifactory.quest.expert.db.651.title=51号元素: 锑
-nomifactory.quest.expert.db.651.desc= 
+nomifactory.quest.expert.db.651.desc=
 
 # db 652 of mode expert
 nomifactory.quest.expert.db.652.title=54号元素: 氙
-nomifactory.quest.expert.db.652.desc= 
+nomifactory.quest.expert.db.652.desc=
 
 # db 653 of mode expert
 nomifactory.quest.expert.db.653.title=74号元素: 钨
-nomifactory.quest.expert.db.653.desc= 
+nomifactory.quest.expert.db.653.desc=
 
 # db 654 of mode expert
 nomifactory.quest.expert.db.654.title=76号元素: 锇
-nomifactory.quest.expert.db.654.desc= 
+nomifactory.quest.expert.db.654.desc=
 
 # db 655 of mode expert
 nomifactory.quest.expert.db.655.title=77号元素: 铱
-nomifactory.quest.expert.db.655.desc= 
+nomifactory.quest.expert.db.655.desc=
 
 # db 656 of mode expert
 nomifactory.quest.expert.db.656.title=78号元素: 铂
-nomifactory.quest.expert.db.656.desc= 
+nomifactory.quest.expert.db.656.desc=
 
 # db 657 of mode expert
 nomifactory.quest.expert.db.657.title=79号元素: 金
-nomifactory.quest.expert.db.657.desc= 
+nomifactory.quest.expert.db.657.desc=
 
 # db 658 of mode expert
 nomifactory.quest.expert.db.658.title=80号元素: 汞
-nomifactory.quest.expert.db.658.desc= 
+nomifactory.quest.expert.db.658.desc=
 
 # db 659 of mode expert
 nomifactory.quest.expert.db.659.title=86号元素: 氡
-nomifactory.quest.expert.db.659.desc= 
+nomifactory.quest.expert.db.659.desc=
 
 # db 660 of mode expert
 nomifactory.quest.expert.db.660.title=90号元素: 钍
-nomifactory.quest.expert.db.660.desc= 
+nomifactory.quest.expert.db.660.desc=
 
 # db 661 of mode expert
 nomifactory.quest.expert.db.661.title=92号元素: 铀
-nomifactory.quest.expert.db.661.desc= 
+nomifactory.quest.expert.db.661.desc=
 
 # db 662 of mode expert
 nomifactory.quest.expert.db.662.title=93号元素: 镎
-nomifactory.quest.expert.db.662.desc= 
+nomifactory.quest.expert.db.662.desc=
 
 # db 663 of mode expert
 nomifactory.quest.expert.db.663.title=94号元素: 钚
-nomifactory.quest.expert.db.663.desc= 
+nomifactory.quest.expert.db.663.desc=
 
 # db 664 of mode expert
 nomifactory.quest.expert.db.664.title=§295号元素: 镅
-nomifactory.quest.expert.db.664.desc= 
+nomifactory.quest.expert.db.664.desc=
 
 # db 665 of mode expert
 nomifactory.quest.expert.db.665.title=96号元素: 锔
-nomifactory.quest.expert.db.665.desc= 
+nomifactory.quest.expert.db.665.desc=
 
 # db 666 of mode expert
 nomifactory.quest.expert.db.666.title=97号元素: 锫
-nomifactory.quest.expert.db.666.desc= 
+nomifactory.quest.expert.db.666.desc=
 
 # db 667 of mode expert
 nomifactory.quest.expert.db.667.title=98号元素: 锎
-nomifactory.quest.expert.db.667.desc= 
+nomifactory.quest.expert.db.667.desc=
 
 # db 668 of mode expert
 nomifactory.quest.expert.db.668.title=99号元素: 锿
-nomifactory.quest.expert.db.668.desc= 
+nomifactory.quest.expert.db.668.desc=
 
 # db 669 of mode expert
 nomifactory.quest.expert.db.669.title=铀裂变
@@ -5735,6 +5733,7 @@ nomifactory.quest.expert.db.677.desc=§oNote: 此任务接受镅 241, 242, 或 2
 # db 678 of mode expert
 nomifactory.quest.expert.db.678.title=锫裂变
 nomifactory.quest.expert.db.678.desc=§oNote: 此任务接受锫 247 或 248.%n%n§6枯竭的低密度锫-248§r燃料耗尽时，会产生几种不同的§6锎§r同位素。
+
 # db 679 of mode expert
 nomifactory.quest.expert.db.679.title=锎裂变
 nomifactory.quest.expert.db.679.desc=§oNote: 这项任务接受锎 249, 250, 251 或 252.%n%n§6锎§r是核电工艺处理链中的最后一种裂变材料。%n%n§6枯竭的低密度锎-249燃料§r导致...不同的锎同位素。%n%n除非你想要§6锎RTG§r或正在试验进一步的裂变路线，否则对于一般的材料处理来说，这个步骤可能是不必要的。
@@ -5750,6 +5749,7 @@ nomifactory.quest.expert.db.681.desc=§a聚爆压缩机§r就像一个使用爆�
 # db 682 of mode expert
 nomifactory.quest.expert.db.682.title=困难模式
 nomifactory.quest.expert.db.682.desc=由于§2CEu§r对游戏进程做了各种改动，因此nomifactory的难度已经略高于原版格雷科技。%n%n但如果您想要一次更§c难§r，或者说更§5真实§r的§dGregTech§r体验，请看看§c专家模式§r。专家模式是基于Omnifactory的一个分支，名为§bSelf-Torture§r%n%n亮点如下：%n%n- 禁用深度怪物学习%n- 无法§6全能币§r使用%n- §7蒸汽时代§r%n- 没有§3创造量子缸§r，替代的是...%n- §6稳定的微型采掘机§r来无限获得游戏后期的资源%n- 更难的配方，如§6铱§r, §3通货能源炉§r等等...%n%n译者注：后面原本还有一段话的，大概讲的是怎么改成专家模式，不过你都看到这个任务了应该也不用教了吧。。%n%n以防万一，还是贴上教程：https://www.mcmod.cn/modpack/519.html%n%n这个界面的介绍→安装指南就是安装的方式，还是不会就问别人吧。
+
 # db 683 of mode expert
 nomifactory.quest.expert.db.683.title=主世界物质
 nomifactory.quest.expert.db.683.desc=为你的§3模拟室§r提供RF能量和§6脉冲聚合粘土§r。然后插入一个你选择的§6数据模型§r。模拟室会消耗聚合黏土和相当数量的能量来开始模拟怪物的击杀。这将产生§6主世界物质§r，并可能偶尔向你提供§6原始物质§r。%n%n§6主世界可以通过吃来获得经验，也可以与其他材料结合，从主世界怪物那里获得掉落。有了这些掉落物，你就可以为其他怪物类型创建数据模型。
@@ -5925,6 +5925,7 @@ nomifactory.quest.expert.db.764.desc=沿着这条线的电路是LV的，并且�
 # db 765 of mode expert
 nomifactory.quest.expert.db.765.title=这啥啊？
 nomifactory.quest.expert.db.765.desc=增加了进展之路标签，以便你可以跟踪整合包的重要部分。%n%n电路是整个全能工厂进展的基线，所以继续攀登吧！
+
 # db 766 of mode expert
 nomifactory.quest.expert.db.766.title=MV电路
 nomifactory.quest.expert.db.766.desc=沿着这条线的电路是MV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。
@@ -6196,6 +6197,7 @@ nomifactory.quest.expert.db.832.desc=§2末影流体连接覆盖板是格雷科�
 # db 833 of mode expert
 nomifactory.quest.expert.db.833.title=§2中央显示器
 nomifactory.quest.expert.db.833.desc=通过§3中央监控器§r，你可以远程监控工厂的各个部分！与§a无线数字接口覆盖版§r搭配使用时，您可以查看机器的状态和容量, 您还可以访问它们的GUI，并在屏幕上显示您的全部§3多方块§e，让您无需离开座位就能方便地访问所有相关部分§r！%n%n中央监视器本身是一个多方块，能够支持从§e 3x2 到 14x9 §r大小不等的屏幕。 请记得在构建前将其配置为正确的尺寸。%n%n设置非常简单。首先制作一个无线数字接口。准备就绪并拿到手后，潜行右键单击中央监视器，然后将它放在任何机器上，无论是单方块还是多方块，就像其他覆盖版一样。安装完成后，右键单击中央监视器并导航到可用插槽。插槽数量取决于中央监视器的大小。%n%n进入插槽菜单后，你会看到屏幕右侧出现 "所选插槽"。现在您可以选择机器，并根据安装的§a插件§r，在显示屏上显示相关信息。大多数插件都提供§e直接从屏幕访问所选机器§r的功能.%n%n以下是不同插件的功能介绍：%n%n- §a§l文本插件§r: 顾名思义，它能让你的每个插件§e拥有 16 种不同的字符串§r，每种字符串都有自己的颜色。%n%n- §a§l在线图片插件§r: 是展示梗图的理想工具。只需将图片的直接链接发送给它，它就会显示出来，让所有人都能看到。%n%n- §a§lGUI 代理插件§r: 将所选机器的GUI附加到屏幕上，只需右键单击即可直接访问机器。 §c别忘了激活菜单右侧的代理模式！§r%n%n- §a§l高级监控器代理插件§r：这个插件最棒了。它可以将整个多方块投影到屏幕上，让您直接访问多区块的任何可见部分。这一切都无需返回实际机器即可完成。
+
 # db 834 of mode expert
 nomifactory.quest.expert.db.834.title=§2超级缸
 nomifactory.quest.expert.db.834.desc=§oNote: 该任务可接受任何超级缸或量子缸。%n%n§2超级缸是高级的格雷科技流体存储解决方案。§r%n%n第一级别可容纳§64,000桶§r，更高的级别可容纳更多。它们也可以像缸一样被用来将流体放入和取出机器。%n%n你可以方便地配置§c清空§r，让它们总是销毁，在95%%的容量时开始销毁，或永远不销毁。%n%n对应的物品是§3超级箱§r，用于某些§6微型采掘机§r配方。这些东西的高级版本被称为§3量子缸§r和§3量子箱§r。它们都需要各自等级的§3密封外壳§r来制作。
@@ -6279,7 +6281,7 @@ nomifactory.quest.expert.db.853.desc=§2钌铱合金是一种钌和铱的合金�
 # db 854 of mode expert
 nomifactory.quest.expert.db.854.title=§2三钛合金线圈
 nomifactory.quest.expert.db.854.desc=§2三钛合金线圈是最终的线圈材料。在10800K的温度下，它能够熔炼每一种材料。
-§
+
 # db 855 of mode expert
 nomifactory.quest.expert.db.855.title=§2中子素掺杂的单晶硅
 nomifactory.quest.expert.db.855.desc=最后的单晶硅。它提供最多的晶片，是高级片上系统所需要的。
@@ -6582,7 +6584,8 @@ nomifactory.quest.expert.db.929.desc=在寻找生物群落时遇到困难吗？�
 
 # db 930 of mode expert
 nomifactory.quest.expert.db.930.title=P2P隧道
-nomifactory.quest.expert.db.930.desc= §o注意：此任务接受内存卡和高级内存卡。§r%n%n§6P2P隧道§r（§a点对点隧道§r）是来自§b应用能源2§r的强大工具，可用于在ME系统中从一个位置发送物品、红石、RF/EU或流体到另一个位置，而无需使用任何磁盘存储空间。§c传输RF/EU对输入能量有5％的损耗。§r%n%n每个P2P隧道系统只能有§c一个输入§r，但可以有§e任意数量的输出§r。对于一个网络，你可以拥有任意数量的P2P隧道，没有限制。%n%n默认情况下，P2P隧道是§6ME隧道§r，用于传输应用能源通道和电力。由于频道机制已经被禁用，您很可能不会使用默认隧道。您可以通过右键单击具有§bJEI§r中所见物品的隧道来更改P2P隧道的模式。%n%n要配置P2P隧道，请使用§6内存卡§r。在握住内存卡的同时，§ashift-右键§r未配置的隧道，以设置输入的频率，并将频率保存到内存卡。一旦第一个隧道以这种方式设置，并且内存卡配置了频率，您§a右键§r使用内存卡单击的任何后续隧道都将设置为最近使用的频率的输出。%n%n您还可以使用内存卡复制ME方块和频率的配置，如§6接口§r和§6存储总线§r。§aShift-右键§r ME块以复制其配置，§a右键§r以粘贴该配置。请注意，这不会复制应用于块的升级。%n%n您还可以§ashift-右键§r以清空内存卡中设置的频率或ME块配置。%n%n包含§bBetter P2P§r，其中添加了§6高级内存卡§r。使用它，您可以§a右键§r任何连接到当前系统的ME设备或电缆。这将允许您查看所有当前的P2P连接，而无需搜索隧道。%n%n您还可以使用高级内存卡配置P2P隧道。握住卡片，§a右键§r一个隧道，它将被§a设置§r。选择了一个隧道后，它将以§a绿色§r突出显示。您还可以通过选择或绑定来查看其他连接；选择将重新选择该隧道。%n%n不正确的设置将显示为§c红色§r（通常是没有输入的P2P设备）。%n%n§6高级内存卡§r在§3GUI§r中有3种可访问的模式：%n%n§a绑定输出§r：%n一旦您要设置为输入的隧道被§a设置§r，点击任何其他连接上的§b绑定§r将选定的隧道转换为输入隧道，而任何绑定的隧道将转换为选定隧道的输出隧道。%n%n§a绑定输入§r：%n一旦您要设置为输出的隧道被§a设置§r，点击任何其他隧道上的§b绑定§r将该隧道设置为选定隧道的输入。这对于找不到输出隧道时很有用。%n%n§a复制输出§r：%n一旦您要复制的输出隧道被§a设置§r，点击任何其他连接上的§b绑定§r将复制选定隧道的输出频率。%n%n译者注：也是瞎翻的，主要是连字符和专有名词太多，丢翻译软件的效率及其低，只能短句手翻，所以观感会特别差，建议b站查教学（）。
+nomifactory.quest.expert.db.930.desc=§o注意：此任务接受内存卡和高级内存卡。§r%n%n§6P2P隧道§r（§a点对点隧道§r）是来自§b应用能源2§r的强大工具，可用于在ME系统中从一个位置发送物品、红石、RF/EU或流体到另一个位置，而无需使用任何磁盘存储空间。§c传输RF/EU对输入能量有5％的损耗。§r%n%n每个P2P隧道系统只能有§c一个输入§r，但可以有§e任意数量的输出§r。对于一个网络，你可以拥有任意数量的P2P隧道，没有限制。%n%n默认情况下，P2P隧道是§6ME隧道§r，用于传输应用能源通道和电力。由于频道机制已经被禁用，您很可能不会使用默认隧道。您可以通过右键单击具有§bJEI§r中所见物品的隧道来更改P2P隧道的模式。%n%n要配置P2P隧道，请使用§6内存卡§r。在握住内存卡的同时，§ashift-右键§r未配置的隧道，以设置输入的频率，并将频率保存到内存卡。一旦第一个隧道以这种方式设置，并且内存卡配置了频率，您§a右键§r使用内存卡单击的任何后续隧道都将设置为最近使用的频率的输出。%n%n您还可以使用内存卡复制ME方块和频率的配置，如§6接口§r和§6存储总线§r。§aShift-右键§r ME块以复制其配置，§a右键§r以粘贴该配置。请注意，这不会复制应用于块的升级。%n%n您还可以§ashift-右键§r以清空内存卡中设置的频率或ME块配置。%n%n包含§bBetter P2P§r，其中添加了§6高级内存卡§r。使用它，您可以§a右键§r任何连接到当前系统的ME设备或电缆。这将允许您查看所有当前的P2P连接，而无需搜索隧道。%n%n您还可以使用高级内存卡配置P2P隧道。握住卡片，§a右键§r一个隧道，它将被§a设置§r。选择了一个隧道后，它将以§a绿色§r突出显示。您还可以通过选择或绑定来查看其他连接；选择将重新选择该隧道。%n%n不正确的设置将显示为§c红色§r（通常是没有输入的P2P设备）。%n%n§6高级内存卡§r在§3GUI§r中有3种可访问的模式：%n%n§a绑定输出§r：%n一旦您要设置为输入的隧道被§a设置§r，点击任何其他连接上的§b绑定§r将选定的隧道转换为输入隧道，而任何绑定的隧道将转换为选定隧道的输出隧道。%n%n§a绑定输入§r：%n一旦您要设置为输出的隧道被§a设置§r，点击任何其他隧道上的§b绑定§r将该隧道设置为选定隧道的输入。这对于找不到输出隧道时很有用。%n%n§a复制输出§r：%n一旦您要复制的输出隧道被§a设置§r，点击任何其他连接上的§b绑定§r将复制选定隧道的输出频率。%n%n译者注：也是瞎翻的，主要是连字符和专有名词太多，丢翻译软件的效率及其低，只能短句手翻，所以观感会特别差，建议b站查教学（）。
+
 # db 931 of mode expert
 nomifactory.quest.expert.db.931.title=[复活节彩蛋]neeve
 nomifactory.quest.expert.db.931.desc=neeve，兔子们的主宰。召唤他，然后用你的礼物祝福他，你将获得他全能兔子的访问权限。%n%n完成这个秘密任务需要完成所有的5个任务！
