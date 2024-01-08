@@ -1,7 +1,6 @@
 # Greenhouse
 nomilabs.machine.greenhouse.name=温室
 recipemap.greenhouse.name=生长
-
 tile.unique_casing.growth_light.name=生长灯
 tile.unique_casing.air_vent.name=通风口
 
@@ -10,14 +9,12 @@ nomilabs.subtitle.tick.microverse=投影微宇宙
 
 # Config
 config.nomilabs.content=内容设置
-
 config.nomilabs.content.custom_content=自定义内容设置
 config.nomilabs.content.custom_content.items=启用自定义物品
 config.nomilabs.content.custom_content.blocks=启用自定义方块
 config.nomilabs.content.custom_content.fluids=启用自定义流体
 config.nomilabs.content.custom_content.complex_recipes=启用复杂配方
 config.nomilabs.content.custom_content.remap=重新映射旧版内容修改器的内容
-
 config.nomilabs.content.gt_content=自定义 GT 内容设置
 config.nomilabs.content.gt_content.materials=启用自定义 GT 材料
 config.nomilabs.content.gt_content.perfect_gems=启用完美宝石
@@ -25,19 +22,16 @@ config.nomilabs.content.gt_content.remap_perfect_gems=重新映射旧版完美�
 config.nomilabs.content.gt_content.blocks=启用自定义 GT 方块
 config.nomilabs.content.gt_content.old_multiblocks=启用旧版多方块结构
 config.nomilabs.content.gt_content.new_multiblocks=启用新版多方块结构
-
 config.nomilabs.mod_integration=Mod 联动设置
 config.nomilabs.mod_integration.nuclearcraft=启用 NuclearCraft 联动
 config.nomilabs.mod_integration.xu2=启用 Extra Utilities 2 联动
 config.nomilabs.mod_integration.top=启用 The One Probe 联动
 config.nomilabs.mod_integration.ender_storage=启用 Ender Storage 联动
 config.nomilabs.mod_integration.ender_io=启用 Ender IO 联动
-
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution 联动设置
 config.nomilabs.mod_integration.draconicevolution.enable=启用 Draconic Evolution 联动
 config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=自动建造速度
 config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=自动解构速度
-
 config.nomilabs.advanced=高级设置
 config.nomilabs.advanced.allow_other_modes=允许其他模式
 config.nomilabs.advanced.disable_xp_scaling=禁用铁砧累计惩罚
@@ -50,23 +44,19 @@ config.nomilabs.advanced.ignore_biomes=被忽略的缺少注册的生物群系�
 # Custom Fluids
 fluid.uranium233=铀 233
 fluid.plutonium2=钚
-
 fluid.moltenempoweredrestonia=熔融充能红石水晶
 fluid.moltenempoweredpalis=熔融充能青金石水晶
 fluid.moltenempoweredenori=熔融充能铁晶
 fluid.moltenempowereddiamatine=熔融充能钻石水晶
 fluid.moltenempoweredemeradic=熔融充能绿宝石水晶
 fluid.moltenempoweredvoid=熔融充能煤晶
-
 fluid.elementalreduction=元素还原液
 fluid.tough_alloy=高强合金
 fluid.moltendarksoularium=熔融玄色魂金
 
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi 实验室
-
 item.material.oreprefix.gemPerfect=完美%s
-
 nomilabs.material.conductive_iron=导电铁
 nomilabs.material.pulsating_iron=脉冲铁
 nomilabs.material.energetic_alloy=充能合金
@@ -94,7 +84,6 @@ nomilabs.material.fluix=福鲁伊克斯
 nomilabs.material.osmiridium_8020=铱锇 80/20
 nomilabs.material.iridosmine_8020=锇铱 80/20
 nomilabs.material.kaemanite=凯特明
-
 nomilabs.material.tungsten_trioxide=三氧化钨
 nomilabs.material.beryllium_oxide=氧化铍
 nomilabs.material.niobium_pentoxide=五氧化二铌
@@ -130,7 +119,6 @@ nomilabs.material.naquadah_oxide_petro_solution=氧化硅岩石油溶剂
 nomilabs.material.naquadah_oxide_aero_solution=氧化硅岩气溶胶
 nomilabs.material.hot_naquadah_oxide_neocryolite_solution=热氧化硅岩新冰晶溶液
 nomilabs.material.lead_metasilicate=偏硅酸铅
-
 nomilabs.material.platinum_metallic=金属铂
 item.nomilabs.material.platinum_metallic.dust=金属铂粉
 item.nomilabs.material.platinum_metallic.dustSmall=小堆金属铂粉
@@ -181,7 +169,6 @@ nomilabs.material.rhodium_salt_solution=铑盐溶液
 nomilabs.material.methyl_formate=甲酸甲酯
 nomilabs.material.formic_acid=甲酸
 nomilabs.material.sodium_methoxide=甲醇钠
-
 nomilabs.material.hexafluorosilicic_acid=氟硅酸
 nomilabs.material.dirty_hexafluorosilicic_acid=污氟硅酸
 nomilabs.material.stone_residue=石头残渣
@@ -209,12 +196,10 @@ nomilabs.material.butanol=丁醇
 nomilabs.material.phosphorus_trichloride=三氯化磷
 nomilabs.material.phosphoryl_chloride=磷酰氯
 nomilabs.material.tributyl_phosphate=磷酸三丁酯
-
 item.nomilabs.nomicoin.name=万象币[1]
 item.nomilabs.nomicoin5.name=万象币[5]
 item.nomilabs.nomicoin25.name=万象币[25]
 item.nomilabs.nomicoin100.name=万象币[100]
-
 item.nomilabs.woodenwidget.name=木制装置
 item.nomilabs.stonewidget.name=石制装置
 item.nomilabs.alloywidget.name=合金装置
@@ -223,27 +208,23 @@ item.nomilabs.stonewidgetup.name=石制装置零件（顶部）
 item.nomilabs.stonewidgetdown.name=石制装置零件（底部）
 item.nomilabs.woodwidgetleft.name=木制装置零件（左翼）
 item.nomilabs.woodwidgetright.name=木制装置零件（右翼）
-
 item.nomilabs.moteoflife.name=生命源质之尘
 item.nomilabs.moteofnature.name=自然源质之尘
 item.nomilabs.moteoffire.name=火焰源质之尘
 item.nomilabs.moteofearth.name=大地源质之尘
 item.nomilabs.moteofair.name=大气源质之尘
 item.nomilabs.moteofwater.name=水源质之尘
-
 item.nomilabs.primalnature.name=元始自然源质
 item.nomilabs.primalfire.name=元始火焰源质
 item.nomilabs.primalearth.name=元始大地源质
 item.nomilabs.primalair.name=元始大气源质
 item.nomilabs.primalwater.name=元始水源质
 item.nomilabs.primallife.name=元始生命源质
-
 item.nomilabs.essentianeedle.name=源质针头
 item.nomilabs.runedessentianeedle.name=符文源质针头
 item.nomilabs.ornateessentianeedle.name=炫彩源质针头
 item.nomilabs.woodenmortar.name=木研钵
 item.nomilabs.blockofleaddust.name=铅粉块
-
 item.nomilabs.tieroneship.name=钢制甲板级微型采掘机[壹级]
 item.nomilabs.tiertwoship.name=钛制甲板级微型采掘机[贰级]
 item.nomilabs.tierthreeship.name=碳化钨甲板级微型采掘机[叁级]
@@ -258,7 +239,6 @@ item.nomilabs.tiernineship.name=永恒甲板级微型后羿号[玖级]
 item.nomilabs.tiertenship.name=中子甲板级微型宇宙收割者[拾级]
 item.nomilabs.moondust.name=月面尘
 item.nomilabs.quantumflux.name=量子通量
-
 item.nomilabs.tieroneship_stabilized.name=稳定钢制甲板级微型采掘机[壹级]
 item.nomilabs.tiertwoship_stabilized.name=稳定钛制甲板级微型采掘机[贰级]
 item.nomilabs.tierthreeship_stabilized.name=稳定碳化钨甲板级微型采掘机[叁级]
@@ -268,7 +248,6 @@ item.nomilabs.tierfiveship_stabilized.name=稳定铱制甲板级微型采掘机[
 item.nomilabs.tiersixship_stabilized.name=稳定末影甲板级微型采掘机[陆级]
 item.nomilabs.tiersevenship_stabilized.name=稳定龙素甲板级微型猎龙者[柒级]
 item.nomilabs.tiereightship_stabilized.name=稳定水晶矩阵甲板级微型利维坦歼灭者[捌级]
-
 item.nomilabs.tieroneship_stabilized_matter.name=原始的钢微型宇宙物质[壹级]
 item.nomilabs.tiertwoship_stabilized_matter.name=原始的钛微型宇宙物质[贰级]
 item.nomilabs.tierthreeship_stabilized_matter.name=原始的钨微型宇宙物质[叁级]
@@ -278,14 +257,12 @@ item.nomilabs.tierfiveship_stabilized_matter.name=原始的铱微型宇宙物质
 item.nomilabs.tiersixship_stabilized_matter.name=原始的末影微型宇宙物质[陆级]
 item.nomilabs.tiersevenship_stabilized_matter.name=原始的龙素微型宇宙物质[柒级]
 item.nomilabs.tiereightship_stabilized_matter.name=原始的水晶微型宇宙物质[捌级]
-
 item.nomilabs.t1guidance.name=基础微型采掘机导航系统
 item.nomilabs.t1laser.name=基础采掘激光
 item.nomilabs.t2laser.name=强化采掘激光
 item.nomilabs.t2guidance.name=进阶微型采掘机导航系统
 item.nomilabs.t3engine.name=增幅喷射推进器
 item.nomilabs.t3laser.name=增幅激光阵列
-
 item.nomilabs.steelplating.name=重型钢板
 item.nomilabs.titaniumplating.name=重型钛板
 item.nomilabs.tungstencarbideplating.name=重型碳化钨板
@@ -296,7 +273,6 @@ item.nomilabs.draconiumplating.name=重型龙素板
 item.nomilabs.crystalmatrixplating.name=重型水晶矩阵板
 item.nomilabs.quantumfluxedeterniumplating.name=重型量子充能永恒板
 item.nomilabs.neutroniumplating.name=重型中子板
-
 item.nomilabs.heartofauniverse.name=宇宙之心
 item.nomilabs.radiationlayer.name=防辐射层
 item.nomilabs.pressurelayer.name=耐高压层
@@ -310,12 +286,10 @@ item.nomilabs.thermalcloth.name=耐热布
 item.nomilabs.smallgearextrudershape.name=模头（小型齿轮）
 item.nomilabs.creativeportabletankmold.name=模头（创造便携储罐）
 item.nomilabs.magnetron.name=磁控管
-
 item.nomilabs.conductivewire.name=导电铁导线
 item.nomilabs.pulsatingwire.name=脉冲铁导线
 item.nomilabs.energeticwire.name=充能合金导线
 item.nomilabs.vibrantwire.name=脉冲合金导线
-
 item.nomilabs.knightslimeingot.name=骑士史莱姆锭
 item.nomilabs.endstonedust.name=末地石粉
 item.nomilabs.lapisarmorplate.name=重青金石板
@@ -324,7 +298,6 @@ item.nomilabs.redstonearmorplate.name=重红石板
 tile.nomilabs.block_dust.name=尘土块
 item.nomilabs.blazepowder.name=烈焰粉
 item.nomilabs.grainsofinnocence.name=纯真之尘
-
 item.nomilabs.hotdraconiumingot.name=热龙素锭
 item.nomilabs.exoticmaterialscatalyst.name=异域材料催化剂
 item.nomilabs.eternalcatalyst.name=永恒催化剂
@@ -335,7 +308,6 @@ item.nomilabs.warpengine.name=跃迁引擎
 item.nomilabs.universalnavigator.name=万能导航器
 item.nomilabs.deuteriumrover.name=氘月球车
 item.nomilabs.helium3rover.name=氦-3月球车
-
 item.nomilabs.solidifiedargon.name=固化氩
 item.nomilabs.solidifiedchlorine.name=固化氯
 item.nomilabs.solidifiedfluorine.name=固化氟
@@ -348,11 +320,9 @@ item.nomilabs.solidifiednitrogen.name=固化氮
 item.nomilabs.solidifiedoxygen.name=固化氧
 item.nomilabs.solidifiedradon.name=固化氡
 item.nomilabs.solidifiedxenon.name=固化氙
-
 item.nomilabs.netherstarsouth.name=下界之星南角
 item.nomilabs.netherstareast.name=下界之星东角
 item.nomilabs.netherstarwest.name=下界之星西角
-
 item.nomilabs.stabilizedeinsteinium.name=稳定锿
 item.nomilabs.stabilizedberkelium.name=稳定锫
 item.nomilabs.stabilizedplutonium.name=稳定钚
@@ -362,16 +332,13 @@ item.nomilabs.stabilizedamericium.name=稳定镅
 item.nomilabs.stabilizedcurium.name=稳定锔
 item.nomilabs.stabilizedcalifornium.name=稳定锎
 item.nomilabs.stabilizedthorium.name=稳定钍
-
 item.nomilabs.compressedoctadiccapacitor.name=压缩八层电容
 item.nomilabs.doublecompressedoctadiccapacitor.name=双倍压缩八层电容
 item.nomilabs.ultimate_circuit.name=终极电路板
 tile.nomilabs.ultimate_power_storage.name=终极蓄电池
-
 tile.nomilabs.ultimate_generator.name=终极发电机
 item.nomilabs.ultimate_crafting_table.name=终极合成台
 item.nomilabs.ultimate_gem.name=终极宝石
-
 item.nomilabs.dragonlairdata.name=飞龙巢穴数据
 item.nomilabs.witherrealmdata.name=凋灵领域数据
 tile.nomilabs.denseoilshale.name=富集油砂矿石
@@ -384,18 +351,13 @@ item.nomilabs.stellarcreationdata.name=恒星创造数据
 item.nomilabs.densehydrogen.name=富集氢
 item.nomilabs.ultradensehydrogen.name=超富集氢
 tile.nomilabs.densemagma.name=富集岩浆块
-
 tile.nomilabs.microverse_casing.name=微型宇宙投影仪外壳
-
 item.nomilabs.eightsmore.name=八重饼干夹烤棉花糖
 item.nomilabs.sixteensmore.name=十六重饼干夹烤棉花糖
 item.nomilabs.thirtytwosmore.name=三十二重饼干夹烤棉花糖
 item.nomilabs.sixtyfoursmore.name=六十四重饼干夹烤棉花糖
-
 item.nomilabs.dark_red_coal.name=暗红煤
-
 item.nomilabs.hand_framing_tool.name=手持镶框工具
-
 item.nomilabs.hand_framing_tool.desc1=手工给抽屉镶框！
 item.nomilabs.hand_framing_tool.desc2=通过手持镶框工具，可以为已经放置在世界上的抽屉设置框架。
 item.nomilabs.hand_framing_tool.desc3=使用前，工具本身需要在工作台中镶框。
@@ -403,7 +365,6 @@ item.nomilabs.hand_framing_tool.desc4=如果你希望对工具本身镶框，请
 item.nomilabs.hand_framing_tool.desc5=被镶框的工具右键单击世界上的任何抽屉都会为它镶框。
 item.nomilabs.hand_framing_tool.desc6=当使用它右击世界上任意一种木质抽屉时，它们将变成镶框抽屉。
 item.nomilabs.hand_framing_tool.desc7=框架/装饰也将应用于它们。
-
 item.nomilabs.pulsatingdust.name=脉动之尘
 item.nomilabs.pulsatingmesh.name=脉动网格
 
@@ -447,18 +408,13 @@ tooltip.nomilabs.excitationcoil.description_item=仅用于制作元件……以�
 tooltip.nomilabs.excitationcoil.placeable=可放置！
 tooltip.nomilabs.excitationcoil.wearable=可以戴在你的头上！
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
-
 tooltip.nomilabs.hand_framing_tool.not_set=把这个工具放在成型台或合成台里来设置镶框数据！
 tooltip.nomilabs.hand_framing_tool.side=侧边: %s
 tooltip.nomilabs.hand_framing_tool.trim=镶边: %s
 tooltip.nomilabs.hand_framing_tool.front=前面: %s
-
 tooltip.nomilabs.ultimate_items.description=只用于制作元件。
-
 tooltip.nomilabs.universalnavigator.description=晚点见，领航员！
-
 tooltip.nomilabs.eternalcatalyst.description=凝视深渊……
-
 tooltip.nomilabs.tieroneship.description=从微宇宙中的小行星上采集钛和其他轻金属。
 tooltip.nomilabs.tiertwoship.description=从微宇宙中的小行星上采集钨和其他重金属。
 tooltip.nomilabs.tierthreeship.description=从下界微宇宙中采集超高温金属和宝石。
@@ -472,13 +428,10 @@ tooltip.nomilabs.tiereightandhalfship.description=从微宇宙之外未经探索
 tooltip.nomilabs.tiernineship.description=坍缩微宇宙恒星并收获它们美味的中子核心。
 tooltip.nomilabs.tiertenship.description1=坍缩整个微宇宙并完全采集它。
 tooltip.nomilabs.tiertenship.description2=如入无人之地。
-
 tooltip.stabilized_miners.description1=一个稳定的版本，注入了宇宙之心。
 tooltip.stabilized_miners.description2=无限期持续。可重复使用。完全不 OP。
 tooltip.stabilized_miners.description3=它看起来奇怪地熟悉。
-
 tooltip.stabilized_matters.description=一个无限的、费解的材料深渊。
-
 tooltip.nomilabs.capacitors.description=Ender IO 机器升级
 tooltip.nomilabs.capacitors.level=级别：%s
 
