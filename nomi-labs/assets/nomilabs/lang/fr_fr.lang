@@ -558,3 +558,4 @@ config.nomilabs.content.gt_content.blocks=
 config.nomilabs.content.gt_content.old_multiblocks=
 config.nomilabs.content.gt_content.new_multiblocks=
 config.nomilabs.mod_integration=
+tooltip.nomilabs.eternalcatalyst.description=
