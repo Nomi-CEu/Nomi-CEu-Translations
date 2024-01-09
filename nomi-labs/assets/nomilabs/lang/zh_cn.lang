@@ -404,7 +404,7 @@ tooltip.nomilabs.general.press_ctrl_for_info=按住 [Ctrl] 查看更多信息。
 
 # Items
 tooltip.nomilabs.excitationcoil.description_block=只用于制作元件。
-tooltip.nomilabs.excitationcoil.description_item=仅用于制作元件……以及：
+tooltip.nomilabs.excitationcoil.description_item=仅用于制作元件…以及：
 tooltip.nomilabs.excitationcoil.placeable=可放置！
 tooltip.nomilabs.excitationcoil.wearable=可以戴在你的头上！
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
@@ -414,7 +414,7 @@ tooltip.nomilabs.hand_framing_tool.trim=镶边: %s
 tooltip.nomilabs.hand_framing_tool.front=前面: %s
 tooltip.nomilabs.ultimate_items.description=只用于制作元件。
 tooltip.nomilabs.universalnavigator.description=晚点见，领航员！
-tooltip.nomilabs.eternalcatalyst.description=凝视深渊……
+tooltip.nomilabs.eternalcatalyst.description=凝视深渊…
 tooltip.nomilabs.tieroneship.description=从微宇宙中的小行星上采集钛和其他轻金属。
 tooltip.nomilabs.tiertwoship.description=从微宇宙中的小行星上采集钨和其他重金属。
 tooltip.nomilabs.tierthreeship.description=从下界微宇宙中采集超高温金属和宝石。
