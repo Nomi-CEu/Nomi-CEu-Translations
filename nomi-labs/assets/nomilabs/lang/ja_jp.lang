@@ -488,3 +488,4 @@ config.nomilabs.content.custom_content.remap=
 config.nomilabs.content.gt_content=
 config.nomilabs.content.gt_content.materials=
 config.nomilabs.content.gt_content.perfect_gems=
+tooltip.nomilabs.eternalcatalyst.description=
