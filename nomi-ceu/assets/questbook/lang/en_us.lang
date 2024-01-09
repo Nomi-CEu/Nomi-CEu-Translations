@@ -1622,7 +1622,7 @@ nomifactory.quest.normal.db.502.desc=§6Capacitors§r are devices that store ele
 
 # db 503 of mode normal
 nomifactory.quest.normal.db.503.title=Dark Soularium Ingots
-nomifactory.quest.normal.db.503.desc=
+nomifactory.quest.normal.db.503.desc=Dark Soularium Ingots are used for the Final tier of Jetpack thrusters and the Exotic Metals Catalyst.
 
 # db 504 of mode normal
 nomifactory.quest.normal.db.504.title=§2Brewery
@@ -1638,7 +1638,7 @@ nomifactory.quest.normal.db.507.desc=You'll need §9Chlorine§r at this point. I
 
 # db 508 of mode normal
 nomifactory.quest.normal.db.508.title=§2Ruridit Ingots
-nomifactory.quest.normal.db.508.desc=Ruridit Ingots are required to make gears for the §aAssembly Line§r and §dDragon Egg Mill §r. The Dragon Egg Mill creates 500GP, the most powerful source of GP (behind the Creative Mill).
+nomifactory.quest.normal.db.508.desc=Ruridit Ingots are required to make gears for the §aAssembly Line§r.
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2Lossless Cables
