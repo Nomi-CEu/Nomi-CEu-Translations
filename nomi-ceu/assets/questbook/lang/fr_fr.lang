@@ -1,1 +1,34 @@
 
+
+
+# line 1 of mode normal
+nomifactory.quest.normal.line.1.title=Début de Partie
+
+# line 2 of mode normal
+nomifactory.quest.normal.line.2.title=Milieu de Partie
+
+# line 3 of mode normal
+nomifactory.quest.normal.line.3.title=Progression
+
+# line 4 of mode normal
+nomifactory.quest.normal.line.4.title=Partie avancée
+
+# line 5 of mode normal
+nomifactory.quest.normal.line.5.title=Fin de Partie
+nomifactory.quest.normal.line.5.desc=Vous êtes en fin de partie maintenant...%n%nPillez des nanovers et débloquez le §Tonneau Créatif§r.%n%nMettez toute vos automatisations vers l'ultime teste afin de vous diriger vers votre dernier but: le §dCoffre Créatif§r.
+
+# line 6 of mode normal
+nomifactory.quest.normal.line.6.title=Genèse
+nomifactory.quest.normal.line.6.desc=Bienvenu dans §5Nomifactory§r, je serais votre guide.
+
+# line 7 of mode normal
+nomifactory.quest.normal.line.7.title=Voyageons au confins du Nanoverse
+
+# line 8 of mode normal
+nomifactory.quest.normal.line.8.title=Fusion & Recherches
+nomifactory.quest.normal.line.8.desc=Créez de nouveaux éléments et alimentez votre base avec des donuts!%n%nRedirigez la puissance combiner de vos circuits afin de débloquer les secrets des composants avancés.
+# line 0 of mode normal
+nomifactory.quest.normal.line.0.title=Le Commencement
+nomifactory.quest.normal.line.3.desc=Il est toujours récompensant de mettre un pas en avant.%n%nCette section entoure la progression des différentes choses de §5Nomifactory§r.%n%nLes Circuits sont votre mesure primaire des progrès que vous avez réalisés.
+nomifactory.quest.normal.line.4.desc=Gregtech §dLuV§r, ZPM, §3UV§r, §4UHV§r tiers:%n%nConstructions §3Lignes d'Assemblages§r, §3Réacteurs à fusion§r, et bien plus encore!%n%nAutomatise en pleine classe avec §bAutoEnpaquettement§r. Grimpez les grades de §6Nano Mineurs§r.%n%n§bDraconic Évolution§r pour le craft par fusion et le stockage électrique.
+nomifactory.quest.normal.line.7.desc=Il est temps de mettre les pieds à l'eau avec §bExtra Utilities§r et §bExtended Crafting§r.%n%nConquérez l'End ou investissez dans §bEnderIO §rEnfin d'avoir des technologies de téléportation.%n%nConstruisez une fusée pour aller sur la Lune ! (ou pas, mais en vrai c'est marrant)%n%nDans tout les cas il est temps de miner §emicroverses§r.
