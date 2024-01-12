@@ -1,1 +1,20 @@
 
+
+tile.ec.trimmed_ultimate.name=Blocs d'Acier Noir
+tile.ec.trimmed_gold.name=Blocs d'Acier Noir
+item.ec.material_ultimate_nugget.name=Pépite d'Omnium
+tile.ec.trimmed_crystaltine.name=Blocs d'Acier Noir
+tile.ec.trimmed_diamond.name=Blocs d'Acier Noir
+
+# line 9
+tile.ec.storage_ultimate.name=Bloc d'Omnium
+item.ec.material_ender_star_nugget.name=Pépite d'Étoile Pleinement Final
+tile.ec.trimmed_emerald.name=Blocs d'Acier Noir
+# line 18-23 of the jar file
+tile.ec.trimmed_iron.name=Blocs d'Acier Noir
+
+# line 75-76
+item.ec.material_ender_star.name=Étoile Pleinement Final
+
+# line 69-70
+item.ec.material_ultimate_ingot.name=Lingot d'Omnium
