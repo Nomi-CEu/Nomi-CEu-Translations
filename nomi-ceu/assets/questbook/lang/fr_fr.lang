@@ -32,3 +32,26 @@ nomifactory.quest.normal.line.0.title=Le Commencement
 nomifactory.quest.normal.line.3.desc=Il est toujours récompensant de mettre un pas en avant.%n%nCette section entoure la progression des différentes choses de §5Nomifactory§r.%n%nLes Circuits sont votre mesure primaire des progrès que vous avez réalisés.
 nomifactory.quest.normal.line.4.desc=Gregtech §dLuV§r, ZPM, §3UV§r, §4UHV§r tiers:%n%nConstructions §3Lignes d'Assemblages§r, §3Réacteurs à fusion§r, et bien plus encore!%n%nAutomatise en pleine classe avec §bAutoEnpaquettement§r. Grimpez les grades de §6Nano Mineurs§r.%n%n§bDraconic Évolution§r pour le craft par fusion et le stockage électrique.
 nomifactory.quest.normal.line.7.desc=Il est temps de mettre les pieds à l'eau avec §bExtra Utilities§r et §bExtended Crafting§r.%n%nConquérez l'End ou investissez dans §bEnderIO §rEnfin d'avoir des technologies de téléportation.%n%nConstruisez une fusée pour aller sur la Lune ! (ou pas, mais en vrai c'est marrant)%n%nDans tout les cas il est temps de miner §emicroverses§r.
+
+# line 9 of mode normal
+nomifactory.quest.normal.line.9.title=Simulation de Ressources
+nomifactory.quest.normal.line.9.desc=Génères des ressources grâce à §dDeep Mob Evolution§r!%n%nFerme la boucle de production en MV pour un recyclage de 100%% des ressources !
+
+# line 10 of mode normal
+nomifactory.quest.normal.line.10.title=Matière-Énergie
+nomifactory.quest.normal.line.10.desc=Converties entre matière et énergie avec §dApplied Energistics§r§r.%n%nAutomatises tout ce que tu veux! o/
+
+# line 11 of mode normal
+nomifactory.quest.normal.line.11.title=Ligne de traitements
+nomifactory.quest.normal.line.11.desc=Un chapitre pour t'aider avec tes traitements, autant complexe que simple à maitriser!
+
+# db 0 of mode normal
+nomifactory.quest.normal.db.0.title=Rechargement de Quartz
+
+# db 1 of mode normal
+nomifactory.quest.normal.db.1.title=Chambre de pousse de cristaux
+
+# db 2 of mode normal
+nomifactory.quest.normal.db.2.title=Machine de mise en conserve et divers trucs
+nomifactory.quest.normal.db.0.desc=Le but principale de cette machine est de transformer le §6Certus Quartz§r en §6Certus Quartz chargé§r.%n%nCette machine peut être alimenter avec des RF via des câbles électrique ou en utilisant énergie de AE depuis un réseau grâce au câbles ou tubes ME.%n%nElle n'accepte l'énergie que depuis deux faces. lesquels? C'est assez simple à trouver.%n%n%n%n%n%n%n%n%nOui bon ok. c'est la face du haut et du bas...%n%n
+nomifactory.quest.normal.db.1.desc=La §3Chambre de pousse de cristaux§r Te permet de faire les crafts de bases dans une machine de §bApplied Energistics§r. Woohoo, tu n'auras plus à fusionner des trucs dans l'eau!%n%nElle est utiliser pour faire pousser des §Graines de Cristaux§r en §Cristaux Pure§r, ainsi que pour créer des §6Cristaux de Fluix§r.%n%nJEI no montre pas la recette de la chambre directement, nous allons donc te l'expliquer ici:%n%nLes graines sont faites par pulvériser n'importe lesquels des trois types de cristaux puis par mixer cette poussière avec du sable. Cette graine va pousser le cristal dont elle est issue, qui sont utilisable pour crafter chacuns des autres cristaux de base utilisé dans la plupart des recette de base. Utiliser du Cristal Pur te permet de doubler ton efficacité de production, c'est plutôt cool. Et non, tu ne peux pas pulvériser les cristaux que tu as créer pour multiplier la quantité de ressources produite. Désolé.%n%nPour les Cristaux que tu as déjà produits dans un conteneur d'eau, ce sont les mêmes ingrédients ici: insère un de chaque de: §6Redstone§r, §6Cristal de certus quartz chargé§r et un §6Quartz§r pour produire deux Cristaux de Fluix.
