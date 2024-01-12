@@ -22,7 +22,7 @@ nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§
 
 # line 5 of mode normal
 nomifactory.quest.normal.line.5.title=End Game
-nomifactory.quest.normal.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Chest§r.
+nomifactory.quest.normal.line.5.desc=You're in the endgame now…%n%nHarvest entire microverses and unlock the §dCreative Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Chest§r.
 
 # line 6 of mode normal
 nomifactory.quest.normal.line.6.title=Genesis
@@ -94,11 +94,11 @@ nomifactory.quest.normal.db.10.desc=The Second Micro Miner! §2You'll need that 
 
 # db 11 of mode normal
 nomifactory.quest.normal.db.11.title=§2Electronics Subcomponents
-nomifactory.quest.normal.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%n§2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.§r%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Crafting Station§r... you'll be making a LOT of these things.
+nomifactory.quest.normal.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%n§2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.§r%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Crafting Station§r… you'll be making a LOT of these things.
 
 # db 12 of mode normal
 nomifactory.quest.normal.db.12.title=Some Starter Tools
-nomifactory.quest.normal.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§f will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§f. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§f... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Iron tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§f (not a §aMining Hammer§f, mind you... six ingots, not plates). Hammers can be used to turn §etwo ingots into one plate§f. §6Plates§f can make a §aFile§f, Files can make §6Rods§f, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§f is probably your best bet for a tool material right now, but better materials will become available as you progress. This quest accepts any tool material.
+nomifactory.quest.normal.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§f will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§f. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§f... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Iron tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§f (not a §aMining Hammer§f, mind you… six ingots, not plates). Hammers can be used to turn §etwo ingots into one plate§f. §6Plates§f can make a §aFile§f, Files can make §6Rods§f, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§f is probably your best bet for a tool material right now, but better materials will become available as you progress. This quest accepts any tool material.
 
 # db 13 of mode normal
 nomifactory.quest.normal.db.13.title=Batch Crafting In Style
@@ -273,7 +273,7 @@ nomifactory.quest.normal.db.58.title=§2LV Power Storage
 nomifactory.quest.normal.db.58.desc=§6Batteries§r are §bGregTech §rpower storage for §aEU§r energy.%n%nAlthough there are several types of rechargeable batteries you can make, §2Lithium Batteries§r are the best ones, and the only ones you should really consider making.%n%n§6Lithium§r is possible to find inside of §6Tungsten§r veins, however, they are fairly rare. Consider "buying" some Lithium with §dNomicoins§r.
 
 # db 59 of mode normal
-nomifactory.quest.normal.db.59.title=Copper... Nickel... Cupronickel?
+nomifactory.quest.normal.db.59.title=Copper… Nickel…Cupronickel?
 nomifactory.quest.normal.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.%n%nNickel is used mostly for several very important alloys, including Invar and Cupronickel.
 
 # db 60 of mode normal
@@ -334,7 +334,7 @@ nomifactory.quest.normal.db.73.desc=§6ME Conduits§r have the advantage of bein
 
 # db 74 of mode normal
 nomifactory.quest.normal.db.74.title=Aluminium Casing
-nomifactory.quest.normal.db.74.desc=§6Quartzite Ore§r is found in... quartzite veins in the §2Nether§r.%n%n§6Quartzite Dust§r can be electrolyzed into §6Crushed Black Quartz§r, which can be crystallized into §6Black Quartz§r in an §3Autoclave§r.%n%nBlack Quartz and §6Aluminium Plates§r will make §6Aluminium Casings§r, which are used for making machines from §bActually Additions§r.
+nomifactory.quest.normal.db.74.desc=§6Quartzite Ore§r is found in… quartzite veins in the §2Nether§r.%n%n§6Quartzite Dust§r can be electrolyzed into §6Crushed Black Quartz§r, which can be crystallized into §6Black Quartz§r in an §3Autoclave§r.%n%nBlack Quartz and §6Aluminium Plates§r will make §6Aluminium Casings§r, which are used for making machines from §bActually Additions§r.
 
 # db 75 of mode normal
 nomifactory.quest.normal.db.75.title=Machine Block
@@ -342,7 +342,7 @@ nomifactory.quest.normal.db.75.desc=The §6Machine Block§r is the first step in
 
 # db 76 of mode normal
 nomifactory.quest.normal.db.76.title=§2The First Tier Two Circuits
-nomifactory.quest.normal.db.76.desc=Your first §6Tier Two Circuits§r will require three §6Tier One Circuits§r plus two §6Diodes§r.%n%nThese are rather expensive... Always be on the lookout for a cheaper way to make your circuits - new sets of recipes become available each time you make a new tier of §2Circuit Assembler§r. Conveniently, this tier of Circuit unlocks one now!
+nomifactory.quest.normal.db.76.desc=Your first §6Tier Two Circuits§r will require three §6Tier One Circuits§r plus two §6Diodes§r.%n%nThese are rather expensive… Always be on the lookout for a cheaper way to make your circuits - new sets of recipes become available each time you make a new tier of §2Circuit Assembler§r. Conveniently, this tier of Circuit unlocks one now!
 
 # db 77 of mode normal
 nomifactory.quest.normal.db.77.title=§2Perfect Gems
@@ -738,7 +738,7 @@ nomifactory.quest.normal.db.180.desc=§9Acetic Acid§r and §9Sulfuric Acid§r m
 
 # db 181 of mode normal
 nomifactory.quest.normal.db.181.title=Acetic Acid
-nomifactory.quest.normal.db.181.desc=There are several paths to §9Acetic Acid§r... probably the simplest is combining §9Oxygen§r, §9Hydrogen§r, and §6Carbon§r, but one of the several other methods may appeal to you more, especially if you have a §3Distillation Tower§r.%n%nLook through §bJEI§r for the various options.
+nomifactory.quest.normal.db.181.desc=There are several paths to §9Acetic Acid§r… probably the simplest is combining §9Oxygen§r, §9Hydrogen§r, and §6Carbon§r, but one of the several other methods may appeal to you more, especially if you have a §3Distillation Tower§r.%n%nLook through §bJEI§r for the various options.
 
 # db 182 of mode normal
 nomifactory.quest.normal.db.182.title=§2Epichlorohydrin
@@ -762,7 +762,7 @@ nomifactory.quest.normal.db.186.desc=§6Carbon Fibers§r are useful for a variet
 
 # db 187 of mode normal
 nomifactory.quest.normal.db.187.title=MV Energy Converter
-nomifactory.quest.normal.db.187.desc=Remember to keep the MV area separate from your LV area. §eHooking up an LV machine to MV current will result in the machine being destroyed! Also LV cables will burn up if you put MV current through them§r. That's why it's probably best to keep the areas separate until you're comfortable and confident with voltages. Eventually you can use transformers to switch voltages within a single setup, but don't feel forced to try that until you've got a grasp on the basics.%n%nAll RF power is the same (it has no voltages), so you can use RF conduits to route power from wherever you're generating and converting to EU with §3Energy Converters§r for each voltage. You don't have to use this setup, but it's the most foolproof one for a beginner. And if you're an expert, well... you don't need my advice.%n%nFor your MV cables, you can use §6Copper§r to start with. §6Energetic Alloy cables§r are lossless though, so consider them if you're able to mass produce those ingots.
+nomifactory.quest.normal.db.187.desc=Remember to keep the MV area separate from your LV area. §eHooking up an LV machine to MV current will result in the machine being destroyed! Also LV cables will burn up if you put MV current through them§r. That's why it's probably best to keep the areas separate until you're comfortable and confident with voltages. Eventually you can use transformers to switch voltages within a single setup, but don't feel forced to try that until you've got a grasp on the basics.%n%nAll RF power is the same (it has no voltages), so you can use RF conduits to route power from wherever you're generating and converting to EU with §3Energy Converters§r for each voltage. You don't have to use this setup, but it's the most foolproof one for a beginner. And if you're an expert, well… you don't need my advice.%n%nFor your MV cables, you can use §6Copper§r to start with. §6Energetic Alloy cables§r are lossless though, so consider them if you're able to mass produce those ingots.
 
 # db 188 of mode normal
 nomifactory.quest.normal.db.188.title=§2Epoxy Substrate
@@ -858,7 +858,7 @@ nomifactory.quest.normal.db.213.desc=Holding one of these reveals §aTravel Anch
 
 # db 214 of mode normal
 nomifactory.quest.normal.db.214.title=§2Deuterium
-nomifactory.quest.normal.db.214.desc=The Moon is a barren, lifeless rock... So why did you want to come here?%n%nOne major draw is that §6Moon Turf§r, which makes up the surface of the Moon, is an efficient means of obtaining §9Deuterium§r. It will be useful for producing §9Microversium§r, §9Tritium§r, plasmas from fusion, and crystallizing §6Dilithium§r.%n%nThe Moon also contains fluid deposits of §eDeuterium§r and §eHelium-3§r, which you can harvest with a §3Fluid Rig§r. However, you will want to use the second Fluid Rig tier to extract it, as the amount of Deuterium and Helium-3 is too low to be anything appreciable from a first tier Fluid Rig.%n%nSpace exploration isn't mandatory in this pack, so if you don't feel like exploring space with §bAdvanced Rocketry§r, then you can centrifuge §9Hydrogen§r for §eDeuterium§r instead.%n%nJust keep in mind that it's much less rewarding to skip this and you'll need lots of Hydrogen to compensate, although you won't need too much for the first §3Microverse Projector§r.%n%nIn §6HV§r Age and more effectively in §1IV§r Age, you can also get this from processing §9Ender Air§r, which may be better than going to the moon, depending on your circumstances.§r%n%nThere are also several ores that are rare on the Overworld but exist in abundance on the Moon. In particular, the Moon contains large quantities of §6Titanium§r (in the form of §6Rutile Ore§r and §6Ilmenite Ore§r) and §6Tungsten§r (in the form of §6Scheelite Ore§r and §6Tungstate Ore§r).%n%n%n
+nomifactory.quest.normal.db.214.desc=The Moon is a barren, lifeless rock… So why did you want to come here?%n%nOne major draw is that §6Moon Turf§r, which makes up the surface of the Moon, is an efficient means of obtaining §9Deuterium§r. It will be useful for producing §9Microversium§r, §9Tritium§r, plasmas from fusion, and crystallizing §6Dilithium§r.%n%nThe Moon also contains fluid deposits of §eDeuterium§r and §eHelium-3§r, which you can harvest with a §3Fluid Rig§r. However, you will want to use the second Fluid Rig tier to extract it, as the amount of Deuterium and Helium-3 is too low to be anything appreciable from a first tier Fluid Rig.%n%nSpace exploration isn't mandatory in this pack, so if you don't feel like exploring space with §bAdvanced Rocketry§r, then you can centrifuge §9Hydrogen§r for §eDeuterium§r instead.%n%nJust keep in mind that it's much less rewarding to skip this and you'll need lots of Hydrogen to compensate, although you won't need too much for the first §3Microverse Projector§r.%n%nIn §6HV§r Age and more effectively in §1IV§r Age, you can also get this from processing §9Ender Air§r, which may be better than going to the moon, depending on your circumstances.§r%n%nThere are also several ores that are rare on the Overworld but exist in abundance on the Moon. In particular, the Moon contains large quantities of §6Titanium§r (in the form of §6Rutile Ore§r and §6Ilmenite Ore§r) and §6Tungsten§r (in the form of §6Scheelite Ore§r and §6Tungstate Ore§r).%n%n%n
 
 # db 215 of mode normal
 nomifactory.quest.normal.db.215.title=§2Pumps
@@ -906,7 +906,7 @@ nomifactory.quest.normal.db.226.desc=§9Water§r and §9Chlorine§r can be combi
 
 # db 227 of mode normal
 nomifactory.quest.normal.db.227.title=MV Chemical Reactor
-nomifactory.quest.normal.db.227.desc=Here comes the chemistry.%n%nIt might seem crazy right now, but you'll want a dedicated §3Chemical Reactor§r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though... it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system.%n
+nomifactory.quest.normal.db.227.desc=Here comes the chemistry.%n%nIt might seem crazy right now, but you'll want a dedicated §3Chemical Reactor§r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though… it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system.%n
 
 # db 228 of mode normal
 nomifactory.quest.normal.db.228.title=Snad
@@ -917,7 +917,7 @@ nomifactory.quest.normal.db.229.title=Explore Extra Utilities 2
 nomifactory.quest.normal.db.229.desc=There's a great deal of interesting content within §bExtra Utilities 2§r, and although most of it is not required for progression, you should still look through what it offers and build what interests you.%n%nIn particular, the §aAngel Ring§r bauble offers creative flight, and although some of the RF generators are not particularly good, others are quite competitive with the Dynamos. And of course, you can aim for the all powerful §aRainbow Generator§r as you work towards endgame. All that and much more await, so explore away!
 
 # db 230 of mode normal
-nomifactory.quest.normal.db.230.title=Oops... A Blackout!
+nomifactory.quest.normal.db.230.title=Oops… A Blackout!
 nomifactory.quest.normal.db.230.desc=If you've tried to insert or remove a lot of items quickly, you might notice your ME network%n§eflickers offline§r briefly. This is because digitizing and re-materializing items requires energy!%n%nYour network doesn't naturally store very much energy and the §6Energy Acceptor§r only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using §6Energy Cells§r.%n%nJust place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to §6Dense Energy Cells§r, if you continue to experience problems.%n%nIf you've opted to enable channels in your AE2 configs, you will innately have some energy storage from the §3ME Controller§r, but we assume you know what you're doing at that point. §eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned.
 
 # db 231 of mode normal
@@ -1042,7 +1042,7 @@ nomifactory.quest.normal.db.261.desc=Having unlocked §6Signalum§r and §6Lumiu
 
 # db 262 of mode normal
 nomifactory.quest.normal.db.262.title=Conflux Catalyst
-nomifactory.quest.normal.db.262.desc=An advanced ingredient used for the §aUltimate Extended Crafting Table§r and other late-game recipes. 
+nomifactory.quest.normal.db.262.desc=An advanced ingredient used for the §aUltimate Extended Crafting Table§r and other late-game recipes.
 
 # db 263 of mode normal
 nomifactory.quest.normal.db.263.title=Indium
@@ -1386,7 +1386,7 @@ nomifactory.quest.normal.db.356.desc=Are you ready to go infinite?%n%nReinforcin
 
 # db 357 of mode normal
 nomifactory.quest.normal.db.357.title=Infinity Ingot
-nomifactory.quest.normal.db.357.desc=This ingot is the most advanced basic material.%n%nWith creative fluids and all the automation you hopefully set up for your first §cInfinity Catalyst§r, these ingots should be easy.%n%nWell, not easy. But... Reasonable.%n%nFrom here, you are going to be crafting a multitude of Creative-Tier items from various mods. In addition to being useful for their regular functionality, they are needed for the final goal: the §dCreative Chest§r.%n%n§bJEI§r is your friend: beyond noting a few more items, I will not be holding your hand anymore. I've taught you everything you need to know to beat the pack.%n%nYou can do it!
+nomifactory.quest.normal.db.357.desc=This ingot is the most advanced basic material.%n%nWith creative fluids and all the automation you hopefully set up for your first §cInfinity Catalyst§r, these ingots should be easy.%n%nWell, not easy. But… Reasonable.%n%nFrom here, you are going to be crafting a multitude of Creative-Tier items from various mods. In addition to being useful for their regular functionality, they are needed for the final goal: the §dCreative Chest§r.%n%n§bJEI§r is your friend: beyond noting a few more items, I will not be holding your hand anymore. I've taught you everything you need to know to beat the pack.%n%nYou can do it!
 
 # db 358 of mode normal
 nomifactory.quest.normal.db.358.title=Infinity Helmet
@@ -1438,7 +1438,7 @@ nomifactory.quest.normal.db.370.desc=No hoops to jump through here. Smelt §6Woo
 
 # db 371 of mode normal
 nomifactory.quest.normal.db.371.title=Soft Mallet
-nomifactory.quest.normal.db.371.desc=A §aSoft Mallet§f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the mallet.%n%nAlthough you can make it out of §6Wood§r, it is probably better to make it out of §6Rubber§r.%n%nThis quest accepts a §aSoft Mallet§r made from any material.
+nomifactory.quest.normal.db.371.desc=A §aSoft Mallet§f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power… let one finish then turn the other one back on with a second hit from the mallet.%n%nAlthough you can make it out of §6Wood§r, it is probably better to make it out of §6Rubber§r.%n%nThis quest accepts a §aSoft Mallet§r made from any material.
 
 # db 384 of mode normal
 nomifactory.quest.normal.db.384.title=Elite Component
@@ -1470,10 +1470,10 @@ nomifactory.quest.normal.db.390.desc=Infuses things with Redstone Flux.%n%nThis 
 
 # db 391 of mode normal
 nomifactory.quest.normal.db.391.title=Craftable Nether Stars
-nomifactory.quest.normal.db.391.desc=ASSEMBLE... TOO!%n%nYeah you get to craft §6Nether Stars§r. Cool huh?%n%nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player's ability to farm Withers. §eCraft them, don't bother trying to farm them.
+nomifactory.quest.normal.db.391.desc=ASSEMBLE… TOO!%n%nYeah you get to craft §6Nether Stars§r. Cool huh?%n%nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player's ability to farm Withers. §eCraft them, don't bother trying to farm them.
 
 # db 392 of mode normal
-nomifactory.quest.normal.db.392.title=UHV Circuit...s?
+nomifactory.quest.normal.db.392.title=UHV Circuit…s?
 nomifactory.quest.normal.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
 
 # db 393 of mode normal
@@ -1702,7 +1702,7 @@ nomifactory.quest.normal.db.526.desc=With your §6Titanium§r-based machine hull
 
 # db 527 of mode normal
 nomifactory.quest.normal.db.527.title=§2Lumium
-nomifactory.quest.normal.db.527.desc=Glowing! §2But all the GTCEu machines glow already, so...§r%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%nWires made from §6Lumium§r transmit IV power losslessly, and it forms part of the basis for §6LuV Machine Hulls§r.
+nomifactory.quest.normal.db.527.desc=Glowing! §2But all the GTCEu machines glow already, so…§r%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%nWires made from §6Lumium§r transmit IV power losslessly, and it forms part of the basis for §6LuV Machine Hulls§r.
 
 # db 528 of mode normal
 nomifactory.quest.normal.db.528.title=Hardened Upgrade Kit
@@ -2218,7 +2218,7 @@ nomifactory.quest.normal.db.678.desc=§oNote: this quest accepts Berkelium 247 o
 
 # db 679 of mode normal
 nomifactory.quest.normal.db.679.title=Californium Fission
-nomifactory.quest.normal.db.679.desc=§oNote: this quest accepts Californium 249, 250, 251 or 252.%n%n§6Californium§r is the final fissile material in the NuclearCraft processing chain.%n%n§6LECf-249 Fuel§r is made with the 8:1 ratio of §6Californium-252§r and §6Californium-249§r. When depleted, it results in... different isotopes of Californium.%n%nUnless you want §6Californium RTGs§r or are experimenting with further fission routes, this step is probably unnecessary for general materials processing.
+nomifactory.quest.normal.db.679.desc=§oNote: this quest accepts Californium 249, 250, 251 or 252.%n%n§6Californium§r is the final fissile material in the NuclearCraft processing chain.%n%n§6LECf-249 Fuel§r is made with the 8:1 ratio of §6Californium-252§r and §6Californium-249§r. When depleted, it results in…different isotopes of Californium.%n%nUnless you want §6Californium RTGs§r or are experimenting with further fission routes, this step is probably unnecessary for general materials processing.
 
 # db 680 of mode normal
 nomifactory.quest.normal.db.680.title=Further Adventures In Fission
@@ -2230,7 +2230,7 @@ nomifactory.quest.normal.db.681.desc=The §aImplosion Compressor§f is like an a
 
 # db 682 of mode normal
 nomifactory.quest.normal.db.682.title=Simulating Mobs
-nomifactory.quest.normal.db.682.desc=A §3Simulation Chamber§r from §bDeep Mob Evolution§r (§bDME§r) allows you to farm mobs in a totally environmentally (and server) friendly way!%n%nSimulated mobs can even be used to provide you with many of the basic resources you'll need (such as §6iron, gold, tin, copper, diamonds§r and many more!), through pristine matter.%n%nSetting up DME automation during the early game is §avery important§r as it gives you access to infinite quantities of many resources!%n%nDME changes machines, making them no longer sided, so you can input and output from any side, as well as allowing them to be controlled by redstone.%n%nConsider reading the §bDeep Mob Evolution§r book for more info.%n%nYes, you can also use it for generating power... §owith Diamonds.
+nomifactory.quest.normal.db.682.desc=A §3Simulation Chamber§r from §bDeep Mob Evolution§r (§bDME§r) allows you to farm mobs in a totally environmentally (and server) friendly way!%n%nSimulated mobs can even be used to provide you with many of the basic resources you'll need (such as §6iron, gold, tin, copper, diamonds§r and many more!), through pristine matter.%n%nSetting up DME automation during the early game is §avery important§r as it gives you access to infinite quantities of many resources!%n%nDME changes machines, making them no longer sided, so you can input and output from any side, as well as allowing them to be controlled by redstone.%n%nConsider reading the §bDeep Mob Evolution§r book for more info.%n%nYes, you can also use it for generating power… §owith Diamonds.
 
 # db 683 of mode normal
 nomifactory.quest.normal.db.683.title=Overworldian Matter
@@ -2277,7 +2277,7 @@ nomifactory.quest.normal.db.693.title=Infinity War
 nomifactory.quest.normal.db.693.desc=Give me a little juice, FRIDAY!
 
 # db 694 of mode normal
-nomifactory.quest.normal.db.694.title=Captain... Marvel? IDK
+nomifactory.quest.normal.db.694.title=Captain… Marvel? IDK
 nomifactory.quest.normal.db.694.desc=I'm running out of MCU puns.%n%nThe §aAngel Ring§r is actually slower than a jetpack, but it grants creative flight and requires no fuel (except a bit of GP).%n%nUp to you if you want to use it over a jetpack for day to day stuff, but it's an ingredient in the next jetpack, so if you want that you'll need to make one eventually.
 
 # db 695 of mode normal
@@ -2290,7 +2290,7 @@ nomifactory.quest.normal.db.696.desc=The §3Naquadah Reactor Mk2§r is an upgrad
 
 # db 727 of mode normal
 nomifactory.quest.normal.db.727.title=§2Ore Processing for Byproducts
-nomifactory.quest.normal.db.727.desc=When you first started the pack, we told you that ore doubling can wait, and that's true... But you will need to start doing some rudimentary ore processing for §ebyproducts§r.%n%nByproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no "Gallium Ore" or "Arsenic Ore". You get §6Gallium§r and §6Arsenic §ras a byproduct from processing other ores.%n%nOres have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the §6Ore Byproduct Page§r of an ore in §bJEI§r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. %n%nThe relevant machines are as follows:%n %n- §3Macerator§r: turns ores into §6Crushed Ores§r, Crushed Ores into §6Impure Dusts§r, and §6Purified Crushed Ores§r into §6Pure Dusts§r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores.%n%n- §3Ore Washer§r: cleans Crushed Ores with §9Water§r, making Purified Crushed Ores§r, and a guaranteed 3 tiny piles of byproduct. Using §9Distilled Water§r makes them go faster. §2You can also perform a simple wash with this similar to Cauldron washing, which is extremely fast, but grants no byproducts.§r%n%n- §3Chemical Bath§r: §2uses Sodium Persulfate or Mercury to purify certain ores, granting a chance to yield a full pile of a byproduct.%n%n§r- §3Centrifuge§r: separates Pure or Impure dusts into the final material, producing a guaranteed §21 (nerfed from 3) tiny pile of byproduct§r.%n%n- §3Electrolyzer§r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process. §2Be warned that certain dusts may be better to directly smelt instead of electrolyze!§r%n%n- §3Thermal Centrifuge§r: not to be confused with the regular Centrifuge. §2Less slow and power-hungry now, but still so. However, it yields 3 additional tiny piles of byproduct, and macerating the Centrifuged Ore can grant a special third byproduct.%n%n§2- Sifter: filters high-quality Gems from Purified Crushed gem Ores for an overall higher yield.%n%n- Electromagnetic Separator: filters magnetic metals from certain ores, increasing their yields.§r%n%nYour first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge.%n
+nomifactory.quest.normal.db.727.desc=When you first started the pack, we told you that ore doubling can wait, and that's true… But you will need to start doing some rudimentary ore processing for §ebyproducts§r.%n%nByproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no "Gallium Ore" or "Arsenic Ore". You get §6Gallium§r and §6Arsenic §ras a byproduct from processing other ores.%n%nOres have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the §6Ore Byproduct Page§r of an ore in §bJEI§r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. %n%nThe relevant machines are as follows:%n %n- §3Macerator§r: turns ores into §6Crushed Ores§r, Crushed Ores into §6Impure Dusts§r, and §6Purified Crushed Ores§r into §6Pure Dusts§r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores.%n%n- §3Ore Washer§r: cleans Crushed Ores with §9Water§r, making Purified Crushed Ores§r, and a guaranteed 3 tiny piles of byproduct. Using §9Distilled Water§r makes them go faster. §2You can also perform a simple wash with this similar to Cauldron washing, which is extremely fast, but grants no byproducts.§r%n%n- §3Chemical Bath§r: §2uses Sodium Persulfate or Mercury to purify certain ores, granting a chance to yield a full pile of a byproduct.%n%n§r- §3Centrifuge§r: separates Pure or Impure dusts into the final material, producing a guaranteed §21 (nerfed from 3) tiny pile of byproduct§r.%n%n- §3Electrolyzer§r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process. §2Be warned that certain dusts may be better to directly smelt instead of electrolyze!§r%n%n- §3Thermal Centrifuge§r: not to be confused with the regular Centrifuge. §2Less slow and power-hungry now, but still so. However, it yields 3 additional tiny piles of byproduct, and macerating the Centrifuged Ore can grant a special third byproduct.%n%n§2- Sifter: filters high-quality Gems from Purified Crushed gem Ores for an overall higher yield.%n%n- Electromagnetic Separator: filters magnetic metals from certain ores, increasing their yields.§r%n%nYour first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge.%n
 
 # db 728 of mode normal
 nomifactory.quest.normal.db.728.title=Resonant Clathrate
@@ -2342,7 +2342,7 @@ nomifactory.quest.normal.db.748.desc=A §3Compactor§r specialized to a §aGear 
 
 # db 749 of mode normal
 nomifactory.quest.normal.db.749.title=§2Fusion Reactor MK2
-nomifactory.quest.normal.db.749.desc=Upgrade time! %n...or building a new one, which is probably better.%n%nYet again this quest asks for the minimal number of casings. Make an extra §229§r if you don't want more than §a2 Fluid Inputs§r§r and §a1 Fluid Output§r. Don't forget the extra §e31 Fusion Glass§r or §6Fusion Machine Casings§r!%n%n§bYes, the Fusion Glass is the same tier as last time, but the Fusion Machine Casings are more expensive.§r%n%nMake sure your using §6ZPM Energy Hatches§r!%n%nIf you insist on upgrading instead of making a new one, don't dismantle the current one before you're sure you've got everything you need to upgrade it, or you might end up having to rebuild the §3Mark 1 Fusion Reactor§r again.%n%nThe §3Mark 2 Fusion Reactor§r has an energy buffer of §e320M EU§r.
+nomifactory.quest.normal.db.749.desc=Upgrade time! %n…or building a new one, which is probably better.%n%nYet again this quest asks for the minimal number of casings. Make an extra §229§r if you don't want more than §a2 Fluid Inputs§r§r and §a1 Fluid Output§r. Don't forget the extra §e31 Fusion Glass§r or §6Fusion Machine Casings§r!%n%n§bYes, the Fusion Glass is the same tier as last time, but the Fusion Machine Casings are more expensive.§r%n%nMake sure your using §6ZPM Energy Hatches§r!%n%nIf you insist on upgrading instead of making a new one, don't dismantle the current one before you're sure you've got everything you need to upgrade it, or you might end up having to rebuild the §3Mark 1 Fusion Reactor§r again.%n%nThe §3Mark 2 Fusion Reactor§r has an energy buffer of §e320M EU§r.
 
 # db 750 of mode normal
 nomifactory.quest.normal.db.750.title=§2Enderium Ingot
@@ -2370,10 +2370,10 @@ nomifactory.quest.normal.db.755.desc=This pack has §bBuilding Gadgets§r.%n%nTh
 
 # db 756 of mode normal
 nomifactory.quest.normal.db.756.title=I Don't Like Chemistry
-nomifactory.quest.normal.db.756.desc=...or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
+nomifactory.quest.normal.db.756.desc=…or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
 
 # db 757 of mode normal
-nomifactory.quest.normal.db.757.title=The End...?
+nomifactory.quest.normal.db.757.title=The End…?
 nomifactory.quest.normal.db.757.desc=You may have noticed that The End portals in Strongholds are disabled.%n%nThe only way to access The End is to... §ebake a cake§r. You can refill it with §6Eyes of Ender§r.%n%nPrepare some gear, eat a slice, and get ready for a fight!
 
 # db 758 of mode normal
@@ -2594,7 +2594,7 @@ nomifactory.quest.normal.db.811.desc=No Description
 
 # db 812 of mode normal
 nomifactory.quest.normal.db.812.title=§2Material Tree
-nomifactory.quest.normal.db.812.desc=§2Check out the new Material Tree tab!§r%n%nThis tab can be accessed in §bJEI§r, when finding the §ausages or recipes§r of §aany form§r of a §bGregTech§r material!§r%n%nIt will show you nearly all the different forms of a §bGregTech§r material (§ePlates, Rods, Screws, Dusts...§r) on a single page, as well as showing what can be turned into what. You can then click on those to see their recipes.
+nomifactory.quest.normal.db.812.desc=§2Check out the new Material Tree tab!§r%n%nThis tab can be accessed in §bJEI§r, when finding the §ausages or recipes§r of §aany form§r of a §bGregTech§r material!§r%n%nIt will show you nearly all the different forms of a §bGregTech§r material (§ePlates, Rods, Screws, Dusts…§r) on a single page, as well as showing what can be turned into what. You can then click on those to see their recipes.
 
 # db 813 of mode normal
 nomifactory.quest.normal.db.813.title=§2Arc Furnace
