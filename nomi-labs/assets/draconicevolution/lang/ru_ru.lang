@@ -1,1 +1,10 @@
 
+
+ecore.gui.invalid_block.txt=Неверный блок: X: %s, Y: %s, Z: %s. Ожидается блок: %s.
+button.de.assembleCore.start.txt=Начать сборку ядра
+button.de.assembleCore.stop.txt=Остановить сборку ядра
+button.de.destructCore.stop.txt=Остановить разборку ядра
+button.de.assembleCore.instant.txt=Сборка ядра
+ecore.de.assemble_missing_required_new.txt=Невозможно закончить структуру! Требуются блоки: %s
+button.de.destructCore.start.txt=Начать разборку ядра
+button.de.destructCore.instant.txt=Разобрать ядро
