@@ -1,1 +1,7 @@
 
+
+key.toolbelt.open=Заменить инструмент
+key.toolbelt.cycle.right=Выбрать Инструмент справа
+key.toolbelt.slot=Открыть слот инвентарь Пояса
+key.toolbelt.cycle.left=Выбрать Инструмент слева
+text.toolbelt.tooltip=Улучшения: %s (%s слотов)
