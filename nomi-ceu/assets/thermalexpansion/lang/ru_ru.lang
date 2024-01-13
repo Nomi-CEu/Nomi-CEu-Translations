@@ -1,1 +1,9 @@
 
+
+item.thermalexpansion.frame.frameCell2Filled.name=Ядро двигателя микромайнера
+item.thermalexpansion.frame.frameCell3.name=Синаловый корпус двигателя микромайнера
+item.thermalexpansion.frame.frameCell4Filled.name=Эндериумное ядро двигателя микромайнера
+item.thermalexpansion.frame.frameCell3Filled.name=Синаловое ядро двигателя микромайнера
+# between line 400 to 411 in jar file
+item.thermalexpansion.frame.frameCell2.name=Корпус двигателя микромайнера
+item.thermalexpansion.frame.frameCell4.name=Эндериумный корпус двигателя микромайнера
