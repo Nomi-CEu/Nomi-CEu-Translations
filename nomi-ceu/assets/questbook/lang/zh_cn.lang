@@ -1,27 +1,27 @@
 # Normal Quest Lang Entries:
 
 # line 0 of mode normal
-nomifactory.quest.normal.line.0.title=初期
-nomifactory.quest.normal.line.0.desc=格雷科技§7低压§r等级: 开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
+nomifactory.quest.normal.line.0.title=一切的起点（LV）
+nomifactory.quest.normal.line.0.desc=格雷科技§7低压§r等级：开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
 
 # line 1 of mode normal
-nomifactory.quest.normal.line.1.title=前期
+nomifactory.quest.normal.line.1.title=游戏前期（MV）
 nomifactory.quest.normal.line.1.desc=格雷科技§b中压§r等级: 新机器和基础的矿物处理。%n%n生产§6塑料§r的有机化学，并搭建一个§3蒸馏塔§r。%n%n§b应用能源2§r自动化。探索§b实用拓展§r。
 
 # line 2 of mode normal
-nomifactory.quest.normal.line.2.title=中期
-nomifactory.quest.normal.line.2.desc=格雷科技§6高压§r、§5超高压§r和§1强导压§r等级:%n%n§3低温蒸馏§r，以及§6环氧树脂§r和§9硝基柴油§r的石油化工。%n%n制作§6下界之星§r并解锁§b热力膨胀§r机器。%n%n搭建一个§b核电工艺§r裂变反应堆以获得新材料。%n%n搭建一个空间站和跃迁核心。
+nomifactory.quest.normal.line.2.title=游戏中期（HV,EV,IV）
+nomifactory.quest.normal.line.2.desc=格雷科技§6高压§r、§5超高压§r和§1强导压§r等级：%n%n§3低温蒸馏§r，以及§6环氧树脂§r和§9硝基柴油§r的石油化工。%n%n制作§6下界之星§r并解锁§b热力膨胀§r机器。%n%n搭建一个§b核电工艺§r裂变反应堆以获得新材料。%n%n搭建一个空间站和跃迁核心。
 
 # line 3 of mode normal
-nomifactory.quest.normal.line.3.title=当前进展
-nomifactory.quest.normal.line.3.desc=每向前探索一步都会有所收益。%n%n这个页面概述了§5全能工厂§r中各种事情的进展情况。%n%n电路是衡量你进展的主要标准。
+nomifactory.quest.normal.line.3.title=进展之路
+nomifactory.quest.normal.line.3.desc=向前迈出一步总是值得的%n%n这个章节概述了§5全能工厂§r中各种事物的进展.%n%n电路板是衡量您进展的主要标准。
 
 # line 4 of mode normal
-nomifactory.quest.normal.line.4.title=后期
-nomifactory.quest.normal.line.4.desc=格雷科技§d剧差压§r、零点压、§3极限压§r和§4极高压§r等级:%n%n搭建§3装配线§r，§3核聚变反应堆§r，以及更多的内容！%n%n通过§b封包合成§r来实现自动化合成，制造更高等级的§6微型采掘机§r。%n%n用于聚合合成和能量存储的§b龙之研究§r。
+nomifactory.quest.normal.line.4.title=游戏后期（LuV,ZPM,UV,UHV）
+nomifactory.quest.normal.line.4.desc=格雷科技§d剧差压(LuV)§r, 零点压(ZPM), §3极限压(UV)§r, §4极高压(UHV)§r等级：%n%n制造§3装配线§r, §3聚变反应堆§r, 还有更多!%n%n使用§b封包合成§r.。不断升级你的§6微型采掘机§r。%n%n使用§b龙之研究§r聚合装置。
 
 # line 5 of mode normal
-nomifactory.quest.normal.line.5.title=终局
+nomifactory.quest.normal.line.5.title=最终目标
 nomifactory.quest.normal.line.5.desc=你现在已经进入终局了…%n%n收获整个微型宇宙，并解锁§d创造量子缸§r。%n%n当你向最终目标迈进时，让你的自动化接受终极测试: 那就是§d创造量子箱§r。
 
 # line 6 of mode normal
@@ -1106,7 +1106,7 @@ nomifactory.quest.normal.db.278.desc=你可以将各种各样的物品与§6空�
 
 # db 279 of mode normal
 nomifactory.quest.normal.db.279.title=打碎龙蛋
-nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路主题，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋(恰好足够用于这个任务)，但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%n后来，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
+nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路主题，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%n后来，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
 
 # db 280 of mode normal
 nomifactory.quest.normal.db.280.title=万象尘埃
@@ -2738,7 +2738,7 @@ nomifactory.quest.normal.db.847.desc=§2硅岩合金在社区版：非官方版�
 
 # db 848 of mode normal
 nomifactory.quest.normal.db.848.title=§2IV组装机
-nomifactory.quest.normal.db.848.desc=§2用于高级SMD元件。
+nomifactory.quest.normal.db.848.desc=§6IV组装机§r用于制造§2高级SMD元件§r。%n%n考虑升级至§6大型组装机§r，它更容易升级并且可以接受并行控制仓。 
 
 # db 849 of mode normal
 nomifactory.quest.normal.db.849.title=§2高级SMD元件
