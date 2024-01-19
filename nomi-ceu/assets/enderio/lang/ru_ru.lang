@@ -1,1 +1,27 @@
 
+
+item.item_dark_steel_boots.name=Темностальные ботинки
+item.item_dark_steel_chestplate.name=Темностальный нагрудник
+
+# line 127-134 of EnderIO.jar
+item.item_dark_steel_helmet.name=Темностальный шлем
+enderio.item_endergy_conduit_cobble.name=Энерго-кондуит из эндериума
+enderio.item_endergy_conduit_melodic.name=Энерго-кондуит из дракония
+
+# line 16,17,20,22,26,27 of EnderIO-endergy.jar
+enderio.item_endergy_conduit_iron.name=Энерго-кондуит из стали Края
+
+# line 434 of EnderIO.jar
+tile.block_dark_iron_bars.name=Темностальная решётка
+
+# line 1575-1577 of EnderIO.jar
+enderio.item_power_conduit.name=Энерго-кондуит из проводящего железа
+enderio.item_power_conduit_enhanced.name=Энерго-кондуит из энергетического сплав
+enderio.item_power_conduit_ender.name=Энерго-кондуит из вибрирующего сплава
+
+# line 2245 of EnderIO.jar
+tile.block_enchanter.name=Темностальный зачарователь
+enderio.item_endergy_conduit_copper.name=Энерго-кондуит из синала
+enderio.item_endergy_conduit_stellar.name=Энерго-кондуит из дракониевого сверхпроводника
+enderio.item_endergy_conduit_electrum.name=Энерго-кондуит из ламиума
+item.item_dark_steel_leggings.name=Темностальные поножи
