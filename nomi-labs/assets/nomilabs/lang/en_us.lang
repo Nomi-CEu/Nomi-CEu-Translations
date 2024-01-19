@@ -64,6 +64,23 @@ fluid.elementalreduction=Elemental Reduction Fluid
 fluid.tough_alloy=Tough Alloy
 fluid.moltendarksoularium=Molten Dark Soularium
 
+# Data Fixers
+# Don't forget to update this in LabsMessageHelper.Components as well!
+nomilabs.fixer.intro.1=This world must be remapped.
+nomilabs.fixer.intro.2=§lA Backup will be made.
+nomilabs.fixer.intro.3=Pressing 'No' will cancel world loading.
+nomilabs.fixer.intro.4=§cNote that after the world is loaded with this, you CANNOT undo this!.
+nomilabs.fixer.intro.5=You §nWILL§r have to load from the backup in order to load in a previous version!
+nomilabs.fixer.intro.6=§7The changes that must be made via Data Fixers have been printed to your log.
+
+nomilabs.fixer.mode_check.1=Are you sure you previously loaded this world with the pack mode '§e%s§r' ?
+nomilabs.fixer.mode_check.2=Launching with the wrong mode §nWILL§r void items and/or blocks!
+nomilabs.fixer.mode_check.3=§7If you did not change it in your old instance, the default mode is 'Normal'.
+nomilabs.fixer.mode_check.4=Press 'No' if you are not sure! (It will cancel world loading)
+
+nomilabs.fixer.do_not_exit.1=§cDo not interrupt the loading process!§r
+nomilabs.fixer.do_not_exit.2=If interrupted, load again from the backup, as your world may be corrupted!
+
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi Labs
 
