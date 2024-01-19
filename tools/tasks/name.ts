@@ -53,7 +53,7 @@ export function makeArtifactNameBody(): string {
 
 export function transformMCMetaObj(mcMeta: McMeta): void {
 	const body = makeArtifactNameBody();
-	mcMeta.pack.description = mcMeta.pack.description + ` (Build ${body ? body : getDate()})`;
+	mcMeta.pack.description = mcMeta.pack.description + ` \u00A7o(Build ${body ? body : getDate()})\u00A7r`;
 }
 
 function padNum(num: number) {
