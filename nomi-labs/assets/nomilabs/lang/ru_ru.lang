@@ -482,3 +482,5 @@ tooltip.nomilabs.universal_crystallizer.description=
 tooltip.nomilabs.dme_sim_chamber.description=
 tooltip.nomilabs.greenhouse.description=
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Включить исправления данных Nomi-CEu
+config.nomilabs.advanced.disable_narrator=
+config.nomilabs.advanced.disable_advancements=Отключить достижения
