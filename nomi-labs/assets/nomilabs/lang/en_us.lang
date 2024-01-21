@@ -67,15 +67,15 @@ fluid.moltendarksoularium=Molten Dark Soularium
 # Data Fixers
 # Don't forget to update this in LabsMessageHelper.Components as well!
 nomilabs.fixer.intro.1=This world must be remapped.
-nomilabs.fixer.intro.2=§lA Backup will be made.
+nomilabs.fixer.intro.2=§lA Backup will be made.§r
 nomilabs.fixer.intro.3=Pressing 'No' will cancel world loading.
-nomilabs.fixer.intro.4=§cNote that after the world is loaded with this, you CANNOT undo this!.
+nomilabs.fixer.intro.4=§cNote that after the world is loaded with this, you CANNOT undo this!.§r
 nomilabs.fixer.intro.5=You §nWILL§r have to load from the backup in order to load in a previous version!
-nomilabs.fixer.intro.6=§7The changes that must be made via Data Fixers have been printed to your log.
+nomilabs.fixer.intro.6=§7The changes that must be made via Data Fixers have been printed to your log.§r
 
 nomilabs.fixer.mode_check.1=Are you sure you previously loaded this world with the pack mode '§e%s§r' ?
 nomilabs.fixer.mode_check.2=Launching with the wrong mode §nWILL§r void items and/or blocks!
-nomilabs.fixer.mode_check.3=§7If you did not change it in your old instance, the default mode is 'Normal'.
+nomilabs.fixer.mode_check.3=§7If you did not change it in your old instance, the default mode is 'Normal'.§r
 nomilabs.fixer.mode_check.4=Press 'No' if you are not sure! (It will cancel world loading)
 
 nomilabs.fixer.do_not_exit.1=§cDo not interrupt the loading process!§r
@@ -415,13 +415,12 @@ item.nomilabs.dark_red_coal.name=Dark Red Coal
 
 item.nomilabs.hand_framing_tool.name=Hand Framing Tool
 
-item.nomilabs.hand_framing_tool.desc1=Frame your tools by hand!
-item.nomilabs.hand_framing_tool.desc2=The Hand Framing Tool lets you frame drawers already placed in the world.
-item.nomilabs.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a crafting table or a framing table.
-item.nomilabs.hand_framing_tool.desc4=If you wish to frame the tool in a crafting table, see the item's crafting table recipes in JEI.
+item.nomilabs.hand_framing_tool.desc1=Frame your Drawers by Hand!
+item.nomilabs.hand_framing_tool.desc2=The §5Hand Framing Tool§r lets you frame drawers already placed in the world.
+item.nomilabs.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a §3Crafting Table§r or a §3Framing Table§r.
+item.nomilabs.hand_framing_tool.desc4=If you wish to frame the tool in a Crafting Table, see the item's crafting table recipes in §8JEI§r.
 item.nomilabs.hand_framing_tool.desc5=Then, once the tool is framed, right clicking any drawers in-world will frame them.
-item.nomilabs.hand_framing_tool.desc6=When right clicking any wood-type drawers in world, they will be turned into framed drawers.
-item.nomilabs.hand_framing_tool.desc7=The frames/decorations will also be applied to them.
+item.nomilabs.hand_framing_tool.desc6=When right clicking any wood-type drawers in world, they will also be turned into framed drawers.
 
 item.nomilabs.pulsatingdust.name=Pulsating Dust
 item.nomilabs.pulsatingmesh.name=Pulsating Mesh
@@ -459,12 +458,12 @@ tooltip.nomilabs.general.press_shift_for_usages=Press [Shift] for More Usages.
 tooltip.nomilabs.general.press_ctrl_for_usages=Press [Ctrl] for More Usages.
 tooltip.nomilabs.general.press_shift_for_info=Press [Shift] for More Info.
 tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
+tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 
 # Items
-tooltip.nomilabs.excitationcoil.description_block=Crafting Component Only.
-tooltip.nomilabs.excitationcoil.description_item=Crafting Component Only... Except:
-tooltip.nomilabs.excitationcoil.placeable=Placeable!
-tooltip.nomilabs.excitationcoil.wearable=Wearable on your head!
+tooltip.nomilabs.excitationcoil.description=§7Crafting Component Only... Except:§r
+tooltip.nomilabs.excitationcoil.placeable=§7Placeable!§r
+tooltip.nomilabs.excitationcoil.wearable=§7Wearable on your head!§r
 tooltip.nomilabs.excitationcoil.night_vision=Gives Night Vision when worn!
 
 tooltip.nomilabs.hand_framing_tool.not_set=Put this tool in a Framing Table or a Crafting Table to set its Framing Data!
@@ -472,45 +471,43 @@ tooltip.nomilabs.hand_framing_tool.side=Side: %s
 tooltip.nomilabs.hand_framing_tool.trim=Trim: %s
 tooltip.nomilabs.hand_framing_tool.front=Front: %s
 
-tooltip.nomilabs.ultimate_items.description=Crafting Component Only.
+tooltip.nomilabs.universalnavigator.description=§9See you later, navigator!§r
 
-tooltip.nomilabs.universalnavigator.description=See you later, navigator!
+tooltip.nomilabs.eternalcatalyst.description=§8Gaze into the Abyss...§r
 
-tooltip.nomilabs.eternalcatalyst.description=Gaze into the Abyss...
+tooltip.nomilabs.tieroneship.description=§f§oHarvests Titanium and other light metals from asteroids in the microverse.§r
+tooltip.nomilabs.tiertwoship.description=§f§oHarvests Tungsten and other heavy metals from asteroids in the microverse.§r
+tooltip.nomilabs.tierthreeship.description=§f§oHarvests ultra hot metals and gems from Nether microverses.§r
+tooltip.nomilabs.tierfourship.description=§f§oHarvests ultra cold materials from the deepest parts of empty space.§r
+tooltip.nomilabs.tierfourandhalfship.description=§f§oKills mobs in dangerous microverses and collects their highly prized skeletons and parts.§r
+tooltip.nomilabs.tierfiveship.description=§f§oHarvests strange materials from End microverses.§r
+tooltip.nomilabs.tiersixship.description=§f§oHarvests extremely rare materials from every concievable reality.§r
+tooltip.nomilabs.tiersevenship.description=§f§oHunts Wyrms and End Dragons from the microverse and returns with parts from their carapaces.§r
+tooltip.nomilabs.tiereightship.description=§f§oHunts inconcievable monstrosities from beyond the End and returns with bizzare trinkets.§r
+tooltip.nomilabs.tiereightandhalfship.description=§f§oHarvests exclusive Gems and Metals from unexplored corners, from beyond the microverse.§r
+tooltip.nomilabs.tiernineship.description=§f§oCollapses microversian stars and harvests their delicious neutronium cores.§r
+tooltip.nomilabs.tiertenship.description1=§f§oCollapses an entire microverse and harvests it whole.§r
+tooltip.nomilabs.tiertenship.description2=§f§oTry to aim for uninhabited ones.§r
 
-tooltip.nomilabs.tieroneship.description=Harvests Titanium and other light metals from asteroids in the microverse.
-tooltip.nomilabs.tiertwoship.description=Harvests Tungsten and other heavy metals from asteroids in the microverse.
-tooltip.nomilabs.tierthreeship.description=Harvests ultra hot metals and gems from Nether microverses.
-tooltip.nomilabs.tierfourship.description=Harvests ultra cold materials from the deepest parts of empty space.
-tooltip.nomilabs.tierfourandhalfship.description=Kills mobs in dangerous microverses and collects their highly prized skeletons and parts.
-tooltip.nomilabs.tierfiveship.description=Harvests strange materials from End microverses.
-tooltip.nomilabs.tiersixship.description=Harvests extremely rare materials from every concievable reality.
-tooltip.nomilabs.tiersevenship.description=Hunts Wyrms and End Dragons from the microverse and returns with parts from their carapaces.
-tooltip.nomilabs.tiereightship.description=Hunts inconcievable monstrosities from beyond the End and returns with bizzare trinkets.
-tooltip.nomilabs.tiereightandhalfship.description=Harvests exclusive Gems and Metals from unexplored corners, from beyond the microverse.
-tooltip.nomilabs.tiernineship.description=Collapses microversian stars and harvests their delicious neutronium cores.
-tooltip.nomilabs.tiertenship.description1=Collapses an entire microverse and harvests it whole.
-tooltip.nomilabs.tiertenship.description2=Try to aim for uninhabited ones.
+tooltip.stabilized_miners.description1=§f§oA stabilized version, injected with a Heart of a Universe.§r
+tooltip.stabilized_miners.description2=§f§oLasts indefinitely. Reusable. Totally not overpowered.§r
+tooltip.stabilized_miners.description3=§f§oIt looks oddly familiar.§r
 
-tooltip.stabilized_miners.description1=A stabilized version, injected with a Heart of a Universe.
-tooltip.stabilized_miners.description2=Lasts indefinitely. Reusable. Totally not overpowered.
-tooltip.stabilized_miners.description3=It looks oddly familiar.
-
-tooltip.stabilized_matters.description=An infinite and incomprehensible abyss of materials.
+tooltip.stabilized_matters.description=§f§oAn infinite and incomprehensible abyss of materials.§r
 
 tooltip.nomilabs.capacitors.description=Ender IO Machine Upgrade
-tooltip.nomilabs.capacitors.level=Level: %s
+tooltip.nomilabs.capacitors.level=§5Level: %s§r
 
 # Multiblocks
-tooltip.nomilabs.microverse_projector_1.description=A machine capable of stabilizing projection into microverses for basic micro miner missions.
-tooltip.nomilabs.microverse_projector_2.description=An advanced machine capable of stabilizing projection into microverses for complex missions into the deepest parts of space.
-tooltip.nomilabs.microverse_projector_3.description=An elite machine capable of stabilizing projection into microverses for exotic missions, including collapsing the microverse whole.
-tooltip.nomilabs.creative_tank_provider.description=A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.
-tooltip.nomilabs.naquadah_reactor_1.description=An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.
-tooltip.nomilabs.naquadah_reactor_2.description=An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.
-tooltip.nomilabs.naquadah_reactor.produces=Produces exactly %s amps of %s.
+tooltip.nomilabs.microverse_projector_1.description=§8A machine capable of stabilizing projection into microverses for basic micro miner missions.§r
+tooltip.nomilabs.microverse_projector_2.description=§8An advanced machine capable of stabilizing projection into microverses for complex missions into the deepest parts of space.§r
+tooltip.nomilabs.microverse_projector_3.description=§8An elite machine capable of stabilizing projection into microverses for exotic missions, including collapsing the microverse whole.§r
+tooltip.nomilabs.creative_tank_provider.description=§8A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.§r
+tooltip.nomilabs.naquadah_reactor_1.description=§8An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.§r
+tooltip.nomilabs.naquadah_reactor_2.description=§8An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.§r
+tooltip.nomilabs.naquadah_reactor.produces=§fProduces exactly %s amps of %s.§r
 tooltip.nomilabs.naquadah_reactor.overclock=Does not overclock!
-tooltip.nomilabs.actualization_chamber.description=A powerful machine that harnesses the most complex of matters and turns it into raw materials.
-tooltip.nomilabs.universal_crystallizer.description=An immense device, capable of turning raw materials into complex matters.
-tooltip.nomilabs.dme_sim_chamber.description=A high powered simulation device, capable of performing more complex simulations faster than ever.
-tooltip.nomilabs.greenhouse.description=A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.
+tooltip.nomilabs.actualization_chamber.description=§8A powerful machine that harnesses the most complex of matters and turns it into raw materials.§r
+tooltip.nomilabs.universal_crystallizer.description=§8An immense device, capable of turning raw materials into complex matters.§r
+tooltip.nomilabs.dme_sim_chamber.description=§8A high powered simulation device, capable of performing more complex simulations faster than ever.§r
+tooltip.nomilabs.greenhouse.description=§8A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.§r
