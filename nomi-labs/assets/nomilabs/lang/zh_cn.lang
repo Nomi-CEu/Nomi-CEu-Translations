@@ -449,3 +449,5 @@ tooltip.nomilabs.universal_crystallizer.description=一种巨大的装置，能�
 tooltip.nomilabs.dme_sim_chamber.description=一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。
 tooltip.nomilabs.greenhouse.description=一个高功率的生长室，即使是最难以理解的植物也能大规模生长。
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
+config.nomilabs.advanced.disable_narrator=禁用复述功能
+config.nomilabs.advanced.disable_advancements=禁用进度
