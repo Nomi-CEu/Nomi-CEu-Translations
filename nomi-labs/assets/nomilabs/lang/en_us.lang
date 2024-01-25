@@ -30,6 +30,7 @@ config.nomilabs.mod_integration=Mod Integration Settings
 config.nomilabs.mod_integration.nuclearcraft=Enable NuclearCraft Integration
 config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
 config.nomilabs.mod_integration.top=Enable The One Probe Integration
+config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 
@@ -48,6 +49,10 @@ config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
 config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+
+config.nomilabs.advanced.fluid_registry=Fluid Registry Settings
+config.nomilabs.advanced.fluid_registry.default_fluids=Default Fluids
+config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Log Conflicting Fluids
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
