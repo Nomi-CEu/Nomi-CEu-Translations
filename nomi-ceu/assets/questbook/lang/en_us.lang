@@ -26,7 +26,7 @@ nomifactory.quest.normal.line.5.desc=You're in the endgame now...%n%nHarvest ent
 
 # line 6 of mode normal
 nomifactory.quest.normal.line.6.title=Genesis
-nomifactory.quest.normal.line.6.desc=Welcome to §5Nomifactory§r, I'll be your guide.
+nomifactory.quest.normal.line.6.desc=Welcome to §5Nomi-CEu§r, I'll be your guide.
 
 # line 7 of mode normal
 nomifactory.quest.normal.line.7.title=Into The Microverse
@@ -3552,7 +3552,7 @@ nomifactory.quest.expert.line.5.desc=You're in the endgame now...%n%nHarvest ent
 
 # line 6 of mode expert
 nomifactory.quest.expert.line.6.title=Genesis
-nomifactory.quest.expert.line.6.desc=Welcome to §5Nomifactory§r, I'll be your guide.
+nomifactory.quest.expert.line.6.desc=Welcome to §5Nomi-CEu§r §cHard/Expert Mode§r, I'll be your guide.
 
 # line 7 of mode expert
 nomifactory.quest.expert.line.7.title=Into The Microverse
