@@ -45,11 +45,14 @@ config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
 config.nomilabs.advanced.disable_advancements=Disable Advancements
 config.nomilabs.advanced.disable_narrator=Disable Narrator
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Enable Nomi-CEu Specific Data Fixes
-config.nomilabs.advanced.default_fluids=Default Fluids
 config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
 config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+
+config.nomilabs.advanced.fluid_registry=Fluid Registry Settings
+config.nomilabs.advanced.fluid_registry.default_fluids=Default Fluids
+config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Log Conflicting Fluids
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
