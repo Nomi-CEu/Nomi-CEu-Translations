@@ -420,7 +420,7 @@ item.nomilabs.dark_red_coal.name=Dark Red Coal
 
 item.nomilabs.hand_framing_tool.name=Hand Framing Tool
 
-item.nomilabs.hand_framing_tool.desc1=Frame your Drawers by Hand!
+item.nomilabs.hand_framing_tool.desc1=Frame Placed Drawers With Ease!
 item.nomilabs.hand_framing_tool.desc2=The §5Hand Framing Tool§r lets you frame drawers already placed in the world.
 item.nomilabs.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a §3Crafting Table§r or a §3Framing Table§r.
 item.nomilabs.hand_framing_tool.desc4=If you wish to frame the tool in a Crafting Table, see the item's crafting table recipes in §8JEI§r.
