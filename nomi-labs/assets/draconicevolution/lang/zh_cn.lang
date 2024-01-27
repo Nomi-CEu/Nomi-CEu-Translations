@@ -6,3 +6,5 @@ button.de.assembleCore.start.txt=开始组装核心
 button.de.assembleCore.instant.txt=组装核心
 button.de.assembleCore.stop.txt=停止组装核心
 ecore.de.assemble_missing_required_new.txt=无法完成建造！需求的方块缺失：%s。
+
+ecore.gui.invalid_block.txt=无效的方块：X: %s, Y: %s, Z: %s. 应该为：%s.
