@@ -485,3 +485,5 @@ config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Включить испра�
 config.nomilabs.advanced.disable_narrator=Отключить диктора
 config.nomilabs.advanced.disable_advancements=Отключить достижения
 config.nomilabs.mod_integration.advanced_rocketry=Включить интеграцию Advanced Rocketry
+config.nomilabs.advanced.fluid_registry.default_fluids=Жидкости по умолчанию
+config.nomilabs.advanced.fluid_registry=Настройки реестра жидкостей
