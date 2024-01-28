@@ -2,7 +2,7 @@
 
 # line 0 of mode normal
 nomifactory.quest.normal.line.0.title=初期
-nomifactory.quest.normal.line.0.desc=格雷科技§7低压§r等级: 开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
+nomifactory.quest.normal.line.0.desc=格雷科技§7低压§r等级: 开始建造属于你的工厂！%n%n解锁§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
 
 # line 1 of mode normal
 nomifactory.quest.normal.line.1.title=前期
@@ -26,11 +26,11 @@ nomifactory.quest.normal.line.5.desc=你现在已经进入终局了...%n%n收获
 
 # line 6 of mode normal
 nomifactory.quest.normal.line.6.title=起源
-nomifactory.quest.normal.line.6.desc=欢迎来到§5全能工厂§r，我是你的向导。
+nomifactory.quest.normal.line.6.desc=欢迎来到§5全能工厂 GTCEu 版§r，我是你的向导。
 
 # line 7 of mode normal
 nomifactory.quest.normal.line.7.title=探索微型宇宙
-nomifactory.quest.normal.line.7.desc=让你的脚步踏入§b更多实用设备2§r和§b合成拓展§r。%n%n征服末地或投入于§b末影接口§r的传送科技。%n%n造一个火箭，然后去月球(或者不造，但也很有趣)。%n%n无论如何，现在是开始开采§e微型宇宙§r的时候了。
+nomifactory.quest.normal.line.7.desc=让你的脚步踏入§b更多实用设备2§r和§b合成拓展§r。%n%n征服末地或投入于§b末影接口§r的传送科技。%n%n造一个火箭，然后去月球(或者不造，但这很有趣)。%n%n无论如何，现在是开始开采§e微型宇宙§r的时候了。
 
 # line 8 of mode normal
 nomifactory.quest.normal.line.8.title=聚变与研究
@@ -38,7 +38,7 @@ nomifactory.quest.normal.line.8.desc=用甜甜圈创造新的元素并为你的�
 
 # line 9 of mode normal
 nomifactory.quest.normal.line.9.title=模拟资源
-nomifactory.quest.normal.line.9.desc=用§b深度怪物学习§r生成资源！%n%n在MV中关闭生产循环，以获得100%%的可再生资源！
+nomifactory.quest.normal.line.9.desc=用§b深度怪物学习§r生成资源！%n%n在 MV 阶段接近实现 100%% 的可再生资源生产循环！
 
 # line 10 of mode normal
 nomifactory.quest.normal.line.10.title=物质-能量
@@ -46,31 +46,31 @@ nomifactory.quest.normal.line.10.desc=用§b应用能量2§r在物质和能量�
 
 # line 11 of mode normal
 nomifactory.quest.normal.line.11.title=处理线
-nomifactory.quest.normal.line.11.desc=有一章可以帮助你进行处理，包括复杂的和直接的问题！
+nomifactory.quest.normal.line.11.desc=可以帮助你进行设计处理线的一章，包括复杂的和直接的问题！
 
 # db 0 of mode normal
 nomifactory.quest.normal.db.0.title=充能石英
-nomifactory.quest.normal.db.0.desc=这个装置的主要目的是将§6赛特斯石英§r变成§6充能赛特斯石英水晶§r。%n%n该设备可以通过能量导管用RF供电，或通过ME线缆或导线使用网络中的AE能量。%n%n它接受来自两边的能量。哪两边？这很容易猜到。%n%n%n%n%n%n%n%n%n好吧，好吧。是上边和下边。
+nomifactory.quest.normal.db.0.desc=这个装置的主要目的是将§6赛特斯石英§r变成§6充能赛特斯石英水晶§r。%n%n该设备可以通过能量导管用 RF 供电，或通过 ME 线缆或导线使用网络中的 AE 能量。%n%n它接受来自两边的能量。哪两边？这很容易猜到。%n%n%n%n%n%n%n%n%n好吧，好吧。是上边和下边。
 
 # db 1 of mode normal
 nomifactory.quest.normal.db.1.title=晶体催生仓
-nomifactory.quest.normal.db.1.desc=§3晶体催生仓§r允许你在机器内执行§b应用能源2§r的世界合成配方。太棒了，你再也不用把更多的东西丢到水里去了！%n%n它用于将§6水晶种子§r成长为§6高纯水晶§r，也用于创造§6福鲁伊克斯水晶§r。%n%nJEI没有直接显示晶体催生仓的配方，所以我们在这里解释一下:%n%n种子是通过粉碎三种水晶中的任何一种，并将粉尘与沙子混合制成的。一颗种子会成长为相应的高纯水晶，在大多数配方中可以替代原始水晶。使用高纯水晶可以让你有效地将你的材料效率提高一倍，这很好。而且，你不能磨掉高纯水晶来进一步增加你的资源。对不起。%n%n福鲁伊克斯水晶也可以在这个机器里制造，使用和原来一样的配方: 只需要放入一份§6红石§r，一份§6充能赛特斯石英水晶§r，以及一份§6下界石英§r来生产。
+nomifactory.quest.normal.db.1.desc=§3晶体催生仓§r允许你在机器内执行§b应用能源2§r的世界合成配方。太棒了，你再也不用把更多的东西丢到水里去了！%n%n它用于将§6水晶种子§r成长为§6高纯水晶§r，也用于创造§6福鲁伊克斯水晶§r。%n%nJEI 没有直接显示晶体催生仓中运行的配方，所以我们在这里解释一下：%n%n种子是通过粉碎三种水晶中的任何一种，并将粉尘与沙子混合制成的。一颗种子会成长为相应的高纯水晶，在大多数配方中可以替代原始水晶。使用高纯水晶可以让你有效地将你的材料效率提高一倍，这很好。而且，你不能磨掉高纯水晶来进一步增加你的资源。对不起。%n%n福鲁伊克斯水晶也可以在这个机器里制造，使用和原来一样的配方：只需要放入一份§6红石§r，一份§6充能赛特斯石英水晶§r，以及一份§6下界石英§r来生产。
 
 # db 2 of mode normal
 nomifactory.quest.normal.db.2.title=“装罐机”和“各种东西”
-nomifactory.quest.normal.db.2.desc=注意: 这个任务同时接受LV和MV装罐机。%n%n§aLV电池§r的制造非常简单，但更有效的电力储存形式的制造将更加复杂，所以我们现在需要打好基础。%n%n打开§3离心机§r做出你所需要的§6锑§r,它可以在处理§6黝铜矿矿石§r或§6辉锑矿矿石§r时以小堆的形式出现。
+nomifactory.quest.normal.db.2.desc=注意: 这个任务同时接受 LV 和 MV 装罐机。%n%n§aLV 电池§r的制造非常简单，但更有效的电力储存形式的制造将更加复杂，所以我们现在需要打好基础。%n%n打开§3离心机§r做出你所需要的§6锑§r，它可以在处理§6黝铜矿矿石§r或§6辉锑矿矿石§r时以小堆的形式出现。
 
 # db 3 of mode normal
 nomifactory.quest.normal.db.3.title=§2开局
-nomifactory.quest.normal.db.3.desc=欢迎来到§5全能工厂§r格雷科技社区版：§2非官方版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于§2社区版：非官方版§r的新功能和有新内容的任务将以§2深绿色(颜色2)§r突出显示。
+nomifactory.quest.normal.db.3.desc=欢迎来到§5全能工厂§r §2GTCEu 版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于 §2GTCEu§r 的新功能和有新内容的任务将以§2深绿色（颜色 2）§r突出显示。
 
 # db 4 of mode normal
 nomifactory.quest.normal.db.4.title=铁的来源
-nomifactory.quest.normal.db.4.desc=§r矿石在§5全能工厂§r中分布是大量集簇的，或者在“§e矿脉§r”中。这些矿脉散布在世界各地，比较常见。§2你得到的升级版HV电动勘探扫描仪会告诉你在7x7区块区域内可以找到的矿物类型！%n%n§r虽然扫描器需要能量来工作，但是你基本不可能耗尽它的电池。即使这样，任务书在后面会引导你合成§2HV电池§r来为你物品栏内的§aHV工具§r充能。%n%n为了继续下去，你需要找到一个§6铁§r的来源。你有几个选择。§6磁铁矿§r矿脉在地表浅处，内含大量的铁，同时还含有一些§6钒§r和§6金§r。另一个不错的铁的来源是§6褐铁矿§r矿脉，内含有几种不同类型的铁矿石。最后，在几种类型的矿脉中，可以发现§6黄铁矿§r与§6铜§r伴生。%n%n§6锻铁§r可以通过§e将铁二次熔炼§r来获得。锻铁工具拥有比铁制工具更高的耐久度，更适合用来制造工具，但是§c绝对不要把你的铁储备全都烧成锻铁§r。这两种材料并不是可以互相替代的关系，某些配方中会需要铁，而某些配方中会需要锻铁。
+nomifactory.quest.normal.db.4.desc=§r矿石在§5全能工厂§r中分布是大量集簇的，或者在“§e矿脉§r”中。这些矿脉散布在世界各地，比较常见。§2你得到的升级版 HV 电动勘探扫描仪会告诉你附近 7x7 区块内可以找到的矿脉类型！%n%n§r虽然扫描仪需要能量来工作，但是你基本不可能耗尽它电池的电能。即使这样，任务书在后面会引导你合成§2 HV 电池§r来为你物品栏内的§a HV 工具§r充能。%n%n为了继续下去，你需要找到一个§6铁§r的来源。你有几个选择。§6磁铁矿§r矿脉在地表浅处，内含大量的铁，同时还含有一些§6钒§r和§6金§r。另一个不错的铁的来源是§6褐铁矿§r矿脉，内含有几种不同类型的铁矿石。最后，在几种类型的矿脉中，可以发现§6黄铁矿§r与§6铜§r伴生。%n%n§6锻铁§r可以通过§e将铁二次熔炼§r来获得。锻铁工具拥有比铁制工具更高的耐久度，更适合用来制造工具，但是§c绝对不要把你的铁储备全都烧成锻铁§r。这两种材料并不是可以互相替代的关系，某些配方中会需要铁，而某些配方中会需要锻铁。
 
 # db 5 of mode normal
 nomifactory.quest.normal.db.5.title=采矿锤
-nomifactory.quest.normal.db.5.desc=§r采矿锤§r提供了一种相对便宜、更快的采矿方式。它们能够快速清除3x3的方块并进行采集，所以它们绝对值得你投入最初的几块金属...%n%n§2格雷科技社区版：非官方版现在有了采矿锤的原生功能！你可以用任何格雷科技工具材料制作它们。
+nomifactory.quest.normal.db.5.desc=§r采矿锤§r提供了一种相对便宜、更快的采矿方式。它们能够快速清除 3x3 的方块（除非你在潜行）。%n%n§2格雷科技社区版：非官方版现在自带采矿锤！你可以用任何格雷科技工具材料制作它们。§r%n%n免费给你的 4 个钻石采矿锤应该可以用一段时间，并且你可以随时使用铁砧和一些钻石来修复它们。
 
 # db 6 of mode normal
 nomifactory.quest.normal.db.6.title=§2更多材料
@@ -78,7 +78,7 @@ nomifactory.quest.normal.db.6.desc=在你继续之前，你还需要获得一些
 
 # db 7 of mode normal
 nomifactory.quest.normal.db.7.title=§2线缆
-nomifactory.quest.normal.db.7.desc=最基本的线缆，如这些§6红色合金线缆§r，可以用手为其包住§6橡胶§r绝缘层。%n%n更高级类型的线缆将需要一个§3组装机§r和流体§9橡胶§r，但你现在可以用简单的方法来做。%n%n§2格雷科技社区版：非官方版默认开启了格雷科技6风格的管道和线缆。§r你需要使用§a剪线钳§r来连接电缆的每一边到机器或其他线缆。把它放在机器或线缆上，也会自动连接起来。同样的行为也适用于格雷科技管道，其工具是§a扳手§r。%n这可以使你避免能量或流体走错方向。但如果你不喜欢这样，可以在格雷科技配置文件中禁用“gt6StylePipesCables”的配置选项。%n%n§2格雷科技线缆现在原生支持RF转换！§r你可以将一台§dRF§r机器直接连接§dEU§r线缆，它将会转换能量。
+nomifactory.quest.normal.db.7.desc=最基本的线缆，如这些§6红色合金线缆§r，可以用手为其包上§6橡胶§r绝缘层。%n%n更高级类型的线缆将需要一个§3组装机§r和流体§9橡胶§r，但你现在可以用简单的方法来做。%n%n§2GTCEu 默认开启了 GT6 风格的管道和线缆。§r你需要使用§a剪线钳§r来连接电缆的每一边到机器或其他线缆。把它放在机器或线缆上，也会自动连接起来。同样的行为也适用于格雷科技管道，其工具是§a扳手§r。%n这可以使你避免能量或流体走错方向。但如果你不喜欢这样，可以在格雷科技配置文件中禁用“GT6 style pipes and cables”的配置选项。%n%n§2格雷科技线缆现在原生支持 RF 转换！§r你可以将一台 §dRF§r 机器直接连接 §dEU§r 线缆，它将会转换能量。但是，你不能将 §dRF§r 能量直接输入 §dEU§r 电缆。
 
 # db 8 of mode normal
 nomifactory.quest.normal.db.8.title=第三种三阶电路
@@ -86,51 +86,51 @@ nomifactory.quest.normal.db.8.desc=有了三个§6三阶电路§r和一些零部
 
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2矿物翻倍？
-nomifactory.quest.normal.db.9.desc=在大多数专家包中，你要在获得矿物翻倍的机会之前，尽量少去处理矿石。这是我们大多数人养成的习惯。%n%n§e虽然说在全能工厂中，你不应该感到任何压力§r。矿脉是巨大的，用§a采矿锤§r开采是非常快的。此外，即使你使用了§3研磨机§r，它们最初处理矿石的速度很慢，而且需要能量来运作。%n%n明显的例外就是稀有材料或任何你用§d万象币§r买的东西，因为你找不到它们。如果可能的话，这些都是值得翻倍的。%n%n但至少现在，你不应该对熔炼更多的普通矿石而不加倍感到内疚！§e矿物翻倍可以被安全地忽略，直到你有了§2蒸汽打粉机§r，或中压等级的机器，甚至更晚。
+nomifactory.quest.normal.db.9.desc=在大多数专家包中，你要在获得矿物翻倍的机会之前，尽量少去处理矿石。这是我们大多数人养成的习惯。%n%n§e虽然说在全能工厂中，你不应该感到任何压力§r。矿脉是巨大的，用§a采矿锤§r开采是非常快的。此外，即使你使用了§3研磨机§r，它们最初处理矿石的速度也是很慢的，而且需要能量来运作。%n%n明显的例外就是稀有材料或任何你用§d万象币§r买的东西，因为你找不到它们。如果可能的话，这些都是值得翻倍的。%n%n但至少现在，你不应该对熔炼更多的普通矿石而不加倍感到内疚！§e矿物翻倍可以被安全地忽略，直到你有了§2蒸汽打粉机§r§e，或中压等级的机器，甚至更晚。
 
 # db 10 of mode normal
 nomifactory.quest.normal.db.10.title=§2二阶微型采掘机
-nomifactory.quest.normal.db.10.desc=第二个微型采掘机！%n%n这使用了一个§b拓展合成§r配方表，所以现在还不可能用§b应用能源2§r来实现采掘机本身的自动化(这需要更先进的技术，在第四级微型采掘机之前不容易获得)。你可以通过预置你所需要的部件，并在拓展合成配方表上填满§bJEI§r来半自动地制作它！%n%n这个微型采掘机你可以获得:§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%n* 钨酸锂矿石%n* 白钨矿矿石%n* 锡石矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这在很多很多时候都会有用。
+nomifactory.quest.normal.db.10.desc=第二个微型采掘机！§2你将需要磷来合成 LV 力场发生器。§r%n%n这使用了§b合成拓展§r工作台，所以现在还不可能用§b应用能源 2 §r来实现采掘机本身的自动化（这需要更先进的技术，在第四级微型采掘机之前不容易获得）。你可以通过自动获取你所需要的部件，并在合成拓展工作台上用 §bJEI§r 自动填充来半自动地制作它！%n%n这个微型采掘机可以给你：§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%n* 闪锌矿矿石%n* 锡石矿石%n* 白钨矿矿石%n* 钨酸盐矿矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这在很多很多时候都会有用。%n%nGTCEu 推出了新任务。该任务需要 HV 电动泵和凛冰粉。这会让你获得凝固的氖气、氙气和氪气，尽管最好是通过蒸馏液态下界和末影空气来获得它们，因为你可以得到有用的副产品，而且你在这个任务中得到的每种元素的量很少。
 
 # db 11 of mode normal
 nomifactory.quest.normal.db.11.title=§2电子元件
-nomifactory.quest.normal.db.11.desc=所谓“§e基板§r”是指电路板的“板”这一部分...也就是支撑电路组件和电线的部分。一个好的基板需要不导电，原因很明显。涂上§6粘性树脂§r的§6木头§r是一种原始但有效的材料，可作为你的第一个基板。%n%n§2社区版：非官方版电路的进展意味着你也必须在你的基板上放上电线，以便它们可以使用。在这种情况下，使用一些铜导线。§r%n%n你还需要制作§6真空管§r，以及一些原始的§6电阻§r。目前，§6纸§r将作为一个的材料来使用。%n%n请确保将这些配方写入§3先进合成站§r...你会做很多这些东西。
+nomifactory.quest.normal.db.11.desc=所谓“§e基板§r”是指电路板的“板”这一部分...也就是支撑电路组件和电线的部分。一个好的基板需要不导电，原因很明显。涂上§6粘性树脂§r的§6木头§r是一种原始但有效的材料，可作为你的第一个基板。%n%n§2GTCEu 电路的发展意味着你还必须在基板上放置电线才能使用。在这种情况下，使用一些铜导线。§r%n%n你还需要制作§6真空管§r，以及一些原始的§6电阻§r。目前，§6纸§r将作为一个材料来使用。%n%n请确保将这些配方写入§3先进合成站§r…你会做很多这些东西。
 
 # db 12 of mode normal
 nomifactory.quest.normal.db.12.title=一些基础工具
-nomifactory.quest.normal.db.12.desc=你需要适应这个整合包的一点诡异之处就是包内工具显示的方式。由于大部分工具都能使用几乎任何金属来合成，因此§bJEI§r会显示很大一堆选项...每种工具都有几百种合成配方。但是，合成工具的方式都是完全相同的，所以你§e只需要按模板摆放好材料，无视JEI合成配方中的材料即可§r。该放杆的地方放杆，该放板的地方放板，以此类推。唯一的限制条件就是一把工具§e必须使用用同一种材料来制作§r...你不能使用几种混合材料来制作一把工具。%n%n合成配方会默认显示§6中子素§r工具。但是只要工具种类正确，任何材料都可以拿来使用。只要忽略配方中的工具材料就好了: 它可以是任何你喜欢的。%n%n现在，先做一个§a锻造锤§r(注意，不是§a采矿锤§r...六个锭，不是五个)。锻造锤可以用来把§e两个锭变成一个板§r。§6板§r可以用来合成§a锉§r，锉可以用来合成§6杆§r，以此类推。使用JEI的帮助来合成一套工具。%n%n§6锻铁§r可能是你现在最好的工具材料，但随着你的进展，会有更好的材料可用。
+nomifactory.quest.normal.db.12.desc=你需要适应这个整合包的一点诡异之处就是包内工具显示的方式。由于大部分工具都能使用几乎任何金属来合成，因此§bJEI§r会显示很大一堆选项…每种工具都有几百种合成配方。但是，合成工具的方式都是完全相同的，所以你§e只需要按模板摆放好材料，无视JEI合成配方中的材料即可§r。该放杆的地方放杆，该放板的地方放板，以此类推。唯一的限制条件就是一把工具§e必须使用同一种材料来制作§r...你不能使用几种混合材料来制作一把工具。%n%n合成配方会默认显示§6铁制§r工具。但是只要工具种类正确，任何材料都可以拿来使用。只要忽略配方中的工具材料就好了：它可以是任何你喜欢的。%n%n现在，先做一个§a锻造锤§r(注意，不是§a采矿锤§r…六个锭，不是板)。锻造锤可以用来把§e两个锭变成一个板§r。§6板§r可以用来合成§a锉§r，锉可以用来合成§6杆§r，以此类推。使用JEI的帮助来合成一套工具。%n%n§6锻铁§r可能是你现在最好的工具材料，但随着你的进展，会有更好的材料可用。这个任务接受任何材料的工具。
 
 # db 13 of mode normal
 nomifactory.quest.normal.db.13.title=批量制作的风格
-nomifactory.quest.normal.db.13.desc=如果所有东西都是你自己来手动合成，你很快就会疯掉的。对经常使用的物品进行§e批量制作§r要有效得多，这样你就不必经常这样做。把所有的材料放在一起，然后一次性制作出§e一组物品§r，这是非常令人满意的。%n%n§3先进合成站§r是批量制作的一个不可缺少的工具。它们可以保存生产链中所有步骤的配方，如工具、电路、机械外壳等。你会想要§e制作多个§r，因为它们提供了便利。%n%n每个先进合成站都有一些存储空间，用于存放一般物品，还有一排专门用于存放§b格雷科技§r工具。此外，先进合成站可以§e与相邻的容器交互§r，因此你可以在它们之间的容器中保存常用材料。这包括大型虚拟存储的接入点，如§a抽屉控制器§r，你以后就可以制作。%n%n要使用先进合成站，你必须在模板区手动设置配方，或从§bJEI§r中点击填充一个配方。将原料放在先进合成站或相邻的容器内，然后你可以点击产生的物品来制作它。一旦一个物品被制作出来，配方就会出现在历史面板的右上方。像往常一样，Shift点击输出物品将制作成一组。%n%n每个先进合成站都会记住你在其中制作的§e最多九个配方§r，可以通过点击右上方配方历史面板中的物品来调用这些配方。旧的配方将被循环淘汰，所以如果你想确保一个配方永远不会被不同的配方所取代，请在历史面板中§eShift点击该配方以锁定它§r。%n%n相邻容器的可用原料可以通过先进合成站的§e存储§r标签看到，你也可以把物品放到这个标签里，把它们送到相邻容器里。
+nomifactory.quest.normal.db.13.desc=如果所有东西都是你自己来手动合成，你很快就会疯掉的。对经常使用的物品进行§e批量制作§r要有效得多，这样你就不必经常这样做。把所有的材料放在一起，然后一次性制作出§e一组物品§r，这是非常令人满意的。%n%n§3先进合成站§r是批量制作的一个不可缺少的工具。它们可以保存生产链中所有步骤的配方，如工具、电路、机械外壳等。你会想要§e制作多个§r，因为它们提供了便利。%n%n每个先进合成站都有一些存储空间，用于存放一般物品，还有一排专门用于存放§b格雷科技§r工具。此外，先进合成站可以§e与相邻的容器交互§r，因此你可以在它们之间的容器中保存常用材料。这包括大型虚拟存储的接入点，如§a抽屉控制器§r，你以后就可以制作。%n%n要使用先进合成站，你必须在模板区手动设置配方，或从 §bJEI§r 中点击填充一个配方。将原料放在先进合成站或相邻的容器内，然后你可以点击产生的物品来制作它。一旦一个物品被制作出来，配方就会出现在历史面板的右上方。像往常一样，Shift 点击输出物品将制作成一组。%n%n每个先进合成站都会记住你在其中制作的§e最多九个配方§r，可以通过点击右上方配方历史面板中的物品来调用这些配方。旧的配方将被循环淘汰，所以如果你想确保一个配方永远不会被不同的配方所取代，请在历史面板中§e Shift 点击该配方以锁定它§r。%n%n相邻容器的可用原料可以通过先进合成站的§e存储§r标签看到，你也可以把物品放到这个标签里来把它们送到相邻容器。
 
 # db 14 of mode normal
-nomifactory.quest.normal.db.14.title=熔炉2.0
-nomifactory.quest.normal.db.14.desc=§3铁熔炉§r可以在§a150ticks§r内熔炼一个物品，这比原版的§6熔炉§r要快一些，后者需要§a200ticks§r。所有熔炉的燃料效率都是一样的。
+nomifactory.quest.normal.db.14.title=熔炉 2.0
+nomifactory.quest.normal.db.14.desc=§3铁熔炉§r可以在§a 150 ticks §r内熔炼一个物品，这比原版的§6熔炉§r要快一些，后者需要§a 200 ticks§r。所有熔炉的燃料效率都是一样的。
 
 # db 15 of mode normal
-nomifactory.quest.normal.db.15.title=熔炉3.0
-nomifactory.quest.normal.db.15.desc=§3铜熔炉§r的速度又提高了一步，熔炼一个物品需要§a100ticks§r。
+nomifactory.quest.normal.db.15.title=熔炉 3.0
+nomifactory.quest.normal.db.15.desc=§3铜熔炉§r的速度又提高了一步，熔炼一个物品需要§a 100 ticks§r。
 
 # db 16 of mode normal
-nomifactory.quest.normal.db.16.title=熔炉4.0
-nomifactory.quest.normal.db.16.desc=§3银熔炉§r的速度又提高了一步，熔炼一个物品只需§a60ticks§r。
+nomifactory.quest.normal.db.16.title=熔炉 4.0
+nomifactory.quest.normal.db.16.desc=§3银熔炉§r的速度又提高了一步，熔炼一个物品只需§a 60 ticks§r。
 
 # db 17 of mode normal
-nomifactory.quest.normal.db.17.title=熔炉5.0
-nomifactory.quest.normal.db.17.desc=§3金熔炉§r的速度又提高了一步，熔炼一个物品只需要§a40ticks§r。
+nomifactory.quest.normal.db.17.title=熔炉 5.0
+nomifactory.quest.normal.db.17.desc=§3金熔炉§r的速度又提高了一步，熔炼一个物品只需要§a 40 ticks§r。
 
 # db 18 of mode normal
-nomifactory.quest.normal.db.18.title=熔炉7.0
+nomifactory.quest.normal.db.18.title=熔炉 7.0
 nomifactory.quest.normal.db.18.desc=虽然§3黑曜石熔炉§r的速度与§3钻石熔炉§r相同，但由于它们可以§e同时熔炼两个物品§r，所以它们的产量是钻石熔炉的两倍。%n%n你可能会发现钻石熔炉比黑曜石熔炉更适合你的需要，但它们很快都会成为各种机器的制作原料，所以制作一个也不算浪费，即使你不使用它。
 
 # db 19 of mode normal
-nomifactory.quest.normal.db.19.title=LV合金炉
-nomifactory.quest.normal.db.19.desc=合金炉用于通过将物品熔化和重组在一起来制造合金。%n%n现在你不需要把金属磨成粉，再把它们混合起来做成合金粉！此外，许多你无法通过这种方式制造的更复杂的合金现在也可以实现。
+nomifactory.quest.normal.db.19.title=LV 合金炉
+nomifactory.quest.normal.db.19.desc=合金炉用于通过将物品熔化和重组在一起来制造合金。%n%n现在你不再需要把金属磨成粉，再把它们混合起来做成合金粉！此外，许多你无法通过这种方式制造的更复杂的合金现在也可以实现。
 
 # db 20 of mode normal
-nomifactory.quest.normal.db.20.title=熔炉6.0
-nomifactory.quest.normal.db.20.desc=§3钻石熔炉§r是目前最快的，熔炼一件物品只需要§a25ticks§r。
+nomifactory.quest.normal.db.20.title=熔炉 6.0
+nomifactory.quest.normal.db.20.desc=§3钻石熔炉§r是目前最快的，熔炼一件物品只需要§a 25 ticks§r。
 
 # db 21 of mode normal
 nomifactory.quest.normal.db.21.title=§2钢
@@ -138,19 +138,19 @@ nomifactory.quest.normal.db.21.desc=你已经有了§6钢§r，但在§3合金�
 
 # db 22 of mode normal
 nomifactory.quest.normal.db.22.title=§2热解炉
-nomifactory.quest.normal.db.22.desc=这个炉子的主要功能是提高你的木头和煤炭的燃料价值，同时也回收一些各种可能有用的废品。%n%n将§6煤炭§r变成§6焦煤§r，不仅可以使它作为燃料更有用，而且还可以产生§9苯酚§r，你将需要它来做电路。%n%n热解炉也是其他几种流体的来源，可以通过蒸馏获得有用的成分。%n%n你可以在控制器上§6潜行右击§r，以启用世界预览。%n%n§2正如工具提示中所说，更高等级的线圈将使其更快。
+nomifactory.quest.normal.db.22.desc=这个炉子的主要功能是提高你的木头和煤炭的燃料价值，同时也回收一些各种可能有用的废品。%n%n将§6煤炭§r变成§6焦煤§r，不仅可以使它作为燃料更有用，而且还可以产生§9苯酚§r，你将需要它来做电路。%n%n热解炉也是其他几种流体的来源，可以通过蒸馏获得有用的成分。%n%n你可以在控制器上§6潜行右击§r，以启用搭建预览。%n%n§2正如工具提示中所说，更高等级的线圈将使其更快。
 
 # db 23 of mode normal
 nomifactory.quest.normal.db.23.title=黑曜石
-nomifactory.quest.normal.db.23.desc=你需要§6黑曜石§r来制作§6玄钢§r。你能制造的大多数工具都不能开采黑曜石，但你确实有一些潜在的选择可以开采。此时你最有可能访问的选择是:%n%n1) 一个§a钻石镐§r或§a钻石采矿锤§r。%n%n2) 一个§a铂采矿锤§r(不再是镐子了)。
+nomifactory.quest.normal.db.23.desc=你需要§6黑曜石§r来制作§6玄钢§r。你能制造的大多数工具都不能开采黑曜石，但你确实有一些潜在的选择可以开采。此时你最有可能访问的选择是:%n%n1) 一个§a钻石镐§r或§a钻石采矿锤§r。%n%n2) 一个§a铂采矿锤§r(不再是镐子了)。%n%n之后。您可以使用电压为 §aHV§r 或更高的§3碎岩机§r来制造§6黑曜石§r，而无需花费§6熔岩§r！
 
 # db 24 of mode normal
 nomifactory.quest.normal.db.24.title=蒸汽能源炉
-nomifactory.quest.normal.db.24.desc=你的第一个重要的合成工程！%n%n你将需要一小部分§6银§r来做这个能源炉。如果你还没有找到一个§6方铅矿矿脉§r(这就是银的所在地)，那么可以考虑用§d万象币§r“购买”一些§6银矿石§r。你还不需要大量的银和铅，所以不会让你破产。%n%n请记住，§e能源炉只有在通过燃料燃烧时才会输出功率，而且只有直接连接到线圈的那一端才会得到提供的功率§r。
+nomifactory.quest.normal.db.24.desc=你的第一个重要的合成工程！%n%n§6蒸汽能源炉§r 将成为您游戏早期的 §d电力§r 来源。它需要§9水§r和可燃燃料，如§6煤§r或§6甘蔗§r来发电。%n%n你将需要一小部分§6银§r来做这个能源炉。如果你还没有找到一个§6方铅矿矿脉§r(银的所在地)，那么可以考虑用§d万象币§r“购买”一些§6银矿石§r。你还不需要大量的银和铅，所以不会让你破产。%n%n请记住，§e能源炉只有在燃料燃烧时才会输出能量，而且只输出到直接连接到线圈的那一端§r。
 
 # db 25 of mode normal
 nomifactory.quest.normal.db.25.title=基于蛋糕的维度传送
-nomifactory.quest.normal.db.25.desc=这个任务每小时可重复一次，并给你一个前往虚空世界或主世界的免费蛋糕。你还可以用工具提示中显示的物品来补充你的蛋糕。
+nomifactory.quest.normal.db.25.desc=这个任务每小时可重复一次，并给你一个前往虚空世界或主世界的免费蛋糕。你还可以用物品提示中显示的物品来补充你的蛋糕。
 
 # db 26 of mode normal
 nomifactory.quest.normal.db.26.title=玄钢
@@ -3552,7 +3552,7 @@ nomifactory.quest.expert.line.5.desc=你正处于游戏的最终阶段...%n%n将
 
 # line 6 of mode expert
 nomifactory.quest.expert.line.6.title=创世纪
-nomifactory.quest.expert.line.6.desc=欢迎来到§5全能工厂§r, 我将成为你的向导。
+nomifactory.quest.expert.line.6.desc=欢迎来到§5全能工厂 GTCEu 版§r，我将成为你的向导。
 
 # line 7 of mode expert
 nomifactory.quest.expert.line.7.title=深入微型宇宙
