@@ -492,7 +492,7 @@ config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Журнал ко
 # Data Fixers
 # Don't forget to update this in LabsMessageHelper.Components as well!
 nomilabs.fixer.intro.1=Этот мир должен быть перенастроен.
-nomilabs.fixer.intro.4=§cОбратите внимание: после того, как мир будет загружен, вы НЕ МОЖЕТЕ отменить изменения!§r
 nomilabs.fixer.intro.2=§lБудет создана резервная копия .§r
 nomilabs.fixer.intro.3=Нажмите 'No/Нет' чтобы отменить загрузку.
+nomilabs.fixer.intro.4=§cОбратите внимание: после того, как мир будет загружен, вы НЕ МОЖЕТЕ отменить изменения!§r
 nomilabs.fixer.intro.5=Вам §nПРИДЕТСЯ§r загрузиться из резервной копии, чтобы загрузить предыдущую версию!
