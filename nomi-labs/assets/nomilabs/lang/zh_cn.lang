@@ -27,6 +27,7 @@ config.nomilabs.mod_integration.nuclearcraft=启用 NuclearCraft 联动
 config.nomilabs.mod_integration.xu2=启用 Extra Utilities 2 联动
 config.nomilabs.mod_integration.top=启用 The One Probe 联动
 config.nomilabs.mod_integration.ender_storage=启用 Ender Storage 联动
+config.nomilabs.mod_integration.advanced_rocketry=启用 Advanced Rocketry 联动
 config.nomilabs.mod_integration.ender_io=启用 Ender IO 联动
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution 联动设置
 config.nomilabs.mod_integration.draconicevolution.enable=启用 Draconic Evolution 联动
@@ -35,11 +36,17 @@ config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=自动�
 config.nomilabs.advanced=高级设置
 config.nomilabs.advanced.allow_other_modes=允许其他模式
 config.nomilabs.advanced.disable_xp_scaling=禁用铁砧累计惩罚
+config.nomilabs.advanced.disable_advancements=禁用成就
+config.nomilabs.advanced.disable_narrator=禁用复述功能	
 config.nomilabs.advanced.enable_data_fixes=启用数据修复
 config.nomilabs.advanced.ignore_items=被忽略的缺少注册的物品列表
 config.nomilabs.advanced.ignore_blocks=被忽略的缺少注册的方块列表
 config.nomilabs.advanced.ignore_entities=被忽略的缺少注册的实体列表
 config.nomilabs.advanced.ignore_biomes=被忽略的缺少注册的生物群系列表
+
+config.nomilabs.advanced.fluid_registry=流体注册设置
+config.nomilabs.advanced.fluid_registry.default_fluids=默认流体
+config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=记录冲突流体
 
 # Custom Fluids
 fluid.uranium233=铀 233
@@ -53,6 +60,23 @@ fluid.moltenempoweredvoid=熔融充能煤晶
 fluid.elementalreduction=元素还原液
 fluid.tough_alloy=高强合金
 fluid.moltendarksoularium=熔融玄色魂金
+
+# Data Fixers
+# Don't forget to update this in LabsMessageHelper.Components as well!
+nomilabs.fixer.intro.1=这个存档必须重新映射。
+nomilabs.fixer.intro.2=§l将会创建一个备份。§r
+nomilabs.fixer.intro.3=按“否”将取消世界加载。
+nomilabs.fixer.intro.4=§c请注意，您将无法撤消对存档进行的修复操作！§r
+nomilabs.fixer.intro.5=§n若要§r加载以前的版本，你必须从备份中加载！
+nomilabs.fixer.intro.6=§7必须通过数据修复程序进行的更改已打印到您的日志中。§r
+
+nomilabs.fixer.mode_check.1=您确定您之前使用“§e%s§r”整合包难度加载了这个存档吗？
+nomilabs.fixer.mode_check.2=使用错误的整合包难度启动§n将会§r使一些物品和方块消失！
+nomilabs.fixer.mode_check.3=§7如果你没有在旧版本中更改整合包难度，则默认的难度为“普通”。§r
+nomilabs.fixer.mode_check.4=如果你不确定话，按“否”！（这会取消世界加载）
+
+nomilabs.fixer.do_not_exit.1=§c不要中断加载过程！§r
+nomilabs.fixer.do_not_exit.2=如果意外中断，从备份中重新加载，否则你的存档可能会崩溃！
 
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi 实验室
@@ -337,7 +361,7 @@ item.nomilabs.doublecompressedoctadiccapacitor.name=双倍压缩八层电容
 item.nomilabs.ultimate_circuit.name=终极电路板
 tile.nomilabs.ultimate_power_storage.name=终极蓄电池
 tile.nomilabs.ultimate_generator.name=终极发电机
-item.nomilabs.ultimate_crafting_table.name=终极合成台
+item.nomilabs.ultimate_crafting_table.name=终极工作台
 item.nomilabs.ultimate_gem.name=终极宝石
 item.nomilabs.dragonlairdata.name=飞龙巢穴数据
 item.nomilabs.witherrealmdata.name=凋灵领域数据
@@ -358,13 +382,14 @@ item.nomilabs.thirtytwosmore.name=三十二重饼干夹烤棉花糖
 item.nomilabs.sixtyfoursmore.name=六十四重饼干夹烤棉花糖
 item.nomilabs.dark_red_coal.name=暗红煤
 item.nomilabs.hand_framing_tool.name=手持镶框工具
-item.nomilabs.hand_framing_tool.desc1=手工给抽屉镶框！
-item.nomilabs.hand_framing_tool.desc2=通过手持镶框工具，可以为已经放置在世界上的抽屉设置框架。
-item.nomilabs.hand_framing_tool.desc3=使用前，工具本身需要在工作台中镶框。
-item.nomilabs.hand_framing_tool.desc4=如果你希望对工具本身镶框，请查询JEI中的合成表。
+
+item.nomilabs.hand_framing_tool.desc1=轻松给抽屉镶框！
+item.nomilabs.hand_framing_tool.desc2=通过§5手持镶框工具§r，可以为已经放置在世界上的抽屉设置框架。
+item.nomilabs.hand_framing_tool.desc3=使用前，工具本身需要在§3工作台§r或§3镶框台§r中镶框。
+item.nomilabs.hand_framing_tool.desc4=如果你希望对工具本身镶框，请查询§8JEI§r中的合成表。
 item.nomilabs.hand_framing_tool.desc5=被镶框的工具右键单击世界上的任何抽屉都会为它镶框。
 item.nomilabs.hand_framing_tool.desc6=当使用它右击世界上任意一种木质抽屉时，它们将变成镶框抽屉。
-item.nomilabs.hand_framing_tool.desc7=框架/装饰也将应用于它们。
+
 item.nomilabs.pulsatingdust.name=脉动之尘
 item.nomilabs.pulsatingmesh.name=脉动网格
 
@@ -401,53 +426,56 @@ tooltip.nomilabs.general.press_shift_for_usages=按住 [Shift] 查看更多用�
 tooltip.nomilabs.general.press_ctrl_for_usages=按住 [Ctrl] 查看更多用法。
 tooltip.nomilabs.general.press_shift_for_info=按住 [Shift] 查看更多信息。
 tooltip.nomilabs.general.press_ctrl_for_info=按住 [Ctrl] 查看更多信息。
+tooltip.nomilabs.general.crafting_component=§7只用于制作元件。§r
 
 # Items
-tooltip.nomilabs.excitationcoil.description_block=只用于制作元件。
-tooltip.nomilabs.excitationcoil.description_item=仅用于制作元件…以及：
-tooltip.nomilabs.excitationcoil.placeable=可放置！
-tooltip.nomilabs.excitationcoil.wearable=可以戴在你的头上！
+tooltip.nomilabs.excitationcoil.description_item=§7仅用于制作元件……除了：§r
+tooltip.nomilabs.excitationcoil.placeable=§7可放置！§r
+tooltip.nomilabs.excitationcoil.wearable=§7可以戴在你的头上！§r
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
-tooltip.nomilabs.hand_framing_tool.not_set=把这个工具放在成型台或合成台里来设置镶框数据！
-tooltip.nomilabs.hand_framing_tool.side=侧边: %s
-tooltip.nomilabs.hand_framing_tool.trim=镶边: %s
-tooltip.nomilabs.hand_framing_tool.front=前面: %s
-tooltip.nomilabs.ultimate_items.description=只用于制作元件。
-tooltip.nomilabs.universalnavigator.description=晚点见，领航员！
-tooltip.nomilabs.eternalcatalyst.description=凝视深渊…
-tooltip.nomilabs.tieroneship.description=从微宇宙中的小行星上采集钛和其他轻金属。
-tooltip.nomilabs.tiertwoship.description=从微宇宙中的小行星上采集钨和其他重金属。
-tooltip.nomilabs.tierthreeship.description=从下界微宇宙中采集超高温金属和宝石。
-tooltip.nomilabs.tierfourship.description=从空旷太空的最深处采集超冷材料。
-tooltip.nomilabs.tierfourandhalfship.description=在危险的微宇宙中杀死怪物，并收集他们珍贵的骨骼和零件。
-tooltip.nomilabs.tierfiveship.description=从末地微宇宙采集奇异的材料。
-tooltip.nomilabs.tiersixship.description=从每一个可理解的现实中获取极其稀有的材料。
-tooltip.nomilabs.tiersevenship.description=从微宇宙中狩猎龙和末影龙，并从它们的甲壳中携带战利品返回。
-tooltip.nomilabs.tiereightship.description=从末地微宇宙中猎杀无法想象的怪物，并带着奇异的小饰品返回。
-tooltip.nomilabs.tiereightandhalfship.description=从微宇宙之外未经探索的角落收获独特的宝石和金属。
-tooltip.nomilabs.tiernineship.description=坍缩微宇宙恒星并收获它们美味的中子核心。
-tooltip.nomilabs.tiertenship.description1=坍缩整个微宇宙并完全采集它。
-tooltip.nomilabs.tiertenship.description2=如入无人之地。
-tooltip.stabilized_miners.description1=一个稳定的版本，注入了宇宙之心。
-tooltip.stabilized_miners.description2=无限期持续。可重复使用。完全不 OP。
-tooltip.stabilized_miners.description3=它看起来奇怪地熟悉。
-tooltip.stabilized_matters.description=一个无限的、费解的材料深渊。
+
+tooltip.nomilabs.hand_framing_tool.not_set=把这个工具放在成型台或工作台里来设置镶框数据！
+tooltip.nomilabs.hand_framing_tool.side=外壳: %s
+tooltip.nomilabs.hand_framing_tool.trim=棱边: %s
+tooltip.nomilabs.hand_framing_tool.front=正面: %s
+
+tooltip.nomilabs.universalnavigator.description=§9晚点见，领航员！§r
+
+tooltip.nomilabs.eternalcatalyst.description=§8凝视深渊……§r
+
+tooltip.nomilabs.tieroneship.description=§f§o从微宇宙中的小行星上采集钛和其他轻金属。§r
+tooltip.nomilabs.tiertwoship.description=§f§o从微宇宙中的小行星上采集钨和其他重金属。§r
+tooltip.nomilabs.tierthreeship.description=§f§o从下界微宇宙中采集超高温金属和宝石。§r
+tooltip.nomilabs.tierfourship.description=§f§o从空旷太空的最深处采集超冷材料。§r
+tooltip.nomilabs.tierfourandhalfship.description=§f§o在危险的微宇宙中杀死怪物，并收集他们珍贵的骨骼和零件。§r
+tooltip.nomilabs.tierfiveship.description=§f§o从末地微宇宙采集奇异的材料。§r
+tooltip.nomilabs.tiersixship.description=§f§o从每一个可理解的现实中获取极其稀有的材料。§r
+tooltip.nomilabs.tiersevenship.description=§f§o从微宇宙中狩猎龙和末影龙，并从它们的甲壳中携带战利品返回。§r
+tooltip.nomilabs.tiereightship.description=§f§o从末地微宇宙中猎杀无法想象的怪物，并带着奇异的小饰品返回。§r
+tooltip.nomilabs.tiereightandhalfship.description=§f§o从微宇宙之外未经探索的角落收获独特的宝石和金属。§r
+tooltip.nomilabs.tiernineship.description=§f§o坍缩微宇宙恒星并收获它们美味的中子核心。§r
+tooltip.nomilabs.tiertenship.description1=§f§o坍缩整个微宇宙并完全采集它。§r
+tooltip.nomilabs.tiertenship.description2=§f§o如入无人之地。§r
+
+tooltip.stabilized_miners.description1=§f§o一个稳定的版本，注入了宇宙之心。§r
+tooltip.stabilized_miners.description2=§f§o无限期持续。可重复使用。完全不 OP。§r
+tooltip.stabilized_miners.description3=§f§o它看起来奇怪地熟悉。§r
+
+tooltip.stabilized_matters.description=§f§o一个无限的、费解的材料深渊。§r
+
 tooltip.nomilabs.capacitors.description=Ender IO 机器升级
-tooltip.nomilabs.capacitors.level=级别：%s
+tooltip.nomilabs.capacitors.level=§5级别：%s§r
 
 # Multiblocks
-tooltip.nomilabs.microverse_projector_1.description=一种能够稳定投影进入微型宇宙中的机器，用于基本的微型采矿任务。
-tooltip.nomilabs.microverse_projector_2.description=一种能够稳定投影进入微型宇宙中的高级机器，用于基本的复杂采矿任务。
-tooltip.nomilabs.microverse_projector_3.description=一种能够稳定投影进入微型宇宙中的杰出机器，用于基本的奇特采矿任务。
-tooltip.nomilabs.creative_tank_provider.description=一台复杂的机器，能够将水桶和模具变成人类无法理解的无限容器。
-tooltip.nomilabs.naquadah_reactor_1.description=一种高级的反应堆，通过利用富集硅岩和超能硅岩的衰变产生能量。
-tooltip.nomilabs.naquadah_reactor_2.description=一种杰出的反应堆，可从富集硅岩和超能硅岩的衰变中获取更多能量。
-tooltip.nomilabs.naquadah_reactor.produces=正好产生 %s 安培的 %s。
+tooltip.nomilabs.microverse_projector_1.description=§8一种能够稳定投影进入微型宇宙中的机器，用于基本的微型采矿任务。§r
+tooltip.nomilabs.microverse_projector_2.description=§8一种能够稳定投影进入微型宇宙中的高级机器，用于基本的复杂采矿任务。§r
+tooltip.nomilabs.microverse_projector_3.description=§8一种能够稳定投影进入微型宇宙中的杰出机器，用于基本的奇特采矿任务。§r
+tooltip.nomilabs.creative_tank_provider.description=§8一台复杂的机器，能够将水桶和模具变成人类无法理解的无限容器。§r
+tooltip.nomilabs.naquadah_reactor_1.description=§8一种高级的反应堆，通过利用富集硅岩和超能硅岩的衰变产生能量。§r
+tooltip.nomilabs.naquadah_reactor_2.description=§8一种杰出的反应堆，可从富集硅岩和超能硅岩的衰变中获取更多能量。§r
+tooltip.nomilabs.naquadah_reactor.produces=§f正好产生 %s 安培的 %s。§r
 tooltip.nomilabs.naquadah_reactor.overclock=不要超频!
-tooltip.nomilabs.actualization_chamber.description=一台强大的机器，可以利用最复杂的物质并将其转化为原材料。
-tooltip.nomilabs.universal_crystallizer.description=一种巨大的装置，能够将原材料转化为复杂物质。
-tooltip.nomilabs.dme_sim_chamber.description=一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。
-tooltip.nomilabs.greenhouse.description=一个高功率的生长室，即使是最难以理解的植物也能大规模生长。
-config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
-config.nomilabs.advanced.disable_narrator=禁用复述功能
-config.nomilabs.advanced.disable_advancements=禁用进度
+tooltip.nomilabs.actualization_chamber.description=§8一台强大的机器，可以利用最复杂的物质并将其转化为原材料。§r
+tooltip.nomilabs.universal_crystallizer.description=§8一种巨大的装置，能够将原材料转化为复杂物质。§r
+tooltip.nomilabs.dme_sim_chamber.description=§8一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。§r
+tooltip.nomilabs.greenhouse.description=§8一个高功率的生长室，即使是最难以理解的植物也能大规模生长。§r
