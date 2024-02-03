@@ -432,7 +432,7 @@ recipemap.dme_sim_chamber.name=
 # General
 tooltip.nomilabs.general.press_shift_for_usages=
 tooltip.nomilabs.general.press_ctrl_for_usages=
-tooltip.nomilabs.general.press_shift_for_info=
+tooltip.nomilabs.general.press_shift_for_info=Нажмите [SHIFT] для Информации
 tooltip.nomilabs.general.press_ctrl_for_info=
 
 # Items
