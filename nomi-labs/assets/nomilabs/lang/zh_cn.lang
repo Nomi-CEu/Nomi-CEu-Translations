@@ -43,7 +43,6 @@ config.nomilabs.advanced.ignore_items=被忽略的缺少注册的物品列表
 config.nomilabs.advanced.ignore_blocks=被忽略的缺少注册的方块列表
 config.nomilabs.advanced.ignore_entities=被忽略的缺少注册的实体列表
 config.nomilabs.advanced.ignore_biomes=被忽略的缺少注册的生物群系列表
-
 config.nomilabs.advanced.fluid_registry=流体注册设置
 config.nomilabs.advanced.fluid_registry.default_fluids=默认流体
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=记录冲突流体
@@ -69,12 +68,10 @@ nomilabs.fixer.intro.3=按“否”将取消世界加载。
 nomilabs.fixer.intro.4=§c请注意，您将无法撤消对存档进行的修复操作！§r
 nomilabs.fixer.intro.5=§n若要§r加载以前的版本，你必须从备份中加载！
 nomilabs.fixer.intro.6=§7必须通过数据修复程序进行的更改已打印到您的日志中。§r
-
 nomilabs.fixer.mode_check.1=您确定您之前使用“§e%s§r”整合包难度加载了这个存档吗？
 nomilabs.fixer.mode_check.2=使用错误的整合包难度启动§n将会§r使一些物品和方块消失！
 nomilabs.fixer.mode_check.3=§7如果你没有在旧版本中更改整合包难度，则默认的难度为“普通”。§r
 nomilabs.fixer.mode_check.4=如果你不确定话，按“否”！（这会取消世界加载）
-
 nomilabs.fixer.do_not_exit.1=§c不要中断加载过程！§r
 nomilabs.fixer.do_not_exit.2=如果意外中断，从备份中重新加载，否则你的存档可能会崩溃！
 
@@ -382,14 +379,12 @@ item.nomilabs.thirtytwosmore.name=三十二重饼干夹烤棉花糖
 item.nomilabs.sixtyfoursmore.name=六十四重饼干夹烤棉花糖
 item.nomilabs.dark_red_coal.name=暗红煤
 item.nomilabs.hand_framing_tool.name=手持镶框工具
-
 item.nomilabs.hand_framing_tool.desc1=轻松给抽屉镶框！
 item.nomilabs.hand_framing_tool.desc2=通过§5手持镶框工具§r，可以为已经放置在世界上的抽屉设置框架。
 item.nomilabs.hand_framing_tool.desc3=使用前，工具本身需要在§3工作台§r或§3镶框台§r中镶框。
 item.nomilabs.hand_framing_tool.desc4=如果你希望对工具本身镶框，请查询§8JEI§r中的合成表。
 item.nomilabs.hand_framing_tool.desc5=被镶框的工具右键单击世界上的任何抽屉都会为它镶框。
 item.nomilabs.hand_framing_tool.desc6=当使用它右击世界上任意一种木质抽屉时，它们将变成镶框抽屉。
-
 item.nomilabs.pulsatingdust.name=脉动之尘
 item.nomilabs.pulsatingmesh.name=脉动网格
 
@@ -433,16 +428,12 @@ tooltip.nomilabs.excitationcoil.description_item=§7仅用于制作元件……�
 tooltip.nomilabs.excitationcoil.placeable=§7可放置！§r
 tooltip.nomilabs.excitationcoil.wearable=§7可以戴在你的头上！§r
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
-
 tooltip.nomilabs.hand_framing_tool.not_set=把这个工具放在成型台或工作台里来设置镶框数据！
 tooltip.nomilabs.hand_framing_tool.side=外壳: %s
 tooltip.nomilabs.hand_framing_tool.trim=棱边: %s
 tooltip.nomilabs.hand_framing_tool.front=正面: %s
-
 tooltip.nomilabs.universalnavigator.description=§9晚点见，领航员！§r
-
 tooltip.nomilabs.eternalcatalyst.description=§8凝视深渊……§r
-
 tooltip.nomilabs.tieroneship.description=§f§o从微宇宙中的小行星上采集钛和其他轻金属。§r
 tooltip.nomilabs.tiertwoship.description=§f§o从微宇宙中的小行星上采集钨和其他重金属。§r
 tooltip.nomilabs.tierthreeship.description=§f§o从下界微宇宙中采集超高温金属和宝石。§r
@@ -456,13 +447,10 @@ tooltip.nomilabs.tiereightandhalfship.description=§f§o从微宇宙之外未经
 tooltip.nomilabs.tiernineship.description=§f§o坍缩微宇宙恒星并收获它们美味的中子核心。§r
 tooltip.nomilabs.tiertenship.description1=§f§o坍缩整个微宇宙并完全采集它。§r
 tooltip.nomilabs.tiertenship.description2=§f§o如入无人之地。§r
-
 tooltip.stabilized_miners.description1=§f§o一个稳定的版本，注入了宇宙之心。§r
 tooltip.stabilized_miners.description2=§f§o无限期持续。可重复使用。完全不 OP。§r
 tooltip.stabilized_miners.description3=§f§o它看起来奇怪地熟悉。§r
-
 tooltip.stabilized_matters.description=§f§o一个无限的、费解的材料深渊。§r
-
 tooltip.nomilabs.capacitors.description=Ender IO 机器升级
 tooltip.nomilabs.capacitors.level=§5级别：%s§r
 
@@ -479,3 +467,7 @@ tooltip.nomilabs.actualization_chamber.description=§8一台强大的机器，�
 tooltip.nomilabs.universal_crystallizer.description=§8一种巨大的装置，能够将原材料转化为复杂物质。§r
 tooltip.nomilabs.dme_sim_chamber.description=§8一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。§r
 tooltip.nomilabs.greenhouse.description=§8一个高功率的生长室，即使是最难以理解的植物也能大规模生长。§r
+config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
+
+# Items
+tooltip.nomilabs.excitationcoil.description=§7仅用于制作元件……除了：§r
