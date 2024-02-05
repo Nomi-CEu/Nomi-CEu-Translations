@@ -413,7 +413,7 @@ nomilabs.machine.naquadah_reactor_1.name=Наквада-реактор 1
 nomilabs.machine.naquadah_reactor_2.name=Наквада-реактор 2
 nomilabs.machine.actualization_chamber.name=Актуализационная камера
 nomilabs.machine.universal_crystallizer.name=Вселенский кристаллизатор
-nomilabs.machine.dme_sim_chamber.name=Simulation Supercomputer
+nomilabs.machine.dme_sim_chamber.name=Симуляционный суперкомпьютер
 
 # Recipe Maps
 recipemap.microverse_projector_1.name=Обычная микровселенная
@@ -424,7 +424,7 @@ recipemap.naquadah_reactor_1.name=Наквада-реактор 1
 recipemap.naquadah_reactor_2.name=Наквада-реактор 2
 recipemap.actualization_chamber.name=Актуализация
 recipemap.universal_crystallizer.name=Вселенская кристаллизация
-recipemap.dme_sim_chamber.name=
+recipemap.dme_sim_chamber.name=Симуляция
 
 
 #----------------Tooltips----------------#
@@ -433,7 +433,7 @@ recipemap.dme_sim_chamber.name=
 tooltip.nomilabs.general.press_shift_for_usages=
 tooltip.nomilabs.general.press_ctrl_for_usages=
 tooltip.nomilabs.general.press_shift_for_info=Нажмите [SHIFT] для Информации
-tooltip.nomilabs.general.press_ctrl_for_info=
+tooltip.nomilabs.general.press_ctrl_for_info=Нажмите [CTRL] для Информации.
 
 # Items
 tooltip.nomilabs.excitationcoil.description_block=
