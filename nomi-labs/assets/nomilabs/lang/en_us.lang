@@ -33,6 +33,7 @@ config.nomilabs.mod_integration.top=Enable The One Probe Integration
 config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
+config.nomilabs.mod_integration.groovy_hand=Enable GroovyScript Hand Additions
 
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
@@ -85,6 +86,12 @@ nomilabs.fixer.mode_check.4=Press 'No' if you are not sure! (It will cancel worl
 
 nomilabs.fixer.do_not_exit.1=§cDo not interrupt the loading process!§r
 nomilabs.fixer.do_not_exit.2=If interrupted, load again from the backup, as your world may be corrupted!
+
+# Commands
+nomilabs.command.gs_hand.material=Material ID:
+nomilabs.command.gs_hand.material_stack=Material Stack:
+nomilabs.command.gs_hand.material_components=§aMaterial Components:§r
+nomilabs.command.gs_hand.all_material_components=§eAll Material Components§r
 
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi Labs
