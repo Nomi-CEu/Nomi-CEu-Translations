@@ -471,3 +471,10 @@ config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
 
 # Items
 tooltip.nomilabs.excitationcoil.description=§7仅用于制作元件……除了：§r
+nomilabs.command.gs_hand.material_components=§a材料成分：§r
+config.nomilabs.mod_integration.groovy_hand=启用GroovyScript手共添加
+
+# Commands
+nomilabs.command.gs_hand.material=材料ID：
+nomilabs.command.gs_hand.all_material_components=§e都成分材料§r
+nomilabs.command.gs_hand.material_stack=材料堆：
