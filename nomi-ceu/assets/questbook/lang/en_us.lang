@@ -1330,7 +1330,7 @@ nomifactory.quest.normal.db.338.desc=§2You can make HV Batteries like LV and MV
 
 # db 339 of mode normal
 nomifactory.quest.normal.db.339.title=§2EV Machine Hulls
-nomifactory.quest.normal.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism. §6%n%nNeodynium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%n§2Starting at EV, 4A Energy and Dynamo hatches are available at each tier.
+nomifactory.quest.normal.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism. §6%n%nNeodymium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%n§2Starting at EV, 4A Energy and Dynamo hatches are available at each tier.
 
 # db 340 of mode normal
 nomifactory.quest.normal.db.340.title=§2EV Power Storage
