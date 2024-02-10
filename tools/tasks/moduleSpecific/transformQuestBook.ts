@@ -108,8 +108,8 @@ export async function transformQuestBook(): Promise<void> {
 	const questPathExpertSource = upath.join(sharedQBDefaults, "saved_quests", "ExpertQuests.json");
 
 	// Quest Book Objects
-	const questBookNormal: QuestBook = JSON.parse((await fs.promises.readFile(questPathNormalSource)).toString());
-	const questBookExpert: QuestBook = JSON.parse((await fs.promises.readFile(questPathExpertSource)).toString());
+	const questBookNormal: QuestBook = JSON.parse(await fs.promises.readFile(questPathNormalSource, "utf-8"));
+	const questBookExpert: QuestBook = JSON.parse(await fs.promises.readFile(questPathExpertSource, "utf-8"));
 
 	// Quest Book Paths
 	const questPathNormalDefault = upath.join(sharedQBDefaults, "DefaultQuests.json");
