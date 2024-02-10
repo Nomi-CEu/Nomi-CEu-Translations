@@ -27,9 +27,9 @@ function transformKeyPairs(
 
 			// Push lang file lines.
 			lines.push(
-				`# ${namespace} ${storeKey} of mode ${mode}`,
-				`${titleKey}=${escapeString(properties["name:8"])}`,
-				`${descKey}=${escapeString(properties["desc:8"])}`,
+				`# ${namespace} ${storeKey} of mode ${mode}`.trimEnd(),
+				`${titleKey}=${escapeString(properties["name:8"])}`.trimEnd(),
+				`${descKey}=${escapeString(properties["desc:8"])}`.trimEnd(),
 				"",
 			);
 
