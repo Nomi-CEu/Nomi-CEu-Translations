@@ -424,7 +424,7 @@ tooltip.nomilabs.general.press_ctrl_for_info=按住 [Ctrl] 查看更多信息。
 tooltip.nomilabs.general.crafting_component=§7只用于制作元件。§r
 
 # Items
-tooltip.nomilabs.excitationcoil.description_item=§7仅用于制作元件……除了：§r
+tooltip.nomilabs.excitationcoil.description_item=§7仅用于制作元件......除了：§r
 tooltip.nomilabs.excitationcoil.placeable=§7可放置！§r
 tooltip.nomilabs.excitationcoil.wearable=§7可以戴在你的头上！§r
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
@@ -433,7 +433,7 @@ tooltip.nomilabs.hand_framing_tool.side=外壳: %s
 tooltip.nomilabs.hand_framing_tool.trim=棱边: %s
 tooltip.nomilabs.hand_framing_tool.front=正面: %s
 tooltip.nomilabs.universalnavigator.description=§9晚点见，领航员！§r
-tooltip.nomilabs.eternalcatalyst.description=§8凝视深渊……§r
+tooltip.nomilabs.eternalcatalyst.description=§8凝视深渊......§r
 tooltip.nomilabs.tieroneship.description=§f§o从微宇宙中的小行星上采集钛和其他轻金属。§r
 tooltip.nomilabs.tiertwoship.description=§f§o从微宇宙中的小行星上采集钨和其他重金属。§r
 tooltip.nomilabs.tierthreeship.description=§f§o从下界微宇宙中采集超高温金属和宝石。§r
@@ -470,7 +470,7 @@ tooltip.nomilabs.greenhouse.description=§8一个高功率的生长室，即使�
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
 
 # Items
-tooltip.nomilabs.excitationcoil.description=§7仅用于制作元件……除了：§r
+tooltip.nomilabs.excitationcoil.description=§7仅用于制作元件......除了：§r
 nomilabs.command.gs_hand.material_components=§a材料成分：§r
 config.nomilabs.mod_integration.groovy_hand=启用GroovyScript手共添加
 
