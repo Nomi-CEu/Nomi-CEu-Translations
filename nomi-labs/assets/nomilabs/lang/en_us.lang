@@ -10,8 +10,10 @@ nomilabs.subtitle.tick.microverse=Projecting Microverse
 
 # Config
 config.nomilabs.content=Content Settings
+config.nomilabs.content.tooltip=Content Settings
 
 config.nomilabs.content.custom_content=Custom Content Settings
+config.nomilabs.content.custom_content.tooltip=Custom Content Settings
 config.nomilabs.content.custom_content.items=Enable Custom Items
 config.nomilabs.content.custom_content.blocks=Enable Custom Blocks
 config.nomilabs.content.custom_content.fluids=Enable Custom Fluids
@@ -19,6 +21,7 @@ config.nomilabs.content.custom_content.complex_recipes=Enable Complex Recipes
 config.nomilabs.content.custom_content.remap=Remap Old Content Tweaker Content
 
 config.nomilabs.content.gt_content=Custom GT Content Settings
+config.nomilabs.content.gt_content.tooltip=Custom GT Content Settings
 config.nomilabs.content.gt_content.materials=Enable Custom GT Materials
 config.nomilabs.content.gt_content.perfect_gems=Enable Perfect Gems
 config.nomilabs.content.gt_content.remap_perfect_gems=Remap Old Perfect Gems
@@ -27,20 +30,27 @@ config.nomilabs.content.gt_content.old_multiblocks=Enable Old Multiblocks
 config.nomilabs.content.gt_content.new_multiblocks=Enable New Multiblocks
 
 config.nomilabs.mod_integration=Mod Integration Settings
+config.nomilabs.mod_integration.tooltip=Mod Integration Settings
 config.nomilabs.mod_integration.nuclearcraft=Enable NuclearCraft Integration
 config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
 config.nomilabs.mod_integration.top=Enable The One Probe Integration
 config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
-config.nomilabs.mod_integration.groovy_hand=Enable GroovyScript Hand Additions
+
+config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
+config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
+config.nomilabs.groovy.hand=Enable GroovyScript Hand Additions
+config.nomilabs.groovy.recipe_search_mode=GregTech Recipe Output Search Mode
 
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
+config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
 config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=Auto Builder Speed
 config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Auto Destructor Speed
 
 config.nomilabs.advanced=Advanced Settings
+config.nomilabs.advanced.tooltip=Advanced Settings
 config.nomilabs.advanced.allow_other_modes=Allow Other Modes
 config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
 config.nomilabs.advanced.disable_advancements=Disable Advancements
@@ -52,8 +62,13 @@ config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 
 config.nomilabs.advanced.fluid_registry=Fluid Registry Settings
+config.nomilabs.advanced.fluid_registry.tooltip=Fluid Registry Settings
 config.nomilabs.advanced.fluid_registry.default_fluids=Default Fluids
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Log Conflicting Fluids
+
+# GUI
+gui.nomilabs.recipes.tooltip.ct_recipe=Recipe is from CraftTweaker.
+gui.nomilabs.recipes.tooltip.gs_recipe=Recipe is from GroovyScript.
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
