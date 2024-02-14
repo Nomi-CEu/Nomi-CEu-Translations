@@ -266,4 +266,9 @@ nomifactory.quest.normal.line.2.desc=GregTech §6HV§r, §5EV§r §1IV§r уро
 # line 4 of mode normal
 nomifactory.quest.normal.line.4.title=Поздняя игра
 nomifactory.quest.normal.line.3.desc=Всегда приятно сделать шаг вперед.%n%nНа этой вкладке описывается прогрессия некоторых вещей в §5Nomifactory§r.%n%nМикросхемы являются основным показателем вашего прогресса.
-nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r уровни §6вольтажа§r:%n%nПостройка §3Сборочных конвейеров§r, §3Термоядерных реакторов§r и многого другого!%n%nАвтоматизация с помощью §bPackagedAuto§r. Продвижение по прогрессу §6Микромайнеров§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
+nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r уровни §6вольтажа§r:%n%nПостройка §3Сборочных конвейеров§r, §3Термоядерных реакторов§r и многого другого!%n%nАвтоматизация с помощью §bPackagedAuto§r. Продвижение по прогрессу §6Микромайнеров§r.%n%n§bDraconic Evolution§r для фьюжен крафта и энерго-хранения.
+
+# line 5 of mode normal
+nomifactory.quest.normal.line.5.title=Конец игры
+nomifactory.quest.normal.line.6.desc=Добро пожаловать в §5Nomi-CEu§r, Я буду вашим гидом.
+nomifactory.quest.normal.line.5.desc=Ты уже в конце игры...%n%nДобыча целых микровселенных и разблокировка §dТворческого резервуара§r%n%nИспытайте свою автоматизацию по мере продвижения к вашей конечной цели: §dТворчейский Сундук§r.
