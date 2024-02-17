@@ -90,7 +90,7 @@ fluid.moltendarksoularium=Molten Dark Soularium
 nomilabs.fixer.intro.1=This world must be remapped.
 nomilabs.fixer.intro.2=§lA Backup will be made.§r
 nomilabs.fixer.intro.3=Pressing 'No' will cancel world loading.
-nomilabs.fixer.intro.4=§cNote that after the world is loaded with this, you CANNOT undo this!.§r
+nomilabs.fixer.intro.4=§cNote that after the world is loaded with this, you §nCANNOT§r§c undo this!.§r
 nomilabs.fixer.intro.5=You §nWILL§r have to load from the backup in order to load in a previous version!
 nomilabs.fixer.intro.6=§7The changes that must be made via Data Fixers have been printed to your log.§r
 
