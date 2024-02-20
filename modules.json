@@ -26,7 +26,7 @@
       "git": "https://github.com/Nomi-CEu/Nomi-CEu",
       "pathToAssets": "overrides/resources",
       "shouldProvideSeparately": false,
-      "branch": "gt-2.8"
+      "branch": "dev/gt-2.8"
     },
     {
       "name": "nomi-labs",
