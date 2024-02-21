@@ -259,6 +259,8 @@ nomilabs.material.butanol=Butanol
 nomilabs.material.phosphorus_trichloride=Phosphorus Trichloride
 nomilabs.material.phosphoryl_chloride=Phosphoryl Chloride
 nomilabs.material.tributyl_phosphate=Tributyl Phosphate
+nomilabs.material.laurite=Laurite
+nomilabs.material.cuprorhodsite=Cuprorhodsite
 
 item.nomilabs.nomicoin.name=Nomipenny [1]
 item.nomilabs.nomicoin5.name=Nominickel [5]
