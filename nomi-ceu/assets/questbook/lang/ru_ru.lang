@@ -266,7 +266,7 @@ nomifactory.quest.normal.line.2.desc=GregTech §6HV§r, §5EV§r §1IV§r уро
 # line 4 of mode normal
 nomifactory.quest.normal.line.4.title=Поздняя игра
 nomifactory.quest.normal.line.3.desc=Всегда приятно сделать шаг вперед.%n%nНа этой вкладке описывается прогрессия некоторых вещей в §5Nomifactory§r.%n%nМикросхемы являются основным показателем вашего прогресса.
-nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r уровни §6вольтажа§r:%n%nПостройка §3Сборочных конвейеров§r, §3Термоядерных реакторов§r и многого другого!%n%nАвтоматизация с помощью §bPackagedAuto§r. Продвижение по прогрессу §6Микромайнеров§r.%n%n§bDraconic Evolution§r для фьюжен крафта и энерго-хранения.
+nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r уровни §6вольтажа§r:%n%nПостройка §3Сборочных конвейеров§r, §3Термоядерных реакторов§r и многого другого!%n%nАвтоматизация с помощью §bPackagedAuto§r. Продвижение по прогрессу §6Микромайнеров§r.%n%n§bDraconic Evolution§r для крафта-слияния и энерго-хранения.
 
 # line 5 of mode normal
 nomifactory.quest.normal.line.5.title=Конец игры
@@ -289,3 +289,15 @@ nomifactory.quest.normal.db.6.desc=До того как продолжить, в
 
 # db 7 of mode normal
 nomifactory.quest.normal.db.7.title=§2Кабеля
+
+# line 8 of mode normal
+nomifactory.quest.normal.line.8.title=Слияние и Исследование
+
+# Expert Quest Lang Entries:
+
+# line 0 of mode expert
+nomifactory.quest.expert.line.0.title=Начало
+nomifactory.quest.expert.line.0.desc=GregTech §7LV§r уровень §7вольтажа§r: Начало постройки фабрики!%n%nОткрытие доступа к ранним технологиям §bEnderIO§r, и цифровому хранилищу §bApplied Energistics 2§r.%n%nПостройка §3Электрической доменной печи§r для выплавки улучшенных материалов и сплавов.
+
+# line 1 of mode expert
+nomifactory.quest.expert.line.1.title=Ранняя игра
