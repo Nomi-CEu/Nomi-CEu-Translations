@@ -301,3 +301,6 @@ nomifactory.quest.expert.line.0.desc=GregTech §7LV§r уровень §7вол�
 
 # line 1 of mode expert
 nomifactory.quest.expert.line.1.title=Ранняя игра
+
+# line 2 of mode expert
+nomifactory.quest.expert.line.2.title=Середина игры
