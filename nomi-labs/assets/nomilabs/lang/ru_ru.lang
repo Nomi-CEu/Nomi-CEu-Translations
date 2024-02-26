@@ -511,3 +511,7 @@ tooltip.nomilabs.general.crafting_component=§7Только как компон�
 
 # Items
 tooltip.nomilabs.excitationcoil.description=§7Только как компонент для Создания... Кроме:§r
+config.nomilabs.content.tooltip=Настройки контента
+config.nomilabs.content.custom_content.tooltip=Настройки уникального контента
+config.nomilabs.content.gt_content.tooltip=Настройки уникального GT контента
+config.nomilabs.mod_integration.tooltip=Настройка интеграции модов
