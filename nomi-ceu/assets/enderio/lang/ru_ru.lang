@@ -1,10 +1,10 @@
 
 
-item.item_dark_steel_boots.name=Темностальные ботинки
-item.item_dark_steel_chestplate.name=Темностальный нагрудник
+item.item_dark_steel_boots.name=Ботинки из темной стали
+item.item_dark_steel_chestplate.name=Нагрудник из темной стали
 
 # line 127-134 of EnderIO.jar
-item.item_dark_steel_helmet.name=Темностальный шлем
+item.item_dark_steel_helmet.name=Шлем из темной стали
 enderio.item_endergy_conduit_cobble.name=Энерго-кондуит из эндериума
 enderio.item_endergy_conduit_melodic.name=Энерго-кондуит из дракония
 
@@ -12,7 +12,7 @@ enderio.item_endergy_conduit_melodic.name=Энерго-кондуит из др�
 enderio.item_endergy_conduit_iron.name=Энерго-кондуит из стали Края
 
 # line 434 of EnderIO.jar
-tile.block_dark_iron_bars.name=Темностальная решётка
+tile.block_dark_iron_bars.name=Решетка из темной стали
 
 # line 1575-1577 of EnderIO.jar
 enderio.item_power_conduit.name=Энерго-кондуит из проводящего железа
@@ -20,21 +20,21 @@ enderio.item_power_conduit_enhanced.name=Энерго-кондуит из эне
 enderio.item_power_conduit_ender.name=Энерго-кондуит из вибрирующего сплава
 
 # line 2245 of EnderIO.jar
-tile.block_enchanter.name=Темностальный зачарователь
+tile.block_enchanter.name=Темный зачарователь
 enderio.item_endergy_conduit_copper.name=Энерго-кондуит из синала
 enderio.item_endergy_conduit_stellar.name=Энерго-кондуит из дракониевого сверхпроводника
 enderio.item_endergy_conduit_electrum.name=Энерго-кондуит из ламиума
-item.item_dark_steel_leggings.name=Темностальные поножи
+item.item_dark_steel_leggings.name=Поножи из темной стали
 
 # line 154-161 of EnderIO.jar
-item.item_end_steel_helmet.name=Эндостальной шлем
-item.item_end_steel_chestplate.name=Эндостальной нагрудник
-item.item_end_steel_boots.name=Эндостальные ботинки
+item.item_end_steel_helmet.name=Шлем из стали Края
+item.item_end_steel_chestplate.name=Нагрудник из стали Края
+item.item_end_steel_boots.name=Ботинки из стали Края
 item.item_basic_capacitor.activated.name=Двухслойный RF накопитель
-item.item_basic_capacitor.ender.name=Восьмеричный RF накопитель
+item.item_basic_capacitor.ender.name=Восьмислойный RF накопитель
 # line 51-53 of EnderIO.jar
 item.item_basic_capacitor.basic.name=Обычный RF накопитель
 
 # line 1603 of EnderIO.jar
 tile.block_cap_bank.activated.name=Улучшенное накопительное хранилище
-item.item_end_steel_leggings.name=Эндостальные поножи
+item.item_end_steel_leggings.name=Поножи из стали Края
