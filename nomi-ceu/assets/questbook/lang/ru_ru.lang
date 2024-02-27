@@ -312,3 +312,6 @@ nomifactory.quest.normal.line.10.title=Энерго-материя
 nomifactory.quest.normal.line.11.title=Технологические линии
 nomifactory.quest.normal.line.11.desc=Глава, которая поможет вам в обработке, как сложной, так и простой!
 nomifactory.quest.normal.db.0.desc=Основная задача этого устройства это превращать §6Истинный кварц§r в §6Заряженный кристалл истинного кварца§r.
+
+# db 0 of mode normal
+nomifactory.quest.normal.db.0.title=Зарядка Кварца
