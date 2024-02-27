@@ -304,3 +304,11 @@ nomifactory.quest.expert.line.1.title=Ранняя игра
 
 # line 2 of mode expert
 nomifactory.quest.expert.line.2.title=Середина игры
+
+# line 10 of mode normal
+nomifactory.quest.normal.line.10.title=Энерго-материя
+
+# line 11 of mode normal
+nomifactory.quest.normal.line.11.title=Технологические линии
+nomifactory.quest.normal.line.11.desc=Глава, которая поможет вам в обработке, как сложной, так и простой!
+nomifactory.quest.normal.db.0.desc=Основная задача этого устройства это превращать §6Истинный кварц§r в §6Заряженный кристалл истинного кварца§r.
