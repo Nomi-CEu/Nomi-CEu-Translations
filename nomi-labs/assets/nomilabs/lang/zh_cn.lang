@@ -37,7 +37,7 @@ config.nomilabs.advanced=高级设置
 config.nomilabs.advanced.allow_other_modes=允许其他模式
 config.nomilabs.advanced.disable_xp_scaling=禁用铁砧累计惩罚
 config.nomilabs.advanced.disable_advancements=禁用成就
-config.nomilabs.advanced.disable_narrator=禁用复述功能	
+config.nomilabs.advanced.disable_narrator=禁用复述功能
 config.nomilabs.advanced.enable_data_fixes=启用数据修复
 config.nomilabs.advanced.ignore_items=被忽略的缺少注册的物品列表
 config.nomilabs.advanced.ignore_blocks=被忽略的缺少注册的方块列表
@@ -71,7 +71,7 @@ nomilabs.fixer.intro.6=§7必须通过数据修复程序进行的更改已打印
 nomilabs.fixer.mode_check.1=您确定您之前使用“§e%s§r”整合包难度加载了这个存档吗？
 nomilabs.fixer.mode_check.2=使用错误的整合包难度启动§n将会§r使一些物品和方块消失！
 nomilabs.fixer.mode_check.3=§7如果你没有在旧版本中更改整合包难度，则默认的难度为“普通”。§r
-nomilabs.fixer.mode_check.4=如果你不确定话，按“否”！（这会取消世界加载）
+nomilabs.fixer.mode_check.4=如果你不确定的话，按“否”！（这会取消世界加载）
 nomilabs.fixer.do_not_exit.1=§c不要中断加载过程！§r
 nomilabs.fixer.do_not_exit.2=如果意外中断，从备份中重新加载，否则你的存档可能会崩溃！
 
@@ -478,3 +478,19 @@ config.nomilabs.mod_integration.groovy_hand=启用GroovyScript手共添加
 nomilabs.command.gs_hand.material=材料ID：
 nomilabs.command.gs_hand.all_material_components=§e都成分材料§r
 nomilabs.command.gs_hand.material_stack=材料堆：
+config.nomilabs.content.tooltip=内容设置
+config.nomilabs.content.custom_content.tooltip=自定义内容设置
+config.nomilabs.content.gt_content.tooltip=自定义 GT 内容设置
+config.nomilabs.mod_integration.tooltip=Mod 联动设置
+config.nomilabs.groovy=GroovyScript 扩展和脚本助手设置
+config.nomilabs.groovy.tooltip=GroovyScript 扩展和脚本助手设置
+config.nomilabs.groovy.recipe_search_mode=GregTech 配方产物搜索模式
+config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution 联动设置
+config.nomilabs.advanced.tooltip=高级设置
+config.nomilabs.advanced.fluid_registry.tooltip=流体注册设置
+
+# GUI
+gui.nomilabs.recipes.tooltip.ct_recipe=配方来自 CraftTweaker。
+gui.nomilabs.recipes.tooltip.gs_recipe=配方来自 GroovyScript。
+nomilabs.fixer.intro.addition=§7必须通过 Data Fixers 完成的改动已经被打印了到你的日志中。§r
+nomilabs.fixer.do_not_revert.intro_addition=§e警告：§r
