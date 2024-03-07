@@ -35,12 +35,13 @@ config.nomilabs.mod_integration.nuclearcraft=Enable NuclearCraft Integration
 config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
 config.nomilabs.mod_integration.top=Enable The One Probe Integration
 config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
+config.nomilabs.mod_integration.architecture_craft=Enable ArchitectureCraft Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
-config.nomilabs.groovy.hand=Enable GroovyScript Hand Additions
+config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
 config.nomilabs.groovy.recipe_search_mode=GregTech Recipe Output Search Mode
 
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
@@ -259,6 +260,8 @@ nomilabs.material.butanol=Butanol
 nomilabs.material.phosphorus_trichloride=Phosphorus Trichloride
 nomilabs.material.phosphoryl_chloride=Phosphoryl Chloride
 nomilabs.material.tributyl_phosphate=Tributyl Phosphate
+nomilabs.material.laurite=Laurite
+nomilabs.material.cuprorhodsite=Cuprorhodsite
 
 item.nomilabs.nomicoin.name=Nomipenny [1]
 item.nomilabs.nomicoin5.name=Nominickel [5]
