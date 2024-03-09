@@ -497,4 +497,4 @@ nomilabs.fixer.do_not_revert.intro_addition=§e警告：§r
 config.nomilabs.mod_integration.architecture_craft=启用 ArchitectureCraft 联动
 config.nomilabs.groovy.hand=启用 gs hand 命令附加信息
 nomilabs.fixer.do_not_revert.do_not_exit_addition=§e提示：§r
-nomilabs.fixer.do_not_revert.1=§c在使用这个加载世界之后，你§n无法§r§c撤销这个操作§r
+nomilabs.fixer.do_not_revert.1=§c在启用本设置载入世界后，将§n无法§r§c撤回！§r
