@@ -7,3 +7,7 @@ item.thermalexpansion.frame.frameCell3Filled.name=Синаловое ядро д
 # between line 400 to 411 in jar file
 item.thermalexpansion.frame.frameCell2.name=Корпус двигателя микромайнера
 item.thermalexpansion.frame.frameCell4.name=Эндериумный корпус двигателя микромайнера
+
+# line 409, 411 of jar file
+item.thermalexpansion.frame.frameMachine.name=Каркас термального механизма
+item.thermalexpansion.frame.frameDevice.name=Каркас термального устройства
