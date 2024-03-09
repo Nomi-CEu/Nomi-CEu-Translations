@@ -499,3 +499,5 @@ config.nomilabs.groovy.hand=启用 gs hand 命令附加信息
 nomilabs.fixer.do_not_revert.do_not_exit_addition=§e提示：§r
 nomilabs.fixer.do_not_revert.1=§c在启用本设置载入世界后，将§n无法§r§c撤回！§r
 nomilabs.fixer.do_not_revert.2=您必须从备份加载才能在旧版本中载入！
+nomilabs.material.laurite=硫钌矿
+nomilabs.material.cuprorhodsite=硫铑铜矿
