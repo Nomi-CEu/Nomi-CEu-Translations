@@ -36,5 +36,5 @@ item.item_basic_capacitor.ender.name=Восьмислойный RF накопи�
 item.item_basic_capacitor.basic.name=Обычный RF накопитель
 
 # line 1603 of EnderIO.jar
-tile.block_cap_bank.activated.name=Улучшенное накопительное хранилище
+tile.block_cap_bank.activated.name=Улучшенный блок конденсаторов
 item.item_end_steel_leggings.name=Поножи из стали Края
