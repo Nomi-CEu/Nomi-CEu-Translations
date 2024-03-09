@@ -390,3 +390,60 @@ nomifactory.quest.normal.db.14.title=Печка v2.0
 
 # db 15 of mode normal
 nomifactory.quest.normal.db.15.title=Печка v3.0
+
+# db 28 of mode normal
+nomifactory.quest.normal.db.28.title=Пульсирующая пыль
+
+# db 31 of mode normal
+nomifactory.quest.normal.db.31.title=Вибрирующий блок конденсаторов
+
+# db 32 of mode normal
+nomifactory.quest.normal.db.32.title=Улучшенный блок конденсаторов
+
+# db 33 of mode normal
+nomifactory.quest.normal.db.33.title=Основной блок конденсаторов
+
+# db 34 of mode normal
+nomifactory.quest.normal.db.34.title=§2Энергетический сплав
+
+# db 35 of mode normal
+nomifactory.quest.normal.db.35.title=§2Вибрирующий сплав
+
+# db 37 of mode normal
+nomifactory.quest.normal.db.37.title=Резиновые листы
+
+# db 38 of mode normal
+nomifactory.quest.normal.db.38.title=§2LV Вольтаж
+
+# db 39 of mode normal
+nomifactory.quest.normal.db.39.title=Предметные трубы
+
+# db 40 of mode normal
+nomifactory.quest.normal.db.40.title=Энерго-кондуит из проводящего железа
+
+# db 45 of mode normal
+nomifactory.quest.normal.db.45.title=Железный человек
+
+# db 47 of mode normal
+nomifactory.quest.normal.db.47.title=Железный человек 3
+
+# db 48 of mode normal
+nomifactory.quest.normal.db.48.title=Железный человек 2
+
+# db 49 of mode normal
+nomifactory.quest.normal.db.49.title=Центрифугирование воздуха
+
+# db 50 of mode normal
+nomifactory.quest.normal.db.50.title=§2Жидкостная транспортировка
+
+# db 29 of mode normal
+nomifactory.quest.normal.db.29.title=Пульсирующее железо и Эндер-жемчуг
+
+# db 30 of mode normal
+nomifactory.quest.normal.db.30.title=Наэлектризованная сталь
+
+# db 41 of mode normal
+nomifactory.quest.normal.db.41.title=Энерго-кондуит из энергетического сплав
+
+# db 42 of mode normal
+nomifactory.quest.normal.db.42.title=Энерго-кондуит из вибрирующего сплава
