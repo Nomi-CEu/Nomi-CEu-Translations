@@ -275,7 +275,7 @@ nomifactory.quest.normal.line.5.desc=Ты уже в конце игры...%n%nД
 nomifactory.quest.normal.db.3.desc=Добро пожаловать в §5Nomifactory§r §2GTCEu Edition§r!%n%nЭта сборка предназначена для игры в измерениях §bLost Cities / Верхний мир§r.%n%nЕсли вы играете с друзьями, не забудьте пригласить их в §eгруппу в квестбуке§r.%n%n§fЕсли вы хотите построить вашу базу в "скайблок" мире, поставьте §6Пирог пустого мира§f на землю и съешьте кусочек, чтобы вас отправило в Пустой мир. Пожалуйста, обратите внимание на то, что вам придется возвращаться в измерение Lost Cities / Верхний мир для того чтобы добывать руды, но вы можете свободно и безопасно строить в §eПустом мире§r. Нововедения в §2CEu§r и квесты с новым контентом будут подсвечены §2темнозелёным§r.
 
 # line 6 of mode normal
-nomifactory.quest.normal.line.6.title=Рождение
+nomifactory.quest.normal.line.6.title=Основы
 
 # line 7 of mode normal
 nomifactory.quest.normal.line.7.title=В Микровселенную
@@ -315,3 +315,78 @@ nomifactory.quest.normal.db.0.desc=Основная задача этого ус
 
 # db 0 of mode normal
 nomifactory.quest.normal.db.0.title=Зарядка Кварца
+
+# db 19 of mode normal
+nomifactory.quest.normal.db.19.title=Обычная печь для сплавов
+
+# db 25 of mode normal
+nomifactory.quest.normal.db.25.title=Пространственное перемещение на основе тортов
+
+# db 16 of mode normal
+nomifactory.quest.normal.db.16.title=Печка v4.0
+
+# db 17 of mode normal
+nomifactory.quest.normal.db.17.title=Печка v5.0
+
+# db 18 of mode normal
+nomifactory.quest.normal.db.18.title=Печка v7.0
+
+# db 20 of mode normal
+nomifactory.quest.normal.db.20.title=Печка v6.0
+
+# db 21 of mode normal
+nomifactory.quest.normal.db.21.title=§2Сталь
+
+# db 22 of mode normal
+nomifactory.quest.normal.db.22.title=§2Пиролизная печь
+
+# db 23 of mode normal
+nomifactory.quest.normal.db.23.title=Обсидиан
+
+# db 24 of mode normal
+nomifactory.quest.normal.db.24.title=Паровой генератор
+
+# db 26 of mode normal
+nomifactory.quest.normal.db.26.title=Темная сталь
+
+# db 27 of mode normal
+nomifactory.quest.normal.db.27.title=Обычный химический реактор
+
+# db 1 of mode normal
+nomifactory.quest.normal.db.1.title=Камера выращивания кристаллов
+
+# db 2 of mode normal
+nomifactory.quest.normal.db.2.title=Наполнитель и разный хлам
+
+# db 3 of mode normal
+nomifactory.quest.normal.db.3.title=§2Основы
+
+# db 4 of mode normal
+nomifactory.quest.normal.db.4.title=Запас железа
+
+# db 5 of mode normal
+nomifactory.quest.normal.db.5.title=Шахтерские молоты
+
+# db 6 of mode normal
+nomifactory.quest.normal.db.6.title=§2Больше материалов
+
+# db 9 of mode normal
+nomifactory.quest.normal.db.9.title=§2Удвоение руды?
+
+# db 10 of mode normal
+nomifactory.quest.normal.db.10.title=Микромайнеры второго уровня
+
+# db 11 of mode normal
+nomifactory.quest.normal.db.11.title=§2Компоненты электроники
+
+# db 12 of mode normal
+nomifactory.quest.normal.db.12.title=Некоторые начальные инструменты
+
+# db 13 of mode normal
+nomifactory.quest.normal.db.13.title=Стильная пакетная обработка
+
+# db 14 of mode normal
+nomifactory.quest.normal.db.14.title=Печка v2.0
+
+# db 15 of mode normal
+nomifactory.quest.normal.db.15.title=Печка v3.0
