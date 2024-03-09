@@ -495,3 +495,6 @@ gui.nomilabs.recipes.tooltip.gs_recipe=配方来自 GroovyScript。
 nomilabs.fixer.intro.addition=§7必须通过 Data Fixers 完成的改动已经被打印了到你的日志中。§r
 nomilabs.fixer.do_not_revert.intro_addition=§e警告：§r
 config.nomilabs.mod_integration.architecture_craft=启用 ArchitectureCraft 联动
+config.nomilabs.groovy.hand=启用 gs hand 命令附加信息
+nomilabs.fixer.do_not_revert.do_not_exit_addition=§e提示：§r
+nomilabs.fixer.do_not_revert.1=§c在使用这个加载世界之后，你§n无法§r§c撤销这个操作§r
