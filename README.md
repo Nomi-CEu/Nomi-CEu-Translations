@@ -27,18 +27,21 @@ This contains Lang Files from the `gregtech-drawers` module.
 
 ## Supported Lanuages:
 
+### Language Support Table
 |Type|Chinese|Russian|Japanese|French|
 |---|---|---|---|---|
-|Nomi-CEu|✅|🔨|🔨|🔨|
-|Gregtech Drawers|✅|🔨|✅|🔨|
-|Nomi Labs|✅|🔨|🔨|🔨|
-|Overall|✅|🔨|🔨|🔨|
+|Nomi-CEu|✅|❓|❓|❓|
+|Gregtech Drawers|✅|✅|✅|✅|
+|Nomi Labs|✅|✅|❌|❌|
+|Overall|✅|❓|❌|❌|
 
-### Key:
+#### Key:
 - ✅: Well Supported, Complete
 - ❓: Partially Supported, Somewhat Complete
 - ❌: Not Suported, Not Complete, No Work Done Yet
-- 🔨: Work In Progress
+
+### Language Support Chart
+![Chart](http://weblate.pantsu.moe/widget/nomi-ceu-translations/multi-blue.svg)
 
 
 ## Why are there English Lang Files?
