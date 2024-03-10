@@ -374,7 +374,7 @@ nomifactory.quest.normal.db.6.title=§2Больше материалов
 nomifactory.quest.normal.db.9.title=§2Удвоение руды?
 
 # db 10 of mode normal
-nomifactory.quest.normal.db.10.title=Микромайнеры второго уровня
+nomifactory.quest.normal.db.10.title=§2Микромайнеры второго уровня
 
 # db 11 of mode normal
 nomifactory.quest.normal.db.11.title=§2Компоненты электроники
@@ -447,3 +447,52 @@ nomifactory.quest.normal.db.41.title=Энерго-кондуит из энерг
 
 # db 42 of mode normal
 nomifactory.quest.normal.db.42.title=Энерго-кондуит из вибрирующего сплава
+
+# db 51 of mode normal
+nomifactory.quest.normal.db.51.title=Высекатель
+
+# db 52 of mode normal
+nomifactory.quest.normal.db.52.title=§2Чистая комната
+
+# db 53 of mode normal
+nomifactory.quest.normal.db.53.title=§2Волочильный станок
+
+# db 57 of mode normal
+nomifactory.quest.normal.db.57.title=Жидкостные кондуиты
+
+# db 58 of mode normal
+nomifactory.quest.normal.db.58.title=§2LV Хранение энергии
+
+# db 60 of mode normal
+nomifactory.quest.normal.db.60.title=§2Забавы с Доменными печами
+
+# db 63 of mode normal
+nomifactory.quest.normal.db.63.title=МЭ Сундук
+
+# db 65 of mode normal
+nomifactory.quest.normal.db.65.title=§2Микромайнеры третьего уровня
+
+# db 66 of mode normal
+nomifactory.quest.normal.db.66.title=Из пыли в провода
+
+# db 59 of mode normal
+nomifactory.quest.normal.db.59.title=Медь... Никель... Купроникель?
+
+# db 64 of mode normal
+nomifactory.quest.normal.db.64.title=Наконец-то Цифровое хранилище
+
+# db 54 of mode normal
+nomifactory.quest.normal.db.54.title=Квантовые глаза
+
+# db 55 of mode normal
+nomifactory.quest.normal.db.55.title=§2Центрифуга
+
+# db 56 of mode normal
+nomifactory.quest.normal.db.56.title=Собираем все вместе
+nomifactory.quest.normal.db.59.desc=Никель добывается из некоторых руд, таких как Пентландит и Гарниерит, но все они встречаются в одной и той же жиле. %n%nНикель используется в основном для нескольких очень важных сплавов, включая Инвар и Купроникель.
+
+# db 61 of mode normal
+nomifactory.quest.normal.db.61.title=§2Сенсор драгоценностей
+
+# db 62 of mode normal
+nomifactory.quest.normal.db.62.title=Терминал
