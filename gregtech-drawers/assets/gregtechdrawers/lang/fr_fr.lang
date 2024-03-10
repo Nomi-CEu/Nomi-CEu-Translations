@@ -1,0 +1,7 @@
+
+
+storagedrawers.material.gregtech.rubber_wood=Bois de Caoutchouc
+storagedrawers.material.gregtech.treated_wood=Bois Traité
+storagedrawers.trim=%1$s %2$s
+tile.storagedrawers.trim.name=Bordure
+itemGroup.gregtechdrawers=GregTech Drawers

@@ -1,62 +1,54 @@
 # Greenhouse
-nomilabs.machine.greenhouse.name=Greenhouse
-recipemap.greenhouse.name=Growing
-
-tile.unique_casing.growth_light.name=Growth Light
-tile.unique_casing.air_vent.name=Air Vent
+nomilabs.machine.greenhouse.name=Теплица
+recipemap.greenhouse.name=Выращивание
+tile.unique_casing.growth_light.name=Свет для роста
+tile.unique_casing.air_vent.name=Вентиляция
 
 # Sounds
-nomilabs.subtitle.tick.microverse=Projecting Microverse
+nomilabs.subtitle.tick.microverse=Микровселенная проецируется
 
 # Config
-config.nomilabs.content=Content Settings
-
-config.nomilabs.content.custom_content=Custom Content Settings
-config.nomilabs.content.custom_content.items=Enable Custom Items
-config.nomilabs.content.custom_content.blocks=Enable Custom Blocks
-config.nomilabs.content.custom_content.fluids=Enable Custom Fluids
-config.nomilabs.content.custom_content.complex_recipes=Enable Complex Recipes
-config.nomilabs.content.custom_content.remap=Remap Old Content Tweaker Content
-
-config.nomilabs.content.gt_content=Custom GT Content Settings
-config.nomilabs.content.gt_content.materials=Enable Custom GT Materials
-config.nomilabs.content.gt_content.perfect_gems=Enable Perfect Gems
-config.nomilabs.content.gt_content.remap_perfect_gems=Remap Old Perfect Gems
-config.nomilabs.content.gt_content.blocks=Enable Custom GT Blocks
-config.nomilabs.content.gt_content.old_multiblocks=Enable Old Multiblocks
-config.nomilabs.content.gt_content.new_multiblocks=Enable New Multiblocks
-
-config.nomilabs.mod_integration=Mod Integration Settings
-config.nomilabs.mod_integration.nuclearcraft=Enable NuclearCraft Integration
-config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
-config.nomilabs.mod_integration.top=Enable The One Probe Integration
-config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
-config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
-
-config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
-config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
-config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=Auto Builder Speed
-config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Auto Destructor Speed
-
-config.nomilabs.advanced=Advanced Settings
-config.nomilabs.advanced.allow_other_modes=Allow Other Modes
-config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
-config.nomilabs.advanced.enable_data_fixes=Enable Data Fixes
-config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
-config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
-config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
-config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+config.nomilabs.content=Настройки контента
+config.nomilabs.content.custom_content=Настройки уникального контента
+config.nomilabs.content.custom_content.items=Включить уникальные предметы
+config.nomilabs.content.custom_content.blocks=Включить уникальные блоки
+config.nomilabs.content.custom_content.fluids=Включить уникальные жидкости
+config.nomilabs.content.custom_content.complex_recipes=Включить комплексные рецепты
+config.nomilabs.content.custom_content.remap=Переназначить старый Content Tweaker контент
+config.nomilabs.content.gt_content=Настройки уникального GT контента
+config.nomilabs.content.gt_content.materials=Включить уникальные GT материалы
+config.nomilabs.content.gt_content.perfect_gems=Включить Идеальные камни
+config.nomilabs.content.gt_content.remap_perfect_gems=Переназначить старые Идеальные камни
+config.nomilabs.content.gt_content.blocks=Включить уникальные GT блоки
+config.nomilabs.content.gt_content.old_multiblocks=Включить старые мультиблочные структуры
+config.nomilabs.content.gt_content.new_multiblocks=Включить новые мультиблочные структуры
+config.nomilabs.mod_integration=Настройка интеграции модов
+config.nomilabs.mod_integration.nuclearcraft=Включить интеграцию NuclearCraft
+config.nomilabs.mod_integration.xu2=Включить интеграцию Extra Utilities 2
+config.nomilabs.mod_integration.top=Включить интеграцию The One Probe
+config.nomilabs.mod_integration.ender_storage=Включить интеграцию Ender Storage
+config.nomilabs.mod_integration.ender_io=Включить интеграцию Ender IO
+config.nomilabs.mod_integration.draconicevolution=Настройка интеграции Draconic Evolution
+config.nomilabs.mod_integration.draconicevolution.enable=Включить интеграцию Draconic Evolution
+config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=Скорость авто-строителя
+config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Скорость авто-разборки
+config.nomilabs.advanced=Расширенные настройки
+config.nomilabs.advanced.allow_other_modes=Разрешить другие режимы
+config.nomilabs.advanced.disable_xp_scaling=Отключить масштабирование опыта наковальни
+config.nomilabs.advanced.enable_data_fixes=
+config.nomilabs.advanced.ignore_items=Список игнорируемых пропущенных Предметов
+config.nomilabs.advanced.ignore_blocks=Список игнорируемых пропущенных Блоков
+config.nomilabs.advanced.ignore_entities=Список игнорируемых пропущенных Энтити
+config.nomilabs.advanced.ignore_biomes=Список игнорируемых пропущенных Биомов
 
 # Old Content Tweaker Stuff (Refactor Needed)
 itemGroup.nomilabs.main=Nomi Labs
-
-item.material.oreprefix.gemPerfect=Perfect %s
-
+item.material.oreprefix.gemPerfect=%s (Идеальный)
 nomilabs.material.conductive_iron=Проводящее железо
 nomilabs.material.pulsating_iron=Пульсирующее железо
 nomilabs.material.energetic_alloy=Энергетический сплав
 nomilabs.material.vibrant_alloy=Вибрирующий сплав
-nomilabs.material.dark_steel=Темная тсаль
+nomilabs.material.dark_steel=Темная сталь
 nomilabs.material.lumium=Ламиум
 nomilabs.material.signalum=Синал
 nomilabs.material.enderium=Эндериум
@@ -74,12 +66,11 @@ nomilabs.material.knightslime=Слизнесталь
 nomilabs.material.crystal_matrix=Кристальная матрица
 nomilabs.material.soularium=Соуларий
 nomilabs.material.infinity=Бесконечность
-nomilabs.material.draconic_superconductor=Дракониевый суперпроводник
+nomilabs.material.draconic_superconductor=Дракониевый сверхпроводник
 nomilabs.material.fluix=Изменчивый кристалл
 nomilabs.material.osmiridium_8020=Осмистый иридий 80/20
 nomilabs.material.iridosmine_8020=Невьянскит 80/20
 nomilabs.material.kaemanite=Кэманит
-
 nomilabs.material.tungsten_trioxide=Оксид вольфрама(VI)
 nomilabs.material.beryllium_oxide=Оксид бериллия
 nomilabs.material.niobium_pentoxide=Оксид ниобия(V)
@@ -115,7 +106,6 @@ nomilabs.material.naquadah_oxide_petro_solution=Петротеумный рас�
 nomilabs.material.naquadah_oxide_aero_solution=Аэротеумный раствор оксида наквады
 nomilabs.material.hot_naquadah_oxide_neocryolite_solution=Горячий неокриолитовый раствор оксида наквады
 nomilabs.material.lead_metasilicate=Метасиликат свинца
-
 nomilabs.material.platinum_metallic=Платиновая смесь
 item.nomilabs.material.platinum_metallic.dust=Платиновая смесь (Пыль)
 item.nomilabs.material.platinum_metallic.dustSmall=Платиновая смесь (Маленькая кучка пыли)
@@ -140,7 +130,7 @@ nomilabs.material.platinum_group_residue=Остаток платиновой г�
 item.nomilabs.material.platinum_group_residue.dust=Остаток платиновой группы (Пыль)
 item.nomilabs.material.platinum_group_residue.dustSmall=Остаток платиновой группы (Маленькая кучка пыли)
 item.nomilabs.material.platinum_group_residue.dustTiny=Остаток платиновой группы (Крохотная кучка пыли)
-nomilabs.material.palladium_rich_ammonia=Насыщеннай палладием аммоний
+nomilabs.material.palladium_rich_ammonia=Насыщенный палладием аммоний
 nomilabs.material.crude_platinum_residue=Необработанный платиновый остаток
 item.nomilabs.material.crude_platinum_residue.dust=Необработанный платиновый остаток (Пыль)
 item.nomilabs.material.crude_platinum_residue.dustSmall=Необработанный платиновый остаток (Маленькая кучка пыли)
@@ -166,7 +156,6 @@ nomilabs.material.rhodium_salt_solution=Смесь родиевой соли
 nomilabs.material.methyl_formate=Метилформиат
 nomilabs.material.formic_acid=Муравьиная кислота
 nomilabs.material.sodium_methoxide=Метилат натрия
-
 nomilabs.material.hexafluorosilicic_acid=Кремнефтористоводородная кислота
 nomilabs.material.dirty_hexafluorosilicic_acid=Грязная кремнефтористоводородная кислота
 nomilabs.material.stone_residue=Остаток камня
@@ -194,12 +183,10 @@ nomilabs.material.butanol=Бутанол
 nomilabs.material.phosphorus_trichloride=Хлорид фосфора
 nomilabs.material.phosphoryl_chloride=Оксихлорид фосфора
 nomilabs.material.tributyl_phosphate=Трибутилфосфат
-
 item.nomilabs.nomicoin.name=Номимонета [1]
 item.nomilabs.nomicoin5.name=Номипятак [5]
 item.nomilabs.nomicoin25.name=Номичетвертак [25]
 item.nomilabs.nomicoin100.name=Номидоллар [100]
-
 item.nomilabs.woodenwidget.name=Деревянная штуковина
 item.nomilabs.stonewidget.name=Каменная штуковина
 item.nomilabs.alloywidget.name=Штуковина из сплавов
@@ -208,32 +195,27 @@ item.nomilabs.stonewidgetup.name=Верхняя часть каменной шт
 item.nomilabs.stonewidgetdown.name=Нижняя часть каменной штуковины
 item.nomilabs.woodwidgetleft.name=Левая часть деревянной штуковины
 item.nomilabs.woodwidgetright.name=Правая часть деревянной штуковины
-
-item.nomilabs.moteoflife.name=Mote of Life Essence
-item.nomilabs.moteofnature.name=Mote of Nature Essence
-item.nomilabs.moteoffire.name=Mote of Fire Essence
-item.nomilabs.moteofearth.name=Mote of Earth Essence
-item.nomilabs.moteofair.name=Mote of Air Essence
-item.nomilabs.moteofwater.name=Mote of Water Essence
-
-item.nomilabs.primalnature.name=Primal Nature Essence
-item.nomilabs.primalfire.name=Primal Fire Essence
-item.nomilabs.primalearth.name=Primal Earth Essence
-item.nomilabs.primalair.name=Primal Air Essence
-item.nomilabs.primalwater.name=Primal Water Essence
-item.nomilabs.primallife.name=Primal Life Essence
-
-item.nomilabs.essentianeedle.name=Essentia Needle
-item.nomilabs.runedessentianeedle.name=Runed Essentia Needle
-item.nomilabs.ornateessentianeedle.name=Ornate Essentia Needle
-item.nomilabs.woodenmortar.name=Wooden Mortar
-item.nomilabs.blockofleaddust.name=Block of Lead Dust
-
+item.nomilabs.moteoflife.name=Частица эссенции жизни
+item.nomilabs.moteofnature.name=Частица эссенции природы
+item.nomilabs.moteoffire.name=Частица эссенции огня
+item.nomilabs.moteofearth.name=Частица эссенции земли
+item.nomilabs.moteofair.name=Частица эссенции воздуха
+item.nomilabs.moteofwater.name=Частица эссенции воды
+item.nomilabs.primalnature.name=Первородная эссенция природы
+item.nomilabs.primalfire.name=Первородная эссенция огня
+item.nomilabs.primalearth.name=Первородная эссенция земли
+item.nomilabs.primalair.name=Первородная эссенция воздуха
+item.nomilabs.primalwater.name=Первородная эссенция воды
+item.nomilabs.primallife.name=Первородная эссенция жизни
+item.nomilabs.essentianeedle.name=Игла эссенции
+item.nomilabs.runedessentianeedle.name=Игла эссенции с рунами
+item.nomilabs.ornateessentianeedle.name=Изысканная игла эссенции
+item.nomilabs.woodenmortar.name=Ступа (Дерево)
+item.nomilabs.blockofleaddust.name=Блок свинцовой пыли
 fluid.quicksilver=Quicksilver
 fluid.aether=Aether
 fluid.brimstone=Brimstone
 fluid.aquafortis=Aqua Fortis
-
 item.nomilabs.combinationcircuit.name=Primitive Processor
 item.nomilabs.electronicprocessor.name=Electronic Processor
 item.nomilabs.electronicprocessorarray.name=Electronic Processor Array
@@ -252,7 +234,6 @@ item.nomilabs.nanoprocessormainframe.name=Nanoprocessor Mainframe
 item.nomilabs.microcircuit.name=Microcircuit
 item.nomilabs.microprocessorarray.name=Microprocessor Array
 item.nomilabs.microprocessormainframe.name=Microprocessor Mainframe
-
 item.nomilabs.tieroneship.name=Обшитый сталью микромайнер [Уровень 1]
 item.nomilabs.tiertwoship.name=Обшитый титаном микромайнер [Уровень 2]
 item.nomilabs.tierthreeship.name=Обшитый карбидом вольфрама микромайнер [Уровень 3]
@@ -267,7 +248,6 @@ item.nomilabs.tiernineship.name=Обшитый этернием микропож
 item.nomilabs.tiertenship.name=Обшитый нейтронием микросборщик вселенных [Уровень 10]
 item.nomilabs.moondust.name=Лунная пыль
 item.nomilabs.quantumflux.name=Квантовая запутанность
-
 item.nomilabs.tieroneship_stabilized.name=Стабилизированный обшитый сталью микромайнер [Уровень 1]
 item.nomilabs.tiertwoship_stabilized.name=Стабилизированный обшитый титаном микромайнер [Уровень 2]
 item.nomilabs.tierthreeship_stabilized.name=Стабилизированный обшитый карбидом вольфрама микромайнер [Уровень 3]
@@ -277,7 +257,6 @@ item.nomilabs.tierfiveship_stabilized.name=Стабилизированный о
 item.nomilabs.tiersixship_stabilized.name=Стабилизированный обшитый эндериумом микромайнер [Уровень 6]
 item.nomilabs.tiersevenship_stabilized.name=Стабилизированный обшитый драконием микроохотник на драконов [Уровень 7]
 item.nomilabs.tiereightship_stabilized.name=Стабилизированный обшитый кристальной матрицей микроубийца гигантов [Уровень 8]
-
 item.nomilabs.tieroneship_stabilized_matter.name=Первозданная стальная материя микровселенной [Уровень 1]
 item.nomilabs.tiertwoship_stabilized_matter.name=Первозданная титановая материя микровселенной [Уровень 2]
 item.nomilabs.tierthreeship_stabilized_matter.name=Первозданная вольфрамовая материя микровселенной [Уровень 3]
@@ -287,28 +266,25 @@ item.nomilabs.tierfiveship_stabilized_matter.name=Первозданная ир�
 item.nomilabs.tiersixship_stabilized_matter.name=Первозданная эндериумовая материя микровселенной [Уровень 6]
 item.nomilabs.tiersevenship_stabilized_matter.name=Первозданная дракониевая материя микровселенной [Уровень 7]
 item.nomilabs.tiereightship_stabilized_matter.name=Первозданная кристальная материя микровселенной [Уровень 8]
-
 item.nomilabs.t1guidance.name=Базовая система управления микромайнером
-item.nomilabs.t1laser.name=Базовый шахтерский лазер
+item.nomilabs.t1laser.name=Обычный шахтерский лазер
 item.nomilabs.t2laser.name=Упрочненный шахтерский лазер
 item.nomilabs.t2guidance.name=Улучшенная система управления микромайнером
 item.nomilabs.t3engine.name=Перегруженный реактивный двигатель
-item.nomilabs.t3laser.name=Перегруженный лазерная система
-
-item.nomilabs.steelplating.name= Стальное покрытие
-item.nomilabs.titaniumplating.name= Титановое покрытие
-item.nomilabs.tungstencarbideplating.name= Карбид-вольфрамовое покрытие
-item.nomilabs.signalumplating.name= Синаловое покрытие
-item.nomilabs.iridiumalloyplating.name= Иридиевое покрытие
-item.nomilabs.enderiumplating.name= Эндериумное покрытие
-item.nomilabs.draconiumplating.name= Дракониевое покрытие
-item.nomilabs.crystalmatrixplating.name= Кристальное покрытие
-item.nomilabs.quantumfluxedeterniumplating.name= Квантово-флаксовое этерниевое покрытие
-item.nomilabs.neutroniumplating.name= Нейтрониевое покрытие
-
+item.nomilabs.t3laser.name=Перегруженная лазерная система
+item.nomilabs.steelplating.name=Стальное покрытие
+item.nomilabs.titaniumplating.name=Титановое покрытие
+item.nomilabs.tungstencarbideplating.name=Карбид-вольфрамовое покрытие
+item.nomilabs.signalumplating.name=Синаловое покрытие
+item.nomilabs.iridiumalloyplating.name=Иридиевое покрытие
+item.nomilabs.enderiumplating.name=Эндериумное покрытие
+item.nomilabs.draconiumplating.name=Дракониевое покрытие
+item.nomilabs.crystalmatrixplating.name=Кристальное покрытие
+item.nomilabs.quantumfluxedeterniumplating.name=Квантово-флаксовое этерниевое покрытие
+item.nomilabs.neutroniumplating.name=Нейтрониевое покрытие
 item.nomilabs.heartofauniverse.name=Сердце вселенной
 item.nomilabs.radiationlayer.name=Противорадиационный слой
-item.nomilabs.pressurelayer.name=Слой давления
+item.nomilabs.pressurelayer.name=Спрессованный слой
 tile.nomilabs.excitationcoil.name=Отдающая катушка
 item.nomilabs.unpreparedspacehelmet.name=Термошлем
 item.nomilabs.unpreparedspacechestpiece.name=Термонагрудник
@@ -319,12 +295,10 @@ item.nomilabs.thermalcloth.name=Термоткань
 item.nomilabs.smallgearextrudershape.name=Форма (маленькая шестеренка)
 item.nomilabs.creativeportabletankmold.name=Данные о творческом квантовом резервуаре
 item.nomilabs.magnetron.name=Магнетрон
-
 item.nomilabs.conductivewire.name=Провод из проводящего железа
 item.nomilabs.pulsatingwire.name=Провод из пульсирующего железа
 item.nomilabs.energeticwire.name=Провод из энергетического сплава
 item.nomilabs.vibrantwire.name=Провод из вибрирующего сплава
-
 item.nomilabs.knightslimeingot.name=Слиток слизнестали
 item.nomilabs.endstonedust.name=Эндерняк (Пыль)
 item.nomilabs.lapisarmorplate.name=Тяжелая лазуритовая пластина
@@ -333,7 +307,6 @@ item.nomilabs.redstonearmorplate.name=Тяжелая редстоун пласт
 tile.nomilabs.block_dust.name=Блок пыли
 item.nomilabs.blazepowder.name=Огненный порошок
 item.nomilabs.grainsofinnocence.name=Зерна невинности
-
 item.nomilabs.hotdraconiumingot.name=Горячий дракониевый слиток
 item.nomilabs.exoticmaterialscatalyst.name=Экзотический катализатор
 item.nomilabs.eternalcatalyst.name=Катализатор вечности
@@ -342,9 +315,8 @@ item.nomilabs.gemsensor.name=Сенсор драгоценностей
 item.nomilabs.radiumsalt.name=Радиевая соль
 item.nomilabs.warpengine.name=Варп-двигатель
 item.nomilabs.universalnavigator.name=Вселенская навигационная система
-item.nomilabs.deuteriumrover.name=Deuterium Rover
-item.nomilabs.helium3rover.name=Helium-3 Rover
-
+item.nomilabs.deuteriumrover.name=Дейтериевый вездеход
+item.nomilabs.helium3rover.name=Гелий-3 вездеход
 item.nomilabs.solidifiedargon.name=Затвердевший аргон
 item.nomilabs.solidifiedchlorine.name=Затвердевший хлор
 item.nomilabs.solidifiedfluorine.name=Затвердевший фтор
@@ -357,11 +329,9 @@ item.nomilabs.solidifiednitrogen.name=Затвердевший азот
 item.nomilabs.solidifiedoxygen.name=Затвердевший водород
 item.nomilabs.solidifiedradon.name=Затвердевший радий
 item.nomilabs.solidifiedxenon.name=Затвердевший ксенон
-
-item.nomilabs.netherstarsouth.name=Южный луч незер звезды
-item.nomilabs.netherstareast.name=Восточный луч незер звезды
-item.nomilabs.netherstarwest.name=Западный луч незер звезды
-
+item.nomilabs.netherstarsouth.name=Южный луч Звезды из Незера
+item.nomilabs.netherstareast.name=Восточный луч Звезды из Незера
+item.nomilabs.netherstarwest.name=Западный луч Звезды из Незера
 fluid.neon=Неон
 fluid.xenon=Ксенон
 fluid.krypton=Криптон
@@ -373,7 +343,7 @@ fluid.awakeneddraconium=Пробужденный драконий
 fluid.curium=Кюрий
 fluid.neptunium=Нептуний
 fluid.plutonium2=Плутоний
-fluid.uranium233=Уран 233
+fluid.uranium233=Уран-233
 fluid.tough_alloy=Прочный сплав
 fluid.moltencreativeportabletank=Жидкий творческий резервуар
 fluid.moltencrystalmatrix=Кристальная матрица
@@ -386,7 +356,6 @@ fluid.moltenempowereddiamatine=Усиленный кристалл Диамат�
 fluid.moltenempoweredemeradic=Усиленный кристалл Эмерадиса
 fluid.moltensoularium=Соуларий
 fluid.moltendarksoularium=Темный соуларий
-
 item.nomilabs.stabilizedeinsteinium.name=Стабилизированный Энштейний
 item.nomilabs.stabilizedberkelium.name=Стабилизированный Берклий
 item.nomilabs.stabilizedplutonium.name=Стабилизированный Плутоний
@@ -396,48 +365,39 @@ item.nomilabs.stabilizedamericium.name=Стабилизированный Аме
 item.nomilabs.stabilizedcurium.name=Стабилизированный Кюрий
 item.nomilabs.stabilizedcalifornium.name=Стабилизированный Калифорний
 item.nomilabs.stabilizedthorium.name=Стабилизированный Торий
-
 item.nomilabs.compressedoctadiccapacitor.name=Сжатый восьмислойный конденсатор
 item.nomilabs.doublecompressedoctadiccapacitor.name=Дважды сжатый восьмислойный конденсатор
-item.nomilabs.ultimate_circuit.name=Ultimate Circuit
+item.nomilabs.ultimate_circuit.name=Совершенная микросхема
 tile.nomilabs.ultimate_power_storage.name=Максимальный накопитель
-
 tile.nomilabs.ultimate_generator.name=Максимальный генератор
-item.nomilabs.ultimate_crafting_table.name=Ultimate Crafting Table
+item.nomilabs.ultimate_crafting_table.name=Совершенный верстак
 item.nomilabs.ultimate_gem.name=Максимальная драгоценность
-
 item.nomilabs.dragonlairdata.name=Данные о логове дракона
 item.nomilabs.witherrealmdata.name=Данные о Визере
 tile.nomilabs.denseoilshale.name=Плотный нефтеносный песок
 item.nomilabs.impossiblerealmdata.name=Данные о невозможном
-item.nomilabs.sentientgear.name=Sentient Gear Core
-item.nomilabs.lairoftheclockworkkingdata.name=Lair Of The Clockwork King Data
-item.nomilabs.lairofthechaosguardiandata.name=Даннные о логове дракона хаоса
+item.nomilabs.sentientgear.name=Разумное ядро механизма
+item.nomilabs.lairoftheclockworkkingdata.name=Данные о логове заводного короля
+item.nomilabs.lairofthechaosguardiandata.name=Данные о логове дракона хаоса
 item.nomilabs.universecreationdata.name=Данные о рождении вселенной
-item.nomilabs.stellarcreationdata.name=Данные о рождении звезд
+item.nomilabs.stellarcreationdata.name=Данные о рождении созвездий
 item.nomilabs.densehydrogen.name=Плотный водород
 item.nomilabs.ultradensehydrogen.name=Сверхплотный водород
 tile.nomilabs.densemagma.name=Плотная магма
-
 tile.nomilabs.microverse_casing.name=Микроверсиевая обшивка
-
-item.nomilabs.eightsmore.name=8х грэм крекер
-item.nomilabs.sixteensmore.name=16х грэм крекер
-item.nomilabs.thirtytwosmore.name=32х грэм крекер
-item.nomilabs.sixtyfoursmore.name=64х грэм крекер
-
+item.nomilabs.eightsmore.name=ВосьмеШ'мор-октош'мекер
+item.nomilabs.sixteensmore.name=ШестадцатиШ'мор-гексаш'мекер
+item.nomilabs.thirtytwosmore.name=ПолСтакоШ'мор-тритриаконташ'мекер
+item.nomilabs.sixtyfoursmore.name=СтакоШ'мор-гексаконтатетраш'мекер
 item.nomilabs.dark_red_coal.name=Тёмный красный уголь
-
 item.nomilabs.hand_framing_tool.name=Инструмент для обрамления
-
 item.nomilabs.hand_framing_tool.desc1=Обрамляй ящики вручную!
-item.nomilabs.hand_framing_tool.desc2=Инструмент для обрамления позволяет обрамлять уже размещённые ящики.
-item.nomilabs.hand_framing_tool.desc3=Чтобы сделать это, сам инструмент необходимо обрамить в верстаке или Столе Обрамления.
-item.nomilabs.hand_framing_tool.desc4=Для обрамления инструмента на верстаке, посмотрите рецепты из этого предмета в JEI.
+item.nomilabs.hand_framing_tool.desc2=§5Инструмент для обрамления§r позволяет обрамлять уже размещённые ящики.
+item.nomilabs.hand_framing_tool.desc3=Чтобы сделать это, сам инструмент необходимо обрамить в §3Верстаке§r или §3Столе Обрамления§r.
+item.nomilabs.hand_framing_tool.desc4=Для обрамления инструмента на Верстаке, посмотрите рецепты из этого предмета в JEI.
 item.nomilabs.hand_framing_tool.desc5=При использовании инструмента на ящике, размещённом в мире, ящик будет обрамлён, используя выбранную комбинацию блоков.
 item.nomilabs.hand_framing_tool.desc6=При помощи инструмента так же можно превратить любые деревянные ящики в обрамлённые.
 item.nomilabs.hand_framing_tool.desc7=также вы можете применять и рамки/декорации.
-
 item.nomilabs.pulsatingdust.name=Пульсирующая пыль
 item.nomilabs.pulsatingmesh.name=Пульсирующая сеть
 
@@ -453,79 +413,127 @@ nomilabs.machine.naquadah_reactor_1.name=Наквада-реактор 1
 nomilabs.machine.naquadah_reactor_2.name=Наквада-реактор 2
 nomilabs.machine.actualization_chamber.name=Актуализационная камера
 nomilabs.machine.universal_crystallizer.name=Вселенский кристаллизатор
-nomilabs.machine.dme_sim_chamber.name=Simulation Supercomputer
+nomilabs.machine.dme_sim_chamber.name=Симуляционный суперкомпьютер
 
 # Recipe Maps
 recipemap.microverse_projector_1.name=Обычная микровселенная
 recipemap.microverse_projector_2.name=Улучшенная микровселенная
 recipemap.microverse_projector_3.name=Улучшенная микровселенная II
 recipemap.creative_tank_provider.name=Создатель творческих резервуаров
-recipemap.naquadah_reactor_1.name=Наквада-реактор 1
-recipemap.naquadah_reactor_2.name=Наквада-реактор 2
+recipemap.naquadah_reactor_1.name=Наквада-реактор модель 1
+recipemap.naquadah_reactor_2.name=Наквада-реактор модель 2
 recipemap.actualization_chamber.name=Актуализация
 recipemap.universal_crystallizer.name=Вселенская кристаллизация
-recipemap.dme_sim_chamber.name=Simulation
+recipemap.dme_sim_chamber.name=Симуляция
 
 
 #----------------Tooltips----------------#
 
 # General
-tooltip.nomilabs.general.press_shift_for_usages=Press [Shift] for More Usages.
-tooltip.nomilabs.general.press_ctrl_for_usages=Press [Ctrl] for More Usages.
-tooltip.nomilabs.general.press_shift_for_info=Press [Shift] for More Info.
-tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
+tooltip.nomilabs.general.press_shift_for_usages=Зажмите [SHIFT] для Информации использования.
+tooltip.nomilabs.general.press_ctrl_for_usages=Зажмите [CTRL] для Информации использования.
+tooltip.nomilabs.general.press_shift_for_info=Нажмите [SHIFT] для Информации.
+tooltip.nomilabs.general.press_ctrl_for_info=Нажмите [CTRL] для Информации.
 
 # Items
-tooltip.nomilabs.excitationcoil.description_block=Crafting Component Only.
-tooltip.nomilabs.excitationcoil.description_item=Crafting Component Only... Except:
-tooltip.nomilabs.excitationcoil.placeable=Placeable!
-tooltip.nomilabs.excitationcoil.wearable=Wearable on your head!
-tooltip.nomilabs.excitationcoil.night_vision=Gives Night Vision when worn!
-
-tooltip.nomilabs.hand_framing_tool.not_set=Put this tool in a Framing Table or a Crafting Table to set its Framing Data!
-tooltip.nomilabs.hand_framing_tool.side=Side: %s
-tooltip.nomilabs.hand_framing_tool.trim=Trim: %s
-tooltip.nomilabs.hand_framing_tool.front=Front: %s
-
-tooltip.nomilabs.ultimate_items.description=Crafting Component Only.
-
-tooltip.nomilabs.universalnavigator.description=See you later, navigator!
-
-tooltip.nomilabs.eternalcatalyst.description=Gaze into the Abyss...
-
-tooltip.nomilabs.tieroneship.description=Harvests Titanium and other light metals from asteroids in the microverse.
-tooltip.nomilabs.tiertwoship.description=Harvests Tungsten and other heavy metals from asteroids in the microverse.
-tooltip.nomilabs.tierthreeship.description=Harvests ultra hot metals and gems from Nether microverses.
-tooltip.nomilabs.tierfourship.description=Harvests ultra cold materials from the deepest parts of empty space.
-tooltip.nomilabs.tierfourandhalfship.description=Kills mobs in dangerous microverses and collects their highly prized skeletons and parts.
-tooltip.nomilabs.tierfiveship.description=Harvests strange materials from End microverses.
-tooltip.nomilabs.tiersixship.description=Harvests extremely rare materials from every concievable reality.
-tooltip.nomilabs.tiersevenship.description=Hunts Wyrms and End Dragons from the microverse and returns with parts from their carapaces.
-tooltip.nomilabs.tiereightship.description=Hunts inconcievable monstrosities from beyond the End and returns with bizzare trinkets.
-tooltip.nomilabs.tiereightandhalfship.description=Harvests exclusive Gems and Metals from unexplored corners, from beyond the microverse.
-tooltip.nomilabs.tiernineship.description=Collapses microversian stars and harvests their delicious neutronium cores.
-tooltip.nomilabs.tiertenship.description1=Collapses an entire microverse and harvests it whole.
-tooltip.nomilabs.tiertenship.description2=Try to aim for uninhabited ones.
-
-tooltip.stabilized_miners.description1=A stabilized version, injected with a Heart of a Universe.
-tooltip.stabilized_miners.description2=Lasts indefinitely. Reusable. Totally not overpowered.
-tooltip.stabilized_miners.description3=It looks oddly familiar.
-
-tooltip.stabilized_matters.description=An infinite and incomprehensible abyss of materials.
-
-tooltip.nomilabs.capacitors.description=Ender IO Machine Upgrade
-tooltip.nomilabs.capacitors.level=Level: %s
+tooltip.nomilabs.excitationcoil.description_block=
+tooltip.nomilabs.excitationcoil.description_item=
+tooltip.nomilabs.excitationcoil.placeable=§7Размещаемый!§r
+tooltip.nomilabs.excitationcoil.wearable=§7Можно носить на голове!§r
+tooltip.nomilabs.excitationcoil.night_vision=Дает Ночное зрение когда надето!
+tooltip.nomilabs.hand_framing_tool.not_set=Положи этот инструмент в Стол для Обрамления или в Верстак для Настройки обрамления!
+tooltip.nomilabs.hand_framing_tool.side=Бока: %s
+tooltip.nomilabs.hand_framing_tool.trim=Отделка: %s
+tooltip.nomilabs.hand_framing_tool.front=Фасад: %s
+tooltip.nomilabs.ultimate_items.description=
+tooltip.nomilabs.universalnavigator.description=§9До скорого, Навигатор!§r
+tooltip.nomilabs.eternalcatalyst.description=§8Взгляни в Бездну...§r
+tooltip.nomilabs.tieroneship.description=§f§oДобывает Титан и другие лёгкие металлы из астероидов в микровселенной.§r
+tooltip.nomilabs.tiertwoship.description=§f§oДобывает Вольфрам и другие тяжелые металлы из астероидов в микровселенной.§r
+tooltip.nomilabs.tierthreeship.description=§f§oДобывает чрезвычайно горячие металлы и драг. камни из Незеровых микровселенных.§r
+tooltip.nomilabs.tierfourship.description=§f§oДобывает чрезвычайно холодные материалы из самых глубоких частей пустого космоса.§r
+tooltip.nomilabs.tierfourandhalfship.description=§f§oУбивает монстров в опасных микровселенных и собирает их ценные части и скелеты.§r
+tooltip.nomilabs.tierfiveship.description=§f§oСобирает странные материалы из Эндовой микровселенной.§r
+tooltip.nomilabs.tiersixship.description=§f§oСобирает чрезвычайно редкие материалы из любых мыслимых реальностей.§r
+tooltip.nomilabs.tiersevenship.description=§f§oОхотится на Виверн и Драконов Энда в микровселенных и возвращается с частями из их панцирей.§r
+tooltip.nomilabs.tiereightship.description=§f§oОхотится на немыслимых чудовищ из-за пределов Энда и возвращается с невероятными побрякушками.§r
+tooltip.nomilabs.tiereightandhalfship.description=§f§oСобирает эксклюзивные драгоценные камни и металлы из неизведанных уголков за пределами микровселенной.§r
+tooltip.nomilabs.tiernineship.description=§f§oКоллапсирует звезды микровселенной и собирает их восхитительные нейтрониевые ядра.§r
+tooltip.nomilabs.tiertenship.description1=§f§oКоллапсирует всю микровселенную и собирает ее целиком.§r
+tooltip.nomilabs.tiertenship.description2=§f§oСтремиться к необитаемым местам.§r
+tooltip.stabilized_miners.description1=§f§oСтабилизированная версия, в которую добавлено Сердце Вселенной.§r
+tooltip.stabilized_miners.description2=§f§oДлится бесконечно. Многоразовый. Совершенно точно не переусиленный.§r
+tooltip.stabilized_miners.description3=§f§oОг выглядит странно знакоммым.§r
+tooltip.stabilized_matters.description=§f§oБесконечная и непостижимая бездна материалов.§r
+tooltip.nomilabs.capacitors.description=Улучшение механизма EnderIO
+tooltip.nomilabs.capacitors.level=§5Уровень: %s§r
 
 # Multiblocks
-tooltip.nomilabs.microverse_projector_1.description=A machine capable of stabilizing projection into microverses for basic micro miner missions.
-tooltip.nomilabs.microverse_projector_2.description=An advanced machine capable of stabilizing projection into microverses for complex missions into the deepest parts of space.
-tooltip.nomilabs.microverse_projector_3.description=An elite machine capable of stabilizing projection into microverses for exotic missions, including collapsing the microverse whole.
-tooltip.nomilabs.creative_tank_provider.description=A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.
-tooltip.nomilabs.naquadah_reactor_1.description=An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.
-tooltip.nomilabs.naquadah_reactor_2.description=An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.
-tooltip.nomilabs.naquadah_reactor.produces=Produces exactly %s amps of %s.
-tooltip.nomilabs.naquadah_reactor.overclock=Does not overclock!
-tooltip.nomilabs.actualization_chamber.description=A powerful machine that harnesses the most complex of matters and turns it into raw materials.
-tooltip.nomilabs.universal_crystallizer.description=An immense device, capable of turning raw materials into complex matters.
-tooltip.nomilabs.dme_sim_chamber.description=A high powered simulation device, capable of performing more complex simulations faster than ever.
-tooltip.nomilabs.greenhouse.description=A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.
+tooltip.nomilabs.microverse_projector_1.description=§8Машина, способная стабилизировать проекцию в микровселенные для выполнения миссии обычных микромайнеров.§r
+tooltip.nomilabs.microverse_projector_2.description=§8Улучшенная машина, способная стабилизировать проекцию в микровселенные для выполнения сложных миссий в глубинах космоса.§r
+tooltip.nomilabs.microverse_projector_3.description=§8Превосходная машина, способная стабилизировать проекцию в микровселенные для выполнения уникальных миссий, включительно коллапсирование всей микровселенной.§r
+tooltip.nomilabs.creative_tank_provider.description=§8Сложный механизм, способный превращать ведра и формы в бесконечные резервуары, непостижимые человеческим сознанием.§r
+tooltip.nomilabs.naquadah_reactor_1.description=§8Улучшенный реактор, производящий энергию за счет распада болтов из Обогащенной Наквады и Наквадрии.§r
+tooltip.nomilabs.naquadah_reactor_2.description=§8Превосхожный реактор, способный выдавать еще больше энергии за счет распада болтов из Обогащенной Наквады и Наквадрии.§r
+tooltip.nomilabs.naquadah_reactor.produces=§fПроизводит %s А %s.§r
+tooltip.nomilabs.naquadah_reactor.overclock=Не ускоряется!
+tooltip.nomilabs.actualization_chamber.description=§8Мощная машина, которая использует самые сложные материи и перерабатывает их в сырье.§r
+tooltip.nomilabs.universal_crystallizer.description=§8Огромное устройство, которая превращает сырье в самые сложные материи.§r
+tooltip.nomilabs.dme_sim_chamber.description=§8Мощное устройство симуляции, способное выполнять более сложные симуляции быстрее, чем когда-либо..§r
+tooltip.nomilabs.greenhouse.description=§8Мощная машина, которая использует сырье и перерабатывает его в самые сложные материи.§r
+config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Включить исправления данных Nomi-CEu
+config.nomilabs.advanced.disable_narrator=Отключить диктора
+config.nomilabs.advanced.disable_advancements=Отключить достижения
+config.nomilabs.mod_integration.advanced_rocketry=Включить интеграцию Advanced Rocketry
+config.nomilabs.advanced.fluid_registry.default_fluids=Жидкости по умолчанию
+config.nomilabs.advanced.fluid_registry=Настройки реестра жидкостей
+config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Журнал конфликтующих жидкостей
+
+# Data Fixers
+# Don't forget to update this in LabsMessageHelper.Components as well!
+nomilabs.fixer.intro.1=Этот мир должен быть перенастроен.
+nomilabs.fixer.intro.2=§lБудет создана резервная копия .§r
+nomilabs.fixer.intro.3=Нажмите 'No/Нет' чтобы отменить загрузку.
+nomilabs.fixer.intro.4=§cОбратите внимание: после того, как мир будет загружен, вы НЕ МОЖЕТЕ отменить изменения!§r
+nomilabs.fixer.intro.5=Вам §nПРИДЕТСЯ§r загрузиться из резервной копии, чтобы загрузить предыдущую версию!
+config.nomilabs.mod_integration.groovy_hand=Включить добавления Hand из GroovyScript
+
+# Commands
+nomilabs.command.gs_hand.material=ID Материала:
+nomilabs.fixer.mode_check.1=Вы уверены, что ранее вы загрузили этот мир в режиме '§e%s§r' ?
+nomilabs.fixer.mode_check.2=Запуск в неправильном режиме §nПРОИЗВЕДЕТ§r удаление предметов и/или блоков!
+nomilabs.fixer.mode_check.4=Нажмите 'Нет' если вы не уверены! (Это также отменит загрузку мира)
+nomilabs.fixer.do_not_exit.2=В случае прерывания загрузитесь еще раз из резервной копии, так как ваш мир может быть поврежден!
+nomilabs.fixer.do_not_exit.1=§cНе прерывайте процесс загрузки!§r
+nomilabs.fixer.mode_check.3=§7Если вы не меняли ранее ничего, то режим по умолчанию 'Нормальный'.§r
+nomilabs.fixer.intro.6=§7Изменения, которые необходимо внести с помощью "Исправления данных", были указаны в вашем журнале.§r
+tooltip.nomilabs.general.crafting_component=§7Только как компонент для Создания.§r
+
+# Items
+tooltip.nomilabs.excitationcoil.description=§7Только как компонент для Создания... Кроме:§r
+config.nomilabs.content.tooltip=Настройки контента
+config.nomilabs.content.custom_content.tooltip=Настройки уникального контента
+config.nomilabs.content.gt_content.tooltip=Настройки уникального GT контента
+config.nomilabs.mod_integration.tooltip=Настройка интеграции модов
+config.nomilabs.groovy=Настройка GroovyScript Extensions и Script Helper
+config.nomilabs.groovy.tooltip=Настройка GroovyScript Extensions и Script Helper
+config.nomilabs.groovy.hand=Включить GroovyScript Hand Additions
+config.nomilabs.groovy.recipe_search_mode=Режим поиска результатов рецептов GregTech
+config.nomilabs.mod_integration.draconicevolution.tooltip=Настройка интеграции Draconic Evolution
+config.nomilabs.advanced.tooltip=Расширенные настройки
+config.nomilabs.advanced.fluid_registry.tooltip=Настройки реестра жидкостей
+
+# GUI
+gui.nomilabs.recipes.tooltip.ct_recipe=Рецепт взят из CraftTweaker.
+gui.nomilabs.recipes.tooltip.gs_recipe=Рецепт взят из GroovyScript.
+nomilabs.command.gs_hand.material_stack=Стак материалов:
+nomilabs.fixer.do_not_revert.intro_addition=§eПредупреждение:§r
+nomilabs.fixer.do_not_revert.do_not_exit_addition=§eНапоминание:§r
+nomilabs.command.gs_hand.material_components=§aКомпонент материала:§r
+nomilabs.fixer.intro.addition=§7Изменения, которые необходимо внести с помощью Data Fixers, были указаны в вашем журнале.§r
+nomilabs.fixer.do_not_revert.2=Чтобы загрузить предыдущую версию, вам §nНЕОБХОДИМО§r будет выполнить загрузку из резервной копии!
+nomilabs.command.gs_hand.all_material_components=§eВсе компоненты материала§r
+nomilabs.fixer.do_not_revert.1=§cПосле того, как мир будет загружен этим, вы §nНЕ МОЖЕТ§r§c отменить это!.§r
+nomilabs.material.cuprorhodsite=Купрородсит
+config.nomilabs.mod_integration.architecture_craft=Включить интеграцию ArchitectureCraft
+nomilabs.material.laurite=Лаурит

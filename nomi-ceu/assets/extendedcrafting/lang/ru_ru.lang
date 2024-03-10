@@ -1,0 +1,37 @@
+
+
+tile.ec.trimmed_ultimate.name=Блок черной стали
+tile.ec.trimmed_gold.name=Блок черной стали
+item.ec.material_ultimate_nugget.name=Самородок омния
+tile.ec.trimmed_crystaltine.name=Блок черной стали
+tile.ec.trimmed_diamond.name=Блок черной стали
+
+# line 9
+tile.ec.storage_ultimate.name=Блок омния
+tile.ec.trimmed_emerald.name=Блок черной стали
+tile.ec.table_elite.name=Превосходный расширенный верстак
+# line 18-23 of the jar file
+tile.ec.trimmed_iron.name=Блок черной стали
+
+# line 203
+item.ec.singularity_ultimate.name=Частица омния
+tile.ec.table_ultimate.name=Совершенный расширенный верстак
+
+# line 33-35
+tile.ec.table_advanced.name=Расширенный верстак
+
+# line 69-70
+item.ec.material_ultimate_ingot.name=Слиток омния
+
+# line 11
+tile.ec.storage_ender_star.name=Блок старейших звезд
+
+# line 75-76
+item.ec.material_ender_star.name=Старейшная звезда
+item.ec.material_ender_star_nugget.name=Самородок старейших звезд
+
+# line 62
+item.ec.material_ultimater_component.name=Конфлаксовый компонент
+
+# line 57
+item.ec.material_ultimater_catalyst.name=Конфлаксовый катализатор

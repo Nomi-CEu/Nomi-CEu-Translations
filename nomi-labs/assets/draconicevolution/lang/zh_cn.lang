@@ -1,7 +1,6 @@
 button.de.destructCore.start.txt=开始拆解核心
 button.de.destructCore.instant.txt=拆解核心
 button.de.destructCore.stop.txt=停止拆解核心
-
 button.de.assembleCore.start.txt=开始组装核心
 button.de.assembleCore.instant.txt=组装核心
 button.de.assembleCore.stop.txt=停止组装核心
