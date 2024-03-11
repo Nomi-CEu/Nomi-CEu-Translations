@@ -1,1 +1,13 @@
 
+
+item.thermalexpansion.frame.frameCell2Filled.name=
+item.thermalexpansion.frame.frameCell3.name=
+item.thermalexpansion.frame.frameCell3Filled.name=
+item.thermalexpansion.frame.frameCell4.name=
+item.thermalexpansion.frame.frameCell4Filled.name=
+item.thermalexpansion.frame.frameDevice.name=
+# between line 400 to 411 in jar file
+item.thermalexpansion.frame.frameCell2.name=
+
+# line 409, 411 of jar file
+item.thermalexpansion.frame.frameMachine.name=
