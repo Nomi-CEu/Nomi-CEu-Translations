@@ -1,1 +1,40 @@
 
+
+# line 51-53 of EnderIO.jar
+item.item_basic_capacitor.basic.name=
+item.item_basic_capacitor.activated.name=
+item.item_basic_capacitor.ender.name=
+enderio.item_power_conduit_enhanced.name=
+enderio.item_power_conduit_ender.name=
+enderio.item_endergy_conduit_electrum.name=
+enderio.item_endergy_conduit_copper.name=
+enderio.item_endergy_conduit_cobble.name=
+enderio.item_endergy_conduit_melodic.name=
+enderio.item_endergy_conduit_stellar.name=
+item.item_dark_steel_chestplate.name=
+item.item_dark_steel_leggings.name=
+item.item_dark_steel_boots.name=
+item.item_end_steel_chestplate.name=
+item.item_end_steel_leggings.name=
+item.item_end_steel_boots.name=
+
+# line 1575-1577 of EnderIO.jar
+enderio.item_power_conduit.name=
+
+# line 16,17,20,22,26,27 of EnderIO-endergy.jar
+enderio.item_endergy_conduit_iron.name=
+
+# line 1603 of EnderIO.jar
+tile.block_cap_bank.activated.name=
+
+# line 434 of EnderIO.jar
+tile.block_dark_iron_bars.name=
+
+# line 127-134 of EnderIO.jar
+item.item_dark_steel_helmet.name=
+
+# line 154-161 of EnderIO.jar
+item.item_end_steel_helmet.name=
+
+# line 2245 of EnderIO.jar
+tile.block_enchanter.name=
