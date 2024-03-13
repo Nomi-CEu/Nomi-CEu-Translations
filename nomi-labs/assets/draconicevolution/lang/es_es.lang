@@ -1,8 +1,8 @@
-button.de.destructCore.start.txt=
-button.de.destructCore.instant.txt=
-button.de.destructCore.stop.txt=
-button.de.assembleCore.start.txt=
-button.de.assembleCore.instant.txt=
-button.de.assembleCore.stop.txt=
-ecore.de.assemble_missing_required_new.txt=
-ecore.gui.invalid_block.txt=
+button.de.destructCore.start.txt=Comienzo de desmantelación de núcleo
+button.de.destructCore.instant.txt=Desmantelar núcleo
+button.de.destructCore.stop.txt=Parada de desmantelación de núcleo
+button.de.assembleCore.start.txt=Comenzar ensamblaje de núcleo
+button.de.assembleCore.instant.txt=Ensamblar núcleo
+button.de.assembleCore.stop.txt=Parada de ensamblaje de núcleo
+ecore.de.assemble_missing_required_new.txt=¡No se puede completar la estructura! Falta bloque(s) requerido(s): %s.
+ecore.gui.invalid_block.txt=Bloque invalido: X: %s, Y: %s, Z: %s. Esperado: %s.
