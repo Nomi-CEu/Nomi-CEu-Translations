@@ -1,38 +1,38 @@
 # line 51-53 of EnderIO.jar
-item.item_basic_capacitor.basic.name=
-item.item_basic_capacitor.activated.name=
-item.item_basic_capacitor.ender.name=
+item.item_basic_capacitor.basic.name=Condensador de RF básico
+item.item_basic_capacitor.activated.name=Condensador RF de doble capa
+item.item_basic_capacitor.ender.name=Condensador de RF octádico
 
 # line 1575-1577 of EnderIO.jar
-enderio.item_power_conduit.name=
-enderio.item_power_conduit_enhanced.name=
-enderio.item_power_conduit_ender.name=
+enderio.item_power_conduit.name=Conducto de energía de hierro conductor
+enderio.item_power_conduit_enhanced.name=Conducto de energía de aleación energética
+enderio.item_power_conduit_ender.name=Conducto de energía de aleación vibrante
 
 # line 16,17,20,22,26,27 of EnderIO-endergy.jar
-enderio.item_endergy_conduit_iron.name=
+enderio.item_endergy_conduit_iron.name=Conducto de energía de acero de End
 
 # line 154-161 of EnderIO.jar
-item.item_end_steel_helmet.name=
-enderio.item_endergy_conduit_electrum.name=
-enderio.item_endergy_conduit_copper.name=
-enderio.item_endergy_conduit_cobble.name=
-enderio.item_endergy_conduit_melodic.name=
-enderio.item_endergy_conduit_stellar.name=
+item.item_end_steel_helmet.name=Casco de acero de End
+enderio.item_endergy_conduit_electrum.name=Conducto de energía de lumio
+enderio.item_endergy_conduit_copper.name=Conducto de energía de signalo
+enderio.item_endergy_conduit_cobble.name=Conducto de energía de enderio
+enderio.item_endergy_conduit_melodic.name=Conducto de energía de draconio
+enderio.item_endergy_conduit_stellar.name=Conducto de energía de superconductor dracónico
 
 # line 1603 of EnderIO.jar
-tile.block_cap_bank.activated.name=
+tile.block_cap_bank.activated.name=Banco de condensadores avanzado
 
 # line 434 of EnderIO.jar
-tile.block_dark_iron_bars.name=
+tile.block_dark_iron_bars.name=Barras de acero oscuro
 
 # line 127-134 of EnderIO.jar
-item.item_dark_steel_helmet.name=
-item.item_dark_steel_chestplate.name=
-item.item_dark_steel_leggings.name=
-item.item_dark_steel_boots.name=
-item.item_end_steel_chestplate.name=
-item.item_end_steel_leggings.name=
-item.item_end_steel_boots.name=
+item.item_dark_steel_helmet.name=Casco de acero oscuro
+item.item_dark_steel_chestplate.name=Peto de acero oscuro
+item.item_dark_steel_leggings.name=Pantalones de acero oscuro
+item.item_dark_steel_boots.name=Botas de acero oscuro
+item.item_end_steel_chestplate.name=Peto de acero de End
+item.item_end_steel_leggings.name=Pantalones de acero de End
+item.item_end_steel_boots.name=Botas de acero de End
 
 # line 2245 of EnderIO.jar
-tile.block_enchanter.name=
+tile.block_enchanter.name=Encantador de acero oscuro
