@@ -630,7 +630,7 @@ nomifactory.quest.normal.db.16.desc=
 nomifactory.quest.normal.db.17.desc=
 
 # db 74 of mode normal
-nomifactory.quest.normal.db.74.title=
+nomifactory.quest.normal.db.74.title=Алюминиевый корпус
 
 # db 75 of mode normal
 nomifactory.quest.normal.db.75.title=
@@ -639,10 +639,10 @@ nomifactory.quest.normal.db.75.title=
 nomifactory.quest.normal.db.76.title=
 
 # db 77 of mode normal
-nomifactory.quest.normal.db.77.title=
+nomifactory.quest.normal.db.77.title=Идеальные драг. камни
 
 # db 78 of mode normal
-nomifactory.quest.normal.db.78.title=
+nomifactory.quest.normal.db.78.title=§2Арсенид галлия
 
 # db 82 of mode normal
 nomifactory.quest.normal.db.82.title=
@@ -4045,7 +4045,7 @@ nomifactory.quest.normal.db.87.desc=
 nomifactory.quest.normal.db.88.desc=
 
 # db 80 of mode normal
-nomifactory.quest.normal.db.80.title=
+nomifactory.quest.normal.db.80.title=§2Монокристаллический кремний
 
 # db 81 of mode normal
 nomifactory.quest.normal.db.81.title=
@@ -5686,7 +5686,7 @@ nomifactory.quest.normal.db.78.desc=
 nomifactory.quest.normal.db.79.desc=
 
 # db 79 of mode normal
-nomifactory.quest.normal.db.79.title=
+nomifactory.quest.normal.db.79.title=§2Резочная машина
 nomifactory.quest.normal.db.89.desc=
 nomifactory.quest.normal.db.90.desc=
 nomifactory.quest.normal.db.91.desc=
