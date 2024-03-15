@@ -3551,7 +3551,7 @@ nomifactory.quest.expert.db.949.title=
 nomifactory.quest.expert.db.950.title=
 
 # db 951 of mode expert
-nomifactory.quest.expert.db.951.title=
+nomifactory.quest.expert.db.951.title=§2Силиконовый слиток
 nomifactory.quest.expert.db.12.desc=
 nomifactory.quest.expert.db.17.desc=
 nomifactory.quest.expert.db.18.desc=
@@ -3998,7 +3998,7 @@ nomifactory.quest.normal.db.508.title=
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=
-nomifactory.quest.normal.line.9.desc=
+nomifactory.quest.normal.line.9.desc=Генерирование ресурсов с помощью §bDeep Mob Evolution§r§r!%n%nЗамкните производственный цикл в MV вольтаже для получения полностью возобновляемых ресурсов!
 nomifactory.quest.normal.db.1.desc=
 nomifactory.quest.normal.db.2.desc=
 nomifactory.quest.normal.db.7.desc=
@@ -5535,13 +5535,13 @@ nomifactory.quest.expert.db.951.desc=
 nomifactory.quest.expert.db.954.desc=
 
 # db 952 of mode expert
-nomifactory.quest.expert.db.952.title=
+nomifactory.quest.expert.db.952.title=§2Активный Трансформатор
 
 # db 953 of mode expert
-nomifactory.quest.expert.db.953.title=
+nomifactory.quest.expert.db.953.title=Солнечные панели 8
 
 # db 954 of mode expert
-nomifactory.quest.expert.db.954.title=
+nomifactory.quest.expert.db.954.title=§2Лазерная сеть
 nomifactory.quest.normal.db.402.desc=
 
 # db 403 of mode normal
@@ -6646,7 +6646,7 @@ nomifactory.quest.expert.db.941.desc=
 nomifactory.quest.expert.db.947.desc=
 nomifactory.quest.expert.db.949.desc=
 nomifactory.quest.expert.db.952.desc=
-nomifactory.quest.expert.db.953.desc=
+nomifactory.quest.expert.db.953.desc=§6Солнечные панели§r 8го уровня необходимы для создания солнечных панелей более высокого уровня для Конца игры. Это также довольно неплохой источник энергии.
 nomifactory.quest.normal.db.12.desc=
 
 # db 230 of mode normal
