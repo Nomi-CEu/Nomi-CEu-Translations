@@ -311,7 +311,7 @@ nomifactory.quest.normal.line.10.title=Энерго-материя
 # line 11 of mode normal
 nomifactory.quest.normal.line.11.title=Технологические линии
 nomifactory.quest.normal.line.11.desc=Глава, которая поможет вам в обработке, как сложной, так и простой!
-nomifactory.quest.normal.db.0.desc=Основная задача этого устройства это превращать §6Истинный кварц§r в §6Заряженный кристалл истинного кварца§r.
+nomifactory.quest.normal.db.0.desc=Основная задача этого устройства это превращать §6Истинный кварц§r в §6Заряженный кристалл истинного кварца§r.%n%nЭто устройство может быть запитано RF энергией через Энерго-кондуиты, либо AE Энергией из МЭ кондуитов или кабелей.%n%nОн принимает энергию с двух сторон. Каких сторон? Это довольно легко догадаться.%n%n%n%n%n%n%n%n%nЛадно, ладно. С вершины и с нижней стороны.%n%n
 
 # db 0 of mode normal
 nomifactory.quest.normal.db.0.title=Зарядка Кварца
@@ -3998,9 +3998,9 @@ nomifactory.quest.normal.db.508.title=
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=
-nomifactory.quest.normal.line.9.desc=Генерирование ресурсов с помощью §bDeep Mob Evolution§r§r!%n%nЗамкните производственный цикл в MV вольтаже для получения полностью возобновляемых ресурсов!
+nomifactory.quest.normal.line.9.desc=Генерирование ресурсов с помощью §bDeep Mob Evolution§r§r!%n%nЗамкните производство в цикл на MV вольтаже для получения полностью возобновляемых ресурсов!
 nomifactory.quest.normal.db.1.desc=
-nomifactory.quest.normal.db.2.desc=
+nomifactory.quest.normal.db.2.desc=Примечание: Этот квест принимает Обычный наполнитель или Улучшенный наполнитель.%n%n§a
 nomifactory.quest.normal.db.7.desc=
 nomifactory.quest.normal.db.9.desc=
 nomifactory.quest.normal.db.31.desc=
