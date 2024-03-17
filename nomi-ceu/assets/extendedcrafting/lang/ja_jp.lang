@@ -9,17 +9,17 @@ tile.ec.storage_ender_star.name=
 
 # line 75-76
 item.ec.material_ender_star.name=
-tile.ec.trimmed_gold.name=
-tile.ec.trimmed_diamond.name=
-tile.ec.trimmed_emerald.name=
-tile.ec.trimmed_crystaltine.name=
-tile.ec.trimmed_ultimate.name=
+tile.ec.trimmed_gold.name=ブラックスチールブロック
+tile.ec.trimmed_diamond.name=ブラックスチールブロック
+tile.ec.trimmed_emerald.name=ブラックスチールブロック
+tile.ec.trimmed_crystaltine.name=ブラックスチールブロック
+tile.ec.trimmed_ultimate.name=ブラックスチールブロック
 tile.ec.table_elite.name=
 tile.ec.table_ultimate.name=
 item.ec.material_ultimate_nugget.name=
 item.ec.material_ender_star_nugget.name=
 # line 18-23 of the jar file
-tile.ec.trimmed_iron.name=
+tile.ec.trimmed_iron.name=ブラックスチールブロック
 
 # line 62
 item.ec.material_ultimater_component.name=
