@@ -542,5 +542,6 @@ tooltip.nomilabs.naquadah_reactor.produces=§fProduces exactly %s amps of %s.§r
 tooltip.nomilabs.naquadah_reactor.overclock=Does not overclock!
 tooltip.nomilabs.actualization_chamber.description=§8A powerful machine that harnesses the most complex of matters and turns it into raw materials.§r
 tooltip.nomilabs.universal_crystallizer.description=§8An immense device, capable of turning raw materials into complex matters.§r
+tooltip.nomilabs.universal_crystallizer.description_laser=Can use §bLaser Hatches§r
 tooltip.nomilabs.dme_sim_chamber.description=§8A high powered simulation device, capable of performing more complex simulations faster than ever.§r
 tooltip.nomilabs.greenhouse.description=§8A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.§r
