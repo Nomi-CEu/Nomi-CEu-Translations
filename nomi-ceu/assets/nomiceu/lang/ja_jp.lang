@@ -1,5 +1,5 @@
-tooltip.hand_framing.top_left=
-tooltip.hand_framing.top_right=
-tooltip.hand_framing.bottom_left=
-tooltip.hand_framing.tool=
-tooltip.hand_framing.drawer=
+tooltip.hand_framing.top_left=§5左上：§oサイド§r
+tooltip.hand_framing.top_right=§5右上： §oトリム§r
+tooltip.hand_framing.bottom_left=§5右下：§o正面§r
+tooltip.hand_framing.tool=§5手で道具をフレーミングする！§r
+tooltip.hand_framing.drawer=§5 手作業で引き出しのフレームを作る！§r
