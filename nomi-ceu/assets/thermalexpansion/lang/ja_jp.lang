@@ -5,9 +5,9 @@ item.thermalexpansion.frame.frameCell3.name=シグナルム製マイクロマイ
 item.thermalexpansion.frame.frameCell3Filled.name=シグナルム製マイクロマイナーエンジンコア
 item.thermalexpansion.frame.frameCell4.name=エンダリウム製マイクロマイナーエンジンフレーム
 item.thermalexpansion.frame.frameCell4Filled.name=エンダリウム製マイクロマイナーエンジンコア
-item.thermalexpansion.frame.frameDevice.name=
+item.thermalexpansion.frame.frameDevice.name=耐熱製デバイス筐体
 # between line 400 to 411 in jar file
 item.thermalexpansion.frame.frameCell2.name=マイクロマイナーエンジンフレーム
 
 # line 409, 411 of jar file
-item.thermalexpansion.frame.frameMachine.name=
+item.thermalexpansion.frame.frameMachine.name=耐熱製マシン筐体
