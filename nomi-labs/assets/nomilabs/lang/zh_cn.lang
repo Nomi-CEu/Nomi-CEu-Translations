@@ -490,8 +490,8 @@ config.nomilabs.advanced.tooltip=高级设置
 config.nomilabs.advanced.fluid_registry.tooltip=流体注册设置
 
 # GUI
-gui.nomilabs.recipes.tooltip.ct_recipe=配方来自 CraftTweaker。
-gui.nomilabs.recipes.tooltip.gs_recipe=配方来自 GroovyScript。
+gui.nomilabs.recipes.tooltip.ct_recipe=来自 CraftTweaker 的配方。
+gui.nomilabs.recipes.tooltip.gs_recipe=来自 GroovyScript 的配方。
 nomilabs.fixer.intro.addition=§7必须通过 Data Fixers 完成的改动已经被打印了到你的日志中。§r
 nomilabs.fixer.do_not_revert.intro_addition=§e警告：§r
 config.nomilabs.mod_integration.architecture_craft=启用 ArchitectureCraft 联动
