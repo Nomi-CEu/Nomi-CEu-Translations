@@ -1,6 +1,6 @@
-# Greenhouse
-nomilabs.machine.greenhouse.name=Greenhouse
-recipemap.greenhouse.name=Growing
+# Growth Chamber
+nomilabs.machine.growth_chamber.name=Growth Chamber
+recipemap.growth_chamber.name=Growing
 
 tile.unique_casing.growth_light.name=Growth Light
 tile.unique_casing.air_vent.name=Air Vent
@@ -557,4 +557,4 @@ tooltip.nomilabs.actualization_chamber.description=§8A powerful machine that ha
 tooltip.nomilabs.universal_crystallizer.description=§8An immense device, capable of turning raw materials into complex matters.§r
 tooltip.nomilabs.universal_crystallizer.description_laser=Can use §bLaser Hatches§r
 tooltip.nomilabs.dme_sim_chamber.description=§8A high powered simulation device, capable of performing more complex simulations faster than ever.§r
-tooltip.nomilabs.greenhouse.description=§8A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.§r
+tooltip.nomilabs.growth_chamber.description=§8A high powered UV ray chamber, capable of mass-growing even the most incomprehensible plants.§r
