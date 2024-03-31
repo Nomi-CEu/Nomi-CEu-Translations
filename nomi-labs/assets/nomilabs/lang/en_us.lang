@@ -74,6 +74,17 @@ config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 
+config.nomilabs.advanced.tiers=Quest Tier Detector Settings
+config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
+config.nomilabs.advanced.tiers.normal_slugs=Normal Mode Non-Formatted Names
+config.nomilabs.advanced.tiers.normal_formatted=Normal Mode Formatted Names
+config.nomilabs.advanced.tiers.expert_qb_ids=Expert Mode Quest IDs
+config.nomilabs.advanced.tiers.expert_slugs=Expert Mode Non-Formatted Names
+config.nomilabs.advanced.tiers.expert_formatted=Expert Mode Formatted Names
+config.nomilabs.advanced.tiers.default_slug=Default Non-Formatted Name
+config.nomilabs.advanced.tiers.default_formatted=Default Formatted Name
+config.nomilabs.advanced.tiers.default=Default Mode
+
 config.nomilabs.advanced.fluid_registry=Fluid Registry Settings
 config.nomilabs.advanced.fluid_registry.tooltip=Fluid Registry Settings
 config.nomilabs.advanced.fluid_registry.default_fluids=Default Fluids
@@ -548,7 +559,7 @@ tooltip.nomilabs.capacitors.level=§5Level: %s§r
 tooltip.nomilabs.microverse_projector_1.description=§8A machine capable of stabilizing projection into microverses for basic micro miner missions.§r
 tooltip.nomilabs.microverse_projector_2.description=§8An advanced machine capable of stabilizing projection into microverses for complex missions into the deepest parts of space.§r
 tooltip.nomilabs.microverse_projector_3.description=§8An elite machine capable of stabilizing projection into microverses for exotic missions, including collapsing the microverse whole.§r
-tooltip.nomilabs.creative_tank_provider.description=§8A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.§r
+tooltip.nomilabs.creative_tank_provider.description=§8A complex machine capable of turning buckets and molds into infinite reservoirs beyond human comprehension.§r
 tooltip.nomilabs.naquadah_reactor_1.description=§8An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.§r
 tooltip.nomilabs.naquadah_reactor_2.description=§8An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.§r
 tooltip.nomilabs.naquadah_reactor.produces=§fProduces exactly %s amps of %s.§r
