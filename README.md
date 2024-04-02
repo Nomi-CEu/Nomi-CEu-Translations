@@ -28,12 +28,12 @@ This contains Lang Files from the `gregtech-drawers` module.
 ## Supported Lanuages:
 
 ### Language Support Table
-|Type|Chinese|Russian|Japanese|French|
-|---|---|---|---|---|
-|Nomi-CEu|✅|❓|❓|❓|
-|Gregtech Drawers|✅|✅|✅|✅|
-|Nomi Labs|✅|✅|❌|❌|
-|Overall|✅|❓|❌|❌|
+|Type|Chinese|Russian|Japanese|French|Spanish|
+|---|---|---|---|---|---|
+|Nomi-CEu|✅|❓|❓|❓|❌|
+|Gregtech Drawers|✅|✅|✅|✅|❌|
+|Nomi Labs|✅|✅|❌|❌|❌|
+|Overall|✅|❓|❌|❌|❌|
 
 #### Key:
 - ✅: Well Supported, Complete

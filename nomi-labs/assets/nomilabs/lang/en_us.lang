@@ -1,6 +1,6 @@
-# Greenhouse
-nomilabs.machine.greenhouse.name=Greenhouse
-recipemap.greenhouse.name=Growing
+# Growth Chamber
+nomilabs.machine.growth_chamber.name=Growth Chamber
+recipemap.growth_chamber.name=Growing
 
 tile.unique_casing.growth_light.name=Growth Light
 tile.unique_casing.air_vent.name=Air Vent
@@ -39,6 +39,19 @@ config.nomilabs.mod_integration.architecture_craft=Enable ArchitectureCraft Inte
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 
+config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
+config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
+config.nomilabs.mod_integration.effortlessbuilding.axis.0=Max Reach Per Axis (No Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.axis.1=Max Reach Per Axis (1 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.axis.2=Max Reach Per Axis (2 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.axis.3=Max Reach Per Axis (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.axis.creative=Max Reach Per Axis (Creative)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.0=Max Blocks Placed (No Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.1=Max Blocks Placed (1 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Max Blocks Placed (Creative)
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
@@ -61,10 +74,25 @@ config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 
+config.nomilabs.advanced.tiers=Quest Tier Detector Settings
+config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
+config.nomilabs.advanced.tiers.normal_slugs=Normal Mode Non-Formatted Names
+config.nomilabs.advanced.tiers.normal_formatted=Normal Mode Formatted Names
+config.nomilabs.advanced.tiers.expert_qb_ids=Expert Mode Quest IDs
+config.nomilabs.advanced.tiers.expert_slugs=Expert Mode Non-Formatted Names
+config.nomilabs.advanced.tiers.expert_formatted=Expert Mode Formatted Names
+config.nomilabs.advanced.tiers.default_slug=Default Non-Formatted Name
+config.nomilabs.advanced.tiers.default_formatted=Default Formatted Name
+config.nomilabs.advanced.tiers.default=Default Mode
+
 config.nomilabs.advanced.fluid_registry=Fluid Registry Settings
 config.nomilabs.advanced.fluid_registry.tooltip=Fluid Registry Settings
 config.nomilabs.advanced.fluid_registry.default_fluids=Default Fluids
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Log Conflicting Fluids
+
+config.nomilabs.advanced.controls_tooltips=Controls Menu Tooltips Settings
+config.nomilabs.advanced.controls_tooltips.show_id=Show ID Tooltip
+config.nomilabs.advanced.controls_tooltips.show_class=Show Class Tooltip
 
 # GUI
 gui.nomilabs.recipes.tooltip.ct_recipe=CraftTweaker Recipe.
@@ -535,12 +563,13 @@ tooltip.nomilabs.capacitors.level=§5Level: %s§r
 tooltip.nomilabs.microverse_projector_1.description=§8A machine capable of stabilizing projection into microverses for basic micro miner missions.§r
 tooltip.nomilabs.microverse_projector_2.description=§8An advanced machine capable of stabilizing projection into microverses for complex missions into the deepest parts of space.§r
 tooltip.nomilabs.microverse_projector_3.description=§8An elite machine capable of stabilizing projection into microverses for exotic missions, including collapsing the microverse whole.§r
-tooltip.nomilabs.creative_tank_provider.description=§8A complex machine capable of turning buckets and molds into infinite resovoirs beyond human comprehension.§r
+tooltip.nomilabs.creative_tank_provider.description=§8A complex machine capable of turning buckets and molds into infinite reservoirs beyond human comprehension.§r
 tooltip.nomilabs.naquadah_reactor_1.description=§8An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.§r
 tooltip.nomilabs.naquadah_reactor_2.description=§8An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.§r
 tooltip.nomilabs.naquadah_reactor.produces=§fProduces exactly %s amps of %s.§r
 tooltip.nomilabs.naquadah_reactor.overclock=Does not overclock!
 tooltip.nomilabs.actualization_chamber.description=§8A powerful machine that harnesses the most complex of matters and turns it into raw materials.§r
 tooltip.nomilabs.universal_crystallizer.description=§8An immense device, capable of turning raw materials into complex matters.§r
+tooltip.nomilabs.universal_crystallizer.description_laser=Can use §bLaser Hatches§r
 tooltip.nomilabs.dme_sim_chamber.description=§8A high powered simulation device, capable of performing more complex simulations faster than ever.§r
-tooltip.nomilabs.greenhouse.description=§8A high powered growing chamber, capable of mass-growing even the most incomprehensible plants.§r
+tooltip.nomilabs.growth_chamber.description=§8A high powered UV ray chamber, capable of mass-growing even the most incomprehensible plants.§r

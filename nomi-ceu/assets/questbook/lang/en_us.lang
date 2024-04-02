@@ -974,7 +974,7 @@ nomifactory.quest.normal.db.242.desc=The most advanced substrate available, prep
 
 # db 243 of mode normal
 nomifactory.quest.normal.db.243.title=Tritanium Coils
-nomifactory.quest.normal.db.243.desc=
+nomifactory.quest.normal.db.243.desc=The final tier of EBF Coils.
 
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=Draconic Reactor Core
@@ -1779,10 +1779,6 @@ nomifactory.quest.normal.db.545.desc=Carry §oeven more§r stuff.
 # db 546 of mode normal
 nomifactory.quest.normal.db.546.title=§2Distillery
 nomifactory.quest.normal.db.546.desc=§oNote: this quest accepts both LV and MV Distillery. §2%n%nIf you are distilling Ethanol, you now need an MV Distillery.%n%n§rThe §3Distillery§r is a single-block machine which only outputs one distillate out of several and §cdiscards§r the rest. You can use this now to get §9Ethanol§r from §9Biomass§r, or to selectively distill §9Oil§r in multiple steps to §9Ethylene§r. Its advantage over the full Tower, apart from cost, is its §denergy efficiency§r. Therefore, it is recommended for fluids with only one useful output, like §9Biomass§r, §9Diluted Sulfuric Acid§r, and §9Diluted Hydrochloric Acid§r.%n%nHowever, the Distillation Tower is recommended for advanced chemistry, as most things have more than one important output: §9Fermented Biomass§r, §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r, and the entire line of petrochemicals from §9Oil§r, to name a few.%n%nYou're going to need it soon!%n%n
-
-# db 547 of mode normal
-nomifactory.quest.normal.db.547.title=Scanner Module: Block
-nomifactory.quest.normal.db.547.desc=
 
 # db 548 of mode normal
 nomifactory.quest.normal.db.548.title=Molds
@@ -4492,7 +4488,7 @@ nomifactory.quest.expert.db.242.desc=The most advanced substrate available, prep
 
 # db 243 of mode expert
 nomifactory.quest.expert.db.243.title=Tritanium Coil Block
-nomifactory.quest.expert.db.243.desc=
+nomifactory.quest.expert.db.243.desc=The final tier of EBF Coils.
 
 # db 244 of mode expert
 nomifactory.quest.expert.db.244.title=Draconic Reactor Core
@@ -5297,10 +5293,6 @@ nomifactory.quest.expert.db.545.desc=Carry §oeven more§r stuff.
 # db 546 of mode expert
 nomifactory.quest.expert.db.546.title=§2Distillery
 nomifactory.quest.expert.db.546.desc=Note: this quest accepts both LV and MV Distillery. §2If you are distilling Ethanol, you now need an MV Distillery.%n%n§rThe §3Distillery§r is a single-block machine which only outputs one distillate out of several and §cdiscards§r the rest. You can use this now to get §9Ethanol§r from §9Biomass§r, or to selectively distill §9Oil§r in multiple steps to §9Ethylene§r. Its advantage over the full Tower, apart from cost, is its §denergy efficiency§r.§r %n%nHowever, the Distillation Tower is mandatory for advanced chemistry, as most things have more than one important output: §9Fermented Biomass§r, §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r, and the entire line of petrochemicals from §9Oil§r, to name a few.%n%nCan't avoid it forever!%n%n
-
-# db 547 of mode expert
-nomifactory.quest.expert.db.547.title=Scanner Module: Block
-nomifactory.quest.expert.db.547.desc=
 
 # db 548 of mode expert
 nomifactory.quest.expert.db.548.title=Molds

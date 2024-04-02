@@ -1,0 +1,14 @@
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7Consume to Increase:§r
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3Placement Reach§7 to §e%s§7!§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3Distance Reach§7 to §e%s§7!§r
+
+effortlessbuilding.use.reach_upgrade.creative.1=Reach Upgrades are Unnecessary in Creative!
+effortlessbuilding.use.reach_upgrade.creative.2=Still want Increased Reach? Use the Config!
+
+effortlessbuilding.use.reach_upgrade.success.1=§aUpgraded:§r
+effortlessbuilding.use.reach_upgrade.success.2=§3Placement Reach§7 from §c%s §7to §e%s§r!
+effortlessbuilding.use.reach_upgrade.success.3=§3Distance Reach§7 from §c%s §7to §e%s§r!
+
+effortlessbuilding.use.reach_upgrade.already_used=Already used this Upgrade!
+
+effortlessbuilding.use.reach_upgrade.previous=You must use Reach Upgrade %s First!
