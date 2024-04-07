@@ -1002,7 +1002,7 @@ nomifactory.quest.normal.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode normal
 nomifactory.quest.normal.db.252.title=§2五阶微型采掘机
-nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6三元金属§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode normal
 nomifactory.quest.normal.db.253.title=铱
@@ -1642,7 +1642,7 @@ nomifactory.quest.normal.db.508.desc=钌铱合金锭需要做齿轮用于§a装�
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2无损导线
-nomifactory.quest.normal.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩三元铕铿铀合金%nUHV——钌三元镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
+nomifactory.quest.normal.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩凯金铕铿铀合金%nUHV——钌凯金镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
 
 # db 510 of mode normal
 nomifactory.quest.normal.db.510.title=深渊露水
@@ -1670,7 +1670,7 @@ nomifactory.quest.normal.db.517.desc=§6机械臂§r是几个强大的机器的�
 
 # db 519 of mode normal
 nomifactory.quest.normal.db.519.title=一类硅岩反应堆
-nomifactory.quest.normal.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
+nomifactory.quest.normal.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从§6富集硅岩§r或§6超能硅岩§r到§6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
 
 # db 520 of mode normal
 nomifactory.quest.normal.db.520.title=第二个四阶电路
@@ -3494,7 +3494,7 @@ nomifactory.quest.normal.db.1036.desc=§2光缆§r用于在§3数据库§r和§3
 
 # db 1037 of mode normal
 nomifactory.quest.normal.db.1037.title=§2网络交换机
-nomifactory.quest.normal.db.1037.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每3个计算舱消耗§d7,680 EU/t§r。
+nomifactory.quest.normal.db.1037.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每个§3计算舱§r消耗§d7,680 EU/t§r。
 
 # db 1038 of mode normal
 nomifactory.quest.normal.db.1038.title=§2高级HPCA
@@ -4520,7 +4520,7 @@ nomifactory.quest.expert.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode expert
 nomifactory.quest.expert.db.252.title=§2五阶微型采掘机
-nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6三元金属§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode expert
 nomifactory.quest.expert.db.253.title=铱
@@ -5160,7 +5160,7 @@ nomifactory.quest.expert.db.508.desc=
 
 # db 509 of mode expert
 nomifactory.quest.expert.db.509.title=§2无损导线
-nomifactory.quest.expert.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩三元铕铿铀合金%nUHV——钌三元镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
+nomifactory.quest.expert.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩凯金铕铿铀合金%nUHV——钌凯金镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
 
 # db 510 of mode expert
 nomifactory.quest.expert.db.510.title=深渊露水
@@ -5188,7 +5188,7 @@ nomifactory.quest.expert.db.517.desc=§6机械臂§r是几个强大的机器的�
 
 # db 519 of mode expert
 nomifactory.quest.expert.db.519.title=一类硅岩反应堆
-nomifactory.quest.expert.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
+nomifactory.quest.expert.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从§6富集硅岩§r或§6超能硅岩§r到§6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
 
 # db 520 of mode expert
 nomifactory.quest.expert.db.520.title=第二个四阶电路
@@ -6656,7 +6656,7 @@ nomifactory.quest.expert.db.947.desc=§2光缆§r用于在§3数据库§r和§3�
 
 # db 948 of mode expert
 nomifactory.quest.expert.db.948.title=§2网络交换机
-nomifactory.quest.expert.db.948.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每3个计算舱消耗§d7,680 EU/t§r。
+nomifactory.quest.expert.db.948.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每个§3计算舱§r消耗§d7,680 EU/t§r。
 
 # db 949 of mode expert
 nomifactory.quest.expert.db.949.title=§2高级HPCA
