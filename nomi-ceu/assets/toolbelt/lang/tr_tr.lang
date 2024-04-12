@@ -1,1 +1,7 @@
 
+
+key.toolbelt.open=Arayüzü Aç
+key.toolbelt.cycle.right=Aleti Sağa Devir
+key.toolbelt.slot=Kemer Yerini Aç
+key.toolbelt.cycle.left=Aleti Sola Devir
+text.toolbelt.tooltip=Yükseltmeler: %s (%s Tane Yer)
