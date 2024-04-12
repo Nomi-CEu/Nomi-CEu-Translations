@@ -1,1 +1,7 @@
 
+
+storagedrawers.material.gregtech.rubber_wood=Kauçuk Odunu
+storagedrawers.material.gregtech.treated_wood=İşlenmiş Odun
+storagedrawers.trim=%1$s %2$s
+tile.storagedrawers.trim.name=Bağlayıcı
+itemGroup.gregtechdrawers=GregTech Çekmeceleri
