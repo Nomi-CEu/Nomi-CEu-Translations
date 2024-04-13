@@ -1,1 +1,13 @@
 
+
+# between line 400 to 411 in jar file
+item.thermalexpansion.frame.frameCell2.name=Mikro Madenci Motor İskeleti
+item.thermalexpansion.frame.frameCell2Filled.name=Mikro Madenci Motor Çekirdeği
+item.thermalexpansion.frame.frameCell3.name=Sinyalyum Mikro Madenci Motor Çerçevesi
+item.thermalexpansion.frame.frameCell4Filled.name=Enderyum Mikro Madenci Motor Çekirdeği
+item.thermalexpansion.frame.frameDevice.name=Termal Cihaz Kasası
+item.thermalexpansion.frame.frameCell3Filled.name=Sinyalyum Mikro Madenci Motor Çekirdeği
+
+# line 409, 411 of jar file
+item.thermalexpansion.frame.frameMachine.name=Termal Makine Kasası
+item.thermalexpansion.frame.frameCell4.name=Enderyum Mikro Madenci Motor Çerçevesi
