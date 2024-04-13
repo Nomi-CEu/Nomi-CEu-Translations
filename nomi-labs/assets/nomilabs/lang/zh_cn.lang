@@ -502,7 +502,7 @@ nomilabs.fixer.do_not_revert.2=您§n只能§r从备份中载入前一版本！
 nomilabs.material.laurite=硫钌矿
 nomilabs.material.cuprorhodsite=硫铑铜矿
 # Growth Chamber
-nomilabs.machine.growth_chamber.name=生长仓
+nomilabs.machine.growth_chamber.name=催生仓
 recipemap.growth_chamber.name=生长
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building 联动设置
 config.nomilabs.mod_integration.effortlessbuilding.enable=启用 Effortless Building 联动
