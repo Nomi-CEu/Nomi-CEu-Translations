@@ -970,7 +970,7 @@ nomifactory.quest.normal.db.242.desc=最先进的基板，为前沿生物工程�
 
 # db 243 of mode normal
 nomifactory.quest.normal.db.243.title=三钛合金线圈
-nomifactory.quest.normal.db.243.desc=§5三钛合金线圈方块§r§3是最后一级线圈。它的温度高达 10800K，能够熔炼所有已知的材料。
+nomifactory.quest.normal.db.243.desc=最后一级电力高炉线圈。
 
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=反应堆核心
@@ -4488,7 +4488,7 @@ nomifactory.quest.expert.db.242.desc=最先进的基板，为前沿生物工程�
 
 # db 243 of mode expert
 nomifactory.quest.expert.db.243.title=三钛合金线圈
-nomifactory.quest.expert.db.243.desc=
+nomifactory.quest.expert.db.243.desc=最后一级电力高炉线圈。
 
 # db 244 of mode expert
 nomifactory.quest.expert.db.244.title=反应堆核心
