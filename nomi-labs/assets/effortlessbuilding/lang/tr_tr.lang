@@ -1,1 +1,12 @@
 
+
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7Artırmak İçin Kullan:§r
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3Yerleştirme Uzaklığı§7 artık §e%s§7!§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3Yerleştirme Uzaklığı§7 artık §e%s§7!§r
+effortlessbuilding.use.reach_upgrade.creative.1=Uzaklık Yükseltmeleri Yaratıcılık Modunda Gerekli Değil!
+effortlessbuilding.use.reach_upgrade.creative.2=Daha mı fazla Uzaklık istiyorsun? Ayar dosyalarına göz at!
+effortlessbuilding.use.reach_upgrade.success.1=§aYükseltildi:§r
+effortlessbuilding.use.reach_upgrade.success.2=§3Yerleştirme Uzaklığı§7 §c%s yerine §7artık §e%s§r!
+effortlessbuilding.use.reach_upgrade.success.3=§3Yerleştirme Uzaklığı§7 §c%s yerine §7artık §e%s§r!
+effortlessbuilding.use.reach_upgrade.already_used=Bu yükseltme zaten kullanıldı!
+effortlessbuilding.use.reach_upgrade.previous=Bundan önce Uzaklık Yükseltmesi %s kullanmalısın!
