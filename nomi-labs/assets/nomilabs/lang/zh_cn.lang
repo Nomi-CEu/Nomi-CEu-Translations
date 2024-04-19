@@ -530,4 +530,4 @@ config.nomilabs.advanced.tiers.normal_slugs=普通模式未格式化名
 config.nomilabs.advanced.controls_tooltips=控制菜单提示设置
 config.nomilabs.advanced.controls_tooltips.show_id=显示 ID 提示
 config.nomilabs.advanced.controls_tooltips.show_class=显示类别提示
-tooltip.nomilabs.growth_chamber.description=§8高功率的 UV 光线仓，即使是最难以理解的植物也能大量生长。§r
+tooltip.nomilabs.growth_chamber.description=§8高功率的紫外线催生仓，即使是最难以理解的植物也能大量生长。§r
