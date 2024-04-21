@@ -36,6 +36,7 @@ config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
 config.nomilabs.mod_integration.top=Enable The One Probe Integration
 config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
 config.nomilabs.mod_integration.architecture_craft=Enable ArchitectureCraft Integration
+config.nomilabs.mod_integration.default_world_gen=Enable Default World Generator Port Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 
