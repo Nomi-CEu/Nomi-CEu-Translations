@@ -39,18 +39,19 @@ config.nomilabs.mod_integration.architecture_craft=Enable ArchitectureCraft Inte
 config.nomilabs.mod_integration.default_world_gen=Enable Default World Generator Port Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
+config.nomilabs.mod_integration.ftb_utils=Enable FTB Utilities Integration
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
 config.nomilabs.mod_integration.effortlessbuilding.axis.0=Max Reach Per Axis (No Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.axis.1=Max Reach Per Axis (1 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.axis.2=Max Reach Per Axis (2 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.axis.3=Max Reach Per Axis (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.axis.2=Max Reach Per Axis (2 Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.axis.3=Max Reach Per Axis (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.axis.creative=Max Reach Per Axis (Creative)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.0=Max Blocks Placed (No Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.1=Max Blocks Placed (1 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2 Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Max Blocks Placed (Creative)
 
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
