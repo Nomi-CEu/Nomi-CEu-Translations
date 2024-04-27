@@ -36,20 +36,23 @@ config.nomilabs.mod_integration.xu2=Enable Extra Utilities 2 Integration
 config.nomilabs.mod_integration.top=Enable The One Probe Integration
 config.nomilabs.mod_integration.advanced_rocketry=Enable Advanced Rocketry Integration
 config.nomilabs.mod_integration.architecture_craft=Enable ArchitectureCraft Integration
+config.nomilabs.mod_integration.default_world_gen=Enable Default World Generator Port Integration
 config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
+config.nomilabs.mod_integration.ftb_utils=Enable FTB Utilities Integration
+config.nomilabs.mod_integration.top_addons=Enable TOP Addons Integration
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
 config.nomilabs.mod_integration.effortlessbuilding.axis.0=Max Reach Per Axis (No Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.axis.1=Max Reach Per Axis (1 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.axis.2=Max Reach Per Axis (2 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.axis.3=Max Reach Per Axis (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.axis.2=Max Reach Per Axis (2 Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.axis.3=Max Reach Per Axis (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.axis.creative=Max Reach Per Axis (Creative)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.0=Max Blocks Placed (No Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.1=Max Blocks Placed (1 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2 Upgrade)
-config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrade)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2 Upgrades)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Max Blocks Placed (Creative)
 
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
@@ -73,6 +76,7 @@ config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
 config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+config.nomilabs.advanced.language_modify_option=Language Tab Modifier Mode
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
@@ -97,6 +101,14 @@ config.nomilabs.advanced.controls_tooltips.show_class=Show Class Tooltip
 # GUI
 gui.nomilabs.recipes.tooltip.ct_recipe=CraftTweaker Recipe.
 gui.nomilabs.recipes.tooltip.gs_recipe=GroovyScript Recipe.
+
+gui.nomilabs.language_pack_nomi=§bTranslation Pack for §dNomi-CEu§b Available! See Below!§r
+gui.nomilabs.language_pack_labs=§bTranslation Pack for §dNomi-Labs§b Available! See Below!§r
+nomilabs.gui.language.download=Download Translation Pack
+nomilabs.gui.language.gh=Available Languages
+nomilabs.gui.language.download.note.labs=§7Download the 'nomi-labs' Zip!§r
+nomilabs.gui.language.download.note.nomi=§7Download the 'nomi-ceu' Zip!§r
+nomilabs.gui.language.exit=Apply and Exit
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
