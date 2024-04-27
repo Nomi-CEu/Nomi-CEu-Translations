@@ -76,6 +76,7 @@ config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
 config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
+config.nomilabs.advanced.language_modify_option=Language Tab Modifier Mode
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
@@ -100,6 +101,14 @@ config.nomilabs.advanced.controls_tooltips.show_class=Show Class Tooltip
 # GUI
 gui.nomilabs.recipes.tooltip.ct_recipe=CraftTweaker Recipe.
 gui.nomilabs.recipes.tooltip.gs_recipe=GroovyScript Recipe.
+
+gui.nomilabs.language_pack_nomi=§bTranslation Pack for §dNomi-CEu§b Available! See Below!§r
+gui.nomilabs.language_pack_labs=§bTranslation Pack for §dNomi-Labs§b Available! See Below!§r
+nomilabs.gui.language.download=Download Translation Pack
+nomilabs.gui.language.gh=Available Languages
+nomilabs.gui.language.download.note.labs=§7Download the 'nomi-labs' Zip!§r
+nomilabs.gui.language.download.note.nomi=§7Download the 'nomi-ceu' Zip!§r
+nomilabs.gui.language.exit=Apply and Exit
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
