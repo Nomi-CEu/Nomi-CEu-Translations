@@ -36,7 +36,7 @@ This contains Lang Files from the `gregtech-drawers` module.
 |Overall|✅|❓|❌|❌|❓|❌|
 
 #### Key:
-- ✅: Well Supported, Complete
+- ✅: Well Supported, Mostly/Fully Complete
 - ❓: Partially Supported, Somewhat Complete
 - ❌: Not Suported, Not Complete, No Work Done Yet
 
