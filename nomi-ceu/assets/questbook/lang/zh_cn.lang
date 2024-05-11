@@ -970,7 +970,7 @@ nomifactory.quest.normal.db.242.desc=最先进的基板，为前沿生物工程�
 
 # db 243 of mode normal
 nomifactory.quest.normal.db.243.title=三钛合金线圈
-nomifactory.quest.normal.db.243.desc=§5三钛合金线圈方块§r§3是最后一级线圈。它的温度高达 10800K，能够熔炼所有已知的材料。
+nomifactory.quest.normal.db.243.desc=最后一级电力高炉线圈。
 
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=反应堆核心
@@ -1002,7 +1002,7 @@ nomifactory.quest.normal.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode normal
 nomifactory.quest.normal.db.252.title=§2五阶微型采掘机
-nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6三元金属§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode normal
 nomifactory.quest.normal.db.253.title=铱
@@ -1642,7 +1642,7 @@ nomifactory.quest.normal.db.508.desc=钌铱合金锭需要做齿轮用于§a装�
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2无损导线
-nomifactory.quest.normal.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩三元铕铿铀合金%nUHV——钌三元镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
+nomifactory.quest.normal.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩凯金铕铿铀合金%nUHV——钌凯金镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
 
 # db 510 of mode normal
 nomifactory.quest.normal.db.510.title=深渊露水
@@ -1670,7 +1670,7 @@ nomifactory.quest.normal.db.517.desc=§6机械臂§r是几个强大的机器的�
 
 # db 519 of mode normal
 nomifactory.quest.normal.db.519.title=一类硅岩反应堆
-nomifactory.quest.normal.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
+nomifactory.quest.normal.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从§6富集硅岩§r或§6超能硅岩§r到§6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
 
 # db 520 of mode normal
 nomifactory.quest.normal.db.520.title=第二个四阶电路
@@ -1734,7 +1734,7 @@ nomifactory.quest.normal.db.534.desc=使用§6末影§r，你可以组装一台�
 
 # db 535 of mode normal
 nomifactory.quest.normal.db.535.title=§2第一种八阶电路
-nomifactory.quest.normal.db.535.desc=§6晶体电脑主机§r是第一种八阶电路。%n%n除了你已经知道如何制作的东西外，这需要§6高速钢-E框架§r。%n%n这些是制作§3ZPM电路组装机§r所需要的。像往常一样，这些都是非常昂贵的：投入于下一个组的电路，而不是试图大规模生产这些。%n
+nomifactory.quest.normal.db.535.desc=§6晶体电脑主机§r是第一种八阶电路。%n%n除了你已经知道如何制作的东西外，还需要§6高速钢-E框架§r。%n%n这些是制作§3ZPM电路组装机§r所需要的。像往常一样，这些都是非常昂贵的：投资到下一组的电路中，而不是试图大规模生产这些。%n
 
 # db 536 of mode normal
 nomifactory.quest.normal.db.536.title=§2ZPM机身
@@ -3458,7 +3458,7 @@ nomifactory.quest.normal.db.1027.desc=你知道你现在有能力自动构建§3
 
 # db 1028 of mode normal
 nomifactory.quest.normal.db.1028.title=§2组装线数据
-nomifactory.quest.normal.db.1028.desc=§2研究机制已回归格雷科技1.12！§3装配线§r需要提供关于如何制作物品的§e数据§r，然后才能制作它们。关于如何制作每个项目的数据存储在§6闪存§r中，并由§a数据访问仓§r读取。这些数据在制作§6LuV组件§r，§3核反应堆§r，以及§3龙之研究§r的一些部件时需求。%n%n首先，制作一个§3扫描仪§r和一些§6闪存§r。最初的扫描仪配方运行在§6HV§r，但§1IV§r时相对较快，所以不妨做一个。%n%n在您想要制作的物品上按§bR§r，并导航到§b扫描仪选项卡§r。这将告诉您需要扫描哪个物品以生成新项目的数据。例如，§dLuV§6电动马达§r需要扫描§1IV§r§6电动马达§r。%n%n将§6闪存§r与要扫描的物品放在§3扫描仪§r中。该物品将被§c消耗§r，其数据将写入§6闪存§r。每个§6数据物品§r只能保存一个§c配方§r。%n%n最后，将§6闪存§r放入§3装配线§r的§a数据访问仓§r中。它现在可以制作那个物品了。稍后，您将需要更高级的§6数据球§r和§6数据模块§r来存储数据，以及§3数据库§r来读取数据。%n%n如果需要创建重复的数据项，可以使用扫描仪将数据复制到相同类型的空白数据项。
+nomifactory.quest.normal.db.1028.desc=§2研究机制已回归格雷科技1.12！§3装配线§r需要提供制作物品所需的§e数据§r，然后才能制作它们。制作物品所需的数据存储在§6闪存§r中，并由§a数据访问仓§r读取。这些数据应用于§6LuV组件§r，§3核反应堆§r，以及§3龙之研究§r的一些部件。%n%n首先，制作一个§3扫描仪§r和一些§6闪存§r。最初的扫描仪配方运行在§6HV§r，但在§1IV§r时相对较快，所以不妨做一个。%n%n在您想要制作的物品上按§bR§r，并选择§b扫描仪选项§r。这将告诉您需要扫描哪个物品以获得新物品的数据。例如，§dLuV§6电动马达§r需要扫描§1IV§r§6电动马达§r。%n%n将§6闪存§r与要扫描的物品放在§3扫描仪§r中。该物品将被§c消耗§r，其数据将写入§6闪存§r。每个§6数据容器§r只能保存一个§c配方§r。%n%n最后，将§6闪存§r放入§3装配线§r的§a数据访问仓§r中。它现在可以制作那个物品了。稍后，您将需要更高级的§6数据球§r和§6数据模块§r来存储数据，以及§3数据库§r来读取数据。%n%n如果需要创建重复的数据容器，可以使用扫描仪将数据复制到相同类型的空白数据容器。
 
 # db 1029 of mode normal
 nomifactory.quest.normal.db.1029.title=§2蓄能变电站
@@ -3482,19 +3482,19 @@ nomifactory.quest.normal.db.1033.desc=§3数据库§r充当§6闪存§r和§6数
 
 # db 1034 of mode normal
 nomifactory.quest.normal.db.1034.title=§2研究站
-nomifactory.quest.normal.db.1034.desc=§3研究站§r是一种先进的扫描仪，它消耗由连接的§3高性能计算阵列§r提供的§d算力（CWU）§r来研究§cZPM§r和更高的项目。%n%n这个多方块的功能类似于扫描器。将§6数据球§r或§6数据模块§r放入§3物品支架§r中，与待扫描的项目一起。在获得了足够的§dCWU§r之后，项目将被§c消耗§r，并将相应的数据写入物品。确保您的§3高性能计算阵列§r提供足够的§dCWU/t§r -检查§eJEI§r中的扫描配方，了解所需的量。%n%n§3能源§r、§3维护§r和§3算力仓§r只能替换位于结构后部的九个在§a计算机散热口§r之间的9个§a计算机外壳§r。§3物品支架§r§c必须面对§3研究站§r控制器块。%n%n当超过需求的§dCWU/t§r时，研究站可以加速，但当超过需求的§dEU/t§r时，研究站不能超频。最初的配方运行在§dLuV§r电源上，但§cZPM§r电源将很快需要，更高层次的能量将需要更高级的扫描。由于大多数研究扫描需要很长时间，你应该尽早开始这个过程。
+nomifactory.quest.normal.db.1034.desc=§3研究站§r是一种先进的扫描仪，它消耗由连接的§3高性能计算阵列§r提供的§d算力（CWU）§r来研究§cZPM§r和更高的项目。%n%n这个多方块的功能类似于扫描器。将§6数据球§r或§6数据模块§r与待扫描的物品一起放入§3物品支架§r中。在获得了足够的§dCWU§r之后，物品将被§c消耗§r，并将相应的数据写入数据容器。确保您的§3高性能计算阵列§r提供足够的§dCWU/t§r——检查§eJEI§r中的扫描配方，了解所需的算力。%n%n§3能源仓§r、§3维护仓§r和§3算力仓§r只能替换位于结构后部的九个在§a计算机散热口§r之间的9个§a计算机外壳§r。§3物品支架§r§c必须面对§3研究站§r控制器块。%n%n当超过需求的§dCWU/t§r时，研究站可以加速，但当超过需求的§dEU/t§r时，研究站不能超频。最初的配方运行在§dLuV§r电压上，但§cZPM§r电压将很快用到，因此更高级的扫描配方将需要更高级的电压。由于大多数研究扫描需要很长时间，你应该尽早开始这个过程。
 
 # db 1035 of mode normal
 nomifactory.quest.normal.db.1035.title=§2高性能计算阵列
-nomifactory.quest.normal.db.1035.desc=§3高性能计算阵列（high Performance Computing Array, HPCA）§r是一种为§3研究站§r提供§d算力（CWU）§r的计算机。它提供的§d算力（CWU）§r的数量取决于其中的HPCA部件的类型。它还需要在其结构内的散热器提供足够的§d散热§r。%n%n将§3算力数据源仓§r连接到§3研究站§r的§3算力数据靶仓§r，以将产生的§dCWU/t§r传输到它。%n%nHPCA几乎可以在§a计算机散热口§r后面的3x3区域内接受§3计算组件§r、§3冷却器§r、§3桥接组件§r和§3空组件§r的任何组合。推荐的零部件将建立一个§d16 CWU/t§r HPCA，足以扫描§3核聚变反应堆 MK2§r，§6UV电路板§r，和所有的§6ZPM部件§r。您一开始可以少用一些，但最终需要升级到这种算力。参考§eJEI§r了解其他一些可能的设置。%n%nHPCA的§dCWU/t§r由其中的§3HPCA计算组件§r的输出之和决定。常规的§3计算组件§r每个产生§d4个CWU/t§r，每个需要§d2散热§r。§3高级计算组件§r，你还没有方法制作的，每个产生§d16 CWU/t§r，并需要§d4散热§r。%n%n§d散热§r由结构内的§3散热器§r块提供。§3散热组件§r免费提供§d1散热§r，而§3主动冷却组件§r通过由§3输入舱口§r提供的§9绝缘性多氯联苯冷却液§r稳定流动提供§d2散热§r。如果HPCA内部的冷却不足，部件可能会因过热而§c损坏§r。部件在HPCA内的物理位置并不重要。%n%n可以安装§3桥接组件§r，使HPCA连接到§3网络交换机§r。%n%nHPCA的能量消耗由其各部分的总和决定。“最大能量”是指HPCA计算时的功耗，而“维护能量”是指HPCA空转时的功耗。
+nomifactory.quest.normal.db.1035.desc=§3高性能计算阵列（high Performance Computing Array, HPCA）§r是一种为§3研究站§r提供§d算力（CWU）§r的计算机。它提供的§d算力（CWU）§r的数量取决于其中的 HPCA 部件的类型。它还需要散热器提供足够的§d散热§r。%n%n将§3算力数据源仓§r连接到§3研究站§r的§3算力数据靶仓§r，以将产生的 §dCWU/t§r 传输到它。%n%nHPCA 几乎可以在§a计算机散热口§r后面的3x3区域内接受§3计算组件§r、§3冷却器§r、§3桥接组件§r和§3空组件§r的任何组合。推荐的部件将建立一个 §d16 CWU/t§r 的 HPCA，足以扫描§3核聚变反应堆 MK2§r， §6UV 电路板§r，和所有的 §6ZPM 部件§r。您一开始可以少用一些，但最终需要升级到这种算力。参考 §eJEI§r 了解其他一些可能的设置。%n%nHPCA 的 §dCWU/t§r 由其中的 §3HPCA 计算组件§r的输出之和决定。常规的§3计算组件§r每个产生§d4 CWU/t§r，每个需要§d2散热§r。§3高级计算组件§r，虽然你还没有方法制作的，每个产生§d16 CWU/t§r，并需要§d4散热§r。%n%n§d散热§r由结构内的§3散热器§r方块提供。§3散热组件§r免费提供§d1散热§r，而§3主动冷却组件§r通过由§3输入舱口§r提供的§9绝缘性多氯联苯冷却液§r稳定流动提供§d2散热§r。如果HPCA内部的冷却不足，部件可能会因过热而§c损坏§r。部件在 HPCA 内的相对位置并不重要。%n%n可以安装§3桥接组件§r，使 HPCA 连接到§3网络交换机§r。%n%nHPCA 的能量消耗由其各部分的总和决定。“最大能量”是指 HPCA 计算时的功耗，而“维护能量”是指 HPCA 空转时的功耗。
 
 # db 1036 of mode normal
 nomifactory.quest.normal.db.1036.title=§2光缆
-nomifactory.quest.normal.db.1036.desc=§2光缆§r用于在§3数据库§r和§3装配线§r之间传输§e研究数据§r，或在§3高性能计算阵列§r、§3网络交换机§r和§3研究站§r之间传输§e算力§r。%n%n请注意，光连接仅限于一个§a源仓§r到一个§a靶仓§r。
+nomifactory.quest.normal.db.1036.desc=§2光缆§r用于在§3数据库§r和§3装配线§r之间传输§e研究数据§r，或在§3高性能计算阵列§r、§3网络交换机§r和§3研究站§r之间传输§e算力§r。%n%n请注意，光缆仅限于连接一个§a源仓§r到一个§a靶仓§r。
 
 # db 1037 of mode normal
 nomifactory.quest.normal.db.1037.title=§2网络交换机
-nomifactory.quest.normal.db.1037.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每3个计算舱消耗§d7,680 EU/t§r。
+nomifactory.quest.normal.db.1037.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当您的§3研究站所需的§r的 §dCWU/t§r 要求超过单个 §3HPCA§r 所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到包含§3桥接组件§r的 §3HPCAs§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有 HPCA 接收 §dCWU/t§r 的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有 §dCWU/t§r 来研究它们。对于§6终极电池§r来说，最大计算量的扫描需要 §d144 CWU/t§r。%n%n网络交换机在其结构中的每个§3计算舱§r消耗§d7,680 EU/t§r。
 
 # db 1038 of mode normal
 nomifactory.quest.normal.db.1038.title=§2高级HPCA
@@ -4488,7 +4488,7 @@ nomifactory.quest.expert.db.242.desc=最先进的基板，为前沿生物工程�
 
 # db 243 of mode expert
 nomifactory.quest.expert.db.243.title=三钛合金线圈
-nomifactory.quest.expert.db.243.desc=
+nomifactory.quest.expert.db.243.desc=最后一级电力高炉线圈。
 
 # db 244 of mode expert
 nomifactory.quest.expert.db.244.title=反应堆核心
@@ -4520,7 +4520,7 @@ nomifactory.quest.expert.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode expert
 nomifactory.quest.expert.db.252.title=§2五阶微型采掘机
-nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6三元金属§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode expert
 nomifactory.quest.expert.db.253.title=铱
@@ -5160,7 +5160,7 @@ nomifactory.quest.expert.db.508.desc=
 
 # db 509 of mode expert
 nomifactory.quest.expert.db.509.title=§2无损导线
-nomifactory.quest.expert.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩三元铕铿铀合金%nUHV——钌三元镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
+nomifactory.quest.expert.db.509.desc=§b末影接口§r和§b热力§r的合金比普通导线要贵一些，但它们具有作为§2超导体§r的巨大优势。像§6锡§r和§6铜§r这样的有损耗的导线，每经过一个方块就会有能量流失，但§2超导体§r不会。%n%n每个层级的§2便宜的超导体§r为：%n%nLV——导电铁%nMV——充能合金%nHV——脉冲合金%nEV——末地钢%nIV——流明%nLuV——信素%nZPM——末影合金%nUV——龙素%nMAX——§2超导龙素§r、万象%n%n§2另外还有一套超导体，每层级一个，是GTCEu默认的超导体。它们的优势在于其较高的额定电流，对于较高等级的16x导线来说，可达到数百的电流。它们也被用于制作力场发生器。它们是：%n%nLV——磷化锰%nMV——二硼化镁%nHV——汞钡铜酸钙%nEV——三铂化铀%nIV——氧化钐铁砷合金%nLuV——铟锡钡钛铜合金%nZPM——铀铑硅岩合金%nUV ——富集硅岩凯金铕铿铀合金%nUHV——钌凯金镅中子素合金§r%n§r%nMV及更高线缆在§3组装机§r中使用液体§9橡胶§r和§6导线§r制成。§2请记住，您无法将线缆组合成更粗的线缆，因此请注意要使用的线缆的厚度。
 
 # db 510 of mode expert
 nomifactory.quest.expert.db.510.title=深渊露水
@@ -5188,7 +5188,7 @@ nomifactory.quest.expert.db.517.desc=§6机械臂§r是几个强大的机器的�
 
 # db 519 of mode expert
 nomifactory.quest.expert.db.519.title=一类硅岩反应堆
-nomifactory.quest.expert.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
+nomifactory.quest.expert.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从§6富集硅岩§r或§6超能硅岩§r到§6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用多方块预览。
 
 # db 520 of mode expert
 nomifactory.quest.expert.db.520.title=第二个四阶电路
@@ -5363,7 +5363,7 @@ nomifactory.quest.expert.db.584.title=末影锭
 nomifactory.quest.expert.db.584.desc=
 
 # db 585 of mode expert
-nomifactory.quest.expert.db.585.title=§2脉冲铁锭
+nomifactory.quest.expert.db.585.title=§2镀铑钯锭
 nomifactory.quest.expert.db.585.desc=
 
 # db 586 of mode expert
@@ -6620,7 +6620,7 @@ nomifactory.quest.expert.db.938.desc=不要被这个名字欺骗了。§6小型�
 
 # db 939 of mode expert
 nomifactory.quest.expert.db.939.title=§2装配线数据
-nomifactory.quest.expert.db.939.desc=§2研究机制已回归格雷科技1.12！§3装配线§r需要提供关于如何制作物品的§e数据§r，然后才能制作它们。关于如何制作每个项目的数据存储在§6闪存§r中，并由§a数据访问仓§r读取。这些数据在制作§6LuV组件§r，§3核反应堆§r，以及§3龙之研究§r的一些部件时需求。%n%n首先，制作一个§3扫描仪§r和一些§6闪存§r。最初的扫描仪配方运行在§6HV§r，但§1IV§r时相对较快，所以不妨做一个。%n%n在您想要制作的物品上按§bR§r，并导航到§b扫描仪选项卡§r。这将告诉您需要扫描哪个物品以生成新项目的数据。例如，§dLuV§6电动马达§r需要扫描§1IV§r§6电动马达§r。%n%n将§6闪存§r与要扫描的物品放在§3扫描仪§r中。该物品将被§c消耗§r，其数据将写入§6闪存§r。每个§6数据物品§r只能保存一个§c配方§r。%n%n最后，将§6闪存§r放入§3装配线§r的§a数据访问仓§r中。它现在可以制作那个物品了。稍后，您将需要更高级的§6数据球§r和§6数据模块§r来存储数据，以及§3数据库§r来读取数据。%n%n如果需要创建重复的数据项，可以使用扫描仪将数据复制到相同类型的空白数据项。
+nomifactory.quest.expert.db.939.desc=§2研究机制已回归格雷科技1.12！§3装配线§r需要提供制作物品所需的§e数据§r，然后才能制作它们。制作物品所需的数据存储在§6闪存§r中，并由§a数据访问仓§r读取。这些数据应用于§6LuV组件§r，§3核反应堆§r，以及§3龙之研究§r的一些部件。%n%n首先，制作一个§3扫描仪§r和一些§6闪存§r。最初的扫描仪配方运行在§6HV§r，但在§1IV§r时相对较快，所以不妨做一个。%n%n在您想要制作的物品上按§bR§r，并选择§b扫描仪选项§r。这将告诉您需要扫描哪个物品以获得新物品的数据。例如，§dLuV§6电动马达§r需要扫描§1IV§r§6电动马达§r。%n%n将§6闪存§r与要扫描的物品放在§3扫描仪§r中。该物品将被§c消耗§r，其数据将写入§6闪存§r。每个§6数据容器§r只能保存一个§c配方§r。%n%n最后，将§6闪存§r放入§3装配线§r的§a数据访问仓§r中。它现在可以制作那个物品了。稍后，您将需要更高级的§6数据球§r和§6数据模块§r来存储数据，以及§3数据库§r来读取数据。%n%n如果需要创建重复的数据容器，可以使用扫描仪将数据复制到相同类型的空白数据容器。
 
 # db 940 of mode expert
 nomifactory.quest.expert.db.940.title=§2蓄能变电站
@@ -6644,19 +6644,19 @@ nomifactory.quest.expert.db.944.desc=§3数据库§r充当§6闪存§r和§6数�
 
 # db 945 of mode expert
 nomifactory.quest.expert.db.945.title=§2研究站
-nomifactory.quest.expert.db.945.desc=§3研究站§r是一种先进的扫描仪，它消耗由连接的§3高性能计算阵列§r提供的§d算力（CWU）§r来研究§cZPM§r和更高的项目。%n%n这个多方块的功能类似于扫描器。将§6数据球§r或§6数据模块§r放入§3物品支架§r中，与待扫描的项目一起。在获得了足够的§dCWU§r之后，项目将被§c消耗§r，并将相应的数据写入物品。确保您的§3高性能计算阵列§r提供足够的§dCWU/t§r -检查§eJEI§r中的扫描配方，了解所需的量。%n%n§3能源§r、§3维护§r和§3算力仓§r只能替换位于结构后部的九个在§a计算机散热口§r之间的9个§a计算机外壳§r。§3物品支架§r§c必须面对§3研究站§r控制器块。%n%n当超过需求的§dCWU/t§r时，研究站可以加速，但当超过需求的§dEU/t§r时，研究站不能超频。最初的配方运行在§dLuV§r电源上，但§cZPM§r电源将很快需要，更高层次的能量将需要更高级的扫描。由于大多数研究扫描需要很长时间，你应该尽早开始这个过程。
+nomifactory.quest.expert.db.945.desc=§3研究站§r是一种先进的扫描仪，它消耗由连接的§3高性能计算阵列§r提供的§d算力（CWU）§r来研究§cZPM§r和更高的项目。%n%n这个多方块的功能类似于扫描器。将§6数据球§r或§6数据模块§r与待扫描的物品一起放入§3物品支架§r中。在获得了足够的§dCWU§r之后，物品将被§c消耗§r，并将相应的数据写入数据容器。确保您的§3高性能计算阵列§r提供足够的§dCWU/t§r——检查§eJEI§r中的扫描配方，了解所需的算力。%n%n§3能源仓§r、§3维护仓§r和§3算力仓§r只能替换位于结构后部的九个在§a计算机散热口§r之间的9个§a计算机外壳§r。§3物品支架§r§c必须面对§3研究站§r控制器块。%n%n当超过需求的§dCWU/t§r时，研究站可以加速，但当超过需求的§dEU/t§r时，研究站不能超频。最初的配方运行在§dLuV§r电压上，但§cZPM§r电压将很快用到，因此更高级的扫描配方将需要更高级的电压。由于大多数研究扫描需要很长时间，你应该尽早开始这个过程。
 
 # db 946 of mode expert
 nomifactory.quest.expert.db.946.title=§2高性能计算阵列
-nomifactory.quest.expert.db.946.desc=§3高性能计算阵列（high Performance Computing Array, HPCA）§r是一种为§3研究站§r提供§d算力（CWU）§r的计算机。它提供的§d算力（CWU）§r的数量取决于其中的HPCA部件的类型。它还需要在其结构内的散热器提供足够的§d散热§r。%n%n将§3算力数据源仓§r连接到§3研究站§r的§3算力数据靶仓§r，以将产生的§dCWU/t§r传输到它。%n%nHPCA几乎可以在计算机散热口后面的3x3区域内接受§3计算组件§r、§3冷却器§r、§3桥接组件§r和§3空组件§r的任何组合。这个任务将建立一个§d16 CWU/t§r HPCA，足以扫描§3核聚变反应堆 MK2§r，§6UV电路板§r，和所有的§6ZPM部件§r。您一开始可以少用一些，但最终需要升级到这种算力。参考§eJEI§r了解其他一些可能的设置。%n%nHPCA的§dCWU/t§r由其中的§3HPCA计算组件§r的输出之和决定。常规的§3计算组件§r每个产生§d4个CWU/t§r，每个需要§d2散热§r。§3高级计算组件§r，你还没有方法制作的，每个产生§d16 CWU/t§r，并需要§d4散热§r。%n%n§d散热§r由结构内的§3散热器§r块提供。§3散热组件§r免费提供§d1散热§r，而§3主动冷却组件§r通过由§3输入舱口§r提供的§9绝缘性多氯联苯冷却液§r稳定流动提供§d2散热§r。如果HPCA内部的冷却不足，部件可能会因过热而§c损坏§r。部件在HPCA内的物理位置并不重要。%n%n可以安装§3桥接组件§r，使HPCA连接到§3网络交换机§r。%n%nHPCA的能量消耗由其各部分的总和决定。“最大能量”是指HPCA计算时的功耗，而“维护能量”是指HPCA空转时的功耗。
+nomifactory.quest.expert.db.946.desc=§3高性能计算阵列（high Performance Computing Array, HPCA）§r是一种为§3研究站§r提供§d算力（CWU）§r的计算机。它提供的§d算力（CWU）§r的数量取决于其中的 HPCA 部件的类型。它还需要散热器提供足够的§d散热§r。%n%n将§3算力数据源仓§r连接到§3研究站§r的§3算力数据靶仓§r，以将产生的 §dCWU/t§r 传输到它。%n%nHPCA 几乎可以在§a计算机散热口§r后面的3x3区域内接受§3计算组件§r、§3冷却器§r、§3桥接组件§r和§3空组件§r的任何组合。推荐的部件将建立一个 §d16 CWU/t§r 的 HPCA，足以扫描§3核聚变反应堆 MK2§r， §6UV 电路板§r，和所有的 §6ZPM 部件§r。您一开始可以少用一些，但最终需要升级到这种算力。参考 §eJEI§r 了解其他一些可能的设置。%n%nHPCA 的 §dCWU/t§r 由其中的 §3HPCA 计算组件§r的输出之和决定。常规的§3计算组件§r每个产生§d4 CWU/t§r，每个需要§d2散热§r。§3高级计算组件§r，虽然你还没有方法制作的，每个产生§d16 CWU/t§r，并需要§d4散热§r。%n%n§d散热§r由结构内的§3散热器§r方块提供。§3散热组件§r免费提供§d1散热§r，而§3主动冷却组件§r通过由§3输入舱口§r提供的§9绝缘性多氯联苯冷却液§r稳定流动提供§d2散热§r。如果HPCA内部的冷却不足，部件可能会因过热而§c损坏§r。部件在 HPCA 内的相对位置并不重要。%n%n可以安装§3桥接组件§r，使 HPCA 连接到§3网络交换机§r。%n%nHPCA 的能量消耗由其各部分的总和决定。“最大能量”是指 HPCA 计算时的功耗，而“维护能量”是指 HPCA 空转时的功耗。
 
 # db 947 of mode expert
 nomifactory.quest.expert.db.947.title=§2光缆
-nomifactory.quest.expert.db.947.desc=§2光缆§r用于在§3数据库§r和§3装配线§r之间传输§e研究数据§r，或在§3高性能计算阵列§r、§3网络交换机§r和§3研究站§r之间传输§e算力§r。%n%n请注意，光连接仅限于一个§a源仓§r到一个§a靶仓§r。
+nomifactory.quest.expert.db.947.desc=§2光缆§r用于在§3数据库§r和§3装配线§r之间传输§e研究数据§r，或在§3高性能计算阵列§r、§3网络交换机§r和§3研究站§r之间传输§e算力§r。%n%n请注意，光缆仅限于连接一个§a源仓§r到一个§a靶仓§r。
 
 # db 948 of mode expert
 nomifactory.quest.expert.db.948.title=§2网络交换机
-nomifactory.quest.expert.db.948.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当你们的§3研究站§r的§dCWU/t§r要求超过单个§3HPCA§r所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到您的§3HPCAs§r，其中包含§3桥接组件§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有HPCA接收§dCWU/t§r的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有§dCWU/t§r来研究它们。对于§6终极电池§r来说，最需要计算量的扫描需要§d144 CWU/t§r。%n%n网络交换机在其结构中的每3个计算舱消耗§d7,680 EU/t§r。
+nomifactory.quest.expert.db.948.desc=§3网络交换机§r将任意数量的§3算力数据靶仓§r转换成任意数量的§3算力数据源仓§r。当您的§3研究站所需的§r的 §dCWU/t§r 要求超过单个 §3HPCA§r 所能提供的要求时，就需要这样做。%n%n将§3算力数据靶仓§r连接到包含§3桥接组件§r的 §3HPCAs§r，并将单个§3算力数据源仓§r连接到您的§3研究站§r，它将从所有 HPCA 接收 §dCWU/t§r 的总和！%n%n现在，你可以使用所有的§3组装线§r配方，只要你有 §dCWU/t§r 来研究它们。对于§6终极电池§r来说，最大计算量的扫描需要 §d144 CWU/t§r。%n%n网络交换机在其结构中的每个§3计算舱§r消耗§d7,680 EU/t§r。
 
 # db 949 of mode expert
 nomifactory.quest.expert.db.949.title=§2高级HPCA

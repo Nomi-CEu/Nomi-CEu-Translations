@@ -4,13 +4,11 @@ item.deepmoblearning.data_model_blank.name=空白数据模型
 item.deepmoblearning.deep_learner.name=深度学习器
 item.deepmoblearning.creative_model_learner.name=创造模式模型学习器
 item.deepmoblearning.trial_key.name=测试密钥
-
 item.deepmoblearning.soot_covered_redstone.name=炭灰红石
 item.deepmoblearning.soot_covered_plate.name=炭灰板材
 item.deepmoblearning.glitch_infused_ingot.name=故障灌注锭
 item.deepmoblearning.glitch_heart.name=损坏的故障心脏
 item.deepmoblearning.glitch_fragment.name=不稳定故障碎片
-
 item.deepmoblearning.glitch_infused_helmet.name=故障灌注头盔
 item.deepmoblearning.glitch_infused_chestplate.name=故障灌注胸甲
 item.deepmoblearning.glitch_infused_leggings.name=故障灌注护腿
@@ -59,7 +57,6 @@ deepmoblearning.data_model.disabled=禁用的数据模块
 # Deep Learner
 deepmoblearning.deep_learner.hud=当在主手或副手且填充数据模型时将会显示 HUD
 deepmoblearning.deep_learner.contains=容纳下列数据模型
-
 deepmoblearning.deep_learner.heading_name=名字
 deepmoblearning.deep_learner.heading_information=信息
 deepmoblearning.deep_learner.model_tier=模型等级： %s
@@ -67,14 +64,12 @@ deepmoblearning.deep_learner.defeated=%s 击败了：%s
 deepmoblearning.deep_learner.required=击败 %s 更多来达到 %s
 deepmoblearning.deep_learner.maximum=已到达最高等级
 deepmoblearning.deep_learner.health_points=生命值
-
 deepmoblearning.deep_learner.no_model.line_1=未找到数据模型
 deepmoblearning.deep_learner.no_model.line_2=请插入数据模型！
 deepmoblearning.deep_learner.no_model.line_3=你的数据模型将会收集数据
 deepmoblearning.deep_learner.no_model.line_4=当它们被放入深度学习器时
 deepmoblearning.deep_learner.no_model.line_5=为了收集数据，你必须
 deepmoblearning.deep_learner.no_model.line_6=对怪物进行最后一击。
-
 deepmoblearning.deep_learner.button_next=下一个数据模型
 deepmoblearning.deep_learner.button_prev=上一个数据模型
 
@@ -106,9 +101,9 @@ deepmoblearning.soot_covered_redstone.tooltip_2=%s (%s)
 # Glitch Armor
 deepmoblearning.glitch_armor.tooltip_1=全套套装穿上时的增益
 deepmoblearning.glitch_armor.tooltip_2=（测试期间增益禁用）
-deepmoblearning.glitch_armor.tooltip_3=  1. %s 概率掉落 %s 原始物质
-deepmoblearning.glitch_armor.tooltip_4=     当数据模块得到数据时。
-deepmoblearning.glitch_armor.tooltip_5=  2. 飞行及免疫掉落伤害。
+deepmoblearning.glitch_armor.tooltip_3=1. %s 概率掉落 %s 原始物质
+deepmoblearning.glitch_armor.tooltip_4=当数据模块得到数据时。
+deepmoblearning.glitch_armor.tooltip_5=2. 飞行及免疫掉落伤害。
 
 # Glitch Ingot
 deepmoblearning.glitch_ingot.tooltip_1=通过稳定化 %s 制造
@@ -146,7 +141,6 @@ deepmoblearning.simulation_chamber.simulation_text.pristine=获取原始物质
 deepmoblearning.simulation_chamber.simulation_text.pristine_success=成功
 deepmoblearning.simulation_chamber.simulation_text.pristine_failure=失败
 deepmoblearning.simulation_chamber.simulation_text.processing=处理结果
-
 deepmoblearning.simulation_chamber.error_text.error=错误：无法开始模拟
 deepmoblearning.simulation_chamber.error_text.no_data_model_1=未找到数据模块
 deepmoblearning.simulation_chamber.error_text.no_data_model_2=请插入数据模块
@@ -155,14 +149,11 @@ deepmoblearning.simulation_chamber.error_text.model_cannot_simulate_2=请插入�
 deepmoblearning.simulation_chamber.error_text.no_polymer=缺少聚合物介质
 deepmoblearning.simulation_chamber.error_text.no_energy=系统能源不足
 deepmoblearning.simulation_chamber.error_text.output_full=输出槽已满
-
 deepmoblearning.simulation_chamber.redstone_deactivated_1=系统被停用
 deepmoblearning.simulation_chamber.redstone_deactivated_2=因红石信号
-
 deepmoblearning.simulation_chamber.data_model_info.tier=等级
 deepmoblearning.simulation_chamber.data_model_info.iterations=迭代
 deepmoblearning.simulation_chamber.data_model_info.pristine=获取原始物质概率
-
 deepmoblearning.simulation_chamber.tooltip.model_data=%s 数据已收集
 deepmoblearning.simulation_chamber.tooltip.model_max=数据模型达到最高等级
 deepmoblearning.simulation_chamber.tooltip.model_missing=机器缺失数据模型
@@ -172,7 +163,6 @@ deepmoblearning.simulation_chamber.tooltip.sim_cost=当前数据模型模拟消�
 # Loot Fabricator
 deepmoblearning.loot_fabricator.tooltip.crafting_cost=操作花费： %d RF/t
 deepmoblearning.loot_fabricator.tooltip.deselect=点击以取消选中产物
-
 deepmoblearning.loot_fabricator.error.no_energy=合成能源不足
 deepmoblearning.loot_fabricator.error.redstone=机器被红石信号禁用
 deepmoblearning.loot_fabricator.error.no_pristine=输入槽无原始物质
@@ -181,7 +171,6 @@ deepmoblearning.loot_fabricator.error.output_full=输出槽已满
 
 # Trial Keystone
 deepmoblearning.trial_keystone.start_button.tooltip=开始测试
-
 deepmoblearning.trial_keystone.trial_active_1=测试已经激活
 deepmoblearning.trial_keystone.trial_active_2=完成时奖励将会掉落
 deepmoblearning.trial_keystone.trial_active_3=当前第 %d/%d 波
@@ -192,7 +181,6 @@ deepmoblearning.trial_keystone.area_blocked_4=空的，区域下方的地板
 deepmoblearning.trial_keystone.area_blocked_5=由完整方块构成。
 deepmoblearning.trial_keystone.no_trial_key_1=请插入调谐后的测试秘钥
 deepmoblearning.trial_keystone.no_trial_key_2=来开始一个测试！
-
 deepmoblearning.trial_keystone.trial_type=测试类型：
 deepmoblearning.trial_keystone.tier=等级：
 deepmoblearning.trial_keystone.waves=波数：

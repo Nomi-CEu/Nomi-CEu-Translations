@@ -1,0 +1,10 @@
+
+
+ecore.gui.invalid_block.txt=Geçersiz Blok: X: %s, Y: %s, Z: %s. Beklenen: %s.
+button.de.assembleCore.start.txt=Çekirdeği Montajlamaya Başla
+button.de.assembleCore.stop.txt=Çekirdeği Montajlamayı Durdur
+button.de.destructCore.stop.txt=Çekirdeği Sökmeyi Durdur
+button.de.assembleCore.instant.txt=Çekirdeği Montajla
+ecore.de.assemble_missing_required_new.txt=Yapı tamamlanamadı! Eksik olan blok(lar): %s.
+button.de.destructCore.start.txt=Çekirdeği Sökmeye Başla
+button.de.destructCore.instant.txt=Çekirdeği Sök

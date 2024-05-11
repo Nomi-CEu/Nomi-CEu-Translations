@@ -1,0 +1,12 @@
+
+
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3放置距离§7提升到§e%s§7！§r
+effortlessbuilding.use.reach_upgrade.creative.1=创造模式中不需要触及升级！
+effortlessbuilding.use.reach_upgrade.creative.2=还想提升触及限制吗？去调 Config 吧！
+effortlessbuilding.use.reach_upgrade.success.1=§a升级了：§r
+effortlessbuilding.use.reach_upgrade.success.2=§3放置数量§7从§c%s §7提升到§e%s§r！
+effortlessbuilding.use.reach_upgrade.already_used=这个升级已经用过了！
+effortlessbuilding.use.reach_upgrade.previous=你必须先使用升级%s！
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7消耗这个来提升：§r
+effortlessbuilding.use.reach_upgrade.success.3=§3放置距离§7从§c%s §7提升到§e%s§r！
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3放置数量§7提升到§e%s§7！§r

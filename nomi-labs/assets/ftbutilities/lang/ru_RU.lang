@@ -1,0 +1,9 @@
+
+
+ftbutilities.status.server.pvp=§cВы не можете PvPшиться здесь!§r
+ftbutilities.status.chunk.no_break_block=§cВы не можете добывать Блоки в этом чанке!§r
+ftbutilities.status.chunk.no_place_block=§cВы не можете размещать Блоки в этом чанке!§r
+ftbutilities.status.chunk.no_interact_block=§cВы не можете взаимодейстовать с Блоками в этом чанке!§r
+ftbutilities.status.server.item_disabled=§cПредмет отключен!§r
+ftbutilities.status.chunk.no_attack=§cВы не можете атаковать дружеские Энтити в этом чанке!§r
+ftbutilities.status.chunk.no_interact_item=§cВы не можете использовать Предметы в этом чанке!§r

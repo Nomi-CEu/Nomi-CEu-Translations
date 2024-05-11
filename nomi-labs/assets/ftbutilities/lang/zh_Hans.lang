@@ -1,0 +1,9 @@
+
+
+ftbutilities.status.server.pvp=§c你不能在这里 PvP！§r
+ftbutilities.status.chunk.no_attack=§c你无法在这个区块中攻击友善生物！§r
+ftbutilities.status.chunk.no_break_block=§c你无法在这个区块中破坏方块！§r
+ftbutilities.status.chunk.no_interact_item=§c你无法在这个区块中使用该物品！§r
+ftbutilities.status.chunk.no_interact_block=§c你无法在这个区块中与方块交互！§r
+ftbutilities.status.server.item_disabled=§c物品已禁用！§r
+ftbutilities.status.chunk.no_place_block=§c你无法在这个区块中放置方块！§r

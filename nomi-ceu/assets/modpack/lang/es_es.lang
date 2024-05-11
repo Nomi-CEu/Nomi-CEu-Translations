@@ -1,0 +1,15 @@
+metaitem.circuit.wetware_super_computer.name=Matriz de procesador húmedo
+metaitem.circuit.wetware_mainframe.name=Unidad central del procesador húmedo
+metaitem.circuit.energy_flow.name=Procesador de cristal
+metaitem.circuit.quantum_processor.name=§5Circuito cuántico
+metaitem.circuit.nano_processor_assembly.name=Nanoprocesador
+metaitem.circuit.nano_processor.name=Nanocircuito
+metaitem.circuit.processor_assembly.name=Microprocesador
+metaitem.circuit.basic_electronic.name=Circuito electrónico
+metaitem.circuit.basic.name=Circuito primitivo
+metaitem.quantumeye.name=Ojo cuántico
+metaitem.board.phenolic.name=Sustrato fenólico
+metaitem.circuit.wetware_processor.name=Circuito húmedo
+metaitem.circuit.wetware_assembly.name=Procesador húmedo
+metaitem.quantumstar.name=§5Estrella cuántica
+nomifactory.nonetherportals=Los portales del Nether están deshabilitados en §5Nomi-CEu§r. Sigue el libro de misiones para desbloquear la §6Tarta Nether§r!

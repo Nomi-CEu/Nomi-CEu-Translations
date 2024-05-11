@@ -1,0 +1,5 @@
+text.toolbelt.tooltip=Mejoras: %s (%s Ranuras)
+key.toolbelt.open=Abrir interfaz
+key.toolbelt.slot=Abrir ranura de cinturón
+key.toolbelt.cycle.left=Cambiar de herramienta izquierda
+key.toolbelt.cycle.right=Cambiar de herramienta derecha

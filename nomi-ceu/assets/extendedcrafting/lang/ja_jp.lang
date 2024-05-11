@@ -1,1 +1,37 @@
 
+
+
+# line 9
+tile.ec.storage_ultimate.name=オムニウムブロック
+
+# line 11
+tile.ec.storage_ender_star.name=エンデストスターブロック
+
+# line 75-76
+item.ec.material_ender_star.name=エンデストスター
+tile.ec.trimmed_gold.name=ブラックスチールブロック
+tile.ec.trimmed_diamond.name=ブラックスチールブロック
+tile.ec.trimmed_emerald.name=ブラックスチールブロック
+tile.ec.trimmed_crystaltine.name=ブラックスチールブロック
+tile.ec.trimmed_ultimate.name=ブラックスチールブロック
+tile.ec.table_elite.name=精鋭拡張作業台
+tile.ec.table_ultimate.name=究極拡張作業台
+item.ec.material_ultimate_nugget.name=オムニウムナゲット
+item.ec.material_ender_star_nugget.name=エンデストスターナゲット
+# line 18-23 of the jar file
+tile.ec.trimmed_iron.name=ブラックスチールブロック
+
+# line 62
+item.ec.material_ultimater_component.name=コンフラックスコンポーネント
+
+# line 57
+item.ec.material_ultimater_catalyst.name=コンフラックス触媒
+
+# line 33-35
+tile.ec.table_advanced.name=拡張作業台
+
+# line 203
+item.ec.singularity_ultimate.name=オムニウムの塵
+
+# line 69-70
+item.ec.material_ultimate_ingot.name=オムニウムインゴット

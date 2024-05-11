@@ -1,1 +1,17 @@
 
+
+metaitem.circuit.energy_flow.name=クリスタル演算装置
+metaitem.circuit.quantum_processor.name=§5量子回路
+metaitem.circuit.nano_processor_assembly.name=ナノ演算装置
+metaitem.circuit.nano_processor.name=ナノ回路
+metaitem.circuit.processor_assembly.name=マイクロ演算装置
+metaitem.circuit.basic_electronic.name=電子回路
+metaitem.circuit.basic.name=初歩的な回路
+metaitem.quantumeye.name=クァンタムアイ
+metaitem.board.phenolic.name=フェノール基板
+metaitem.circuit.wetware_processor.name=ウェットウェア回路
+metaitem.circuit.wetware_assembly.name=ウェットウェア処理装置
+metaitem.circuit.wetware_super_computer.name=ウェットウェアプロセッサーアレイ
+metaitem.circuit.wetware_mainframe.name=ウェットウェア処理メインフレーム
+metaitem.quantumstar.name=§5クァンタムスター
+nomifactory.nonetherportals=ネザーポータルは§5Nomi-CEu§rでは無効化されています。クエストブックに従って§6Nether Cake§rを作成しましょう！

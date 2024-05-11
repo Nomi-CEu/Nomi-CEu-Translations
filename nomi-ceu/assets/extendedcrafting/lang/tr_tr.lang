@@ -1,0 +1,37 @@
+
+
+
+# line 57
+item.ec.material_ultimater_catalyst.name=Kavşak Katalizörü
+tile.ec.trimmed_ultimate.name=Siyah Çelik Bloğu
+tile.ec.trimmed_gold.name=Siyah Çelik Bloğu
+
+# line 11
+tile.ec.storage_ender_star.name=En End Yıldız Bloğu
+item.ec.material_ultimate_nugget.name=Omniyum Parçası
+tile.ec.trimmed_crystaltine.name=Siyah Çelik Bloğu
+tile.ec.trimmed_diamond.name=Siyah Çelik Bloğu
+
+# line 9
+tile.ec.storage_ultimate.name=Omniyum Bloğu
+item.ec.material_ender_star_nugget.name=En End Yıldız Parçası
+tile.ec.trimmed_emerald.name=Siyah Çelik Bloğu
+tile.ec.table_elite.name=Elit Genişletilmiş Çalışma Masası
+# line 18-23 of the jar file
+tile.ec.trimmed_iron.name=Siyah Çelik Bloğu
+
+# line 75-76
+item.ec.material_ender_star.name=En End Yıldız
+
+# line 203
+item.ec.singularity_ultimate.name=Omniyum Taneciği
+tile.ec.table_ultimate.name=Son Genişletilmiş Çalışma Masası
+
+# line 33-35
+tile.ec.table_advanced.name=Genişletilmiş Çalışma Masası
+
+# line 69-70
+item.ec.material_ultimate_ingot.name=Omniyum Külçesi
+
+# line 62
+item.ec.material_ultimater_component.name=Kavşak Bileşeni

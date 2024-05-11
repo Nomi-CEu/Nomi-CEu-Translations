@@ -1,8 +1,8 @@
 button.de.destructCore.start.txt=コアの解体開始
 button.de.destructCore.instant.txt=コアの解体
 button.de.destructCore.stop.txt=コアの解体停止
-
 button.de.assembleCore.start.txt=コアの組み立て開始
 button.de.assembleCore.instant.txt=コアの組み立て
 button.de.assembleCore.stop.txt=コアの組み立て停止
-ecore.de.assemble_missing_required_new.txt=構造を完成させる事が出来ません! 必要なブロックが不足しています: %s
+ecore.de.assemble_missing_required_new.txt=構造を完成させる事が出来ません! 必要なブロックが不足しています: %s。
+ecore.gui.invalid_block.txt=無効なブロックです : X : %s , Y : %s , Z : %s 予想される座標 : %s 。

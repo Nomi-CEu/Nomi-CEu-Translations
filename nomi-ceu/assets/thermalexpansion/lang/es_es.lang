@@ -1,0 +1,11 @@
+# between line 400 to 411 in jar file
+item.thermalexpansion.frame.frameCell2.name=Marco de motor de micro minero
+item.thermalexpansion.frame.frameCell2Filled.name=Núcleo del motor de micro minero
+item.thermalexpansion.frame.frameCell3.name=Marco de signalo de motor de micro minero
+item.thermalexpansion.frame.frameCell3Filled.name=Núcleo de signalo del motor de micro minero
+item.thermalexpansion.frame.frameCell4.name=Marco de enderio del motor de micro minero
+item.thermalexpansion.frame.frameCell4Filled.name=Núcleo de enderio del motor de micro minero
+
+# line 409, 411 of jar file
+item.thermalexpansion.frame.frameMachine.name=Carcasa de máquina térmica
+item.thermalexpansion.frame.frameDevice.name=Carcasa de dispositivo térmico
