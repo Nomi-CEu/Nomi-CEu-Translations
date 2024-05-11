@@ -31,7 +31,7 @@ jobs:
           # run `cat {PEM_FILE_PATH} | base64 -w 0 && echo` to encode the key first if changing the key.
           # Paste the output of the command into the secret value.
           private-key: ${{ secrets.APP_KEY }}
-          organization: Nomi-CEu
+          owner: Nomi-CEu
           
       - name: Dispatch Workflow
         uses: actions/github-script@v5
