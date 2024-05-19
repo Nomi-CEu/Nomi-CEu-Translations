@@ -1,1 +1,8 @@
 
+
+ftbutilities.status.server.pvp=§cここではPvPは行えません！§r
+ftbutilities.status.chunk.no_attack=§cこのチャンクでは友好的なエンティティに攻撃できません！§r
+ftbutilities.status.chunk.no_break_block=§cこのチャンクではブロックを破壊できません！§r
+ftbutilities.status.chunk.no_place_block=§cこのチャンクではブロックを設置できません！§r
+ftbutilities.status.chunk.no_interact_item=§cこのチャンクではそのアイテムを使用できません！§r
+ftbutilities.status.chunk.no_interact_block=§cこのチャンクではブロックに干渉できません！§r
