@@ -23,16 +23,16 @@ nomifactory.quest.normal.line.10.title=マター・エネルギー
 nomifactory.quest.normal.line.11.title=処理ライン
 
 # db 0 of mode normal
-nomifactory.quest.normal.db.0.title=
+nomifactory.quest.normal.db.0.title=クォーツのチャージ
 
 # db 1 of mode normal
-nomifactory.quest.normal.db.1.title=
+nomifactory.quest.normal.db.1.title=クリスタル成長機
 
 # db 2 of mode normal
-nomifactory.quest.normal.db.2.title=
+nomifactory.quest.normal.db.2.title=缶詰装置と各種アイテム
 
 # db 3 of mode normal
-nomifactory.quest.normal.db.3.title=
+nomifactory.quest.normal.db.3.title=§2創世記
 nomifactory.quest.normal.db.3.desc=
 
 # db 4 of mode normal
@@ -2537,7 +2537,7 @@ nomifactory.quest.normal.db.1044.title=
 # Expert Quest Lang Entries:
 
 # line 0 of mode expert
-nomifactory.quest.expert.line.0.title=はじまり
+nomifactory.quest.expert.line.0.title=始まり
 
 # line 1 of mode expert
 nomifactory.quest.expert.line.1.title=ゲーム序盤
@@ -4075,7 +4075,7 @@ nomifactory.quest.expert.db.496.desc=
 # Normal Quest Lang Entries:
 
 # line 0 of mode normal
-nomifactory.quest.normal.line.0.title=はじまり
+nomifactory.quest.normal.line.0.title=始まり
 nomifactory.quest.normal.db.1018.desc=
 nomifactory.quest.expert.db.241.desc=
 nomifactory.quest.normal.line.0.desc=GregTech §7LV§r時代：工場づくりを始めましょう！%n%n§bDeep Mob Evolution§rの使用を解禁、初期段階の§bEnderIO§r技術、そして§bApplied Energistics 2§rのデジタルストレージ。%n%n§3工業用電気炉§rを建て、発展的な素材や合金を精錬しましょう。
@@ -4095,7 +4095,7 @@ nomifactory.quest.normal.line.3.title=進捗状況
 
 # line 4 of mode normal
 nomifactory.quest.normal.line.4.title=ゲーム終盤
-nomifactory.quest.normal.db.1.desc=
+nomifactory.quest.normal.db.1.desc=§3クリスタル成長機§rは、§bApplied Energistics§rのワールド内クラフトを機械の中で実行可能にします。やったね！もう水に物を落とす必要はありません！%n%nこの機械では、§6クォーツの種§rを§6純粋なクォーツ§rに成長させたり、§6フルーシュクリスタル§rを作成したりすることができます。JEIが成長機のレシピを直接表示しないため、ここで説明したいと思います。%n%nクォーツの種は、3種類のクォーツのいずれかを粉砕し砂と混ぜ合わせることで作成できます。種はそれぞれ対応する純粋なクォーツに成長し、ほぼすべてのレシピで通常のクォーツと同様に使うことができます。純粋なクォーツは素材の効率を実質2倍にすることができます。いいね！ただし、純粋なクォーツは粉砕してさらに倍化することはできません。残念！%n%nフルーシュクリスタルは水場で作成していましたが、ここでも同じ素材を使用します。§6レッドストーン§r、§6チャージドケルタスクォーツ§、§6ネザークォーツ§rを一つずつ投入すると、2つのフルーシュクリスタルを生成します。
 nomifactory.quest.normal.db.28.desc=
 nomifactory.quest.normal.db.29.desc=
 nomifactory.quest.normal.db.30.desc=
@@ -5507,8 +5507,8 @@ nomifactory.quest.normal.line.8.desc="ドーナツ"を使って新たな元素�
 nomifactory.quest.normal.line.9.desc=§bDeep Mob Evolution§rで素材を入手しましょう！%n%nMV時代にクローズな生産ラインを作成することで、100%%再生可能な資源が手に入ります！
 nomifactory.quest.normal.line.10.desc=§bApplied Energistics§r.で物質とエネルギーを相互変換しましょう。%n%n全てを自動化！(^o^)／
 nomifactory.quest.normal.line.11.desc=このチャプターでは、複雑な処理と単純な処理の両方をサポートします！
-nomifactory.quest.normal.db.0.desc=
-nomifactory.quest.normal.db.2.desc=
+nomifactory.quest.normal.db.0.desc=この装置の主な使用用途は、§6ケルタスクォーツ§rを§6チャージドケルタスクォーツ§rへ変換することです。%n%nこの装置は、エネルギー導管によるRFか、ME導管(またはMEケーブル)によるAEエネルギーで動かすことができます。%n%n動力は2つの面から受け取ることができます。どの面でしょう？当ててみてください。%n%n%n%n%n%n%n%n%nはいはい、正解は上下です。
+nomifactory.quest.normal.db.2.desc=注:このクエストはLVとMV両方の缶詰装置を受け付けます。%n%n§aLVバッテリー§rは簡単に作成できましたが、高性能な蓄電装置にはより複雑な作成技術が必要になります。そのため、下準備をしておきましょう。%n%n§3遠心分離機§rを使用して、§6四面銅鉱鉱石§rと§6輝安鉱鉱石§rを処理し、今後必要になる§6アンチモニー§rを作成します。
 nomifactory.quest.normal.db.5.desc=
 nomifactory.quest.normal.db.8.desc=
 nomifactory.quest.normal.db.10.desc=
