@@ -14,7 +14,7 @@ nomifactory.quest.normal.line.7.title=いざマイクロバースへ
 nomifactory.quest.normal.line.8.title=核融合と研究
 
 # line 9 of mode normal
-nomifactory.quest.normal.line.9.title=資源シミュレーター
+nomifactory.quest.normal.line.9.title=資源シミュレーション
 
 # line 10 of mode normal
 nomifactory.quest.normal.line.10.title=マター・エネルギー
@@ -36,149 +36,149 @@ nomifactory.quest.normal.db.3.title=§2創世記
 nomifactory.quest.normal.db.3.desc=§5Nomifactory§r §2GTCEu Edition§rへようこそ！%n%nこのパックは、§bLost Cities / Overworld ディメンション§r でプレイすることが想定されています。%n%n友人とプレイするときには、§eクエストブックのパーティ§rへの招待を忘れないでください。%n%n§rスカイブロック上に拠点を作りたい場合、§6Void World Cake§rを設置し、食べることでVoidに移動します。採掘のためにLost Cities / Overworld ディメンションを行き来する必要はありますが、 §eVoid World§rでは自由に安全に建築をすることができます。%n%n§2CEu§rでの新要素と新しい内容を含むクエストは§2深緑色 (カラーコード 2)§rで強調されます。
 
 # db 4 of mode normal
-nomifactory.quest.normal.db.4.title=
+nomifactory.quest.normal.db.4.title=鉄の確保
 nomifactory.quest.normal.db.4.desc=
 
 # db 5 of mode normal
-nomifactory.quest.normal.db.5.title=
+nomifactory.quest.normal.db.5.title=採掘用ハンマー
 
 # db 6 of mode normal
-nomifactory.quest.normal.db.6.title=
+nomifactory.quest.normal.db.6.title=§2更なる素材
 nomifactory.quest.normal.db.6.desc=
 
 # db 7 of mode normal
-nomifactory.quest.normal.db.7.title=
+nomifactory.quest.normal.db.7.title=§2ケーブル
 nomifactory.quest.normal.db.7.desc=
 
 # db 8 of mode normal
 nomifactory.quest.normal.db.8.title=
 
 # db 9 of mode normal
-nomifactory.quest.normal.db.9.title=
+nomifactory.quest.normal.db.9.title=§2鉱石2倍化？
 nomifactory.quest.normal.db.9.desc=
 
 # db 10 of mode normal
-nomifactory.quest.normal.db.10.title=
+nomifactory.quest.normal.db.10.title=§2Tier 2マイクロマイナー
 
 # db 11 of mode normal
-nomifactory.quest.normal.db.11.title=
+nomifactory.quest.normal.db.11.title=§2電子部品
 
 # db 12 of mode normal
-nomifactory.quest.normal.db.12.title=
+nomifactory.quest.normal.db.12.title=スターターツール
 
 # db 13 of mode normal
-nomifactory.quest.normal.db.13.title=
+nomifactory.quest.normal.db.13.title=スマートな一括クラフト
 nomifactory.quest.normal.db.13.desc=
 
 # db 14 of mode normal
-nomifactory.quest.normal.db.14.title=
+nomifactory.quest.normal.db.14.title=かまど v2.0
 nomifactory.quest.normal.db.14.desc=
 
 # db 15 of mode normal
-nomifactory.quest.normal.db.15.title=
+nomifactory.quest.normal.db.15.title=かまど v3.0
 nomifactory.quest.normal.db.15.desc=
 
 # db 16 of mode normal
-nomifactory.quest.normal.db.16.title=
+nomifactory.quest.normal.db.16.title=かまど v4.0
 nomifactory.quest.normal.db.16.desc=
 
 # db 17 of mode normal
-nomifactory.quest.normal.db.17.title=
+nomifactory.quest.normal.db.17.title=かまど v5.0
 nomifactory.quest.normal.db.17.desc=
 
 # db 18 of mode normal
-nomifactory.quest.normal.db.18.title=
+nomifactory.quest.normal.db.18.title=かまど v7.0
 nomifactory.quest.normal.db.18.desc=
 
 # db 19 of mode normal
-nomifactory.quest.normal.db.19.title=
+nomifactory.quest.normal.db.19.title=LV合金製錬炉
 
 # db 20 of mode normal
-nomifactory.quest.normal.db.20.title=
+nomifactory.quest.normal.db.20.title=かまど v6.0
 nomifactory.quest.normal.db.20.desc=
 
 # db 21 of mode normal
-nomifactory.quest.normal.db.21.title=
+nomifactory.quest.normal.db.21.title=§2スチール
 
 # db 22 of mode normal
-nomifactory.quest.normal.db.22.title=
+nomifactory.quest.normal.db.22.title=§2熱分解炉
 
 # db 23 of mode normal
-nomifactory.quest.normal.db.23.title=
+nomifactory.quest.normal.db.23.title=黒曜石
 
 # db 24 of mode normal
-nomifactory.quest.normal.db.24.title=
+nomifactory.quest.normal.db.24.title=蒸気発電機
 nomifactory.quest.normal.db.24.desc=
 
 # db 25 of mode normal
-nomifactory.quest.normal.db.25.title=
+nomifactory.quest.normal.db.25.title=ケーキを使ったディメンション移動
 
 # db 26 of mode normal
-nomifactory.quest.normal.db.26.title=
+nomifactory.quest.normal.db.26.title=ダークスチール
 
 # db 27 of mode normal
-nomifactory.quest.normal.db.27.title=
+nomifactory.quest.normal.db.27.title=LV化学反応器
 
 # db 28 of mode normal
-nomifactory.quest.normal.db.28.title=
+nomifactory.quest.normal.db.28.title=脈動する粉末
 
 # db 29 of mode normal
-nomifactory.quest.normal.db.29.title=
+nomifactory.quest.normal.db.29.title=脈動鉄とエンダーパール
 
 # db 30 of mode normal
-nomifactory.quest.normal.db.30.title=
+nomifactory.quest.normal.db.30.title=電炉鋼
 
 # db 31 of mode normal
-nomifactory.quest.normal.db.31.title=
+nomifactory.quest.normal.db.31.title=ヴァイブラント蓄電装置
 
 # db 32 of mode normal
-nomifactory.quest.normal.db.32.title=
+nomifactory.quest.normal.db.32.title=発展蓄電装置
 
 # db 33 of mode normal
-nomifactory.quest.normal.db.33.title=
+nomifactory.quest.normal.db.33.title=簡易蓄電装置
 
 # db 34 of mode normal
-nomifactory.quest.normal.db.34.title=
+nomifactory.quest.normal.db.34.title=§2エナジェティック合金
 
 # db 35 of mode normal
-nomifactory.quest.normal.db.35.title=
+nomifactory.quest.normal.db.35.title=§2ヴァイブラント合金
 
 # db 37 of mode normal
-nomifactory.quest.normal.db.37.title=
+nomifactory.quest.normal.db.37.title=ゴムシート
 nomifactory.quest.normal.db.37.desc=
 
 # db 38 of mode normal
-nomifactory.quest.normal.db.38.title=
+nomifactory.quest.normal.db.38.title=§2LV電力
 
 # db 39 of mode normal
-nomifactory.quest.normal.db.39.title=
+nomifactory.quest.normal.db.39.title=アイテム導管
 
 # db 40 of mode normal
-nomifactory.quest.normal.db.40.title=
+nomifactory.quest.normal.db.40.title=伝導鉄エネルギー導管
 
 # db 41 of mode normal
-nomifactory.quest.normal.db.41.title=
+nomifactory.quest.normal.db.41.title=エナジェティック合金エネルギー導管
 
 # db 42 of mode normal
-nomifactory.quest.normal.db.42.title=
+nomifactory.quest.normal.db.42.title=ヴァイブラント合金エネルギー導管
 
 # db 44 of mode normal
-nomifactory.quest.normal.db.44.title=
+nomifactory.quest.normal.db.44.title=二重コンデンサ
 
 # db 45 of mode normal
-nomifactory.quest.normal.db.45.title=
+nomifactory.quest.normal.db.45.title=アイアンマン
 
 # db 47 of mode normal
-nomifactory.quest.normal.db.47.title=
+nomifactory.quest.normal.db.47.title=アイアンマン3
 
 # db 48 of mode normal
-nomifactory.quest.normal.db.48.title=
+nomifactory.quest.normal.db.48.title=アイアンマン2
 
 # db 49 of mode normal
-nomifactory.quest.normal.db.49.title=
+nomifactory.quest.normal.db.49.title=空気の遠心分離
 
 # db 50 of mode normal
-nomifactory.quest.normal.db.50.title=
+nomifactory.quest.normal.db.50.title=§2液体輸送
 
 # db 51 of mode normal
 nomifactory.quest.normal.db.51.title=
