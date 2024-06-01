@@ -6,3 +6,4 @@ ftbutilities.status.chunk.no_break_block=§cこのチャンクではブロック
 ftbutilities.status.chunk.no_place_block=§cこのチャンクではブロックを設置できません！§r
 ftbutilities.status.chunk.no_interact_item=§cこのチャンクではそのアイテムを使用できません！§r
 ftbutilities.status.chunk.no_interact_block=§cこのチャンクではブロックに干渉できません！§r
+ftbutilities.status.server.item_disabled=§cアイテムが無効化されています！§r
