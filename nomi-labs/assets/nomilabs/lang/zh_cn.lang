@@ -449,8 +449,8 @@ tooltip.nomilabs.tiertenship.description1=§f§o坍缩整个微宇宙并完全�
 tooltip.nomilabs.tiertenship.description2=§f§o如入无人之地。§r
 tooltip.stabilized_miners.description1=§f§o一个稳定的版本，注入了宇宙之心。§r
 tooltip.stabilized_miners.description2=§f§o无限期持续。可重复使用。完全不 OP。§r
-tooltip.stabilized_miners.description3=§f§o它看起来奇怪地熟悉。§r
-tooltip.stabilized_matters.description=§f§o一个无限的、费解的材料深渊。§r
+tooltip.stabilized_matters.description1=§f§o一个无限的、费解的材料深渊。§r
+tooltip.stabilized_matters.description2=§f§o它看起来奇怪地熟悉。§r
 tooltip.nomilabs.capacitors.description=Ender IO 机器升级
 tooltip.nomilabs.capacitors.level=§5级别：%s§r
 
