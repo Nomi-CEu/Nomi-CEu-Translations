@@ -469,8 +469,8 @@ tooltip.nomilabs.tiertenship.description1=§f§oColapsa un microverso completo y
 tooltip.nomilabs.tiertenship.description2=§f§oIntenta apuntar a los deshabitados.§r
 tooltip.stabilized_miners.description1=§f§oUna versión estabilizada, inyectada con un corazón de universo.§r
 tooltip.stabilized_miners.description2=§f§oDura indefinidamente. Reutilizable. Totalmente no desbalanceado.§r
-tooltip.stabilized_miners.description3=§f§oParece extrañamente familiar.§r
-tooltip.stabilized_matters.description=§f§oUn abismo infinito e incomprensible de materiales.§r
+tooltip.stabilized_matters.description1=§f§oUn abismo infinito e incomprensible de materiales.§r
+tooltip.stabilized_matters.description2=§f§oParece extrañamente familiar.§r
 tooltip.nomilabs.capacitors.description=Mejora de máquina Ender IO
 tooltip.nomilabs.capacitors.level=§5Nivel: %s§r
 
