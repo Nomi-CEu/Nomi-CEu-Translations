@@ -436,8 +436,8 @@ tooltip.nomilabs.tiertenship.description1=§f§oマイクロバース全体を�
 tooltip.nomilabs.tiertenship.description2=§f§o人がいないところを狙いましょう。§r
 tooltip.stabilized_miners.description1=§f§o大宇宙の心臓が注入され、安定化したもの。§r
 tooltip.stabilized_miners.description2=§f§o永久不滅。再利用可能。 強すぎではありません。§r
-tooltip.stabilized_miners.description3=§f§oなぜか見覚えがあるように見える。§r
-tooltip.stabilized_matters.description=§f§o終わりのない、理解のできない、深淵の物質。§r
+tooltip.stabilized_matters.description1=§f§o終わりのない、理解のできない、深淵の物質。§r
+tooltip.stabilized_matters.description2=§f§oなぜか見覚えがあるように見える。§r
 tooltip.nomilabs.capacitors.description=Ender IO マシンアップグレード
 tooltip.nomilabs.capacitors.level=§5レベル: %s§r
 
