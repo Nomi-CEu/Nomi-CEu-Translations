@@ -564,9 +564,9 @@ tooltip.nomilabs.tiertenship.description2=§f§oTry to aim for uninhabited ones.
 
 tooltip.stabilized_miners.description1=§f§oA stabilized version, injected with a Heart of a Universe.§r
 tooltip.stabilized_miners.description2=§f§oLasts indefinitely. Reusable. Totally not overpowered.§r
-tooltip.stabilized_miners.description3=§f§oIt looks oddly familiar.§r
 
-tooltip.stabilized_matters.description=§f§oAn infinite and incomprehensible abyss of materials.§r
+tooltip.stabilized_matters.description1=§f§oAn infinite and incomprehensible abyss of materials.§r
+tooltip.stabilized_matters.description2=§f§oIt looks oddly familiar.§r
 
 tooltip.nomilabs.capacitors.description=Ender IO Machine Upgrade
 tooltip.nomilabs.capacitors.level=§5Level: %s§r
