@@ -32,8 +32,8 @@ This contains Lang Files from the `gregtech-drawers` module.
 |---|---|---|---|---|---|---|
 |Nomi-CEu|✅|❓|❓|❓|❓|❓|
 |Gregtech Drawers|✅|✅|✅|✅|✅|✅|
-|Nomi Labs|✅|✅|❓|❓|✅|❓|
-|Overall|✅|❓|❌|❌|❓|❌|
+|Nomi Labs|✅|✅|❓|✅|✅|❓|
+|Overall|✅|❓|✅|❌|❓|❌|
 
 #### Key:
 - ✅: Well Supported, Mostly/Fully Complete
@@ -43,6 +43,7 @@ This contains Lang Files from the `gregtech-drawers` module.
 ### Language Support Chart
 ![Chart](http://weblate.pantsu.moe/widget/nomi-ceu-translations/multi-blue.svg)
 
+Note: This chart is from the [Weblate Repo](https://weblate.pantsu.moe/projects/nomi-ceu-translations/) for Nomi-CEu-Translations. For the moment, this is hosted on a [fork of the main repo](https://github.com/marisathewitch/Nomi-CEu-Translations).
 
 ## Why are there English Lang Files?
 These are for the translators to base off, and are automatically updated when a commit occurs in that module, with a delay of 30s - 2min.
