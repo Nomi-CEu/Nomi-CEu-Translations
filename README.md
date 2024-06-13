@@ -32,7 +32,7 @@ This contains Lang Files from the `gregtech-drawers` module.
 |---|---|---|---|---|---|---|
 |Nomi-CEu|✅|❓|❓|❓|❓|❓|
 |Gregtech Drawers|✅|✅|✅|✅|✅|✅|
-|Nomi Labs|✅|✅|❓|✅|✅|❓|
+|Nomi Labs|✅|✅|✅|❓|✅|❓|
 |Overall|✅|❓|✅|❌|❓|❌|
 
 #### Key:
