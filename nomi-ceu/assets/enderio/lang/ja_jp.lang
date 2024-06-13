@@ -25,7 +25,7 @@ enderio.item_power_conduit.name=伝導鉄エネルギー導管
 enderio.item_endergy_conduit_iron.name=エンドスチールエネルギー導管
 
 # line 1603 of EnderIO.jar
-tile.block_cap_bank.activated.name=発展型蓄電装置
+tile.block_cap_bank.activated.name=発展蓄電装置
 
 # line 434 of EnderIO.jar
 tile.block_dark_iron_bars.name=ダークスチール鉄格子

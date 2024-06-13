@@ -1,1 +1,12 @@
 
+
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7使用して強化:§r
+effortlessbuilding.use.reach_upgrade.creative.2=まだ距離を伸ばしたい？ コンフィグを使いましょう！
+effortlessbuilding.use.reach_upgrade.success.1=§aアップグレード完了:§r
+effortlessbuilding.use.reach_upgrade.success.3=§3到達距離§7が §c%s §7から §e%s§rへ！
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3設置可能距離§7が §e%s§7へ！§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3到達距離§7が §e%s§7へ！§r
+effortlessbuilding.use.reach_upgrade.creative.1=クリエイティブではリーチアップグレードは不要です！
+effortlessbuilding.use.reach_upgrade.success.2=§3設置可能距離§7が §c%s §7から §e%s§rへ！
+effortlessbuilding.use.reach_upgrade.already_used=既にこのアップグレードは使用されています！
+effortlessbuilding.use.reach_upgrade.previous=先にReach Upgrade %sを使う必要があります！

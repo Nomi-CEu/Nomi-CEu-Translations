@@ -25,7 +25,7 @@ nomifactory.quest.normal.line.5.title=最终目标
 nomifactory.quest.normal.line.5.desc=您现在已经进入终局了...%n%n将一整个微型宇宙收入囊中，并解锁§d创造量子缸§r。%n%n向着最终目标迈进，让您的自动化接受终极考验：§d创造量子箱§r。
 
 # line 6 of mode normal
-nomifactory.quest.normal.line.6.title=创世纪
+nomifactory.quest.normal.line.6.title=创世纪 (ULV)
 nomifactory.quest.normal.line.6.desc=欢迎来到§5全能工厂§r，我将成为您的向导。
 
 # line 7 of mode normal
@@ -50,7 +50,7 @@ nomifactory.quest.normal.line.11.desc=帮助你搭建处理线的一章，复杂
 
 # db 0 of mode normal
 nomifactory.quest.normal.db.0.title=给石英充充电
-nomifactory.quest.normal.db.0.desc=该装置的主要用途是将§6赛特斯石英§r转化为§6充能赛特斯石英§r。%n%n该装置可通过RF导管供电，或通过ME线缆使用来自ME网络的AE能量。在哪里供电？这不是很容易就猜到。%n%n%n%n%n%n%n%n%n好好好，是顶部和底部。%n%n
+nomifactory.quest.normal.db.0.desc=该装置的主要用途是将§6赛特斯石英§r转化为§6充能赛特斯石英§r。%n%n该装置可通过RF导管供电，或通过ME线缆使用来自ME网络的AE能量。在哪里供电？这不是很容易就猜到吗。%n%n%n%n%n%n%n%n%n好好好，是顶部和底部。
 
 # db 1 of mode normal
 nomifactory.quest.normal.db.1.title=晶体催生仓
@@ -58,7 +58,7 @@ nomifactory.quest.normal.db.1.desc=§3晶体催生仓§r可以让你在机器内
 
 # db 2 of mode normal
 nomifactory.quest.normal.db.2.title=装罐机和各种物品
-nomifactory.quest.normal.db.2.desc=注意：这个任务你提交LV或者MV的装罐机都行。%n%n§aLV电池§r制作起来很简单，但更有效的能源储存方式弄起来会更复杂，所以我们现在就得打好基础。%n%n用§3离心机§r来加工§6黝铜矿§r和§6辉锑矿§r以制作出我们需要的§6锑§r。%n%n
+nomifactory.quest.normal.db.2.desc=注意：这个任务你提交LV或者MV的装罐机都行。%n%n§aLV电池§r制作起来很简单，但更有效的能源储存方式弄起来会更复杂，所以我们现在就得打好基础。%n%n用§3离心机§r来加工§6黝铜矿§r和§6辉锑矿§r以制作出我们需要的§6锑§r。
 
 # db 3 of mode normal
 nomifactory.quest.normal.db.3.title=§2开局
@@ -66,7 +66,7 @@ nomifactory.quest.normal.db.3.desc=欢迎来到§5全能工厂 §2GTCEu 版§r�
 
 # db 4 of mode normal
 nomifactory.quest.normal.db.4.title=铁的来源
-nomifactory.quest.normal.db.4.desc=§r矿石在§5全能工厂§r中分布是大量集簇的，或者在“§e矿脉§r”中。这些矿脉散布在世界各地，比较常见。§2你得到的升级版 HV 电动勘探扫描仪会告诉你在 7x7 区块区域内可以找到的矿物类型！%n§r%n虽然扫描器需要能量来工作，但是你基本不可能耗尽它的电池。即使这样，任务书在后面会引导你合成 §2HV 电池§r来为你物品栏内的 §aHV 工具§r充能。%n%n为了继续下去，你需要找到一个§6铁§r的来源。你有几个选择。§6磁铁矿§r矿脉在地表浅处，内含大量的铁，同时还含有一些§6钒§r和§6金§r。另一个不错的铁的来源是§6褐铁矿§r矿脉，内含有几种不同类型的铁矿石。最后，在几种类型的矿脉中，可以发现§6黄铁矿§r与§6铜§r伴生。%n%n§6锻铁§r可以通过§e将铁二次熔炼§r来获得。锻铁工具拥有比铁制工具更高的耐久度，更适合用来制造工具，但是§c绝对不要把你的铁储备全都烧成锻铁§r。这两种材料并不是可以互相替代的关系，某些配方中会需要铁，而某些配方中会需要锻铁。
+nomifactory.quest.normal.db.4.desc=矿石在§5全能工厂§r中分布是大量集簇的，或者在“§e矿脉§r”中。这些矿脉散布在世界各地，比较常见。§2你得到的升级版 HV 电动勘探扫描仪会告诉你在 7x7 区块区域内可以找到的矿物类型！%n§r%n虽然扫描器需要能量来工作，但是你基本不可能耗尽它的电池。即使这样，任务书在后面会引导你合成 §2HV 电池§r来为你物品栏内的 §aHV 工具§r充能。%n%n为了继续下去，你需要找到一个§6铁§r的来源。你有几个选择。§6磁铁矿§r矿脉在地表浅处，内含大量的铁，同时还含有一些§6钒§r和§6金§r。另一个不错的铁的来源是§6褐铁矿§r矿脉，内含有几种不同类型的铁矿石。最后，在几种类型的矿脉中，可以发现§6黄铁矿§r与§6铜§r伴生。%n%n§6锻铁§r可以通过§e将铁二次熔炼§r来获得。锻铁工具拥有比铁制工具更高的耐久度，更适合用来制造工具，但是§c绝对不要把你的铁储备全都烧成锻铁§r。这两种材料并不是可以互相替代的关系，某些配方中会需要铁，而某些配方中会需要锻铁。
 
 # db 5 of mode normal
 nomifactory.quest.normal.db.5.title=采矿锤
@@ -86,7 +86,7 @@ nomifactory.quest.normal.db.8.desc=有了三个§6三阶电路§r和一些零部
 
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2矿物翻倍？
-nomifactory.quest.normal.db.9.desc=在大多数专家包中，玩家习惯于在获得矿物翻倍之前尽量少处理矿石。%n%n§e但在全能工厂中，您无需强迫自己这么做§r。矿脉是巨大的，用§a采矿锤§r开采是非常快的。此外，即使您使用了§3研磨机§r，它们最初处理矿石的速度很慢，而且需要能量来运作。%n%n稀有资源或由于找不到而用§d万象币§r买的材料是值得翻倍的。%n%n但现在而言，您无需为直接熔炼矿石而不加倍感到内疚！§e矿物翻倍可以被安全地忽略，直到你有了§2蒸汽打粉机§r§e或中压等级的机器，甚至更晚。§r
+nomifactory.quest.normal.db.9.desc=在大多数专家包中，玩家习惯于在获得矿物翻倍之前尽量少处理矿石。%n%n§e但在全能工厂中，您无需强迫自己这么做§r。矿脉是巨大的，用§a采矿锤§r开采是非常快的。此外，即使您使用了§3研磨机§r，它们最初处理矿石的速度很慢，而且需要能量来运作。%n%n稀有资源或由于找不到而用§d万象币§r买的材料是值得翻倍的。%n%n但现在而言，您无需为直接熔炼矿石而不加倍感到内疚！§e矿物翻倍可以被安全地忽略，直到你有了§2蒸汽打粉机§e或中压等级的机器，甚至更晚。§r
 
 # db 10 of mode normal
 nomifactory.quest.normal.db.10.title=§2二阶微型采掘机
@@ -102,7 +102,7 @@ nomifactory.quest.normal.db.12.desc=你需要适应这个整合包的一点就�
 
 # db 13 of mode normal
 nomifactory.quest.normal.db.13.title=批量制作的风格
-nomifactory.quest.normal.db.13.desc=如果你只在需要时才制作某个物品物品，那你迟早会玩不下去的。§e批量制作§r常用物品的效果要好得多，这样你就不必把时间都花在制作上了。把所有的配料放在一起，然后一次性制作出§e一大堆东西§r，是一件非常令人愉悦的事情。%n%n§3合成站§r是批量制作不可或缺的工具。他们可以保存工具、电路、机器外壳等生产链中所有步骤的配方。你会的§e多做几个§r的，因为这东西是真的方便%n%n每个合成站都有一些存放一般物品的库存空间，以及专门用于存放§b格雷科技§r工具的专用槽。此外，合成站还可以与§e邻近的存储容器§r进行互动。这样，您就可以在它附近的容器中保存常用材料。这包括大型虚拟库存的接入点，比如§a抽屉控制器§r§r，您稍后就可以制作了。%n%n使用合成站，您必须在合成区域手动设置配方，或者从 §bJEI§r。将原料放入制作站或邻近的容器中，然后点击制作出的物品即可进行制作。物品制作完成后，配方会显示在历史窗格的右上方。像以前一样，按住 Shift 键点击输出物品，就能制作出一组输出物品。%n%n每个合成站将记住§e最后制作的九个配方§r，单击右上角配方历史窗格中的项目，即可调用您在其中制作的配方。旧配方会被循环淘汰，因此如果你想确保配方不会被其他配方取代，就必须这样做：§e按住 Shift 键单击历史记录窗格中的配方，将其锁定§r。%n%n通过合成站上的“储存”选项卡，可以查看邻近库存中的可用原料，你还可以将物品放入该选项卡，将其放到附近的存储容器。
+nomifactory.quest.normal.db.13.desc=如果你只在需要时才制作某个物品物品，那你迟早会玩不下去的。§e批量制作§r常用物品的效果要好得多，这样你就不必把时间都花在制作上了。把所有的配料放在一起，然后一次性制作出§e一大堆东西§r，是一件非常令人愉悦的事情。%n%n§3合成站§r是批量制作不可或缺的工具。他们可以保存工具、电路、机器外壳等生产链中所有步骤的配方。你会的§e多做几个§r的，因为这东西是真的方便%n%n每个合成站都有一些存放一般物品的库存空间，以及专门用于存放§b格雷科技§r工具的专用槽。此外，合成站还可以与§e邻近的存储容器§r进行互动。这样，您就可以在它附近的容器中保存常用材料。这包括大型虚拟库存的接入点，比如§a抽屉控制器§r，您稍后就可以制作了。%n%n使用合成站，您必须在合成区域手动设置配方，或者从 §bJEI§r。将原料放入制作站或邻近的容器中，然后点击制作出的物品即可进行制作。物品制作完成后，配方会显示在历史窗格的右上方。像以前一样，按住 Shift 键点击输出物品，就能制作出一组输出物品。%n%n每个合成站将记住§e最后制作的九个配方§r，单击右上角配方历史窗格中的项目，即可调用您在其中制作的配方。旧配方会被循环淘汰，因此如果你想确保配方不会被其他配方取代，就必须这样做：§e按住 Shift 键单击历史记录窗格中的配方，将其锁定§r。%n%n通过合成站上的“储存”选项卡，可以查看邻近库存中的可用原料，你还可以将物品放入该选项卡，将其放到附近的存储容器。
 
 # db 14 of mode normal
 nomifactory.quest.normal.db.14.title=熔炉 v2.0
@@ -134,11 +134,11 @@ nomifactory.quest.normal.db.20.desc=§3钻石熔炉§r是目前速度最快的�
 
 # db 21 of mode normal
 nomifactory.quest.normal.db.21.title=§2钢
-nomifactory.quest.normal.db.21.desc=你已经有了§6钢§r，但在§3合金炉§r可以更快地制造它，代价是消耗EU。%n%n你可能想把你的§6煤炭粉§r留给电路，使用§6木炭粉§r代替吧。之后，你还可以将上述粉、§6焦炭粉§r或§2钻石粉§r加工成§6碳粉§r，可用于制造钢和其他有用的东西。
+nomifactory.quest.normal.db.21.desc=你已经有了§6钢§r，但在§3合金炉§r可以更快地制造它，代价是消耗EU。一旦你有了§3电力高炉§r，你也可以用氧气来炼钢。%n%n你可能想把你的§6煤炭粉§r留给电路，使用§6木炭粉§r代替吧。之后，你还可以将上述粉、§6焦炭粉§r或§2钻石粉§r加工成§6碳粉§r，可用于制造钢和其他有用的东西。
 
 # db 22 of mode normal
 nomifactory.quest.normal.db.22.title=§2热解炉
-nomifactory.quest.normal.db.22.desc=这个炉子的主要功能是提高你的木头和煤炭的燃料价值，同时也回收一些各种可能有用的废品。%n%n将§6煤炭§r变成§6焦煤§r，不仅可以使它作为燃料更有用，而且还可以产生§9苯酚§r，你将需要它来做电路。%n%n热解炉也是其他几种流体的来源，可以通过蒸馏获得有用的成分。%n%n你可以在控制器上§6潜行右击§r，以启用多方块预览。%n%n§2正如工具提示中所说，更高等级的线圈将使其更快。%n
+nomifactory.quest.normal.db.22.desc=这个炉子的主要功能是提高你的木头和煤炭的燃料价值，同时也回收一些各种可能有用的废品。%n%n将§6煤炭§r变成§6焦煤§r，不仅可以获得更有效的燃料，还可以生产§9苯酚§r，你将需要它来做电路。%n%n热解炉也是其他几种流体的来源，可以通过蒸馏获得有用的成分。%n%n你可以在控制器上§6潜行右击§r，以启用多方块预览。%n%n§2正如工具提示中所说，更高等级的线圈将使其更快。
 
 # db 23 of mode normal
 nomifactory.quest.normal.db.23.title=黑曜石
@@ -198,7 +198,7 @@ nomifactory.quest.normal.db.37.desc=出去寻找§6橡胶树§r当然是一个�
 
 # db 38 of mode normal
 nomifactory.quest.normal.db.38.title=§2LV能源
-nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§2§oLV能量转换器§r§o。%n%n§r到现在为止，你一直在用你的§3蒸汽能源炉§r产生§aRF能量§r，但§b格雷科技§r机器需要§aGTEU能量§r。有了你的第一个§6电路§r，你已经准备好制作一个§eLV§2能量转换器§r。%n%n§2能量转换器§r是一个特殊的方块，可以在§aRF能量§r和§aGTEU能量§r之间进行转换。它们有§24种规格：1A、4A、8A§r和§216A§r。%n%n§aRF§r转换成§aGTEU§r遵循§e4比1的比例§r。§a100RF§r变成§a25GTEU§r，反之亦然。§2使用软锤来改变转换方向。
+nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§oLV能量转换器§o。%n%n§r到现在为止，你一直在用你的§3蒸汽能源炉§r产生§aRF能量§r，但§b格雷科技§r机器需要§aGTEU能量§r。有了你的第一个§6电路§r，你已经准备好制作一个§eLV§2能量转换器§r。%n%n§c请注意这两种能量是不通用的。§r%n%n§2能量转换器§r是一个特殊的方块，可以在§aRF能量§r和§aGTEU能量§r之间进行转换。它们有§24种规格：1A、4A、8A§r和§216A§r。%n%n§aRF§r转换成§aGTEU§r遵循§e4比1的比例§r。§a100RF§r变成§a25GTEU§r，反之亦然。§2使用软锤来改变转换方向。
 
 # db 39 of mode normal
 nomifactory.quest.normal.db.39.title=物品导管
@@ -234,7 +234,7 @@ nomifactory.quest.normal.db.48.desc=飞得更快也不错。
 
 # db 49 of mode normal
 nomifactory.quest.normal.db.49.title=空气离心
-nomifactory.quest.normal.db.49.desc=注意：这个任务同时接受低压/中压/高压离心机。%n%n离心空气是在你能够§3低温蒸馏§r之前，获取§9氮§r的最佳方法§r。%n%n
+nomifactory.quest.normal.db.49.desc=注意：这个任务同时接受低压/中压/高压离心机。%n%n离心空气是在你能够§3低温蒸馏§r之前，获取§9氮§r的最佳方法。
 
 # db 50 of mode normal
 nomifactory.quest.normal.db.50.title=§2流体传输
@@ -258,7 +258,7 @@ nomifactory.quest.normal.db.54.desc=当§6末影之眼§r还不够毛骨悚然�
 
 # db 55 of mode normal
 nomifactory.quest.normal.db.55.title=§2离心机
-nomifactory.quest.normal.db.55.desc=在处理矿石粉时，§3离心机§r为你提供§21小撮粉§r的额外材料（§e9小撮粉=1粉§r）。有时它是离心物的粉尘，但通常它是另一种有用的材料，否则这种材料将是无法获得的。%n%n与其在坩埚中清洗§6含杂粉§r（通过浸渍或锤打矿石），不如通过离心来获得更多的粉尘。当你做出了§3洗矿机§r或者§3化学浸洗器§r的时候，同样的情况还有§6洁净粉§r，但请注意，洁净粉和含杂粉通常会产生不同的副产物（请务必在§bJEI§r中查看）。%n%n离心机还有其他用途，如去除复合粉尘和液体的混合物，或获取§6橡胶末§r，它可以与§6硫§r发生化学反应，从而有效地制成§9液态橡胶§r。%n%n
+nomifactory.quest.normal.db.55.desc=在处理矿石粉时，§3离心机§r为你提供§21小撮粉§r的额外材料（§e9小撮粉=1粉§r）。有时它是离心物的粉尘，但通常它是另一种有用的材料，否则这种材料将是无法获得的。%n%n与其在坩埚中清洗§6含杂粉§r（通过浸渍或锤打矿石），不如通过离心来获得更多的粉尘。当你做出了§3洗矿机§r或者§3化学浸洗器§r的时候，同样的情况还有§6洁净粉§r，但请注意，洁净粉和含杂粉通常会产生不同的副产物（请务必在§bJEI§r中查看）。%n%n离心机还有其他用途，如去除复合粉尘和液体的混合物，或获取§6橡胶末§r，它可以与§6硫§r发生化学反应，从而有效地制成§9液态橡胶§r。
 
 # db 56 of mode normal
 nomifactory.quest.normal.db.56.title=所有东西聚一起
@@ -282,7 +282,7 @@ nomifactory.quest.normal.db.60.desc=§3电力高炉§r是你的§b格雷科技§
 
 # db 61 of mode normal
 nomifactory.quest.normal.db.61.title=§2宝石探测器
-nomifactory.quest.normal.db.61.desc=部分微型采掘机需要使用§6宝石探测器§r去探寻宝石，而不是矿石。%n%n§6§2完美宝石§r可以从这获得。
+nomifactory.quest.normal.db.61.desc=部分微型采掘机需要使用§6宝石探测器§r去探寻宝石，而不是矿石。%n%n§2完美宝石§r可以从这获得。
 
 # db 62 of mode normal
 nomifactory.quest.normal.db.62.title=ME终端
@@ -290,7 +290,7 @@ nomifactory.quest.normal.db.62.desc=在一个屏幕上访问你的所有物品�
 
 # db 63 of mode normal
 nomifactory.quest.normal.db.63.title=ME箱子
-nomifactory.quest.normal.db.63.desc=单独使用§aME箱子§r有点不切实际，但它是更有用的§6ME驱动器§r的必要组成部分。%n%n这是一个初级的数字物品存储设备在里面放置一个§6存储元件§r，你可以像打开箱子一样访问里面的东西。你可以把存储元件带到另一个地方，把它放在不同的ME箱子里，物品也会随之而来。%n%n§c不要把存储元件放在其他模组的便携式库存中，如背包中（反之亦然），因为你可能会损坏背包和存储元件中的内容。§r发生这种情况是因为NBT溢出，而且这不是这些物品本身的问题，但这并不值得去研究。%n%n
+nomifactory.quest.normal.db.63.desc=单独使用§aME箱子§r有点不切实际，但它是更有用的§6ME驱动器§r的必要组成部分。%n%n这是一个初级的数字物品存储设备在里面放置一个§6存储元件§r，你可以像打开箱子一样访问里面的东西。你可以把存储元件带到另一个地方，把它放在不同的ME箱子里，物品也会随之而来。%n%n§c不要把存储元件放在其他模组的便携式库存中，如背包中（反之亦然），因为你可能会损坏背包和存储元件中的内容。§r发生这种情况是因为NBT溢出，而且这不是这些物品本身的问题，但这并不值得去研究。
 
 # db 64 of mode normal
 nomifactory.quest.normal.db.64.title=终于可以数字化存储了
@@ -322,7 +322,7 @@ nomifactory.quest.normal.db.70.desc=§aMV电池§r的功能与§aLV电池§r基�
 
 # db 71 of mode normal
 nomifactory.quest.normal.db.71.title=MV电解机
-nomifactory.quest.normal.db.71.desc=§3MV电解机§r允许您处理需要高达128EU/t的配方，并可选择超频最多32EU/t的配方。%n%n这意味着更快的产出。%n
+nomifactory.quest.normal.db.71.desc=§3MV电解机§r允许您处理需要高达128EU/t的配方，并可选择超频最多32EU/t的配方。%n%n这意味着更快的产出。
 
 # db 72 of mode normal
 nomifactory.quest.normal.db.72.title=§2LV组装机
@@ -354,7 +354,7 @@ nomifactory.quest.normal.db.78.desc=§2初始电路元件在GTCEu中的难度较
 
 # db 79 of mode normal
 nomifactory.quest.normal.db.79.title=§2板材切割机
-nomifactory.quest.normal.db.79.desc=把东西切开。%n%n§3板材切割机§r能够为你切割晶圆、杆、木头和其他各种东西，使它成为一个多功能的灵活工具。将方块切成9个板，可能比用§2卷板机§r一次做一个要快。%n%nMV电压等级时可用于切割§6单晶硅§r，一旦获得§9聚乙烯§r时可用于更简单的§6二极管§r制造，以及将§6硅圆§r切割成可用的组件。%n%n刀片需要§2钒钢§r。%n%n板材切割机在所有配方中需要消耗§9水§r。你也可以使用§9蒸馏水§r，它在一定程度上加快了处理速度，或者使用§9润滑油§r，它大大加快了处理速度（而且每次操作消耗很少）。现在做这些可能有点棘手，但在未来是非常值得的升级。%n
+nomifactory.quest.normal.db.79.desc=把东西切开。%n%n§3板材切割机§r能够为你切割晶圆、杆、木头和其他各种东西，使它成为一个多功能的灵活工具。将方块切成9个板，可能比用§2卷板机§r一次做一个要快。%n%nMV电压等级时可用于切割§6单晶硅§r，一旦获得§9聚乙烯§r时可用于更简单的§6二极管§r制造，以及将§6硅圆§r切割成可用的组件。%n%n刀片需要§2钒钢§r。%n%n板材切割机在所有配方中需要消耗§9水§r。你也可以使用§9蒸馏水§r，它在一定程度上加快了处理速度，或者使用§9润滑油§r，它大大加快了处理速度（而且每次操作消耗很少）。现在做这些可能有点棘手，但在未来是非常值得的升级。
 
 # db 80 of mode normal
 nomifactory.quest.normal.db.80.title=§2单晶硅
@@ -386,7 +386,7 @@ nomifactory.quest.normal.db.87.desc=§2两个集成逻辑电路§r和其他各�
 
 # db 88 of mode normal
 nomifactory.quest.normal.db.88.title=§2透镜
-nomifactory.quest.normal.db.88.desc=你需要各种用于§3精密激光蚀刻机§r的§a透镜§r，所有这些都是在§2车床§r中制作的。%n%n最初，你需要一个§2红宝石透镜§r。很快你就会需要§2钻石、绿宝石、黄玉和蓝宝石透镜§r了。§2你可以选择使用MV车床车铣板得到一个透镜，或者筛选出一个精致的宝石就可以使用LV车床。%n%n
+nomifactory.quest.normal.db.88.desc=你需要各种用于§3精密激光蚀刻机§r的§a透镜§r，所有这些都是在§2车床§r中制作的。%n%n最初，你需要一个§2红宝石透镜§r。很快你就会需要§2钻石、绿宝石、黄玉和蓝宝石透镜§r了。§2你可以选择使用MV车床车铣板得到一个透镜，或者筛选出一个精致的宝石就可以使用LV车床。%n%n§r或者，您可以使用§9硫酸§r来制作所需颜色的§9化学染料§r，并用它们来制作染色的§6玻璃镜片§r。不同染色镜片可以互相转化。
 
 # db 89 of mode normal
 nomifactory.quest.normal.db.89.title=§2第一种三阶电路
@@ -410,11 +410,11 @@ nomifactory.quest.normal.db.93.desc=随着§6HV机身§r的制成，你已经向
 
 # db 94 of mode normal
 nomifactory.quest.normal.db.94.title=§2硫酸
-nomifactory.quest.normal.db.94.desc=§2硫酸的生产主要有3个步骤：%n——硫与氧反应，生成二氧化硫。二氧化硫也可以来自于在电力高炉中用氧处理某些含硫的粉，或通过下界空气获得。%n——二氧化硫与更多的氧反应，生成三氧化硫。%n——三氧化硫与水反应，生成硫酸。%n%n硫与水反应的捷径被锁在大型化学反应釜后面，在EV时解锁。%n%n§r在一系列的化学反应中，你会需要大量的这种物质，因为它是一种非常常见的成分。%n%n硫可以从很多东西中电解出来，但也很容易通过§b深度怪物学习§r的§a烈焰人数据模型§r获得。
+nomifactory.quest.normal.db.94.desc=§9硫酸§r的生产主要有3个步骤：%n——§6硫§r与§9氧§r反应，生成§e二氧化硫§r。二氧化硫也可以来自于在电力高炉中用氧处理某些含硫的粉，或通过§e下界空气§r获得。%n%n——二氧化硫与更多的氧反应，生成§e三氧化硫§r。%n%n——三氧化硫与§9水§r反应，生成§9硫酸§r。%n%n硫与水反应的捷径被锁在大型化学反应釜后面，在§6HV§r时解锁。%n%n§r在一系列的化学反应中，你会需要大量的这种物质，因为它是一种非常常见的成分。%n%n硫可以从很多东西中电解出来，但也很容易通过§b深度怪物学习§r的§a烈焰人数据模型§r获得。%n%n如果你在用§d格雷管道§r，请注意管道材质是否耐酸。
 
 # db 95 of mode normal
 nomifactory.quest.normal.db.95.title=§2乙烯
-nomifactory.quest.normal.db.95.desc=§9乙烯§r是从§d石油化工r中获得的碳氢化合物，或者通过在§3化学反应器§r中用§9硫酸§r与§9乙醇§r反应获得的。选择适合您的方法：%n%n——§9乙醇§r路线允许您使用现有的§6甘蔗§r农场来生产§9乙烯§r。但是，配方需要§bMV§r机器才能运行。%n%n——§d石油化工§r路线§2仅需要LV机器§r，但您必须从其他来源获取§9油§r。§2重度蒸汽裂解轻燃油§r对§9原油、石油和重油§r最有效。§重度蒸汽裂解石脑油§r对§9轻油§r效率更高。%n%n乙烯是塑料生产中极其重要的化学品，因为您需要§9乙烯§r来生产§9聚乙烯§r、§9聚氯乙烯§r，并可用于§9丁苯橡胶§r，这是橡胶的最佳形式。
+nomifactory.quest.normal.db.95.desc=§9乙烯§r是从§d石油化工r中获得的碳氢化合物，或者通过在§3化学反应器§r中用§9硫酸§r与§9乙醇§r反应获得的。选择适合您的方法：%n%n——§9乙醇§r路线允许您使用现有的§6甘蔗§r农场来生产§9乙烯§r。但是，配方需要§bMV§r机器才能运行。%n%n——§d石油化工§r路线§2仅需要LV机器§r，但您必须从其他来源获取§9油§r。§2重度蒸汽裂解轻燃油§r对§9石油§r和§9重油§r最有效。§重度蒸汽裂解石脑油§r对§9原油§r和§9轻油§r效率更高。%n%n乙烯是塑料生产中极其重要的化学品，因为您需要§9乙烯§r来生产§9聚乙烯§r、§9聚氯乙烯§r，并可用于§9丁苯橡胶§r，这是橡胶的最佳形式。
 
 # db 96 of mode normal
 nomifactory.quest.normal.db.96.title=聚乙烯
@@ -450,7 +450,7 @@ nomifactory.quest.normal.db.103.desc=§a压印模板§r是被§3压印器§r所�
 
 # db 104 of mode normal
 nomifactory.quest.normal.db.104.title=自动合成样板
-nomifactory.quest.normal.db.104.desc=§a样板§r用于编写一个单一合成配方或处理配方，以便用§b应用能源2§r实现按需自动化。%n%n在§a样板终端§r中对它们进行编码。%n%n请注意，用替换功能的编码配方将使用现有的同类物品，但只会自动制作配方中指定的确切物品。§r%n%n对需要格雷科技手工工具的配方进行编码，也是一个§c非常糟糕的主意§r（在开启替换功能的情况下更糟糕）。它们会导致你的合成计算在复杂性和内存需求方面爆炸性增长。%n%n使用机器的配方来代替！%n%n
+nomifactory.quest.normal.db.104.desc=§a样板§r用于编写一个单一合成配方或处理配方，以便用§b应用能源2§r实现按需自动化。%n%n在§a样板终端§r中对它们进行编码。%n%n请注意，用替换功能的编码配方将使用现有的同类物品，但只会自动制作配方中指定的确切物品。§r%n%n对需要格雷科技手工工具的配方进行编码，也是一个§c非常糟糕的主意§r（在开启替换功能的情况下更糟糕）。它们会导致你的合成计算在复杂性和内存需求方面爆炸性增长。%n%n使用机器的配方来代替！
 
 # db 105 of mode normal
 nomifactory.quest.normal.db.105.title=运算处理器
@@ -470,7 +470,7 @@ nomifactory.quest.normal.db.108.desc=这个方便的终端允许你在一个地�
 
 # db 109 of mode normal
 nomifactory.quest.normal.db.109.title=ME接口
-nomifactory.quest.normal.db.109.desc=§aME接口§r对自动化来说极为重要。如果你玩得好的话，你会做很多它们。%n%n这些都可以用已编码的§a样板§r填充，以执行按需自动制作，并且可以配置成最多§29组512个物品（总计4608个）§r ，用于被动自动制作，任何输入ME接口的物品都会被数字化并放入你的ME网络存储。%n%n当与一个或多个§a分子装配室§r相邻时，可以制作合成台配方。它将尽可能多地使用相邻的分子装配室，受制于你的合成CPU多方块结构中§a并行处理单元§r的数量限制。%n%n当与任何其他方块相邻时，你可以用机器的处理样板将物品输入机器中。处理样板要求通过ME接口将完成的物品输入回ME网络（尽管它不需要是样板所在的那个ME接口）。%n%nME接口可以转向，以确保它们只与特定的相邻方块通信，或者制作成微型部件的形式，以便在同一方块空间中容纳多个接口（每个微型部件只与相邻的方块面发生作用）。%n%n
+nomifactory.quest.normal.db.109.desc=§aME接口§r对自动化来说极为重要。如果你玩得好的话，你会做很多它们。%n%n这些都可以用已编码的§a样板§r填充，以执行按需自动制作，并且可以配置成最多§29组512个物品（总计4608个）§r ，用于被动自动制作，任何输入ME接口的物品都会被数字化并放入你的ME网络存储。%n%n当与一个或多个§a分子装配室§r相邻时，可以制作合成台配方。它将尽可能多地使用相邻的分子装配室，受制于你的合成CPU多方块结构中§a并行处理单元§r的数量限制。%n%n当与任何其他方块相邻时，你可以用机器的处理样板将物品输入机器中。处理样板要求通过ME接口将完成的物品输入回ME网络（尽管它不需要是样板所在的那个ME接口）。%n%nME接口可以转向，以确保它们只与特定的相邻方块通信，或者制作成微型部件的形式，以便在同一方块空间中容纳多个接口（每个微型部件只与相邻的方块面发生作用）。
 
 # db 110 of mode normal
 nomifactory.quest.normal.db.110.title=合成单元
@@ -498,7 +498,7 @@ nomifactory.quest.normal.db.115.desc=§6红煤§r是§6黑钢粉§r的重要成�
 
 # db 116 of mode normal
 nomifactory.quest.normal.db.116.title=黑钢
-nomifactory.quest.normal.db.116.desc=§6黑钢§r将被用来制造§b拓展合成§r的各种物品。它也将是以后其他钢类型的基础。
+nomifactory.quest.normal.db.116.desc=§6黑钢§r将被用来制造§b拓展合成§r的各种物品。它也将是以后其他钢类型的基础。%n%n起初，你需要在合成§6黑钢粉§r的过程中制造§6黑青铜粉§r。你可以通过造一台§6HV 搅拌机§r来跳过这一步。
 
 # db 117 of mode normal
 nomifactory.quest.normal.db.117.title=1k流体存储
@@ -534,7 +534,7 @@ nomifactory.quest.normal.db.124.desc=最后一种流体存储组件，用于制�
 
 # db 125 of mode normal
 nomifactory.quest.normal.db.125.title=GP发电机
-nomifactory.quest.normal.db.125.desc=§6烧制石头§r是更多实用设备2制作许多东西的关键成分。%n%n除了手动发电机，还有多种方法可以生成GP。在JEI中查找“发电机”，了解所有可能的发电机。%n%n请注意，各个发电机的平衡方式与正常情况不同，所以在建造16个水力发电机之前要考虑到这一点。由于§b更多实用设备2§r实施收益递减，防止滥用一种发电机，所以使用几种不同的类型是个好主意。%n%n
+nomifactory.quest.normal.db.125.desc=§6烧制石头§r是更多实用设备2制作许多东西的关键成分。%n%n除了手动发电机，还有多种方法可以生成GP。在JEI中查找“发电机”，了解所有可能的发电机。%n%n请注意，各个发电机的平衡方式与正常情况不同，所以在建造16个水力发电机之前要考虑到这一点。由于§b更多实用设备2§r实施收益递减，防止滥用一种发电机，所以使用几种不同的类型是个好主意。
 
 # db 126 of mode normal
 nomifactory.quest.normal.db.126.title=§2SMD元件
@@ -574,7 +574,7 @@ nomifactory.quest.normal.db.136.desc=另一种零部件。使用§6镍锌铁氧�
 
 # db 138 of mode normal
 nomifactory.quest.normal.db.138.title=§2LuV机身
-nomifactory.quest.normal.db.138.desc=有了§6镀铑钯金§r、§6钒镓§r、§2和聚苯硫醚§r，你现在可以为剧差压（LuV）§b格雷科技§r机器制作机身。
+nomifactory.quest.normal.db.138.desc=有了§2镀铑钯流明§r、§6铌钛§r、§2和聚苯硫醚§r，你现在可以为剧差压（LuV）§b格雷科技§r机器制作外壳。
 
 # db 139 of mode normal
 nomifactory.quest.normal.db.139.title=稀土
@@ -610,15 +610,15 @@ nomifactory.quest.normal.db.148.desc=是制作筷子的完美材料。%n%n也是
 
 # db 149 of mode normal
 nomifactory.quest.normal.db.149.title=热钛
-nomifactory.quest.normal.db.149.desc=将§9四氯化钛§r与§6镁§r在§3电力高炉§r中结合起来（类似于克罗尔法），就可以得到你的第一个钛。%n%n这个过程是闭环的，因此如果您正确处理它，除了§6金红石§r之外，不会花费您任何资源。%n%n然而，它是超级热的。你需要在§3真空冷冻机§r中冷却它。%n%n您应该为§6坎塔尔§r制作了一个§3真空冷冻机§r，但如果您还没有这样做，或是您想要改进您的设计，通过AE路由是使用物品管道的替代方法。只需在冷冻机的输入总线上放置一个矿物词典存储总线，将其设置为“ingotHot*”，并将其设置为高优先级即可。这将接受任何新的热锭进入您的系统，并消除对大型管道网络的需要。%n%n但不要将热锭写入模板中！
+nomifactory.quest.normal.db.149.desc=将§9四氯化钛§r与§6镁§r在§3电力高炉§r中结合起来（类似于克罗尔法），就可以得到你的第一个§6钛§r。%n%n这个过程是闭环的，因此如果您正确处理它，除了§6金红石§r之外，不会花费您任何资源。%n%n然而，它是超级热的。你需要在§3真空冷冻机§r中冷却它。%n%n通过 AE 路由是使用物品管道的替代方法。只需在冷冻机的输入总线上放置一个矿物词典存储总线，将其设置为“ingotHot*”，并将其设置为高优先级即可。这将接受任何新的热锭进入您的系统，并消除对大型管道网络的需要。%n%n但不要将热锭写入模板中！
 
 # db 150 of mode normal
 nomifactory.quest.normal.db.150.title=真空冷冻机
-nomifactory.quest.normal.db.150.desc=§3真空冷冻机§r主要用于冷却热锭。%n%n他们还能够将空气冻结成流体，以及制造超导体。%n%n至少你需要一个能源仓，一个输入总线，一个输出总线，以及22个§6铝制防冻机器外壳§r，用于形成处理热锭的多方块结构。%n%n如果你也想处理流体，请减去两个机械方块，用流体输入仓和流体输出仓来代替它们。%n%n除了控制器的位置，像往常一样，仓/总线可以在任何地方。使用§bJEI§r中的多方块指南，可以从控制器方块中唤醒。
+nomifactory.quest.normal.db.150.desc=§3真空冷冻机§r主要用于冷却热锭。%n%n他们还能够将空气冻结成流体，以及制造超导体。%n%n至少你需要一个能源仓，一个输入总线，一个输出总线，以及22个§6铝制防冻机器外壳§r，用于形成处理热锭的多方块结构。%n%n如果你也想处理流体，请减去两个机械方块，用流体输入仓和流体输出仓来代替它们。%n%n真空冷冻机配方的电压等级往往比热锭在§3电力高炉§r中合成所需的电压等级低一级。%n%n除了控制器的位置，像往常一样，仓/总线可以在任何地方。使用§bJEI§r中的多方块指南，可以从控制器方块中唤醒。
 
 # db 151 of mode normal
 nomifactory.quest.normal.db.151.title=早期金红石处理
-nomifactory.quest.normal.db.151.desc=§6金红石§r是§6钛§r的§6一种前身§r，可在§6钛铁矿矿石§r和§6铝土矿矿石§r中找到，这些矿石在主世界内特别罕见。%n%n在月球和其他行星上可能会发现更多的钛铁矿和铝土矿。%n%n
+nomifactory.quest.normal.db.151.desc=§6金红石§r是§6钛§r的§6一种前身§r，可在§6钛铁矿矿石§r和§6铝土矿矿石§r中找到，这些矿石在主世界内特别罕见。%n%n在月球和其他行星上可能会发现更多的钛铁矿和铝土矿。
 
 # db 152 of mode normal
 nomifactory.quest.normal.db.152.title=四氯化钛
@@ -646,7 +646,7 @@ nomifactory.quest.normal.db.157.desc=是时候升级你的§3工业高炉§r了�
 
 # db 158 of mode normal
 nomifactory.quest.normal.db.158.title=镍铬合金锭
-nomifactory.quest.normal.db.158.desc=§6镍铬合金§r是一种由§6镍§r和§6铬§r组成的合金。%n%n这种合金在§3电力高炉§r中熔化，并在§3真空冷冻机§r中冷却。%n
+nomifactory.quest.normal.db.158.desc=§6镍铬合金§r是一种由§6镍§r和§6铬§r组成的合金。%n%n这种合金在§3电力高炉§r中熔化，并在§3真空冷冻机§r中冷却。
 
 # db 159 of mode normal
 nomifactory.quest.normal.db.159.title=§2镍铬合金线圈方块
@@ -682,7 +682,7 @@ nomifactory.quest.normal.db.166.desc=§9石脑油§r最好用于蒸汽裂解和�
 
 # db 167 of mode normal
 nomifactory.quest.normal.db.167.title=§2硫化氢
-nomifactory.quest.normal.db.167.desc=§9硫化氢§r是加氢脱硫的一种副产物。§2它也来自于蒸馏液态下界空气。§r%n%n与§9水§r进行简单的化学反应，就可以将其重新处理成有用的§9硫酸§r，或者可以通过电解来回收§9氢§r。
+nomifactory.quest.normal.db.167.desc=§9硫化氢§r是加氢脱硫的一种副产物。§2它也来自于蒸馏液态下界空气。§r%n%n与§9氧气§r进行简单的化学反应，就可以将其重新处理成有用的§9硫酸§r，或者可以通过电解来回收§9氢§r。
 
 # db 168 of mode normal
 nomifactory.quest.normal.db.168.title=柴油
@@ -698,7 +698,7 @@ nomifactory.quest.normal.db.170.desc=§6氢氧化钠§r是一种强碱，是§9�
 
 # db 171 of mode normal
 nomifactory.quest.normal.db.171.title=§2低温空气蒸馏
-nomifactory.quest.normal.db.171.desc=§9空气§r可以被送入§3真空冷冻机§r，把它变成§9液态空气§r。%n%n液态空气可以被送入§2普通蒸馏塔§r，将其分解为各种成分。%n%n§2液态下界空气和液态末地空气提供了不同的有用成分。%n
+nomifactory.quest.normal.db.171.desc=§9空气§r可以被送入§3真空冷冻机§r，变为§9液态空气§r。%n%n液态空气可以被送入§2普通蒸馏塔§r，分解为各种成分。%n%n§2液态下界空气和液态末地空气也提供了不同的有用成分。
 
 # db 172 of mode normal
 nomifactory.quest.normal.db.172.title=生物柴油和甘油
@@ -710,7 +710,7 @@ nomifactory.quest.normal.db.173.desc=§9氮§r占空气的78%%。正因为如此
 
 # db 174 of mode normal
 nomifactory.quest.normal.db.174.title=§2基础空气收集
-nomifactory.quest.normal.db.174.desc=注意：这个任务同时接受LV/MV/HV/EV§3集气器§r。%n%n只要顶部不受阻挡，§3集气器§r将以一个适当的速度收集空气。收集的空气通过输出口自动输出到相邻的储罐里。%n%n§2地狱和末地的集气器将分别收集下界空气和末地空气，产生不同的产物。§r%n%nIV+集气器不是这个任务的一部分，但作为参考，它们是存在的，被称为§3大气收集器§r。%n%n
+nomifactory.quest.normal.db.174.desc=注意：这个任务同时接受LV/MV/HV/EV§3集气器§r。%n%n只要顶部不受阻挡，§3集气器§r将以一个适当的速度收集空气。收集的空气通过输出口自动输出到相邻的储罐里。%n%n§2地狱和末地的集气器将分别收集下界空气和末地空气，产生不同的产物。§r%n%nIV+集气器不是这个任务的一部分，但作为参考，它们是存在的，被称为§3大气收集器§r。
 
 # db 175 of mode normal
 nomifactory.quest.normal.db.175.title=§2稀有气体
@@ -750,7 +750,7 @@ nomifactory.quest.normal.db.183.desc=§6纤维强化环氧树脂基板§r是在�
 
 # db 184 of mode normal
 nomifactory.quest.normal.db.184.title=§2掌握石油化工
-nomifactory.quest.normal.db.184.desc=§o注意：此任务接受石油、原油、轻油或重油。§r%n%n石油化学是与石油有关的有机化学，也称为§9石化§r。%n%n§b格雷科技§r的石油化工一开始可能看起来令人生畏，因为化学物和处理方案的数量庞大，但实际上它比你想象的更容易进入。%n%n石油是起点，你可以从世界上有限的自然矿井中抽出几种变种，也可以从§6油砂矿§r和§6灵魂砂§r中再生，还可以直接从§3流体钻机§r中以液体形式出现。%n%n§2根据你的流体矿脉，流体钻机也可以采集原油、重油和轻油。原油与石油类似，在蒸馏时给出相同的比例，但需要两倍的流体。重油和轻油在蒸馏时的比例不同。§r%n%n首先是蒸馏石油。这将产出§9含硫重燃油§r、§9含硫轻燃油§r、§9含硫石脑油§r和/或§9含硫炼油气§r。%n%n这些都需要使用§9氢§r在§3化学反应釜§r或§2石油裂化机§r中进行加氢脱硫，从而产生非含硫版本。%n%n所有这些产物都很有用，所以要想清楚你要如何储存各种和大量的流体。%n%n即将到来的任务将引导你了解石油化工的基础知识。一旦你掌握了这些，就可以自由地进一步探索。%n
+nomifactory.quest.normal.db.184.desc=§o注意：此任务接受石油、原油、轻油或重油。§r%n%n石油化学是与石油有关的有机化学，也称为§9石化§r。%n%n§b格雷科技§r的石油化工一开始可能看起来令人生畏，因为化学物和处理方案的数量庞大，但实际上它比你想象的更容易进入。%n%n石油是起点，你可以从世界上有限的自然矿井中抽出几种变种，也可以从§6油砂矿§r和§6灵魂砂§r中再生，还可以直接从§3流体钻机§r中以液体形式出现。%n%n§2根据你的流体矿脉，流体钻机也可以采集原油、重油和轻油。原油与石油类似，在蒸馏时给出相同的比例，但需要两倍的流体。重油和轻油在蒸馏时的比例不同。§r%n%n首先是蒸馏石油。这将产出§9含硫重燃油§r、§9含硫轻燃油§r、§9含硫石脑油§r和/或§9含硫炼油气§r。%n%n这些都需要使用§9氢§r在§3化学反应釜§r或§2石油裂化机§r中进行加氢脱硫，从而产生非含硫版本。%n%n所有这些产物都很有用，所以要想清楚你要如何储存各种和大量的流体。%n%n即将到来的任务将引导你了解石油化工的基础知识。一旦你掌握了这些，就可以自由地进一步探索。
 
 # db 185 of mode normal
 nomifactory.quest.normal.db.185.title=环氧树脂
@@ -794,7 +794,7 @@ nomifactory.quest.normal.db.196.desc=§2看起来不完全是铕的样子了。�
 
 # db 197 of mode normal
 nomifactory.quest.normal.db.197.title=钨钢
-nomifactory.quest.normal.db.197.desc=§6钨钢§r是一种由§6钨§r和§6钢§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。%n
+nomifactory.quest.normal.db.197.desc=§6钨钢§r是一种由§6钨§r和§6钢§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。
 
 # db 198 of mode normal
 nomifactory.quest.normal.db.198.title=§2IV机身
@@ -834,7 +834,7 @@ nomifactory.quest.normal.db.207.desc=将几种成分组合成一种催化剂。
 
 # db 208 of mode normal
 nomifactory.quest.normal.db.208.title=发射台和火箭组装机
-nomifactory.quest.normal.db.208.desc=在某些时候，你可以考虑进入太空，比如月球。虽然这不是进展的必要条件，但你可能会发现它很有价值：至少可以说，月球上有一些矿脉，而这些矿脉在地球上是非常罕见的。而为此，你需要一枚火箭和一大堆准备工作。%n%n在你建造火箭本身之前，你需要搭建一个发射台。§6发射台§r方块在地面上以3x3的平面布局形成平台。%n%n结构塔是由§6个结构塔§r方块组成的柱子，将你的火箭竖立起来。第一个方块与发射台平台的任何一侧相邻（与发射台块在同一水平面上）。%n%n使用6个结构塔方块，你只能建造一个5个方块高的火箭，因为再高就会超过塔的高度。为了建造更高的火箭，你需要使用更多的结构塔方块建造更高的塔。%n%n§3火箭组装机§r需要放在发射台旁边（而不是在上面），比平台高一个方块，以便火箭组装机的底部与发射台的顶部平齐。它还需要提供RF能量才能运作。%n%n
+nomifactory.quest.normal.db.208.desc=在某些时候，你可以考虑进入太空，比如月球。虽然这不是进展的必要条件，但你可能会发现它很有价值：至少可以说，月球上有一些矿脉，而这些矿脉在地球上是非常罕见的。而为此，你需要一枚火箭和一大堆准备工作。%n%n在你建造火箭本身之前，你需要搭建一个发射台。§6发射台§r方块在地面上以3x3的平面布局形成平台。%n%n结构塔是由§6个结构塔§r方块组成的柱子，将你的火箭竖立起来。第一个方块与发射台平台的任何一侧相邻（与发射台块在同一水平面上）。%n%n使用6个结构塔方块，你只能建造一个5个方块高的火箭，因为再高就会超过塔的高度。为了建造更高的火箭，你需要使用更多的结构塔方块建造更高的塔。%n%n§3火箭组装机§r需要放在发射台旁边（而不是在上面），比平台高一个方块，以便火箭组装机的底部与发射台的顶部平齐。它还需要提供RF能量才能运作。
 
 # db 209 of mode normal
 nomifactory.quest.normal.db.209.title=高级拓展工作台
@@ -850,7 +850,7 @@ nomifactory.quest.normal.db.211.desc=你将需要这个来设置§a导航电脑�
 
 # db 212 of mode normal
 nomifactory.quest.normal.db.212.title=燃料装载
-nomifactory.quest.normal.db.212.desc=§3燃油站§r是火箭获得燃料的方式。%n%n首先，把你的火箭组装起来，然后在§3火箭组装机§r中对火箭进行§a扫描§r和§c建造§r来组装它（把它变成一个实体）。接下来，用你手中的§a连接器§r，右击燃油站，然后单击火箭组装机，将燃油站与建造的火箭连接起来。%n%n当你做对了，你会得到一个确认信息，在燃油站和火箭之间会出现一条小线。%n%n现在只要把§9火箭燃料§r放入燃油站，它就会自动转移到火箭上。%n
+nomifactory.quest.normal.db.212.desc=§3燃油站§r是火箭获得燃料的方式。%n%n首先，把你的火箭组装起来，然后在§3火箭组装机§r中对火箭进行§a扫描§r和§c建造§r来组装它（把它变成一个实体）。接下来，用你手中的§a连接器§r，右击燃油站，然后单击火箭组装机，将燃油站与建造的火箭连接起来。%n%n当你做对了，你会得到一个确认信息，在燃油站和火箭之间会出现一条小线。%n%n现在只要把§9火箭燃料§r放入燃油站，它就会自动转移到火箭上。
 
 # db 213 of mode normal
 nomifactory.quest.normal.db.213.title=旅行权杖
@@ -858,7 +858,7 @@ nomifactory.quest.normal.db.213.desc=拿在手中，就可以看到范围内的�
 
 # db 214 of mode normal
 nomifactory.quest.normal.db.214.title=§2氘
-nomifactory.quest.normal.db.214.desc=月球是一块荒芜的、没有生命的岩石...那么你为什么要来这里？%n%n一个主要的好处是，构成月球表面的§6月面土§r是获得§9氘§r的一个有效手段。它对于生产§9微型宇宙锭§r、§9氚§r、聚变产生等离子以及结晶§6双锂§r都很有用。%n%n月球还含有氘和氦-3的流体储藏，你可以用流体钻机收获这些物质。然而，你要使用第二级流体钻机来提取它，因为氘和氦-3的数量太少，无法从第一级流体钻机中获得任何有价值的东西。%n%n太空探索在本包中并不是强制的，如果您不想使用§b高级火箭§r探索太空，那么您可以将§9氢§r离心以获得§e氘§r。%n%n请记住，跳过此步骤的回报要低得多，并且你需要大量的氢气来补偿，尽管你在第一个§3微型宇宙投影仪§r中不需要太多。%n%n在§6HV§r时代，甚至在§1IV§r时代更好，你还可以通过处理§9末影空气§r来获得这些，这可能比去月球更好，具体取决于你的情况。§r%n%n还有几种矿石，在地球上很罕见，但在月球上却大量存在。特别是，月球上含有大量的§6钛§r（以§6金红石矿石§r和§6钛铁矿矿石§r的形式）和§6钨§r（以§6白钨矿矿石§r和§6钨酸锂矿石§r的形式）。%n%n%n
+nomifactory.quest.normal.db.214.desc=月球是一块荒芜的、没有生命的岩石...那么你为什么要来这里？%n%n一个主要的好处是，构成月球表面的§6月面土§r是获得§9氘§r的一个有效手段。它对于生产§9微型宇宙锭§r、§9氚§r、聚变产生等离子以及结晶§6双锂§r都很有用。%n%n月球还含有氘和氦-3的流体储藏，你可以用流体钻机收获这些物质。然而，你要使用第二级流体钻机来提取它，因为氘和氦-3的数量太少，无法从第一级流体钻机中获得任何有价值的东西。%n%n太空探索在本包中并不是强制的，如果您不想使用§b高级火箭§r探索太空，那么您可以将§9氢§r离心以获得§e氘§r。%n%n请记住，跳过此步骤的回报要低得多，并且你需要大量的氢气来补偿，尽管你在第一个§3微型宇宙投影仪§r中不需要太多。%n%n在§6HV§r时代，甚至在§1IV§r时代更好，你还可以通过处理§9末影空气§r来获得这些，这可能比去月球更好，具体取决于你的情况。§r%n%n还有几种矿石，在地球上很罕见，但在月球上却大量存在。特别是，月球上含有大量的§6钛§r（以§6金红石矿石§r和§6钛铁矿矿石§r的形式）和§6钨§r（以§6白钨矿矿石§r和§6钨酸锂矿石§r的形式）。
 
 # db 215 of mode normal
 nomifactory.quest.normal.db.215.title=§2泵
@@ -870,7 +870,7 @@ nomifactory.quest.normal.db.216.desc=这是你的第一个§3微型宇宙投影�
 
 # db 217 of mode normal
 nomifactory.quest.normal.db.217.title=§2初次尝试进入微型宇宙
-nomifactory.quest.normal.db.217.desc=这是你有史以来第一个微型采掘机。§2在LV力场发生器中需要磷。§r%n是的，不是最后一个：这些东西是不能重复使用的。%n%n你可以从中获得：%n§6* 致密铁矿石%n* 锡石矿石%n* 红石矿石%n* 镍矿石%n§2* 钛铁矿石§r%n§6* 晶质铀矿石%n* 方铅矿矿石%n§2* 钼矿石§r%n§6* 月球草皮%n * 双锂%n* 盐矿石§r%n%n当配备了宝石探测器时（目前可能还无法得到）：%n§2* 完美钻石%n§6* 磷灰石矿石%n* 磷酸三钙矿石%n* 石英岩矿石§r%n%n也可用于带来§b恒星创造数据§r，但效率不如第二阶。%n%n
+nomifactory.quest.normal.db.217.desc=这是你有史以来第一个微型采掘机。§2在LV力场发生器中需要磷。§r%n是的，不是最后一个：这些东西是不能重复使用的。%n%n你可以从中获得：%n§6* 致密铁矿石%n* 锡石矿石%n* 红石矿石%n* 镍矿石%n§2* 钛铁矿石§r%n§6* 晶质铀矿石%n* 方铅矿矿石%n§2* 钼矿石§r%n§6* 月球草皮%n * 双锂%n* 盐矿石§r%n%n当配备了宝石探测器时（目前可能还无法得到）：%n§2* 完美钻石%n§6* 磷灰石矿石%n* 磷酸三钙矿石%n* 石英岩矿石§r%n%n也可用于带来§b恒星创造数据§r，但效率不如第二阶。
 
 # db 219 of mode normal
 nomifactory.quest.normal.db.219.title=旅行锚
@@ -906,7 +906,7 @@ nomifactory.quest.normal.db.226.desc=§9水§r和§9氯§r可以组合成§9次�
 
 # db 227 of mode normal
 nomifactory.quest.normal.db.227.title=MV化学反应釜
-nomifactory.quest.normal.db.227.desc=化学反应来啦。%n%n现在看来可能很疯狂，但你会想要为几乎所有你想要处理的化合物分配一个专门的§3化学反应釜§r来处理。你可能想推迟这样做，直到你有一个坚实的自动合成的基础，但...当你可以从你的应用能源2系统中请求化学反应釜的配方时，就不会那么痛苦了。%n
+nomifactory.quest.normal.db.227.desc=化学反应来啦。%n%n现在看来可能很疯狂，但你会想要为几乎所有你想要处理的化合物分配一个专门的§3化学反应釜§r来处理。你可能想推迟这样做，直到你有一个坚实的自动合成的基础，但...当你可以从你的应用能源2系统中请求化学反应釜的配方时，就不会那么痛苦了。
 
 # db 228 of mode normal
 nomifactory.quest.normal.db.228.title=子沙
@@ -950,7 +950,7 @@ nomifactory.quest.normal.db.237.desc=§b应用能源2§r使用在陨石中心的
 
 # db 238 of mode normal
 nomifactory.quest.normal.db.238.title=八阶微型采掘机
-nomifactory.quest.normal.db.238.desc=第八个微型采掘机。%n%n§6混沌碎片§r的主要来源。%n%n另一个任务提供了数量可忽略不计的§6中子素§r和其他一些适度有用的东西，但你最好在§3核聚变反应堆Mk3§r§r中制造中子素，其他物品也可以制作。
+nomifactory.quest.normal.db.238.desc=第八个微型采掘机。%n%n§6混沌碎片§r的主要来源。%n%n另一个任务提供了数量可忽略不计的§6中子素§r和其他一些适度有用的东西，但你最好在§3核聚变反应堆Mk3§r中制造中子素，其他物品也可以制作。
 
 # db 239 of mode normal
 nomifactory.quest.normal.db.239.title=混沌碎片
@@ -1046,7 +1046,7 @@ nomifactory.quest.normal.db.262.desc=一种用于§a终极拓展工作台§r和�
 
 # db 263 of mode normal
 nomifactory.quest.normal.db.263.title=铟
-nomifactory.quest.normal.db.263.desc=§6铟§r是一种稀有材料，需要专门的矿石处理来获取。它对制造§6磷化镓粉§r（InGaP）很有用。%n%n你将需要洁净（用§3洗矿厂§r或§3化学浸洗器§r）§6方铅矿§r和§6闪锌矿§r，以获得§6粉碎洁净的§r粉。这些需要和§9硫酸§r一起放在§3化学反应釜§r中，这将产生§9铟富集溶液§r。%n%n这又需要在另一个化学反应釜中与§6铝§r反应，以产生§2小堆铟粉、亚硫酸铝和§9铅锌溶液§r。后两者可以被离心成各种有用的材料，而小堆铟可以被组合成完整的粉。%n%n§2铟也可以从LuV的硅岩处理链中获得。%n
+nomifactory.quest.normal.db.263.desc=§6铟§r是一种稀有材料，需要专门的矿石处理来获取。它对制造§6磷化镓粉§r（InGaP）很有用。%n%n你将需要洁净（用§3洗矿厂§r或§3化学浸洗器§r）§6方铅矿§r和§6闪锌矿§r，以获得§6粉碎洁净的§r粉。这些需要和§9硫酸§r一起放在§3化学反应釜§r中，这将产生§9铟富集溶液§r。%n%n这又需要在另一个化学反应釜中与§6铝§r反应，以产生§2堆铟粉、亚硫酸铝和§9铅锌溶液§r。后两者可以被离心成各种有用的材料，而小堆铟可以被组合成完整的粉。%n%n当§9编程电路§r设置为§64时，配方可以以更大的批次运行，§2允许您跳过合并小堆粉的过程。§r%n%n§2铟也可以从LuV的硅岩处理链中获得。
 
 # db 264 of mode normal
 nomifactory.quest.normal.db.264.title=§2第四种也是最后一种四阶电路
@@ -1106,7 +1106,7 @@ nomifactory.quest.normal.db.278.desc=你可以将各种各样的物品与§6空�
 
 # db 279 of mode normal
 nomifactory.quest.normal.db.279.title=打碎龙蛋
-nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。%n%n
+nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
 
 # db 280 of mode normal
 nomifactory.quest.normal.db.280.title=万物归一
@@ -1174,7 +1174,7 @@ nomifactory.quest.normal.db.298.desc=集结！%n%n§6元始魔力粉§r是一种
 
 # db 299 of mode normal
 nomifactory.quest.normal.db.299.title=热力设备框架
-nomifactory.quest.normal.db.299.desc=这个外壳是§b热力膨胀§r较简单设备的结构方块。%n%n
+nomifactory.quest.normal.db.299.desc=这个外壳是§b热力膨胀§r较简单设备的结构方块。
 
 # db 300 of mode normal
 nomifactory.quest.normal.db.300.title=热力机器框架
@@ -1226,7 +1226,7 @@ nomifactory.quest.normal.db.311.desc=§6钨钢§r是第四种可用的线圈材�
 
 # db 312 of mode normal
 nomifactory.quest.normal.db.312.title=高速钢-G
-nomifactory.quest.normal.db.312.desc=§6高速钢-G§r是由§6钨钢§r、§6铬§r、§6钼§r和§6钒§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。%n
+nomifactory.quest.normal.db.312.desc=§6高速钢-G§r是由§6钨钢§r、§6铬§r、§6钼§r和§6钒§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。
 
 # db 313 of mode normal
 nomifactory.quest.normal.db.313.title=高速钢-G线圈方块
@@ -1282,7 +1282,7 @@ nomifactory.quest.normal.db.325.desc=有了§3核聚变反应堆§r，你就可�
 
 # db 327 of mode normal
 nomifactory.quest.normal.db.327.title=§2干细胞
-nomifactory.quest.normal.db.327.desc=不要理会你们基地外的抗议者。%n%n在一个§3LuV化学反应釜§r中的每次运作都需要5分钟，所以让多台机器运行这个配方可能是个好主意。至少你可以从§2单次制作中获得128个§r。%n
+nomifactory.quest.normal.db.327.desc=不要理会你们基地外的抗议者。%n%n在一个§3LuV化学反应釜§r中的每次运作都需要5分钟，所以让多台机器运行这个配方可能是个好主意。至少你可以从§2单次制作中获得128个§r。
 
 # db 328 of mode normal
 nomifactory.quest.normal.db.328.title=硼
@@ -1314,7 +1314,7 @@ nomifactory.quest.normal.db.334.desc=§6湿件超级计算机§r是在§3装配�
 
 # db 335 of mode normal
 nomifactory.quest.normal.db.335.title=§2第一种也是唯一的九阶电路
-nomifactory.quest.normal.db.335.desc=最后的电路！%n%n唯一的新成分是§6三钛合金框架§r。%n%n§6湿件处理器主机§r的独特之处在于，没有次要的电路主题，因此也没有其他种类的九阶电路。与过去的主机不同，你需要制作的不仅仅是几个主机。不过它们主要是在终局中使用，所以你还不用太担心。%n%n如果你还没有，一定要考虑将你的§3装配线§r并行化。即使只是拥有两到三条生产线，也会极大地提高你的生产速度，并有助于在你向终局推进时避免出现瓶颈。%n
+nomifactory.quest.normal.db.335.desc=最后的电路！%n%n唯一的新成分是§6三钛合金框架§r。%n%n§6湿件处理器主机§r的独特之处在于，没有次要的电路主题，因此也没有其他种类的九阶电路。与过去的主机不同，你需要制作的不仅仅是几个主机。不过它们主要是在终局中使用，所以你还不用太担心。%n%n如果你还没有，一定要考虑将你的§3装配线§r并行化。即使只是拥有两到三条生产线，也会极大地提高你的生产速度，并有助于在你向终局推进时避免出现瓶颈。
 
 # db 336 of mode normal
 nomifactory.quest.normal.db.336.title=龙素粉
@@ -1330,7 +1330,7 @@ nomifactory.quest.normal.db.338.desc=§2你可以像LV和MV电池一样制造HV�
 
 # db 339 of mode normal
 nomifactory.quest.normal.db.339.title=§2EV机身
-nomifactory.quest.normal.db.339.desc=随着§6钛§r熔炼的自动化，你现在可以为EV机器制作机械方块。%n%n§2从EV开始，每级都有4A能源仓和动力仓。
+nomifactory.quest.normal.db.339.desc=随着§6钛§r熔炼的自动化，你现在可以为 EV 机器制作机械方块。%n%nEV 马达需要比§6钢§r更好的磁性材料。§6%n%n你需要从§6稀土§r中获取钕§r。它的主要来源是§6红石§r和§6氟碳镧铈矿脉§r中的其他矿石。%n%nEV 机械外壳解锁了一堆新东西，看看周围的任务来获取更多信息。
 
 # db 340 of mode normal
 nomifactory.quest.normal.db.340.title=§2EV电力存储
@@ -1426,7 +1426,7 @@ nomifactory.quest.normal.db.366.desc=你赢了！%n%n恭喜你！%n%n我希望�
 
 # db 367 of mode normal
 nomifactory.quest.normal.db.367.title=§2创造量子缸
-nomifactory.quest.normal.db.367.desc=§o现在这还不是结束。这甚至还不是结束的开始。但是，这也许是开始的结束。§r%n%n§d创造量子缸§r是一个重要的里程碑。干得好！%n%n这个缸是你的第一个适当的创造物品，它可以标记为一种流体，然后提供无限量的该流体。§2使用创造储罐提供器为您提供创造量子缸。%n%n格雷科技创造量子缸已经得到加强。你可以打开和关闭它，准确地配置你想要它输出多少流体和多长时间，并改变流体被输出的方向。你甚至可以直接从JEI中配置你想要的流体！§r%n%n在那里，你可以用无限量的你能想到的每一种流体来设置创造量子缸。§3流体固化机§2或更强大的大型固化阵列§r可以用来制造无限的你可以熔化和固化的每一种元素。%n%n就基础设施而言，这是一个相当大的游戏规则改变。你会发现，许多机器不再需要用于原来的用途了。一些重大的基地重新设计是有必要的。你是否考虑过搬到太空去？%n%n综上所述，§e完成这个整合包仍将是一个挑战§r。无限的资源和能量是好的，但它不是一切。有很多材料是你无法融化的，而创造物品将把你的工厂自动化工程技能推向极限。%n%n迎接最后的挑战：§d创造量子箱§r！%n%n
+nomifactory.quest.normal.db.367.desc=§o现在这还不是结束。这甚至还不是结束的开始。但是，这也许是开始的结束。§r%n%n§d创造量子缸§r是一个重要的里程碑。干得好！%n%n这个缸是你的第一个适当的创造物品，它可以标记为一种流体，然后提供无限量的该流体。§2使用创造储罐提供器为您提供创造量子缸。%n%n格雷科技创造量子缸已经得到加强。你可以打开和关闭它，准确地配置你想要它输出多少流体和多长时间，并改变流体被输出的方向。你甚至可以直接从JEI中配置你想要的流体！§r%n%n在那里，你可以用无限量的你能想到的每一种流体来设置创造量子缸。§3流体固化机§2或更强大的大型固化阵列§r可以用来制造无限的你可以熔化和固化的每一种元素。%n%n就基础设施而言，这是一个相当大的游戏规则改变。你会发现，许多机器不再需要用于原来的用途了。一些重大的基地重新设计是有必要的。你是否考虑过搬到太空去？%n%n综上所述，§e完成这个整合包仍将是一个挑战§r。无限的资源和能量是好的，但它不是一切。有很多材料是你无法融化的，而创造物品将把你的工厂自动化工程技能推向极限。%n%n迎接最后的挑战：§d创造量子箱§r!
 
 # db 368 of mode normal
 nomifactory.quest.normal.db.368.title=抓钩
@@ -1494,11 +1494,11 @@ nomifactory.quest.normal.db.397.desc=一个单方块就能解决你的基地供�
 
 # db 398 of mode normal
 nomifactory.quest.normal.db.398.title=工业熔炉
-nomifactory.quest.normal.db.398.desc=§3工业熔炉§r绝对是一个熔炼装置，而且很可能是由模组添加的最好的熔炉。%n%n这是一个3x3x3的多方块结构机器，能够§e每秒熔炼大量的物品§r。通过升级其线圈和能源仓，它可以每秒熔炼多达数千个物品。%n%n移动并悬停在不同的线圈方块上：它们告诉你一个工业熔炉每次操作可以熔炼的物品数量：§e每等级32个物品§r。最基础的工业熔炉基本上可以在与熔炉相同的时间内完成32个物品。有了一套§6钨钢§r线圈方块，每次操作就会跳到128个物品。%n%n这个任务不要求线圈、仓或总线：随意选择你想要的组合。你将需要§a8个线圈方块§r、§a1个输入总线§r、§a1个输出总线§r，以及§21个维护仓§r、§21个消声仓§r和至少§a1个能源仓§r，都可以是任何级别的。%n%n
+nomifactory.quest.normal.db.398.desc=§3工业熔炉§r绝对是一个熔炼装置，而且很可能是由模组添加的最好的熔炉。%n%n这是一个3x3x3的多方块结构机器，能够§e每秒熔炼大量的物品§r。通过升级其线圈和能源仓，它可以每秒熔炼多达数千个物品。%n%n移动并悬停在不同的线圈方块上：它们告诉你一个工业熔炉每次操作可以熔炼的物品数量：§e每等级32个物品§r。最基础的工业熔炉基本上可以在与熔炉相同的时间内完成32个物品。有了一套§6钨钢§r线圈方块，每次操作就会跳到128个物品。%n%n这个任务不要求线圈、仓或总线：随意选择你想要的组合。你将需要§a8个线圈方块§r、§a1个输入总线§r、§a1个输出总线§r，以及§21个维护仓§r、§21个消声仓§r和至少§a1个能源仓§r，都可以是任何级别的。
 
 # db 399 of mode normal
 nomifactory.quest.normal.db.399.title=§2等离子体涡轮
-nomifactory.quest.normal.db.399.desc=§3大型等离子体涡轮§r是一种强大的游戏后期发电方法。一台大型等离子体涡轮§2当使用IV转子支架时将产生基础16384EU/t的能量§r。
+nomifactory.quest.normal.db.399.desc=§3大型等离子体涡轮§r是一种强大的游戏后期发电方法。一台大型等离子体涡轮§2当使用IV转子支架时将产生基础16384EU/t的能量§r。%n%n一般来说，最好的等离子燃料是§3聚变反应堆 MK-I§r 的§e氦等离子体§r，§3MK-II§r 的§e锡等离子体§r和 §3MK-III§r 的§e镅等离子§r。你也可以采用别的等离子体。
 
 # db 400 of mode normal
 nomifactory.quest.normal.db.400.title=§2多方块建造器§r
@@ -1510,7 +1510,7 @@ nomifactory.quest.normal.db.401.desc=§3铁砧§r可以用来修复几乎所有�
 
 # db 402 of mode normal
 nomifactory.quest.normal.db.402.title=§2机器覆盖板
-nomifactory.quest.normal.db.402.desc=在§b格雷科技§r中增加了一个非常通用的方法，用§a机器覆盖板§r来增强机器。覆盖板就是“升级”，你可以把它放在任何格雷科技机器、箱子或缸上以扩充其功能。为了让覆盖板工作，你需要给自己做一把配置覆盖板的§a螺丝刀§r，以及一把拆卸覆盖板的§a撬棍§r，而不必破坏机器。这个任务接受任意材料的§a螺丝刀§r和§a撬棍§r。%n%n这里列出了游戏中的一些覆盖板，以及它们的作用：%n%n——§a§l传送带§r：将物品连续传输到邻近的容器或从邻近的容器提取出。%n%n——§a§l电动泵§r：它很像一个§a传送带§r，但用于流体。%n%n——§a§l机械臂§r：很像§a传送带§r，但有两个额外的模式：%n    * §e保持补给§r：传输物品以保持最多指定数量的物品库存%n    * §e精确补给§r：每次操作都精确地传输指定数量的物品。%n这个覆盖板对合成自动化非常有用。%n%n——§a§l流体校准器§r：它就像一个§a机械臂§r，但工作的是流体而不是物品。%n%n——§a§l扇板§r：阻止自动化与机器的一个特定面进行互动。%n%n——§a§l探测覆盖板§r：可用的有物品、流体、能量、设备活跃和高级设备活跃。根据它所检测到的东西的状态，发出一个红石信号。%n%n——§a§l数字接口覆盖板§r：图形化显示机器的当前状态。可以显示如所含的流体、能量等级等信息。%n%n传输物品或流体的覆盖板可以有一个§a过滤卡§r放在里面。这些覆盖板的设计功能在它们自己的任务有所解释。%n
+nomifactory.quest.normal.db.402.desc=在§b格雷科技§r中增加了一个非常通用的方法，用§a机器覆盖板§r来增强机器。覆盖板就是“升级”，你可以把它放在任何格雷科技机器、箱子或缸上以扩充其功能。为了让覆盖板工作，你需要给自己做一把配置覆盖板的§a螺丝刀§r，以及一把拆卸覆盖板的§a撬棍§r，而不必破坏机器。这个任务接受任意材料的§a螺丝刀§r和§a撬棍§r。%n%n这里列出了游戏中的一些覆盖板，以及它们的作用：%n%n——§a§l传送带§r：将物品连续传输到邻近的容器或从邻近的容器提取出。%n%n——§a§l电动泵§r：它很像一个§a传送带§r，但用于流体。%n%n——§a§l机械臂§r：很像§a传送带§r，但有两个额外的模式：%n    * §e保持补给§r：传输物品以保持最多指定数量的物品库存%n    * §e精确补给§r：每次操作都精确地传输指定数量的物品。%n这个覆盖板对合成自动化非常有用。%n%n——§a§l流体校准器§r：它就像一个§a机械臂§r，但工作的是流体而不是物品。%n%n——§a§l扇板§r：阻止自动化与机器的一个特定面进行互动。%n%n——§a§l探测覆盖板§r：包含§a物品§r、§a流体§r、§a能量§r、§a设备活跃§r四个版本。根据它所检测到的东西的状态，发出一个红石信号。%n%n——§a§l数字接口覆盖板§r：图形化显示机器的当前状态。可以显示如所含的流体、能量等级等信息。%n%n传输物品或流体的覆盖板可以有一个§a过滤卡§r放在里面。这些覆盖板的设计功能在它们自己的任务有所解释。%n
 
 # db 403 of mode normal
 nomifactory.quest.normal.db.403.title=拧开输出口！
@@ -1526,7 +1526,7 @@ nomifactory.quest.normal.db.405.desc=这个整合包有§a合成计算器§r。�
 
 # db 406 of mode normal
 nomifactory.quest.normal.db.406.title=自动化拓展合成
-nomifactory.quest.normal.db.406.desc=现在你已经从§6四阶微型采掘机§r中获得了§6锇§r和§6铱§r，你可以开始自动化§b拓展合成§r中的配方了。虽然有可能使用§6自动化接口§r来完成这项任务，但你有机会获得§n非常§r更好的东西：§b封包合成拓展§r。%n%n首先，你需要制作右边列出的拓展§3封包合成器§r中的每一个。在每一个的上面放一个§3解包机§r，然后在每个解包机的上面放一个§3封包机§r。这些都是应用能源2的设备，所以你需要把它们连接到一个ME网络。%n%n接下来，右击§3封包配方编码器§r，你应该看到一个“处理”的按钮：这个按钮可以循环查看配方类型，包括各种拓展配方表。你必须为你要编码的配方选择适当的表。%n%n§6配方包存储器§r必须成对编码：一个用于封包机，一个用于解包机。选择相应的配方表，查找你要编码的配方，在§bJEI§r中按§6[+]§r来填入。在左上角的槽位中放入两个配方包存储器，并按下“保存”键将配方编码到这两个配方包存储器中。最后，将每个配方包存储器放入各自的机器中。%n%n如果你所做的一切都正确，你应该看到该物品在终端中显示为可合成。%n%n虽然看起来制作过程很慢，但§e封包合成在并行§r方面非常出色。你可以用合成器围住一个解包机，它将使用所有的合成器。只要配方包存储器都是一样的，也可以用合成器增加更多的解包机来跟上封包机的步伐。%n%n
+nomifactory.quest.normal.db.406.desc=现在你已经从§6四阶微型采掘机§r中获得了§6锇§r和§6铱§r，你可以开始自动化§b拓展合成§r中的配方了。虽然有可能使用§6自动化接口§r来完成这项任务，但你有机会获得§n非常§r更好的东西：§b封包合成拓展§r。%n%n首先，你需要制作右边列出的拓展§3封包合成器§r中的每一个。在每一个的上面放一个§3解包机§r，然后在每个解包机的上面放一个§3封包机§r。这些都是应用能源2的设备，所以你需要把它们连接到一个ME网络。%n%n接下来，右击§3封包配方编码器§r，你应该看到一个“处理”的按钮：这个按钮可以循环查看配方类型，包括各种拓展配方表。你必须为你要编码的配方选择适当的表。%n%n§6配方包存储器§r必须成对编码：一个用于封包机，一个用于解包机。选择相应的配方表，查找你要编码的配方，在§bJEI§r中按§6[+]§r来填入。在左上角的槽位中放入两个配方包存储器，并按下“保存”键将配方编码到这两个配方包存储器中。最后，将每个配方包存储器放入各自的机器中。%n%n如果你所做的一切都正确，你应该看到该物品在终端中显示为可合成。%n%n虽然看起来制作过程很慢，但§e封包合成在并行§r方面非常出色。你可以用合成器围住一个解包机，它将使用所有的合成器。只要配方包存储器都是一样的，也可以用合成器增加更多的解包机来跟上封包机的步伐。
 
 # db 407 of mode normal
 nomifactory.quest.normal.db.407.title=中型微型宇宙投影仪
@@ -1546,7 +1546,7 @@ nomifactory.quest.normal.db.411.desc=§3大型微宇宙投影仪§r是一种更�
 
 # db 412 of mode normal
 nomifactory.quest.normal.db.412.title=月球采矿站
-nomifactory.quest.normal.db.412.desc=§3月球采矿站§r是一个大型的多方块结构，用于从月球开采气体。这是一个极好的（虽然不是唯一的）§9氘§r或§9氦-3§r的来源，这取决于你使用的是哪种类型的§6漫游车§r。%n%n漫游车在挖矿时只有10%的几率损坏，所以一组漫游车可以持续很长时间。%n%n虽然两种可用的配方都需要§eMV电压§r，但你可以用更高的功率层超频它。仓室和总线的位置可以与任何§6LuV机壳§r交换。%n%nshift右击控制器以启用多方块内预览。%n%n因为这个结构必须放置在月球上，所以使用像§a末影储罐§r或§6ME量子链接仓§r这样的机制将液体传送回基地是一个好主意。%n%n记得加载区块！%n
+nomifactory.quest.normal.db.412.desc=§3月球采矿站§r是一个大型的多方块结构，用于从月球开采气体。这是一个极好的（虽然不是唯一的）§9氘§r或§9氦-3§r的来源，这取决于你使用的是哪种类型的§6漫游车§r。%n%n漫游车在挖矿时只有10%的几率损坏，所以一组漫游车可以持续很长时间。%n%n虽然两种可用的配方都需要§eMV电压§r，但你可以用更高的功率层超频它。仓室和总线的位置可以与任何§6LuV机壳§r交换。%n%nshift右击控制器以启用多方块内预览。%n%n因为这个结构必须放置在月球上，所以使用像§a末影储罐§r或§6ME量子链接仓§r这样的机制将液体传送回基地是一个好主意。%n%n记得加载区块！
 
 # db 413 of mode normal
 nomifactory.quest.normal.db.413.title=§2LV提取机
@@ -1574,7 +1574,7 @@ nomifactory.quest.normal.db.489.desc=§2大多数的板都是在卷板机上制�
 
 # db 490 of mode normal
 nomifactory.quest.normal.db.490.title=LV高压釜
-nomifactory.quest.normal.db.490.desc=§3高压釜§r是一种使用流体（通常是水）来抛光宝石，将宝石雕刻成透镜，用特殊液体注入宝石，并使各种粉结晶的机器。%n%n许多配方都需要高压釜，但目前你最需要它来制作末影接口的§6脉冲水晶§r和§6充能水晶§r。
+nomifactory.quest.normal.db.490.desc=§o这个任务接受从 LV 到 IV 的高压釜。§r%n%n§3高压釜§r是一种使用流体（通常是水）来抛光宝石，将宝石雕刻成透镜，用特殊液体注入宝石，并使各种粉结晶的机器。%n%n许多配方都需要高压釜，但目前你最需要它来制作末影接口的§6脉冲水晶§r和§6充能水晶§r。%n%n你马上就需要§6脉冲水晶§r来合成§a子沙§r，无限燃料的关键。
 
 # db 491 of mode normal
 nomifactory.quest.normal.db.491.title=连锁砍树？
@@ -1622,11 +1622,11 @@ nomifactory.quest.normal.db.502.desc=§6电容§r是储存电能的装置，对�
 
 # db 503 of mode normal
 nomifactory.quest.normal.db.503.title=玄色魂金锭
-nomifactory.quest.normal.db.503.desc=玄色魂金锭用于魂金合金飞行背包和异域或材料催化剂。
+nomifactory.quest.normal.db.503.desc=用于合成§d万象§r。
 
 # db 504 of mode normal
 nomifactory.quest.normal.db.504.title=§2酿造室
-nomifactory.quest.normal.db.504.desc=注意：这个任务同时接受LV和MV酿造室。%n%n你可以用§3酿造室§r将§6植物球§r和其他各种§6糖类作物§r变成§9生物质§r。生物质是制造§9聚乙烯§r形式塑料的第一步。%n%n酿造室是一个非常非常慢的机器，但它几乎不需要能量。制作许多酿造室是必要的，以酿造出足够的生物质用于塑料。
+nomifactory.quest.normal.db.504.desc=§o这个任务同时接受 LV 到 IV 的酿造室。%n%n你可以用§3酿造室§r将§6植物球§r和其他各种§6糖类作物§r变成§9生物质§r。生物质是制造§9聚乙烯§r形式塑料的第一步。%n%n酿造室是一个非常非常慢的机器，但它几乎不需要能量。制作许多酿造室是必要的，以酿造出足够的生物质用于塑料。
 
 # db 505 of mode normal
 nomifactory.quest.normal.db.505.title=乙醇
@@ -1638,7 +1638,7 @@ nomifactory.quest.normal.db.507.desc=这时你会需要§9氯§r。它是许多�
 
 # db 508 of mode normal
 nomifactory.quest.normal.db.508.title=§2钌铱合金锭
-nomifactory.quest.normal.db.508.desc=钌铱合金锭需要做齿轮用于§a装配线§r。
+nomifactory.quest.normal.db.508.desc=用于合成§d万象§r。
 
 # db 509 of mode normal
 nomifactory.quest.normal.db.509.title=§2无损导线
@@ -1658,7 +1658,7 @@ nomifactory.quest.normal.db.512.desc=§3头颅装配机§r是一台来自§b末�
 
 # db 513 of mode normal
 nomifactory.quest.normal.db.513.title=红钢锭
-nomifactory.quest.normal.db.513.desc=
+nomifactory.quest.normal.db.513.desc=用于合成§d万象§r。
 
 # db 516 of mode normal
 nomifactory.quest.normal.db.516.title=LV传送带
@@ -1690,7 +1690,7 @@ nomifactory.quest.normal.db.523.desc=升级到§6纳米超级计算机§r需要�
 
 # db 524 of mode normal
 nomifactory.quest.normal.db.524.title=§2第一种六阶电路
-nomifactory.quest.normal.db.524.desc=第一种也是最昂贵的六阶电路，需要用来制作§3IV电路组装机§r。%n%n需要一堆标准的电路元件。
+nomifactory.quest.normal.db.524.desc=第一种也是最昂贵的六阶电路，需要用来制作 §3IV 电路组装机§r。%n%n需要一堆标准的电路元件。
 
 # db 525 of mode normal
 nomifactory.quest.normal.db.525.title=§2第二种四阶电路
@@ -1706,7 +1706,7 @@ nomifactory.quest.normal.db.527.desc=发光！§2但是所有的GTCEu的机器�
 
 # db 528 of mode normal
 nomifactory.quest.normal.db.528.title=硬化升级套件
-nomifactory.quest.normal.db.528.desc=什么？！%n§6蒸汽能源炉§r正在不断发展！%n%n升级套件可以应用于热膨胀的能源炉、机器，甚至是便携式储罐。机器和能源炉可得到额外的增强槽位。%n%n当应用于能源炉时，它可以将发电量和燃料燃烧率提高到150%%§r。%n%n将便携式储罐的基础容量增加到§a200桶§r。%n%n允许机器以§a每tick150%%的基础能量§r运行。一台机器可以使用的能量越大，它的工作速度就越快。%n
+nomifactory.quest.normal.db.528.desc=什么？！%n§6蒸汽能源炉§r正在不断发展！%n%n升级套件可以应用于热膨胀的能源炉、机器，甚至是便携式储罐。机器和能源炉可得到额外的增强槽位。%n%n当应用于能源炉时，它可以将发电量和燃料燃烧率提高到150%%§r。%n%n将便携式储罐的基础容量增加到§a200桶§r。%n%n允许机器以§a每tick150%%的基础能量§r运行。一台机器可以使用的能量越大，它的工作速度就越快。
 
 # db 529 of mode normal
 nomifactory.quest.normal.db.529.title=§2IV电路组装机
@@ -1734,11 +1734,11 @@ nomifactory.quest.normal.db.534.desc=使用§6末影§r，你可以组装一台�
 
 # db 535 of mode normal
 nomifactory.quest.normal.db.535.title=§2第一种八阶电路
-nomifactory.quest.normal.db.535.desc=§6晶体电脑主机§r是第一种八阶电路。%n%n除了你已经知道如何制作的东西外，还需要§6高速钢-E框架§r。%n%n这些是制作§3ZPM电路组装机§r所需要的。像往常一样，这些都是非常昂贵的：投资到下一组的电路中，而不是试图大规模生产这些。%n
+nomifactory.quest.normal.db.535.desc=§6晶体电脑主机§r是第一种八阶电路。%n%n除了你已经知道如何制作的东西外，还需要§6高速钢-E框架§r。%n%n这些是制作§3ZPM电路组装机§r所需要的。像往常一样，这些都是非常昂贵的：投资到下一组的电路中，而不是试图大规模生产这些。
 
 # db 536 of mode normal
 nomifactory.quest.normal.db.536.title=§2ZPM机身
-nomifactory.quest.normal.db.536.desc=§6ZPM机身§r是用§2硅岩合金板§r制成的，但你会发现它们还需要§2聚苯并咪唑§r。%n%nZPM是指零点模块的意思。%n%n这是达到§d创造量子缸§r之前的合理生产的最后一级机器。多方块结构仓是另一个状况：如果你能处理好能量消耗，请随时将你的§3电力高炉§rs升级到UV。%n
+nomifactory.quest.normal.db.536.desc=§6ZPM机身§r是用§2硅岩合金板§r制成的，但你会发现它们还需要§2聚苯并咪唑§r。%n%nZPM是指零点模块的意思。%n%n这是达到§d创造量子缸§r之前的合理生产的最后一级机器。多方块结构仓是另一个状况：如果你能处理好能量消耗，请随时将你的§3电力高炉§rs升级到UV。
 
 # db 537 of mode normal
 nomifactory.quest.normal.db.537.title=§2无菌培养基
@@ -1762,7 +1762,7 @@ nomifactory.quest.normal.db.542.desc=§3灵魂绑定器§r是一种使用§a灵�
 
 # db 543 of mode normal
 nomifactory.quest.normal.db.543.title=蓝钢锭
-nomifactory.quest.normal.db.543.desc=
+nomifactory.quest.normal.db.543.desc=用于合成§d万象§r。
 
 # db 544 of mode normal
 nomifactory.quest.normal.db.544.title=硬化背包
@@ -1774,7 +1774,7 @@ nomifactory.quest.normal.db.545.desc=携带§o更多§r的东西。
 
 # db 546 of mode normal
 nomifactory.quest.normal.db.546.title=§2蒸馏室
-nomifactory.quest.normal.db.546.desc=§o注意：这个任务同时接受LV和MV蒸馏室。§2%n%n如果你要蒸馏乙醇，你现在需要一个MV蒸馏室。%n%n§r§3蒸馏室§r是一个单方块机器，只输出几种蒸馏物中的一种，其余的则被§c丢弃§r。你现在可以用它来从§9生物质§r中获得§9乙醇§r，或在多个步骤中选择性地将§9石油§r蒸馏成§9乙烯§r。与整个蒸馏塔相比，除了成本之外，它的优势在于§d能源效率§r。%n%n然而，蒸馏塔是高级化学的必修课，因为大多数东西都有一个以上的重要输出：举几个例子，§9发酵过的生物质§r、§3热解炉§r产生的§9木炭副产品§r，以及§9石油§r产生的整个石化产品系列。%n%n不能永远回避！%n%n
+nomifactory.quest.normal.db.546.desc=§o注意：这个任务同时接受LV和MV蒸馏室。§2%n%n如果你要蒸馏乙醇，你现在需要一个MV蒸馏室。%n%n§r§3蒸馏室§r是一个单方块机器，只输出几种蒸馏物中的一种，其余的则被§c丢弃§r。你现在可以用它来从§9生物质§r中获得§9乙醇§r，或在多个步骤中选择性地将§9石油§r蒸馏成§9乙烯§r。与整个蒸馏塔相比，除了成本之外，它的优势在于§d能源效率§r。%n%n然而，蒸馏塔是高级化学的必修课，因为大多数东西都有一个以上的重要输出：举几个例子，§9发酵过的生物质§r、§3热解炉§r产生的§9木炭副产品§r，以及§9石油§r产生的整个石化产品系列。%n%n不能永远回避！
 
 # db 547 of mode normal
 nomifactory.quest.normal.db.547.title=扫描模块：方块
@@ -1786,7 +1786,7 @@ nomifactory.quest.normal.db.548.desc=§a模具§r用于§3流体固化机§r或�
 
 # db 549 of mode normal
 nomifactory.quest.normal.db.549.title=§2流体钻机
-nomifactory.quest.normal.db.549.desc=§2流体钻机将从地下油藏中采集流体。请注意，油藏只是模拟的，并不存在于世界上。§r%n%n使用你的§3勘探扫描仪§r来查看地下油藏的类型和数量，并检查油藏的耗竭状态。第一个数字代表每秒钟抽取的基本流体量。%n%n在§e主世界§r，它可以采集：§9石油、轻油、重油、原油、天然气、盐水§r%n%n在§e下界§r：§e熔岩、天然气§r%n%n在§e月球§r：§9氘，氦-3§r%n%n第一层级的流体钻机可以进行§d100,000次操作§r。更高层级的流体钻机收获流体的速度要快得多，消耗油藏的速度也慢得多。
+nomifactory.quest.normal.db.549.desc=§2流体钻机将从地下油藏中采集流体。请注意，油藏只是模拟的，并不存在于世界上。§r%n%n使用你的§3勘探扫描仪§r来查看地下油藏的类型和数量，并检查油藏的耗竭状态。第一个数字代表每秒钟抽取的基本流体量。%n%n在§e主世界§r，它可以采集：§9石油、轻油、重油、原油、天然气、盐水§r（仅在深海生物群系）%n%n在§e下界§r：§e熔岩、天然气§r%n%n在§e月球§r：§9氘，氦-3§r%n%n第一层级的流体钻机可以进行§d100,000次操作§r。更高层级的流体钻机收获流体的速度要快得多，消耗油藏的速度也慢得多。
 
 # db 550 of mode normal
 nomifactory.quest.normal.db.550.title=垂直挖矿机
@@ -1830,91 +1830,91 @@ nomifactory.quest.normal.db.564.desc=你认为这些太阳能板有多重？%n%n
 
 # db 580 of mode normal
 nomifactory.quest.normal.db.580.title=§2众多高炉
-nomifactory.quest.normal.db.580.desc=随着你的不断发展，更高级的§3电力高炉§r配方的制作时间将继续增加。更高级的线圈并不提供速度加成，它们只是提高了工作温度，以便你能熔炼更高级的材料，§2而且它们还提供能源效率加成和超频的速度加成。§r%n%n为了弥补，你需要让你的熔炼和发电的基础设施达到一定的水平。%n%n你不需要现在就完成并运行所有这八个电力高炉，但计划在未来的某个时间点进行。与其升级现有的电力高炉，不如让它们被动地自动储存材料，并建立新的电力高炉，为新材料提供更高的规格。%n%n
+nomifactory.quest.normal.db.580.desc=随着你的不断发展，更高级的§3电力高炉§r配方的制作时间将继续增加。更高级的线圈并不提供速度加成，它们只是提高了工作温度，以便你能熔炼更高级的材料，§2而且它们还提供能源效率加成和超频的速度加成。§r%n%n为了弥补，你需要让你的熔炼和发电的基础设施达到一定的水平。%n%n你不需要现在就完成并运行所有这八个电力高炉，但计划在未来的某个时间点进行。与其升级现有的电力高炉，不如让它们被动地自动储存材料，并建立新的电力高炉，为新材料提供更高的规格。
 
 # db 582 of mode normal
 nomifactory.quest.normal.db.582.title=通量琥珀金锭
-nomifactory.quest.normal.db.582.desc=
+nomifactory.quest.normal.db.582.desc=用于合成§d万象§r。
 
 # db 583 of mode normal
 nomifactory.quest.normal.db.583.title=信素锭
-nomifactory.quest.normal.db.583.desc=
+nomifactory.quest.normal.db.583.desc=用于合成§d万象§r。
 
 # db 584 of mode normal
 nomifactory.quest.normal.db.584.title=末影锭
-nomifactory.quest.normal.db.584.desc=
+nomifactory.quest.normal.db.584.desc=用于合成§d万象§r。
 
 # db 585 of mode normal
 nomifactory.quest.normal.db.585.title=§2镀铑钯流明
-nomifactory.quest.normal.db.585.desc=
+nomifactory.quest.normal.db.585.desc=用于合成§d万象§r。
 
 # db 586 of mode normal
 nomifactory.quest.normal.db.586.title=高速钢-E锭
-nomifactory.quest.normal.db.586.desc=
+nomifactory.quest.normal.db.586.desc=用于合成§d万象§r。
 
 # db 587 of mode normal
 nomifactory.quest.normal.db.587.title=高速钢-G锭
-nomifactory.quest.normal.db.587.desc=
+nomifactory.quest.normal.db.587.desc=用于合成§d万象§r。
 
 # db 588 of mode normal
 nomifactory.quest.normal.db.588.title=高速钢-S锭
-nomifactory.quest.normal.db.588.desc=
+nomifactory.quest.normal.db.588.desc=用于合成§d万象§r。
 
 # db 589 of mode normal
 nomifactory.quest.normal.db.589.title=水晶矩阵锭
-nomifactory.quest.normal.db.589.desc=
+nomifactory.quest.normal.db.589.desc=用于合成§d万象§r。
 
 # db 591 of mode normal
 nomifactory.quest.normal.db.591.title=钒钢锭
-nomifactory.quest.normal.db.591.desc=
+nomifactory.quest.normal.db.591.desc=用于合成§d万象§r。
 
 # db 592 of mode normal
 nomifactory.quest.normal.db.592.title=磁钢锭
-nomifactory.quest.normal.db.592.desc=
+nomifactory.quest.normal.db.592.desc=用于合成§d万象§r。
 
 # db 593 of mode normal
 nomifactory.quest.normal.db.593.title=末影钢锭
-nomifactory.quest.normal.db.593.desc=
+nomifactory.quest.normal.db.593.desc=用于合成§d万象§r。
 
 # db 594 of mode normal
 nomifactory.quest.normal.db.594.title=微型宇宙锭
-nomifactory.quest.normal.db.594.desc=
+nomifactory.quest.normal.db.594.desc=用于合成§d万象§r。
 
 # db 595 of mode normal
 nomifactory.quest.normal.db.595.title=蕴魔秘银锭
-nomifactory.quest.normal.db.595.desc=
+nomifactory.quest.normal.db.595.desc=用于合成§d万象§r。
 
 # db 596 of mode normal
 nomifactory.quest.normal.db.596.title=玄钢锭
-nomifactory.quest.normal.db.596.desc=
+nomifactory.quest.normal.db.596.desc=用于合成§d万象§r。
 
 # db 597 of mode normal
 nomifactory.quest.normal.db.597.title=脉冲合金锭
-nomifactory.quest.normal.db.597.desc=
+nomifactory.quest.normal.db.597.desc=用于合成§d万象§r。
 
 # db 598 of mode normal
 nomifactory.quest.normal.db.598.title=充能合金锭
-nomifactory.quest.normal.db.598.desc=
+nomifactory.quest.normal.db.598.desc=用于合成§d万象§r。
 
 # db 599 of mode normal
 nomifactory.quest.normal.db.599.title=魂金锭
-nomifactory.quest.normal.db.599.desc=
+nomifactory.quest.normal.db.599.desc=用于合成§d万象§r。
 
 # db 600 of mode normal
 nomifactory.quest.normal.db.600.title=玛玉灵锭
-nomifactory.quest.normal.db.600.desc=
+nomifactory.quest.normal.db.600.desc=用于合成§d万象§r。
 
 # db 601 of mode normal
 nomifactory.quest.normal.db.601.title=镁铝合金锭
-nomifactory.quest.normal.db.601.desc=
+nomifactory.quest.normal.db.601.desc=用于合成§d万象§r。
 
 # db 602 of mode normal
 nomifactory.quest.normal.db.602.title=坎塔尔合金锭
-nomifactory.quest.normal.db.602.desc=
+nomifactory.quest.normal.db.602.desc=用于合成§d万象§r。
 
 # db 603 of mode normal
 nomifactory.quest.normal.db.603.title=镍铬合金锭
-nomifactory.quest.normal.db.603.desc=
+nomifactory.quest.normal.db.603.desc=用于合成§d万象§r。
 
 # db 604 of mode normal
 nomifactory.quest.normal.db.604.title=宇宙之心
@@ -1930,7 +1930,7 @@ nomifactory.quest.normal.db.606.desc=有点多余，真的。%n%n这种板专门
 
 # db 607 of mode normal
 nomifactory.quest.normal.db.607.title=§2中子素锭
-nomifactory.quest.normal.db.607.desc=§6中子素§r是一种超致密的物质，通常在中子星的中心发现：坍缩的恒星核心，其大小是太阳的10至30倍。%n%n豆知识：一个中子素块大约是2884万吨，约600000K，但你却有能力徒手拿着一个。不要想得太多。%n%n中子素是由熔融§9超能硅岩§r（§6硅岩§r的一种超浓缩形式）与熔融§9镅§r融合而成。%n%n在得到§6混沌注入合成装置§r后，你可以考虑使用九级微型采掘机来补充核聚变，因为它对中子素是净正的。不过这些采掘机很贵，所以要看你的情况。%n
+nomifactory.quest.normal.db.607.desc=§6中子素§r是一种超致密的物质，通常在中子星的中心发现：坍缩的恒星核心，其大小是太阳的10至30倍。%n%n豆知识：一个中子素块大约是2884万吨，约600000K，但你却有能力徒手拿着一个。不要想得太多。%n%n中子素是由熔融§9超能硅岩§r（§6硅岩§r的一种超浓缩形式）与熔融§9镅§r融合而成。%n%n在得到§6混沌注入合成装置§r后，你可以考虑使用九级微型采掘机来补充核聚变，因为它对中子素是净正的。不过这些采掘机很贵，所以要看你的情况。
 
 # db 608 of mode normal
 nomifactory.quest.normal.db.608.title=超导线材
@@ -1954,227 +1954,227 @@ nomifactory.quest.normal.db.612.desc=§3ZPM压缩机§r用于制作最高级的�
 
 # db 613 of mode normal
 nomifactory.quest.normal.db.613.title=1号元素：氢
-nomifactory.quest.normal.db.613.desc=
+nomifactory.quest.normal.db.613.desc=用于合成§d万象§r。
 
 # db 614 of mode normal
 nomifactory.quest.normal.db.614.title=2号元素：氦
-nomifactory.quest.normal.db.614.desc=
+nomifactory.quest.normal.db.614.desc=用于合成§d万象§r。
 
 # db 615 of mode normal
 nomifactory.quest.normal.db.615.title=3号元素：锂
-nomifactory.quest.normal.db.615.desc=
+nomifactory.quest.normal.db.615.desc=用于合成§d万象§r。
 
 # db 616 of mode normal
 nomifactory.quest.normal.db.616.title=4号元素：铍
-nomifactory.quest.normal.db.616.desc=
+nomifactory.quest.normal.db.616.desc=用于合成§d万象§r。
 
 # db 617 of mode normal
 nomifactory.quest.normal.db.617.title=5号元素：硼
-nomifactory.quest.normal.db.617.desc=
+nomifactory.quest.normal.db.617.desc=用于合成§d万象§r。
 
 # db 618 of mode normal
 nomifactory.quest.normal.db.618.title=§26号元素：碳
-nomifactory.quest.normal.db.618.desc=
+nomifactory.quest.normal.db.618.desc=用于合成§d万象§r。
 
 # db 619 of mode normal
 nomifactory.quest.normal.db.619.title=7号元素：氮
-nomifactory.quest.normal.db.619.desc=
+nomifactory.quest.normal.db.619.desc=用于合成§d万象§r。
 
 # db 620 of mode normal
 nomifactory.quest.normal.db.620.title=8号元素：氧
-nomifactory.quest.normal.db.620.desc=
+nomifactory.quest.normal.db.620.desc=用于合成§d万象§r。
 
 # db 621 of mode normal
 nomifactory.quest.normal.db.621.title=9号元素：氟
-nomifactory.quest.normal.db.621.desc=
+nomifactory.quest.normal.db.621.desc=用于合成§d万象§r。
 
 # db 622 of mode normal
 nomifactory.quest.normal.db.622.title=10号元素：氖
-nomifactory.quest.normal.db.622.desc=
+nomifactory.quest.normal.db.622.desc=用于合成§d万象§r。
 
 # db 623 of mode normal
 nomifactory.quest.normal.db.623.title=11号元素：钠
-nomifactory.quest.normal.db.623.desc=
+nomifactory.quest.normal.db.623.desc=用于合成§d万象§r。
 
 # db 624 of mode normal
 nomifactory.quest.normal.db.624.title=12号元素：镁
-nomifactory.quest.normal.db.624.desc=
+nomifactory.quest.normal.db.624.desc=用于合成§d万象§r。
 
 # db 625 of mode normal
 nomifactory.quest.normal.db.625.title=13号元素：铝
-nomifactory.quest.normal.db.625.desc=
+nomifactory.quest.normal.db.625.desc=用于合成§d万象§r。
 
 # db 626 of mode normal
 nomifactory.quest.normal.db.626.title=14号元素：硅
-nomifactory.quest.normal.db.626.desc=
+nomifactory.quest.normal.db.626.desc=用于合成§d万象§r。
 
 # db 627 of mode normal
 nomifactory.quest.normal.db.627.title=15号元素：磷
-nomifactory.quest.normal.db.627.desc=
+nomifactory.quest.normal.db.627.desc=用于合成§d万象§r。
 
 # db 628 of mode normal
 nomifactory.quest.normal.db.628.title=16号元素：硫
-nomifactory.quest.normal.db.628.desc=
+nomifactory.quest.normal.db.628.desc=用于合成§d万象§r。
 
 # db 629 of mode normal
 nomifactory.quest.normal.db.629.title=17号元素：氯
-nomifactory.quest.normal.db.629.desc=
+nomifactory.quest.normal.db.629.desc=用于合成§d万象§r。
 
 # db 630 of mode normal
 nomifactory.quest.normal.db.630.title=18号元素：氩
-nomifactory.quest.normal.db.630.desc=
+nomifactory.quest.normal.db.630.desc=用于合成§d万象§r。
 
 # db 631 of mode normal
 nomifactory.quest.normal.db.631.title=19号元素：钾
-nomifactory.quest.normal.db.631.desc=
+nomifactory.quest.normal.db.631.desc=用于合成§d万象§r。
 
 # db 632 of mode normal
 nomifactory.quest.normal.db.632.title=20号元素：钙
-nomifactory.quest.normal.db.632.desc=
+nomifactory.quest.normal.db.632.desc=用于合成§d万象§r。
 
 # db 633 of mode normal
 nomifactory.quest.normal.db.633.title=57号元素：镧
-nomifactory.quest.normal.db.633.desc=
+nomifactory.quest.normal.db.633.desc=用于合成§d万象§r。
 
 # db 634 of mode normal
 nomifactory.quest.normal.db.634.title=22号元素：钛
-nomifactory.quest.normal.db.634.desc=
+nomifactory.quest.normal.db.634.desc=用于合成§d万象§r。
 
 # db 635 of mode normal
 nomifactory.quest.normal.db.635.title=23号元素：钒
-nomifactory.quest.normal.db.635.desc=
+nomifactory.quest.normal.db.635.desc=用于合成§d万象§r。
 
 # db 636 of mode normal
 nomifactory.quest.normal.db.636.title=24号元素：铬
-nomifactory.quest.normal.db.636.desc=
+nomifactory.quest.normal.db.636.desc=用于合成§d万象§r。
 
 # db 637 of mode normal
 nomifactory.quest.normal.db.637.title=25号元素：锰
-nomifactory.quest.normal.db.637.desc=
+nomifactory.quest.normal.db.637.desc=用于合成§d万象§r。
 
 # db 638 of mode normal
 nomifactory.quest.normal.db.638.title=26号元素：铁
-nomifactory.quest.normal.db.638.desc=
+nomifactory.quest.normal.db.638.desc=用于合成§d万象§r。
 
 # db 639 of mode normal
 nomifactory.quest.normal.db.639.title=27号元素：钴
-nomifactory.quest.normal.db.639.desc=
+nomifactory.quest.normal.db.639.desc=用于合成§d万象§r。
 
 # db 640 of mode normal
 nomifactory.quest.normal.db.640.title=28号元素：镍
-nomifactory.quest.normal.db.640.desc=
+nomifactory.quest.normal.db.640.desc=用于合成§d万象§r。
 
 # db 641 of mode normal
 nomifactory.quest.normal.db.641.title=29号元素：铜
-nomifactory.quest.normal.db.641.desc=
+nomifactory.quest.normal.db.641.desc=用于合成§d万象§r。
 
 # db 642 of mode normal
 nomifactory.quest.normal.db.642.title=30号元素：锌
-nomifactory.quest.normal.db.642.desc=
+nomifactory.quest.normal.db.642.desc=用于合成§d万象§r。
 
 # db 643 of mode normal
 nomifactory.quest.normal.db.643.title=31号元素：镓
-nomifactory.quest.normal.db.643.desc=
+nomifactory.quest.normal.db.643.desc=用于合成§d万象§r。
 
 # db 644 of mode normal
 nomifactory.quest.normal.db.644.title=33号元素：砷
-nomifactory.quest.normal.db.644.desc=
+nomifactory.quest.normal.db.644.desc=用于合成§d万象§r。
 
 # db 645 of mode normal
 nomifactory.quest.normal.db.645.title=36号元素：氪
-nomifactory.quest.normal.db.645.desc=
+nomifactory.quest.normal.db.645.desc=用于合成§d万象§r。
 
 # db 646 of mode normal
 nomifactory.quest.normal.db.646.title=39号元素：钇
-nomifactory.quest.normal.db.646.desc=
+nomifactory.quest.normal.db.646.desc=用于合成§d万象§r。
 
 # db 647 of mode normal
 nomifactory.quest.normal.db.647.title=46号元素：钯
-nomifactory.quest.normal.db.647.desc=
+nomifactory.quest.normal.db.647.desc=用于合成§d万象§r。
 
 # db 648 of mode normal
 nomifactory.quest.normal.db.648.title=47号元素：银
-nomifactory.quest.normal.db.648.desc=
+nomifactory.quest.normal.db.648.desc=用于合成§d万象§r。
 
 # db 649 of mode normal
 nomifactory.quest.normal.db.649.title=49号元素：铟
-nomifactory.quest.normal.db.649.desc=
+nomifactory.quest.normal.db.649.desc=用于合成§d万象§r。
 
 # db 650 of mode normal
 nomifactory.quest.normal.db.650.title=50号元素：锡
-nomifactory.quest.normal.db.650.desc=
+nomifactory.quest.normal.db.650.desc=用于合成§d万象§r。
 
 # db 651 of mode normal
 nomifactory.quest.normal.db.651.title=51号元素：锑
-nomifactory.quest.normal.db.651.desc=
+nomifactory.quest.normal.db.651.desc=用于合成§d万象§r。
 
 # db 652 of mode normal
 nomifactory.quest.normal.db.652.title=54号元素：氙
-nomifactory.quest.normal.db.652.desc=
+nomifactory.quest.normal.db.652.desc=用于合成§d万象§r。
 
 # db 653 of mode normal
 nomifactory.quest.normal.db.653.title=74号元素：钨
-nomifactory.quest.normal.db.653.desc=
+nomifactory.quest.normal.db.653.desc=用于合成§d万象§r。
 
 # db 654 of mode normal
 nomifactory.quest.normal.db.654.title=76号元素：锇
-nomifactory.quest.normal.db.654.desc=
+nomifactory.quest.normal.db.654.desc=用于合成§d万象§r。
 
 # db 655 of mode normal
 nomifactory.quest.normal.db.655.title=77号元素：铱
-nomifactory.quest.normal.db.655.desc=
+nomifactory.quest.normal.db.655.desc=用于合成§d万象§r。
 
 # db 656 of mode normal
 nomifactory.quest.normal.db.656.title=78号元素：铂
-nomifactory.quest.normal.db.656.desc=
+nomifactory.quest.normal.db.656.desc=用于合成§d万象§r。
 
 # db 657 of mode normal
 nomifactory.quest.normal.db.657.title=79号元素：金
-nomifactory.quest.normal.db.657.desc=
+nomifactory.quest.normal.db.657.desc=用于合成§d万象§r。
 
 # db 658 of mode normal
 nomifactory.quest.normal.db.658.title=80号元素：汞
-nomifactory.quest.normal.db.658.desc=
+nomifactory.quest.normal.db.658.desc=用于合成§d万象§r。
 
 # db 659 of mode normal
 nomifactory.quest.normal.db.659.title=86号元素：氡
-nomifactory.quest.normal.db.659.desc=
+nomifactory.quest.normal.db.659.desc=用于合成§d万象§r。
 
 # db 660 of mode normal
 nomifactory.quest.normal.db.660.title=90号元素：钍
-nomifactory.quest.normal.db.660.desc=
+nomifactory.quest.normal.db.660.desc=用于合成§d万象§r。
 
 # db 661 of mode normal
 nomifactory.quest.normal.db.661.title=92号元素：铀
-nomifactory.quest.normal.db.661.desc=
+nomifactory.quest.normal.db.661.desc=用于合成§d万象§r。
 
 # db 662 of mode normal
 nomifactory.quest.normal.db.662.title=93号元素：镎
-nomifactory.quest.normal.db.662.desc=
+nomifactory.quest.normal.db.662.desc=用于合成§d万象§r。
 
 # db 663 of mode normal
 nomifactory.quest.normal.db.663.title=94号元素：钚
-nomifactory.quest.normal.db.663.desc=
+nomifactory.quest.normal.db.663.desc=用于合成§d万象§r。
 
 # db 664 of mode normal
 nomifactory.quest.normal.db.664.title=§295号元素：镅
-nomifactory.quest.normal.db.664.desc=
+nomifactory.quest.normal.db.664.desc=用于合成§d万象§r。
 
 # db 665 of mode normal
 nomifactory.quest.normal.db.665.title=96号元素：锔
-nomifactory.quest.normal.db.665.desc=
+nomifactory.quest.normal.db.665.desc=用于合成§d万象§r。
 
 # db 666 of mode normal
 nomifactory.quest.normal.db.666.title=97号元素：锫
-nomifactory.quest.normal.db.666.desc=
+nomifactory.quest.normal.db.666.desc=用于合成§d万象§r。
 
 # db 667 of mode normal
 nomifactory.quest.normal.db.667.title=98号元素：锎
-nomifactory.quest.normal.db.667.desc=
+nomifactory.quest.normal.db.667.desc=用于合成§d万象§r。
 
 # db 668 of mode normal
 nomifactory.quest.normal.db.668.title=99号元素：锿
-nomifactory.quest.normal.db.668.desc=
+nomifactory.quest.normal.db.668.desc=用于合成§d万象§r。
 
 # db 669 of mode normal
 nomifactory.quest.normal.db.669.title=铀裂变
@@ -2190,11 +2190,11 @@ nomifactory.quest.normal.db.671.desc=钍是另一种基本的裂变材料，可�
 
 # db 672 of mode normal
 nomifactory.quest.normal.db.672.title=§2核燃料基础建设
-nomifactory.quest.normal.db.672.desc=攀登裂变材料的阶段将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。%n%n
+nomifactory.quest.normal.db.672.desc=攀登裂变材料的阶段将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。%n%n如果您能够大量加工红色花岗岩以抵消低产率，您可能会发现红色花岗岩是铀238的可能来源。
 
 # db 673 of mode normal
 nomifactory.quest.normal.db.673.title=镎裂变
-nomifactory.quest.normal.db.673.desc=§o注意：此任务接受镎-236或镎-237。低密度镎-236燃料，即§6LEN-236§r，是裂变材料燃料链的下一步。%n%n这种燃料需要§6镎-237§r与§6镎-236§r的比例为8:1。只使用钍裂变的结果，需要两批§6枯竭的TBU燃料§r来制造你的第一种低密度镎燃料。%n%n当然，高阶反应也会产生少量的镎，你也可以用它来工作。%n%n§6枯竭的低密度镎-236燃料§r会产生少量的镎-237，但主要是提供§6钚§r和§6镅§r同位素。%n
+nomifactory.quest.normal.db.673.desc=§o注意：此任务接受镎-236或镎-237。低密度镎-236燃料，即§6LEN-236§r，是裂变材料燃料链的下一步。%n%n这种燃料需要§6镎-237§r与§6镎-236§r的比例为8:1。只使用钍裂变的结果，需要两批§6枯竭的TBU燃料§r来制造你的第一种低密度镎燃料。%n%n当然，高阶反应也会产生少量的镎，你也可以用它来工作。%n%n§6枯竭的低密度镎-236燃料§r会产生少量的镎-237，但主要是提供§6钚§r和§6镅§r同位素。
 
 # db 674 of mode normal
 nomifactory.quest.normal.db.674.title=低密度铀-233燃料
@@ -2238,7 +2238,7 @@ nomifactory.quest.normal.db.683.desc=为你的§3模拟室§r提供RF能量和§
 
 # db 684 of mode normal
 nomifactory.quest.normal.db.684.title=脉动网格
-nomifactory.quest.normal.db.684.desc=§6线§r和§6煤炭粉§r可以在§3合金炉§r中一起制作成§6碳纤维网§r。%n%n将其与§6脉动之尘§r结合起来，得到一个§6脉动网格§r。%n%n
+nomifactory.quest.normal.db.684.desc=§6线§r和§6煤炭粉§r可以在§3合金炉§r中一起制作成§6碳纤维网§r。%n%n将其与§6脉动之尘§r结合起来，得到一个§6脉动网格§r。
 
 # db 685 of mode normal
 nomifactory.quest.normal.db.685.title=战利品制造器
@@ -2294,7 +2294,7 @@ nomifactory.quest.normal.db.727.desc=当你第一次启动整合包时，我们�
 
 # db 728 of mode normal
 nomifactory.quest.normal.db.728.title=谐振末影络合物
-nomifactory.quest.normal.db.728.desc=§o这是加工线的重要组成部分。请访问处理线选项卡以获取更多信息、有用的提示以及有关如何被动自动化此操作的可视化表示。%n%n§6铀矿石§r是§6脉动之尘§r的第一个来源，但从长远来看不是一个很好的来源。相反，你应该制造§6谐振末影络合物§r，它是一种可以无限再生的有效脉动之尘的来源。%n%n谐振末影络合物是由§6末影珍珠§r与§3流体提取机§r融化成§9谐振末影珍珠§r制成的，然后在一个MV或更好的§3化学反应釜§r中与§6下界石英§r混合。熔炼这种络合物可以得到脉动之尘。%n%n由于现在可以获得谐振末影络合物，你制作§6脉动聚合粘土§r所需要的一切都可以在正闭环中自动完成。这样做对§b怪物深度学习§r的自动化是一个福音，它是§a整合包其余重要材料的主要来源§r。%n%n具体实施由你自己决定。利用你所拥有的各种LV和MV机器，并通过§bJEI§r寻找每种成分的可自动化的无限来源（如§a末影人数据模型§r获得珍珠）。%n%n
+nomifactory.quest.normal.db.728.desc=§o这是加工线的重要组成部分。请访问处理线选项卡以获取更多信息、有用的提示以及有关如何被动自动化此操作的可视化表示。%n%n§6铀矿石§r是§6脉动之尘§r的第一个来源，但从长远来看不是一个很好的来源。相反，你应该制造§6谐振末影络合物§r，它是一种可以无限再生的有效脉动之尘的来源。%n%n谐振末影络合物是由§6末影珍珠§r与§3流体提取机§r融化成§9谐振末影珍珠§r制成的，然后在一个MV或更好的§3化学反应釜§r中与§6下界石英§r混合。熔炼这种络合物可以得到脉动之尘。%n%n由于现在可以获得谐振末影络合物，你制作§6脉动聚合粘土§r所需要的一切都可以在正闭环中自动完成。这样做对§b怪物深度学习§r的自动化是一个福音，它是§a整合包其余重要材料的主要来源§r。%n%n具体实施由你自己决定。利用你所拥有的各种LV和MV机器，并通过§bJEI§r寻找每种成分的可自动化的无限来源（如§a末影人数据模型§r获得珍珠）。
 
 # db 729 of mode normal
 nomifactory.quest.normal.db.729.title=流体接口
@@ -2302,11 +2302,11 @@ nomifactory.quest.normal.db.729.desc=这是与标准§aME接口§r相对应的�
 
 # db 730 of mode normal
 nomifactory.quest.normal.db.730.title=流体和自动合成
-nomifactory.quest.normal.db.730.desc=与流体打交道是有点麻烦的。应用能源2的§a样板§r没有流体的概念，这意味着你必须将§e单独的机器与特定的流体组合联系起来§r，确保它们保持库存。%n%n应用能源2有一个§a流体输入总线§r和§a流体输出总线§r，这是对应用能源2有经验的玩家的通常做法。一张§a容量卡§r可以让你通过一条总线输出或输入五种特定的化学物，这足以满足，比如说，§3化学反应釜§r。然而，过多地使用应用能源2的总线会导致滞后。%n%n对于§b格雷科技§r机器来说，一个更好的方法是使用一个库存的§a流体接口§r和§a泵§r或§a流体校准器§r。这与机械臂的被动自动合成几乎相同，而且§a流体过滤卡§r可以允许将特定的流体路由到相邻的机器。这种方法性能更强，拓展时不会像总线那样造成滞后。对于其他模组的机器，你可以用导管从流体接口输送流体。%n%n
+nomifactory.quest.normal.db.730.desc=与流体打交道是有点麻烦的。应用能源2的§a样板§r没有流体的概念，这意味着你必须将§e单独的机器与特定的流体组合联系起来§r，确保它们保持库存。%n%n应用能源2有一个§a流体输入总线§r和§a流体输出总线§r，这是对应用能源2有经验的玩家的通常做法。一张§a容量卡§r可以让你通过一条总线输出或输入五种特定的化学物，这足以满足，比如说，§3化学反应釜§r。然而，过多地使用应用能源2的总线会导致滞后。%n%n对于§b格雷科技§r机器来说，一个更好的方法是使用一个库存的§a流体接口§r和§a泵§r或§a流体校准器§r。这与机械臂的被动自动合成几乎相同，而且§a流体过滤卡§r可以允许将特定的流体路由到相邻的机器。这种方法性能更强，拓展时不会像总线那样造成滞后。对于其他模组的机器，你可以用导管从流体接口输送流体。
 
 # db 731 of mode normal
 nomifactory.quest.normal.db.731.title=流体逻辑
-nomifactory.quest.normal.db.731.desc=你的§3化学反应釜§r将制造很多不同的流体。你需要管理路由和存储所有你正在自动化的不同流体的物流。%n%n只要有可能，让一个化学反应釜直接输出到另一个需要其输出化学物的机器上，就可以省去你想出额外的存储和路由的麻烦。§a流体过滤卡§r和§a电动泵覆盖板§r对于在紧凑的处理管路中传输流体非常有用。%n%n但是，你在其他地方需要的最终输出流体呢？%n%n一个选择是将化学反应釜的输出槽作为一个小的存储缓冲区，让它自动备份和停止制作。机器上的§a流体存储总线§r将把流体暴露给你的ME网络。每当你需要一些这种流体时，你的应用能源2系统会把需要的流体拉出来，机器就会恢复运作。%n%n不过这种方法也有一些问题。首先是无法访问的输入槽也会在应用能源2中显示出来，但你将无法访问它们。你将想把存储总线设置为§e仅输出§r，这样应用能源2就不会试图在化学反应釜中存储随机的流体，而且你可能还想在存储总线上§e减少优先级§r：这将向应用能源2发出信号，你希望它从该首个位置移出流体。另外，如果产生了多种流体，且§e机器没有空间容纳所有的流体输出，就不会恢复运作§r。%n%n当你访问它们时，最好使用单个流体格式的§a流体存储元件§r，并通过流体接口将输出转储到应用能源2中。你可以把元件装满，然后把流体拉出来，放在你需要的其他地方。%n%n
+nomifactory.quest.normal.db.731.desc=你的§3化学反应釜§r将制造很多不同的流体。你需要管理路由和存储所有你正在自动化的不同流体的物流。%n%n只要有可能，让一个化学反应釜直接输出到另一个需要其输出化学物的机器上，就可以省去你想出额外的存储和路由的麻烦。§a流体过滤卡§r和§a电动泵覆盖板§r对于在紧凑的处理管路中传输流体非常有用。%n%n但是，你在其他地方需要的最终输出流体呢？%n%n一个选择是将化学反应釜的输出槽作为一个小的存储缓冲区，让它自动备份和停止制作。机器上的§a流体存储总线§r将把流体暴露给你的ME网络。每当你需要一些这种流体时，你的应用能源2系统会把需要的流体拉出来，机器就会恢复运作。%n%n不过这种方法也有一些问题。首先是无法访问的输入槽也会在应用能源2中显示出来，但你将无法访问它们。你将想把存储总线设置为§e仅输出§r，这样应用能源2就不会试图在化学反应釜中存储随机的流体，而且你可能还想在存储总线上§e减少优先级§r：这将向应用能源2发出信号，你希望它从该首个位置移出流体。另外，如果产生了多种流体，且§e机器没有空间容纳所有的流体输出，就不会恢复运作§r。%n%n当你访问它们时，最好使用单个流体格式的§a流体存储元件§r，并通过流体接口将输出转储到应用能源2中。你可以把元件装满，然后把流体拉出来，放在你需要的其他地方。
 
 # db 732 of mode normal
 nomifactory.quest.normal.db.732.title=§2硬碳合金
@@ -2334,7 +2334,7 @@ nomifactory.quest.normal.db.746.desc=如果在升级前速度较慢，但是一�
 
 # db 747 of mode normal
 nomifactory.quest.normal.db.747.title=玄钢附魔器
-nomifactory.quest.normal.db.747.desc=原版的附魔机制实在是太乏味了。你难道不希望你可以直接制作一个特定的附魔，而不是磨练等级和掷骰子吗？%n%n§e哦，等等——你可以的！§r%n%n§3玄钢附魔器§r是一种装置，它使用§6书与笔§r、经验等级、青金石和附魔专用的物品来创造一本带有你选择的附魔的§6附魔书§r。然后你就可以像往常一样用铁砧对你的物品进行附魔。%n%n这是提起§d扩容§r附魔的好时机，它可以应用于§b热力基本§r及其相关模组的大多数物品。扩容可以被制作到等级IV，这将极大地提高物品的存储能力，如§a背包§r、§a通量电容§r和§a便携储罐§r。%n%n你也可以制作§d经验修补§r附魔，它允许你在物品损坏时使用§9液态经验§r在§b末影接口§r的§a流体储罐§r或§a高压流体储罐§r中无限地修复。%n%n
+nomifactory.quest.normal.db.747.desc=原版的附魔机制实在是太乏味了。你难道不希望你可以直接制作一个特定的附魔，而不是磨练等级和掷骰子吗？%n%n§e哦，等等——你可以的！§r%n%n§3玄钢附魔器§r是一种装置，它使用§6书与笔§r、经验等级、青金石和附魔专用的物品来创造一本带有你选择的附魔的§6附魔书§r。然后你就可以像往常一样用铁砧对你的物品进行附魔。%n%n这是提起§d扩容§r附魔的好时机，它可以应用于§b热力基本§r及其相关模组的大多数物品。扩容可以被制作到等级IV，这将极大地提高物品的存储能力，如§a背包§r、§a通量电容§r和§a便携储罐§r。%n%n你也可以制作§d经验修补§r附魔，它允许你在物品损坏时使用§9液态经验§r在§b末影接口§r的§a流体储罐§r或§a高压流体储罐§r中无限地修复。
 
 # db 748 of mode normal
 nomifactory.quest.normal.db.748.title=齿轮工作模具
@@ -2346,7 +2346,7 @@ nomifactory.quest.normal.db.749.desc=升级时间到了！%n...或者建造一�
 
 # db 750 of mode normal
 nomifactory.quest.normal.db.750.title=§2末影锭
-nomifactory.quest.normal.db.750.desc=一种来自§b热力膨胀§r在§3电力高炉§r中熔炼的复合材料。%n%n§6末影§r不需要太多的电力（运行时只需MV），但它确实需要大量的热量，而且在不超频的情况下速度非常慢。§2你可以使用液态末地空气蒸馏的少量氪，以显著减少熔炼时间。§r%n%n与所有后来的电力高炉材料一样，要用一个电力高炉来保持这些材料的库存，并让它不断运行，以确保稳定的供应（当你有一个可接受的大量库存时，就关闭它）。%n%n除了其他用途之外，末影还能让你获得用于机器的§a谐振升级套件§r和§6谐振背包§r。这些任务可以在§e进展之路§r标签上找到。%n%n
+nomifactory.quest.normal.db.750.desc=一种来自§b热力膨胀§r在§3电力高炉§r中熔炼的复合材料。%n%n§6末影§r在不超频的情况下速度非常慢。§2你可以使用液态末地空气蒸馏的少量氪，以显著减少熔炼时间。§r%n%n与所有后来的电力高炉材料一样，要用一个电力高炉来保持这些材料的库存，并让它不断运行，以确保稳定的供应（当你有一个可接受的大量库存时，就关闭它）。%n%n除了其他用途之外，末影还能让你获得用于机器的§a谐振升级套件§r和§6谐振背包§r。这些任务可以在§e进展之路§r标签上找到。
 
 # db 751 of mode normal
 nomifactory.quest.normal.db.751.title=蓄水器
@@ -2386,7 +2386,7 @@ nomifactory.quest.normal.db.759.desc=§9火焰水§r是生产§6基岩粉§r的�
 
 # db 760 of mode normal
 nomifactory.quest.normal.db.760.title=外岛
-nomifactory.quest.normal.db.760.desc=现在你已经解决了末影龙，寻找漂浮在主岛边缘半空的基岩结构。%n%n小心翼翼地把一颗§6末影珍珠§r扔进其中（那里有一个看起来像传送门的纹理），以传送到一个遥远的岛屿。%n%n到了那里，收集一些§6紫颂花§r。你必须打碎花本身才能得到它：简单地折断植物的茎，不会使花掉落。%n%n最后，获得一些§6龙素粉§r。它的矿石产生的数量很少，但应该到处都有。%n%n要想回到主岛，就把一颗末影珍珠扔进另一个基岩传送门结构。%n%n
+nomifactory.quest.normal.db.760.desc=现在你已经解决了末影龙，寻找漂浮在主岛边缘半空的基岩结构。%n%n小心翼翼地把一颗§6末影珍珠§r扔进其中（那里有一个看起来像传送门的纹理），以传送到一个遥远的岛屿。%n%n到了那里，收集一些§6紫颂花§r。你必须打碎花本身才能得到它：简单地破坏植物的茎，不会使花掉落。%n%n最后，获得一些§6龙素粉§r。它的矿石产生的数量很少，但应该到处都有。%n%n要想回到主岛，就把一颗末影珍珠扔进另一个基岩传送门结构。
 
 # db 761 of mode normal
 nomifactory.quest.normal.db.761.title=用传送符咒思考
@@ -2426,7 +2426,7 @@ nomifactory.quest.normal.db.769.desc=沿着这条线的电路是IV的，并且�
 
 # db 770 of mode normal
 nomifactory.quest.normal.db.770.title=LuV电路
-nomifactory.quest.normal.db.770.desc=沿着这条线的电路是LuV的，并且可以在配方中替换。%n%n模式保持不变：最右边的电路数量较大，总体上更容易生产。%n%n一定要尽快建立起湿件电路板的生产！这些需要很长的时间来制作。%n%n这是LuV，不是LUV。%n
+nomifactory.quest.normal.db.770.desc=沿着这条线的电路是LuV的，并且可以在配方中替换。%n%n模式保持不变：最右边的电路数量较大，总体上更容易生产。%n%n一定要尽快建立起湿件电路板的生产！这些需要很长的时间来制作。%n%n这是LuV，不是LUV。
 
 # db 771 of mode normal
 nomifactory.quest.normal.db.771.title=ZPM电路
@@ -2458,11 +2458,11 @@ nomifactory.quest.normal.db.777.desc=由§6充能钻石水晶§r锻造的齿轮�
 
 # db 778 of mode normal
 nomifactory.quest.normal.db.778.title=§2大规模电力存储
-nomifactory.quest.normal.db.778.desc=现在你已经有了§6觉醒核心§r，你可以从§b龙之进化§r制作§e能量核心§r了。这是一个很好的方法，可以储存制作耗电的游戏后期物品所需的所有能量。%n%n§e能量核心§r是一个多方块结构，可以升级以存储越来越多的巨大的RF能量。有关各级别材料要求的更多信息，请查看§b龙之进化§r手册。%n%n§2你不能用普通的龙素方块来建造这个结构。你必须用富集硅岩处理它，使其成为激活龙素，然后才能用于能量核心。%n%n§6能量塔§r被需要从核心输入和输出能量。每个塔结构只允许在一个方向上移动，所以你至少需要两个。%n%n一旦你把你所需要级别的材料放在一起，结构就可以自己建造了：只需进入§6能量核心§r的GUI，设置级别，然后点击激活。物品将自动从你的物品栏中使用。一旦结构建成，你可以通过§6能量核心稳定器§r再次进入核心的GUI来激活它。%n%n建议将第八级推迟到你达成§d创造量子缸§r之后，因为它需要大量的§2激活§6觉醒龙素§r。%n%n
+nomifactory.quest.normal.db.778.desc=现在你已经有了§6觉醒核心§r，你可以从§b龙之进化§r制作§e能量核心§r了。这是一个很好的方法，可以储存制作耗电的游戏后期物品所需的所有能量。%n%n§e能量核心§r是一个多方块结构，可以升级以存储越来越多的巨大的RF能量。有关各级别材料要求的更多信息，请查看§b龙之进化§r手册。%n%n§2你不能用普通的龙素方块来建造这个结构。你必须用富集硅岩处理它，使其成为激活龙素，然后才能用于能量核心。%n%n§6能量塔§r被需要从核心输入和输出能量。每个塔结构只允许在一个方向上移动，所以你至少需要两个。%n%n一旦你把你所需要级别的材料放在一起，结构就可以自己建造了：只需进入§6能量核心§r的GUI，设置级别，然后点击激活。物品将自动从你的物品栏中使用。一旦结构建成，你可以通过§6能量核心稳定器§r再次进入核心的GUI来激活它。%n%n建议将第八级推迟到你达成§d创造量子缸§r之后，因为它需要大量的§2激活§6觉醒龙素§r。
 
 # db 779 of mode normal
 nomifactory.quest.normal.db.779.title=无限圆石
-nomifactory.quest.normal.db.779.desc=现在你已经获得了§6钢§r，你通往无限的圆石之路正在等待着你！§6造石机§r不断地将圆石输出到相邻的容器中，并且可以通过升级使其生产速度更快。%n%n圆石可以被加工成许多有用的材料：%n%n§6石头粉§r对大量有用的材料都很有用。%n%n§6沙砾§r对制作导管和§9混凝土粉末§r很有用。%n%n§6沙子§r可用于§6玻璃§r，它可以变成§6石英砂§r或用于§6氧气§r制造的§6二氧化硅粉§r。%n%n最后，§6粘土§r可以变成§6粘土粉§r，这既是§6铝§r的可靠来源，对于自动化§b深度怪物学习§r也非常重要。%n%n尽快建立一个§e圆石工厂§r，这样你就可以囤积所有这些有用的材料。%n
+nomifactory.quest.normal.db.779.desc=现在你已经获得了§6钢§r，你通往无限的圆石之路正在等待着你！§6造石机§r不断地将圆石输出到相邻的容器中，并且可以通过升级使其生产速度更快。%n%n圆石可以被加工成许多有用的材料：%n%n§6石头粉§r对大量有用的材料都很有用。%n%n§6沙砾§r对制作导管和§9混凝土粉末§r很有用。%n%n§6沙子§r可用于§6玻璃§r，它可以变成§6石英砂§r或用于§6氧气§r制造的§6二氧化硅粉§r。%n%n最后，§6粘土§r可以变成§6粘土粉§r，这既是§6铝§r的可靠来源，对于自动化§b深度怪物学习§r也非常重要。%n%n尽快建立一个§e圆石工厂§r，这样你就可以囤积所有这些有用的材料。
 
 # db 780 of mode normal
 nomifactory.quest.normal.db.780.title=§2前往下界

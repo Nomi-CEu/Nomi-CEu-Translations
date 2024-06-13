@@ -463,8 +463,8 @@ tooltip.nomilabs.tiertenship.description1=§f§oКоллапсирует всю 
 tooltip.nomilabs.tiertenship.description2=§f§oСтремиться к необитаемым местам.§r
 tooltip.stabilized_miners.description1=§f§oСтабилизированная версия, в которую добавлено Сердце Вселенной.§r
 tooltip.stabilized_miners.description2=§f§oДлится бесконечно. Многоразовый. Совершенно точно не переусиленный.§r
-tooltip.stabilized_miners.description3=§f§oОг выглядит странно знакоммым.§r
-tooltip.stabilized_matters.description=§f§oБесконечная и непостижимая бездна материалов.§r
+tooltip.stabilized_matters.description1=§f§oБесконечная и непостижимая бездна материалов.§r
+tooltip.stabilized_matters.description2=§f§oОг выглядит странно знакоммым.§r
 tooltip.nomilabs.capacitors.description=Улучшение механизма EnderIO
 tooltip.nomilabs.capacitors.level=§5Уровень: %s§r
 
