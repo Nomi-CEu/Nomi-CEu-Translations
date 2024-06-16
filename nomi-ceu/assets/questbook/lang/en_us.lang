@@ -797,8 +797,8 @@ nomifactory.quest.normal.db.196.title=§2Tritanium Ingot
 nomifactory.quest.normal.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
 
 # db 197 of mode normal
-nomifactory.quest.normal.db.197.title=Tungstensteel
-nomifactory.quest.normal.db.197.desc=§6Tungstensteel§r is an alloy of §6Tungsten§r and §6Steel§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
+nomifactory.quest.normal.db.197.title=RTM-Alloy
+nomifactory.quest.normal.db.197.desc=§6RTM-Alloy§r is an alloy of §6Ruthenium, Tungsten §rand §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
 
 # db 198 of mode normal
 nomifactory.quest.normal.db.198.title=§2IV Machine Hulls
@@ -3548,6 +3548,10 @@ nomifactory.quest.normal.db.1049.desc=Most multiblocks now support rotation alon
 nomifactory.quest.normal.db.1050.title=Automatic Mining
 nomifactory.quest.normal.db.1050.desc=§oThis quest accepts LV, MV or HV Miner.§r%n%nThe §3Miner§r mines ore blocks directly below it in a certain radius. Higher tier Miners operate faster and have larger covered areas.%n%nThe LV Miner calls for an §6LV Sensor§r, which requires a bit of §6Quartzite§r. Buy some if you haven't come across it yet.%n%nAt §5EV§r tier, you can build §3Large Miners§r.
 
+# db 1051 of mode normal
+nomifactory.quest.normal.db.1051.title=Tungstensteel
+nomifactory.quest.normal.db.1051.desc=§6Tungstensteel§r is an alloy of §6Tungsten §rand §6Steel.%n%n§rThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
+
 # Expert Quest Lang Entries:
 
 # line 0 of mode expert
@@ -4335,8 +4339,8 @@ nomifactory.quest.expert.db.196.title=§2Tritanium Ingot
 nomifactory.quest.expert.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
 
 # db 197 of mode expert
-nomifactory.quest.expert.db.197.title=Tungstensteel
-nomifactory.quest.expert.db.197.desc=§6Tungstensteel§r is an alloy of §6Tungsten§r and §6Steel§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
+nomifactory.quest.expert.db.197.title=RTM-Alloy
+nomifactory.quest.expert.db.197.desc=§6RTM-Alloy§r is an alloy of §6Ruthenium, Tungsten §rand §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
 
 # db 198 of mode expert
 nomifactory.quest.expert.db.198.title=§2IV Machine Hulls
@@ -6733,3 +6737,7 @@ nomifactory.quest.expert.db.1051.desc=To operate your future §bElectric Blast F
 # db 1052 of mode expert
 nomifactory.quest.expert.db.1052.title=Ore Processing with Centrifuges
 nomifactory.quest.expert.db.1052.desc=§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).%n%nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9Liquid Rubber§r.
+
+# db 1053 of mode expert
+nomifactory.quest.expert.db.1053.title=Tungstensteel
+nomifactory.quest.expert.db.1053.desc=§6Tungstensteel§r is an alloy of §6Tungsten §rand §6Steel.%n%n§rThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
