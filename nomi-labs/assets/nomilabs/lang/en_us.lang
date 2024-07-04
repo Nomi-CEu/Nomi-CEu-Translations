@@ -9,6 +9,11 @@ tile.unique_casing.air_vent.name=Air Vent
 nomilabs.subtitle.tick.microverse=Projecting Microverse
 
 # Config
+nomilabs.tooltip=Normal Nomi Labs Configs
+nomilabs-version.tooltip=Nomi Labs Modpack Version Config
+
+config.nomilabs.version.formatted-version=Formatted Modpack Version
+
 config.nomilabs.content=Content Settings
 config.nomilabs.content.tooltip=Content Settings
 
@@ -77,7 +82,8 @@ config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
 config.nomilabs.advanced.ignore_entities=ENTITY Missing Registry Ignore List
 config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 config.nomilabs.advanced.language_modify_option=Language Tab Modifier Mode
-config.nomilabs.advanced.window_title=Minecraft Window Title Override
+config.nomilabs.advanced.window=Minecraft Window Title Overrides
+config.nomilabs.advanced.difficulty=Difficulty Overrides
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
@@ -98,6 +104,16 @@ config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Log Conflicting F
 config.nomilabs.advanced.controls_tooltips=Controls Menu Tooltips Settings
 config.nomilabs.advanced.controls_tooltips.show_id=Show ID Tooltip
 config.nomilabs.advanced.controls_tooltips.show_class=Show Class Tooltip
+
+config.nomilabs.advanced.window.window_title=Window Title Override
+config.nomilabs.advanced.window.window_logo_16x=Window Logo 16x Override
+config.nomilabs.advanced.window.window_logo_32x=Window Logo 32x Override
+config.nomilabs.advanced.window.window_logo_256x=Window Logo 256x Override
+
+config.nomilabs.advanced.difficulty.enable_normal=Enable Difficulty Override Normal
+config.nomilabs.advanced.difficulty.enable_expert=Enable Difficulty Override Expert
+config.nomilabs.advanced.difficulty.normal_override=Difficulty Override Normal
+config.nomilabs.advanced.difficulty.expert_override=Difficulty Override Expert
 
 # GUI
 gui.nomilabs.recipes.tooltip.ct_recipe=CraftTweaker Recipe.
@@ -499,6 +515,10 @@ item.nomilabs.hand_framing_tool.desc6=When right clicking any wood-type drawers 
 item.nomilabs.pulsatingdust.name=Pulsating Dust
 item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 
+#-----------------Commands-----------------#
+
+command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
+command.nomilabs.difficulty.labs_locked_2=§cThis is because you are playing on %s §6Mode§c!
 
 #----------------Multiblocks----------------#
 
