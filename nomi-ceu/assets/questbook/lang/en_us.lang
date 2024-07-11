@@ -66,7 +66,7 @@ nomifactory.quest.normal.db.2.desc=Note: this quest accepts both LV and MV Canni
 
 # db 3 of mode normal
 nomifactory.quest.normal.db.3.title=§2Genesis
-nomifactory.quest.normal.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
+nomifactory.quest.normal.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%nDon't forget: you can always open the §6Questbook§r with the §eGrave§r key!%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
 
 # db 4 of mode normal
 nomifactory.quest.normal.db.4.title=Iron Supply
@@ -850,7 +850,7 @@ nomifactory.quest.normal.db.210.desc=Even simple rockets demand §6Double Plates
 
 # db 211 of mode normal
 nomifactory.quest.normal.db.211.title=Flightplan To The Moon
-nomifactory.quest.normal.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eC§r but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
+nomifactory.quest.normal.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eCtrl/Cmd + C§r). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
 
 # db 212 of mode normal
 nomifactory.quest.normal.db.212.title=Fuel Loading
@@ -1434,7 +1434,7 @@ nomifactory.quest.normal.db.367.desc=§oNow this is not the end. It is not even 
 
 # db 368 of mode normal
 nomifactory.quest.normal.db.368.title=Grappling Hook
-nomifactory.quest.normal.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
+nomifactory.quest.normal.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however you can change this as you wish. Just be careful of §cKeybind Conflicts§r!
 
 # db 370 of mode normal
 nomifactory.quest.normal.db.370.title=Charcoal
@@ -3430,7 +3430,7 @@ nomifactory.quest.normal.db.1020.desc=§oNote: This quest accepts a Chisel of an
 
 # db 1021 of mode normal
 nomifactory.quest.normal.db.1021.title=§2Tool Belt
-nomifactory.quest.normal.db.1021.desc=§2A brand new and highly requested mod to CEu to help you manage your tools!§r%n%nThe §eTool Belt§r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock §6Steel§r, you can upgrade it with §6Belt Pouches§r, all the way to 9 slots, with an §3Anvil§r and some §aXP§r!%n%nMake the Tool Belt, and you can use the keybind (default is `R'), while the belt is in your inventory or Bauble Slots §cand you are holding something, or the belt is not empty§r, to open its GUI. %n%nAlternatively, you can right click while holding the belt to open its inventory.%n%nThe Tool Belt is equipable as a §bBauble§r. Open your inventory and look for the Baubles button, and click it to reveal the additional bauble slots menu, and then put it in the Belt Slot. Or, just click in every bauble slot until it goes in, if you can't tell which bauble slot looks like a belt.%n%nThe Tool Belt can store anything with a stack size of 1, like swords, pickaxes, §bGregTech§r tools, and the §6Terminal§r. It has also been modified a bit, so it also allows any §bStorage Drawers§r key, and §cdoesn't allow any Thermal Satchel§r.%n%nNow, you can insert and extract from the belt! You can also use the Keybinds `§eCycle Tool Left§r' and `§eCycle Tool Right§r' whilst you are in the GUI.
+nomifactory.quest.normal.db.1021.desc=§2A brand new and highly requested mod to CEu to help you manage your tools!§r%n%nThe §eTool Belt§r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock §6Steel§r, you can upgrade it with §6Belt Pouches§r, all the way to 9 slots, with an §3Anvil§r and some §aXP§r!%n%nMake the Tool Belt, and you can use the keybind (default is §eR§r), while the belt is in your inventory or Bauble Slots §cand you are holding something, or the belt is not empty§r, to open its GUI. %n%nAlternatively, you can right click while holding the belt to open its inventory.%n%nThe Tool Belt is equipable as a §bBauble§r. Open your inventory and look for the Baubles button, and click it to reveal the additional bauble slots menu, and then put it in the Belt Slot. Or, just click in every bauble slot until it goes in, if you can't tell which bauble slot looks like a belt.%n%nThe Tool Belt can store anything with a stack size of 1, like swords, pickaxes, §bGregTech§r tools, and the §6Terminal§r. It has also been modified a bit, so it also allows any §bStorage Drawers§r key, and §cdoesn't allow any Thermal Satchel§r.%n%nNow, you can insert and extract from the belt! You can also use the Keybinds `§eCycle Tool Left§r' and `§eCycle Tool Right§r' whilst you are in the GUI.
 
 # db 1022 of mode normal
 nomifactory.quest.normal.db.1022.title=P2P Tunnels
@@ -3442,7 +3442,7 @@ nomifactory.quest.normal.db.1023.desc=Neeve, the master of Leveret. Summon him, 
 
 # db 1024 of mode normal
 nomifactory.quest.normal.db.1024.title=Inventory Sorting
-nomifactory.quest.normal.db.1024.desc=This pack has §bInventory Bogo Sorter§r, allowing for quick, customizable, and easy sorting of any inventory!%n%nThe default sort keybind is §aMiddle Click§r, §cbut you can always change the keybind. Simply hover over any slot in the inventory (§6Chests§r, §6Crates§r, your personal inventory, etc.), and click your sort keybind, and voila! A neat inventory.%n%nYou can also configure how it is sorted, within the GUI. The default key to open the GUI is §aK§r.%n%nInventory Bogo Sorter, by default, also replaces stacks of items, like blocks, tools and food in your hotbar. For tools, it even replaces it just before it breaks, so you can repair it! Now, you can build a pillar to y-256 without opening your inventory, or changing hotbar slots!
+nomifactory.quest.normal.db.1024.desc=This pack has §bInventory Bogo Sorter§r, allowing for quick, customizable, and easy sorting of any inventory!%n%nThe default sort keybind is §aMiddle Click§r, but you can always change the keybind. Simply hover over any slot in the inventory (§6Chests§r, §6Crates§r, your personal inventory, etc.), and click your sort keybind, and voila! A neat inventory.%n%nYou can also configure how it is sorted, within the GUI. The default key to open the GUI is §aK§r.%n%nInventory Bogo Sorter, by default, also replaces stacks of items, like blocks, tools and food in your hotbar. For tools, it even replaces it just before it breaks, so you can repair it! Now, you can build a pillar to y-256 without opening your inventory, or changing hotbar slots!
 
 # db 1025 of mode normal
 nomifactory.quest.normal.db.1025.title=Powered Spawner
@@ -3474,11 +3474,7 @@ nomifactory.quest.normal.db.1031.desc=§3World Accelerators§r accelerate the ti
 
 # db 1032 of mode normal
 nomifactory.quest.normal.db.1032.title=§2ME Multiblock Buses
-nomifactory.quest.normal.db.1032.desc=Combining an §aI/O Bus§r and an §aME Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Buses§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nNote that only the Interface-textured side will connect to an ME network.
-
-# db 1033 of mode normal
-nomifactory.quest.normal.db.1033.title=§2ME Multiblock Hatches
-nomifactory.quest.normal.db.1033.desc=Combining an §aI/O Hatch§r and an §aME Fluid Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Hatches§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nNote that only the Interface-textured side will connect to an ME network.
+nomifactory.quest.normal.db.1032.desc=Combining an §aI/O Bus§r and an §aME Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Buses/Hatches§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nSaves you that crucial block space, whilst giving you access to your usual features (such as §eGhost Circuits§r). They also have an extra storage space (for things like §6Lenses§r and §6Molds§r)!%n%nAlso, when you get tired of placing the same configuration over and over again, you can use §bGregTech§r §6Data Sticks§r to copy a ME Hatch/Bus Configuration!%n%nIn §9IV§r, you also unlock §6ME Stocking Input Buses and Hatches§r, which instead of storing a set amount of items/fluids itself, simply extracts items/fluids from the AE Network on demand. Technically, §einfinite throughput§r (or as much as your AE system can support), and saves having buffer items and fluids everywhere!%n%nNote that only the Interface-textured side will connect to an ME network.
 
 # db 1034 of mode normal
 nomifactory.quest.normal.db.1034.title=§2Data Bank
@@ -3608,7 +3604,7 @@ nomifactory.quest.expert.db.2.desc=Note: this quest accepts both LV and MV Canni
 
 # db 3 of mode expert
 nomifactory.quest.expert.db.3.title=§cHard-§2Genesis
-nomifactory.quest.expert.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition: §cHard/Expert Mode§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (color 2)§r, and features unique to §cHard/Expert Mode§r will be highlighted in §cred (color C)§r.
+nomifactory.quest.expert.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition: §cHard/Expert Mode§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%nDon\u0027t forget: you can always open the §6Questbook§r with the §eGrave§r key!%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (color 2)§r, and features unique to §cHard/Expert Mode§r will be highlighted in §cred (color C)§r.
 
 # db 4 of mode expert
 nomifactory.quest.expert.db.4.title=Iron Supply
@@ -4392,7 +4388,7 @@ nomifactory.quest.expert.db.210.desc=Even simple rockets demand §6Double Plates
 
 # db 211 of mode expert
 nomifactory.quest.expert.db.211.title=Flightplan To The Moon
-nomifactory.quest.expert.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eC§r but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
+nomifactory.quest.expert.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eCtrl/Cmd + C§r). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
 
 # db 212 of mode expert
 nomifactory.quest.expert.db.212.title=Fuel Loading
@@ -4976,7 +4972,7 @@ nomifactory.quest.expert.db.367.desc=§dStabilized Micro Miners§r are the end g
 
 # db 368 of mode expert
 nomifactory.quest.expert.db.368.title=Grappling Hook
-nomifactory.quest.expert.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
+nomifactory.quest.expert.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however you can change this as you wish. Just be careful of §cKeybind Conflicts§r!
 
 # db 370 of mode expert
 nomifactory.quest.expert.db.370.title=§2Coke Oven
@@ -6596,7 +6592,7 @@ nomifactory.quest.expert.db.926.desc=§oNote: This quest accepts a Chisel of any
 
 # db 927 of mode expert
 nomifactory.quest.expert.db.927.title=§2Tool Belt
-nomifactory.quest.expert.db.927.desc=§2A brand new and highly requested mod to CEu to help you manage your tools!§r%n%nThe §eTool Belt§r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock §6Steel§r, you can upgrade it with §6Belt Pouches§r, all the way to 9 slots, with an §3Anvil§r and some §aXP§r!%n%nMake the Tool Belt, and you can use the keybind (default is `R'), while the belt is in your inventory or Bauble Slots §cand you are holding something, or the belt is not empty§r, to open its GUI. %n%nAlternatively, you can right click while holding the belt to open its inventory.%n%nThe Tool Belt is equipable as a §bBauble§r. Open your inventory and look for the Baubles button, and click it to reveal the additional bauble slots menu, and then put it in the Belt Slot. Or, just click in every bauble slot until it goes in, if you can't tell which bauble slot looks like a belt.%n%nThe Tool Belt can store anything with a stack size of 1, like swords, pickaxes, §bGregTech§r tools, and the §6Terminal§r. It has also been modified a bit, so it also allows any §bStorage Drawers§r key, and §cdoesn't allow any Thermal Satchel§r.%n%nNow, you can insert and extract from the belt! You can also use the Keybinds `§eCycle Tool Left§r' and `§eCycle Tool Right§r' whilst you are in the GUI.
+nomifactory.quest.expert.db.927.desc=§2A brand new and highly requested mod to CEu to help you manage your tools!§r%n%nThe §eTool Belt§r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock §6Steel§r, you can upgrade it with §6Belt Pouches§r, all the way to 9 slots, with an §3Anvil§r and some §aXP§r!%n%nMake the Tool Belt, and you can use the keybind (default is §eR§r), while the belt is in your inventory or Bauble Slots §cand you are holding something, or the belt is not empty§r, to open its GUI. %n%nAlternatively, you can right click while holding the belt to open its inventory.%n%nThe Tool Belt is equipable as a §bBauble§r. Open your inventory and look for the Baubles button, and click it to reveal the additional bauble slots menu, and then put it in the Belt Slot. Or, just click in every bauble slot until it goes in, if you can't tell which bauble slot looks like a belt.%n%nThe Tool Belt can store anything with a stack size of 1, like swords, pickaxes, §bGregTech§r tools, and the §6Terminal§r. It has also been modified a bit, so it also allows any §bStorage Drawers§r key, and §cdoesn't allow any Thermal Satchel§r.%n%nNow, you can insert and extract from the belt! You can also use the Keybinds `§eCycle Tool Left§r' and `§eCycle Tool Right§r' whilst you are in the GUI.
 
 # db 928 of mode expert
 nomifactory.quest.expert.db.928.title=§2UV Machine Hulls
@@ -6616,7 +6612,7 @@ nomifactory.quest.expert.db.931.desc=Neeve, the master of Leveret. Summon him, a
 
 # db 932 of mode expert
 nomifactory.quest.expert.db.932.title=Inventory Sorting
-nomifactory.quest.expert.db.932.desc=This pack has §bInventory Bogo Sorter§r, allowing for quick, customizable, and easy sorting of any inventory!%n%nThe default sort keybind is §aMiddle Click§r, §cbut you can always change the keybind. Simply hover over any slot in the inventory (§6Chests§r, §6Crates§r, your personal inventory, etc.), and click your sort keybind, and voila! A neat inventory.%n%nYou can also configure how it is sorted, within the GUI. The default key to open the GUI is §aK§r.%n%nInventory Bogo Sorter, by default, also replaces stacks of items, like blocks, tools and food in your hotbar. For tools, it even replaces it just before it breaks, so you can repair it! Now, you can build a pillar to y-256 without opening your inventory, or changing hotbar slots!
+nomifactory.quest.expert.db.932.desc=This pack has §bInventory Bogo Sorter§r, allowing for quick, customizable, and easy sorting of any inventory!%n%nThe default sort keybind is §aMiddle Click§r, but you can always change the keybind. Simply hover over any slot in the inventory (§6Chests§r, §6Crates§r, your personal inventory, etc.), and click your sort keybind, and voila! A neat inventory.%n%nYou can also configure how it is sorted, within the GUI. The default key to open the GUI is §aK§r.%n%nInventory Bogo Sorter, by default, also replaces stacks of items, like blocks, tools and food in your hotbar. For tools, it even replaces it just before it breaks, so you can repair it! Now, you can build a pillar to y-256 without opening your inventory, or changing hotbar slots!
 
 # db 933 of mode expert
 nomifactory.quest.expert.db.933.title=§2Programmed Circuits
@@ -6656,11 +6652,7 @@ nomifactory.quest.expert.db.1031.desc=§3World Accelerators§r accelerate the ti
 
 # db 1032 of mode expert
 nomifactory.quest.expert.db.1032.title=§2ME Multiblock Buses
-nomifactory.quest.expert.db.1032.desc=Combining an §aI/O Bus§r and an §aME Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Buses§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nNote that only the Interface-textured side will connect to an ME network.
-
-# db 1033 of mode expert
-nomifactory.quest.expert.db.1033.title=§2ME Multiblock Hatches
-nomifactory.quest.expert.db.1033.desc=Combining an §aI/O Hatch§r and an §aME Fluid Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Hatches§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nNote that only the Interface-textured side will connect to an ME network.
+nomifactory.quest.expert.db.1032.desc=Combining an §aI/O Bus§r and an §aME Interface§r into a single block, these can be used in place of §aInput§r and §aOutput Buses/Hatches§r in GregTech multiblocks to connect them directly to your AE2 network.%n%nSaves you that crucial block space, whilst giving you access to your usual features (such as §eGhost Circuits§r). They also have an extra storage space (for things like §6Lenses§r and §6Molds§r)!%n%nAlso, when you get tired of placing the same configuration over and over again, you can use §bGregTech§r §6Data Sticks§r to copy a ME Hatch/Bus Configuration!%n%nIn §9IV§r, you also unlock §6ME Stocking Input Buses and Hatches§r, which instead of storing a set amount of items/fluids itself, simply extracts items/fluids from the AE Network on demand. Technically, §einfinite throughput§r (or as much as your AE system can support), and saves having buffer items and fluids everywhere!%n%nNote that only the Interface-textured side will connect to an ME network.
 
 # db 1034 of mode expert
 nomifactory.quest.expert.db.1034.title=§2Data Bank
