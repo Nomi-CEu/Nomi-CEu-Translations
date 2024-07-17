@@ -13,3 +13,9 @@ metaitem.circuit.wetware_super_computer.name=Органический масси
 metaitem.circuit.wetware_mainframe.name=Органический мейнфрейм
 metaitem.quantumstar.name=§5Квантовая звезда
 nomifactory.nonetherportals=Порталы Нижнего мира отключены в §5Nomi-CEu§r, вам необходимо создать §6Торт Нижнего мираs§r. Используйте квест-бук!
+nomiceu.tooltip.actuallyadditions.drill_core.2=§cТакже может быть куплено за Номимонеты!§r
+nomiceu.tooltip.actuallyadditions.canola.2=§aЭтот механизм довольно медленный, и для работы требует RF энергию.§r
+# Actually Additions
+nomiceu.tooltip.actuallyadditions.drill_core.1=§cМожно получить, исследуя здания из Lost Cities или Подземелья из Minecraft.§r
+nomiceu.tooltip.actuallyadditions.canola_press=§aПерерабатывает Канолу в Масло канолы. Требуется RF энергия§r
+nomiceu.tooltip.actuallyadditions.canola.1=§aКанола может быть переработана в Масло канолы через Пресс для канолы.§r
