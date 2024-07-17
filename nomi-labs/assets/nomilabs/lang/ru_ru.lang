@@ -517,15 +517,15 @@ config.nomilabs.content.gt_content.tooltip=Настройки уникально
 config.nomilabs.mod_integration.tooltip=Настройка интеграции модов
 config.nomilabs.groovy=Настройка GroovyScript Extensions и Script Helper
 config.nomilabs.groovy.tooltip=Настройка GroovyScript Extensions и Script Helper
-config.nomilabs.groovy.hand=Включить GroovyScript Hand Additions
+config.nomilabs.groovy.hand=Включить GroovyScript Hand Command Additions
 config.nomilabs.groovy.recipe_search_mode=Режим поиска результатов рецептов GregTech
 config.nomilabs.mod_integration.draconicevolution.tooltip=Настройка интеграции Draconic Evolution
 config.nomilabs.advanced.tooltip=Расширенные настройки
 config.nomilabs.advanced.fluid_registry.tooltip=Настройки реестра жидкостей
 
 # GUI
-gui.nomilabs.recipes.tooltip.ct_recipe=Рецепт взят из CraftTweaker.
-gui.nomilabs.recipes.tooltip.gs_recipe=Рецепт взят из GroovyScript.
+gui.nomilabs.recipes.tooltip.ct_recipe=Рецепт из CraftTweaker.
+gui.nomilabs.recipes.tooltip.gs_recipe=Рецепт из GroovyScript.
 nomilabs.command.gs_hand.material_stack=Стак материалов:
 nomilabs.fixer.do_not_revert.intro_addition=§eПредупреждение:§r
 nomilabs.fixer.do_not_revert.do_not_exit_addition=§eНапоминание:§r
@@ -537,3 +537,26 @@ nomilabs.fixer.do_not_revert.1=§cПосле того, как мир будет 
 nomilabs.material.cuprorhodsite=Купрородсит
 config.nomilabs.mod_integration.architecture_craft=Включить интеграцию ArchitectureCraft
 nomilabs.material.laurite=Лаурит
+config.nomilabs.mod_integration.effortlessbuilding.enable=Включить интеграцию Effortless Building
+config.nomilabs.mod_integration.effortlessbuilding.blocks.1=Макс. кол-во устанавливаемых блоков (1 улучшение)
+item.nomilabs.info_item.name=Информация
+command.nomilabs.difficulty.labs_locked_1=§cСложность этого мира заблокирована на %s§c!
+config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Макс. кол-во устанавливаемых блоков (Творческий режим)
+config.nomilabs.mod_integration.ftb_utils=Включить интеграцию FTB Utilities
+config.nomilabs.mod_integration.default_world_gen=Включить интеграцию Default World Generator Port
+config.nomilabs.mod_integration.top_addons=Включить интеграцию The One Probe Addons
+config.nomilabs.mod_integration.effortlessbuilding.axis.2=Макс. дальность по оси (2 улучшения)
+config.nomilabs.mod_integration.effortlessbuilding.axis.3=Макс. дальность по оси (3 улучшения)
+config.nomilabs.mod_integration.effortlessbuilding.axis.creative=Макс. дальность по оси (Творческий режим)
+# Growth Chamber
+nomilabs.machine.growth_chamber.name=Камера выращивания
+recipemap.growth_chamber.name=Выращивание
+
+# Config
+nomilabs.tooltip=Nomi Labs настройки (Обычный)
+config.nomilabs.mod_integration.effortlessbuilding=Настройки интеграции Effortless Building
+config.nomilabs.mod_integration.effortlessbuilding.axis.0=Макс. дальность по оси (Без улучшений)
+config.nomilabs.mod_integration.effortlessbuilding.axis.1=Макс. дальность по оси (1 улучшение)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.0=Макс. кол-во устанавливаемых блоков (Без улучшений)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Макс. кол-во устанавливаемых блоков (2 улучшения)
+config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Макс. кол-во устанавливаемых блоков (3 улучшения)
