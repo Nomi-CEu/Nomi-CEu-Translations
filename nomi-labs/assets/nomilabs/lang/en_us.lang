@@ -13,6 +13,7 @@ nomilabs.tooltip=Normal Nomi Labs Configs
 nomilabs-version.tooltip=Nomi Labs Modpack Version Config
 
 config.nomilabs.version.formatted-version=Formatted Modpack Version
+config.nomilabs.version.manual-fix-version=[ADVANCED] Manual Fix Version
 
 config.nomilabs.content=Content Settings
 config.nomilabs.content.tooltip=Content Settings
@@ -162,6 +163,9 @@ nomilabs.fixer.mode_check.4=Press 'No' if you are not sure! (It will cancel worl
 
 nomilabs.fixer.do_not_exit.1=§cDo not interrupt the loading process!§r
 nomilabs.fixer.do_not_exit.2=If interrupted, load again from the backup, as your world may be corrupted!
+
+nomilabs.fixer.invalid_manual_version.1=§cManual Fix Version has been Decremented!§r
+nomilabs.fixer.invalid_manual_version.2=§cReport this to the Modpack Author!§r
 
 # Commands
 nomilabs.command.gs_hand.material=Material ID:
