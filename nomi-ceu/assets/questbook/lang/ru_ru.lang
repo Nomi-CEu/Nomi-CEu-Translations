@@ -6077,7 +6077,7 @@ nomifactory.quest.normal.db.1044.desc=
 nomifactory.quest.expert.line.6.desc=
 nomifactory.quest.expert.line.7.desc=
 nomifactory.quest.expert.line.8.desc=
-nomifactory.quest.expert.line.9.desc=
+nomifactory.quest.expert.line.10.desc=
 nomifactory.quest.expert.db.0.desc=
 
 # line 6 of mode expert
@@ -6089,8 +6089,8 @@ nomifactory.quest.expert.line.7.title=
 # line 8 of mode expert
 nomifactory.quest.expert.line.8.title=
 
-# line 9 of mode expert
-nomifactory.quest.expert.line.9.title=
+# line 10 of mode expert
+nomifactory.quest.expert.line.10.title=
 
 # db 0 of mode expert
 nomifactory.quest.expert.db.0.title=

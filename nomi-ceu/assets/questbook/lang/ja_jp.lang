@@ -6007,12 +6007,12 @@ nomifactory.quest.normal.db.1044.desc=
 nomifactory.quest.normal.db.1042.title=§2大型変圧器
 nomifactory.quest.expert.line.8.desc=
 nomifactory.quest.expert.db.3.desc=
-nomifactory.quest.expert.line.9.desc=
+nomifactory.quest.expert.line.10.desc=
 nomifactory.quest.expert.db.0.desc=
 nomifactory.quest.expert.db.2.desc=
 
-# line 9 of mode expert
-nomifactory.quest.expert.line.9.title=マター・エネルギー
+# line 10 of mode expert
+nomifactory.quest.expert.line.10.title=マター・エネルギー
 nomifactory.quest.expert.db.6.desc=
 nomifactory.quest.expert.db.8.desc=
 nomifactory.quest.expert.db.10.desc=

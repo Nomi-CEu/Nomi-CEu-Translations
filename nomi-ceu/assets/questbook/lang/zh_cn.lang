@@ -3562,9 +3562,9 @@ nomifactory.quest.expert.line.7.desc=开始学习§b更多实用设备§r和§b�
 nomifactory.quest.expert.line.8.title=聚变！以及更多的研究
 nomifactory.quest.expert.line.8.desc=利用如同“甜甜圈”的聚变融合出新的物质以及提供大量电力！%n%n利用电路的综合计算能力来解开先进组件的秘密。
 
-# line 9 of mode expert
-nomifactory.quest.expert.line.9.title=物质和能量
-nomifactory.quest.expert.line.9.desc=使用§b应用能源2§r让物质和能量相互转换。%n%n让一切自动化！o/
+# line 10 of mode expert
+nomifactory.quest.expert.line.10.title=物质和能量
+nomifactory.quest.expert.line.10.desc=使用§b应用能源2§r让物质和能量相互转换。%n%n让一切自动化！o/
 
 # db 0 of mode expert
 nomifactory.quest.expert.db.0.title=给石英充充电
