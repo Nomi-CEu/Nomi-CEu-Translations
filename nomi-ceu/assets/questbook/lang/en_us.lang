@@ -3586,9 +3586,9 @@ nomifactory.quest.expert.line.7.desc=Get your feet wet with §bExtra Utilities§
 nomifactory.quest.expert.line.8.title=Fusion & Research
 nomifactory.quest.expert.line.8.desc=Create new elements and power your base with doughnuts!%n%nHarness the combined computing power of your circuits to unlock the secrets to advanced components.
 
-# line 9 of mode expert
-nomifactory.quest.expert.line.9.title=Matter-Energy
-nomifactory.quest.expert.line.9.desc=Convert between matter and energy with §bApplied Energistics§r.%n%nAutomate ALL the things! o/
+# line 10 of mode expert
+nomifactory.quest.expert.line.10.title=Matter-Energy
+nomifactory.quest.expert.line.10.desc=Convert between matter and energy with §bApplied Energistics§r.%n%nAutomate ALL the things! o/
 
 # db 0 of mode expert
 nomifactory.quest.expert.db.0.title=Charging Quartz

@@ -1,4 +1,10 @@
 
 
 effortlessbuilding.item.reach_upgrade.tooltip.1=§7Увеличивает после использование до: §r
-effortlessbuilding.item.reach_upgrade.tooltip.2=§3Дальность размещение§7 §e%s§7!§r
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3Дальность размещение§7 теперь §e%s§7!§r
+effortlessbuilding.use.reach_upgrade.creative.1=Улучшение дальности не требуется в Творческом режиме!
+effortlessbuilding.use.reach_upgrade.creative.2=Все еще хотите увеличить дальность? Зайдите в настройки мода!
+effortlessbuilding.use.reach_upgrade.success.2=§3Дальность размещение§7 изменилась с §c%s §7на §e%s§r!
+effortlessbuilding.use.reach_upgrade.success.3=§3Дальность дистанции§7 изменилась с §c%s §7на §e%s§r!
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3Дальность дистанции§7 теперь §e%s§7! блоков§r
+effortlessbuilding.use.reach_upgrade.already_used=Улучшение использовано!
