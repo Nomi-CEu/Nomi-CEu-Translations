@@ -47,6 +47,7 @@ config.nomilabs.mod_integration.ender_storage=Enable Ender Storage Integration
 config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 config.nomilabs.mod_integration.ftb_utils=Enable FTB Utilities Integration
 config.nomilabs.mod_integration.top_addons=Enable TOP Addons Integration
+config.nomilabs.mod_integration.jei_crafting_output_empty_line=Add JEI Crafting Output Tooltip Empty Line
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
