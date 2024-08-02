@@ -181,8 +181,8 @@ config.nomilabs.advanced.ignore_items=
 config.nomilabs.advanced.fluid_registry.tooltip=
 
 # GUI
-gui.nomilabs.recipes.tooltip.ct_recipe=
-gui.nomilabs.recipes.tooltip.gs_recipe=
+nomilabs.gui.recipes.tooltip.ct_recipe=
+nomilabs.gui.recipes.tooltip.gs_recipe=
 
 # Custom Fluids
 fluid.uranium233=

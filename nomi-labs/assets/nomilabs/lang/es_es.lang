@@ -61,8 +61,8 @@ config.nomilabs.advanced.fluid_registry.default_fluids=Fluidos por defecto
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=Registro de fluidos en conflicto
 
 # GUI
-gui.nomilabs.recipes.tooltip.ct_recipe=Receta CraftTweaker.
-gui.nomilabs.recipes.tooltip.gs_recipe=Receta GroovyScript.
+nomilabs.gui.recipes.tooltip.ct_recipe=Receta CraftTweaker.
+nomilabs.gui.recipes.tooltip.gs_recipe=Receta GroovyScript.
 
 # Custom Fluids
 fluid.uranium233=Uranio 233

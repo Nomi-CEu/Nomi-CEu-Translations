@@ -1,17 +1,3 @@
-metaitem.circuit.energy_flow.name=水晶处理器
-metaitem.circuit.quantum_processor.name=§5量子电路板
-metaitem.circuit.nano_processor_assembly.name=纳米处理器
-metaitem.circuit.nano_processor.name=纳米电路板
-metaitem.circuit.processor_assembly.name=微型处理器
-metaitem.circuit.basic_electronic.name=电子电路板
-metaitem.circuit.basic.name=原始电路板
-metaitem.quantumeye.name=量子之眼
-metaitem.board.phenolic.name=酚醛基板
-metaitem.circuit.wetware_processor.name=湿件电路板
-metaitem.circuit.wetware_assembly.name=湿件处理器
-metaitem.circuit.wetware_super_computer.name=湿件处理器阵列
-metaitem.circuit.wetware_mainframe.name=湿件处理器主机
-metaitem.quantumstar.name=§5量子之星
 nomifactory.nonetherportals=在§5Nomi-CEu§r中，下界传送门被禁用。按照任务书的指引解锁§6下界蛋糕§r！
 nomiceu.tooltip.actuallyadditions.drill_core.2=§c也可以用万象币购买！§r
 nomiceu.tooltip.actuallyadditions.canola.1=§a油菜可以用油菜压榨机榨成菜籽油。§r
@@ -30,11 +16,6 @@ nomiceu.tooltip.ae2.inverter_card=§e使机器接受且仅接受未标记的物�
 nomiceu.tooltip.ae2.fuzzy_card=§e只处理特定耐久度范围的物品。§r
 nomiceu.tooltip.ae2.redstone_card=§e用红石控制你的 ME 机器！§r
 nomiceu.tooltip.ae2.pure_fluix=§a由福鲁伊克斯种子在晶体催生仓中生长而成。§r
-nomiceu.tooltip.ae2.p2p_rf=§a通过手持能量导管右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_fluid=§a通过手持桶右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_light=§a通过手持火把右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_eu=§a通过手持 GT 导线或线缆右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_interface=§a通过手持 ME 接口右击一个 ME P2P 通道 获得。§r
 nomiceu.tooltip.ae2.dense=§b用于装修！§r
 nomiceu.tooltip.ae2.facade=§3AE2 覆盖板可以由大多数方块制作。§r
 nomiceu.tooltip.ae2.crafting_storage=§e把它放入制作栏来回收元件！§r
@@ -73,9 +54,7 @@ nomiceu.tooltip.ae2.capacity_card=§e扩展输入/输出总线容量！§r
 nomiceu.tooltip.ae2.pure_certus_quartz=§a由赛特斯石英种子在晶体催生仓中生长而成。§r
 nomiceu.tooltip.ae2.pure_nether_quartz=§a由下界石英种子在晶体催生仓中生长而成。§r
 nomiceu.tooltip.ae2.charged_certus=§b通过用 AE2 充能器或能量灌注机充入 RF 获得。§r
-nomiceu.tooltip.ae2.p2p_item=§a通过手持箱子右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_redstone=§a通过手持红石右击一个 ME P2P 通道 获得。§r
-nomiceu.tooltip.ae2.p2p_me=§a其他 P2P 通道的基础。§r
+nomiceu.tooltip.ae2.p2p.me=§b其他 P2P 通道的基础。§r
 
 # Dimensional Edibles
 nomiceu.tooltip.dimensionaledibles.island_cake.1=§a服务器所有者使用它来将 FTB 团队和个人传送到他们的私人空岛！§r
@@ -91,10 +70,14 @@ nomiceu.tooltip.gregtech.prospector.1=§6§l用法：§r
 nomiceu.tooltip.gregtech.prospector.3=单击侧栏中的矿石将其单独筛选。
 nomiceu.tooltip.gregtech.facade.2=§3单次合成数量根据所使用的金属种类而变化！§r
 
-# Extended Crafting
-nomiceu.tooltip.extendedcrafting.black_steel.omnium.1=黑钢块
-
 # Ender IO
 tooltip.fused_glass.make=由§6强化玻璃§r和§7白色染料§r制成
 nomiceu.tooltip.ae2.channels_not_enabled=频道未启用！
 nomiceu.tooltip.ae2.controller=§bME 控制器能减少 AE2 系统的能量损耗！§r
+
+# Nomi Labs
+nomiceu.tooltip.labs.hand_framing.top_left=§5左上：§o外壳§r
+nomiceu.tooltip.labs.hand_framing.top_right=§5右上：§o棱边§r
+nomiceu.tooltip.labs.hand_framing.bottom_left=§5右下：§o正面§r
+nomiceu.tooltip.labs.hand_framing.tool=§5框架你的手框架工具用手！§r
+nomiceu.tooltip.labs.hand_framing.drawer=§5框架你的抽屉用手！§r
