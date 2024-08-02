@@ -1,17 +1,3 @@
-metaitem.circuit.energy_flow.name=Кристальный процессор
-metaitem.circuit.quantum_processor.name=§5Квантовая электросхема
-metaitem.circuit.nano_processor_assembly.name=Нанопроцессор
-metaitem.circuit.nano_processor.name=Наносхема
-metaitem.circuit.processor_assembly.name=Микропроцессор
-metaitem.circuit.basic_electronic.name=Электронная микросхема
-metaitem.circuit.basic.name=Простая электросхема
-metaitem.quantumeye.name=Квантовый глаз
-metaitem.board.phenolic.name=Фенольный субстрат
-metaitem.circuit.wetware_processor.name=Органическая электросхема
-metaitem.circuit.wetware_assembly.name=Органический процессор
-metaitem.circuit.wetware_super_computer.name=Органический массив процессоров
-metaitem.circuit.wetware_mainframe.name=Органический мейнфрейм
-metaitem.quantumstar.name=§5Квантовая звезда
 nomifactory.nonetherportals=Порталы Нижнего мира отключены в §5Nomi-CEu§r, вам необходимо создать §6Торт Нижнего мираs§r. Используйте квест-бук!
 nomiceu.tooltip.actuallyadditions.drill_core.2=§cТакже может быть куплено за Номимонеты!§r
 nomiceu.tooltip.actuallyadditions.canola.2=§aЭтот механизм довольно медленный, и для работы требует RF энергию.§r
@@ -19,3 +5,9 @@ nomiceu.tooltip.actuallyadditions.canola.2=§aЭтот механизм дово
 nomiceu.tooltip.actuallyadditions.drill_core.1=§cМожно получить, исследуя здания из Lost Cities или Подземелья из Minecraft.§r
 nomiceu.tooltip.actuallyadditions.canola_press=§aПерерабатывает Канолу в Масло канолы. Требуется RF энергия§r
 nomiceu.tooltip.actuallyadditions.canola.1=§aКанола может быть переработана в Масло канолы через Пресс для канолы.§r
+
+nomiceu.tooltip.labs.hand_framing.top_left=§5Верхний левый: §oГрани§r
+nomiceu.tooltip.labs.hand_framing.top_right=§5Верхний правый: §oОтделка§r
+nomiceu.tooltip.labs.hand_framing.bottom_left=§5Нижний левый: §oФасад§r
+nomiceu.tooltip.labs.hand_framing.tool=§5Укрась Инструмент для обрамления своими собственными руками!§r
+nomiceu.tooltip.labs.hand_framing.drawer=§5Сделай обивку Хранилища вручную!§r

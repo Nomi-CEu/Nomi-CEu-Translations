@@ -471,8 +471,8 @@ config.nomilabs.advanced.fluid_registry.default_fluids=デフォルトの流体
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=競合する流体のログ
 
 # GUI
-gui.nomilabs.recipes.tooltip.ct_recipe=CraftTweakerのレシピ。
-gui.nomilabs.recipes.tooltip.gs_recipe=GroovyScriptのレシピ。
+nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweakerのレシピ。
+nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScriptのレシピ。
 
 # Custom Fluids
 fluid.uranium233=ウラン233
@@ -518,8 +518,8 @@ config.nomilabs.mod_integration.effortlessbuilding.blocks.0=最大ブロック�
 config.nomilabs.advanced.tiers.normal_slugs=ノーマルモードでのフォーマットされていない名称
 config.nomilabs.advanced.tiers.normal_formatted=ノーマルモードでのフォーマットされた名称
 config.nomilabs.advanced.tiers.expert_qb_ids=エキスパートモードでのクエストID
-gui.nomilabs.language_pack_nomi=§dNomi-CEu§bの翻訳パックが利用可能です！ 下部参照！§r
-gui.nomilabs.language_pack_labs=§dNomi-Labs§bの翻訳パックが利用可能です！ 下部参照！§r
+nomilabs.gui.language_pack_nomi=§dNomi-CEu§bの翻訳パックが利用可能です！ 下部参照！§r
+nomilabs.gui.language_pack_labs=§dNomi-Labs§bの翻訳パックが利用可能です！ 下部参照！§r
 config.nomilabs.advanced.language_modify_option=言語設定改変モード
 config.nomilabs.advanced.controls_tooltips=操作設定上のツールチップの設定
 config.nomilabs.advanced.controls_tooltips.show_id=IDツールチップを表示
