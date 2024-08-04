@@ -87,6 +87,7 @@ config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 config.nomilabs.advanced.language_modify_option=Language Tab Modifier Mode
 config.nomilabs.advanced.window=Minecraft Window Title Overrides
 config.nomilabs.advanced.difficulty=Difficulty Overrides
+config.nomilabs.advanced.server_motd_substitutions=Enable Server MOTD Substitutions
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
