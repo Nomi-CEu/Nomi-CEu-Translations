@@ -71,6 +71,7 @@ config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Int
 config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
 config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=Auto Builder Speed
 config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Auto Destructor Speed
+config.nomilabs.mod_integration.draconicevolution.fusion_charging_time=Fusion Injector Charging Time
 
 config.nomilabs.advanced=Advanced Settings
 config.nomilabs.advanced.tooltip=Advanced Settings
