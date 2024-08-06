@@ -1,7 +1,6 @@
 nomifactory.nonetherportals=ネザーポータルは§5Nomi-CEu§rでは無効化されています。クエストブックに従って§6Nether Cake§rを作成しましょう！
-
 nomiceu.tooltip.labs.hand_framing.top_left=§5左上：§oサイド§r
 nomiceu.tooltip.labs.hand_framing.top_right=§5右上： §oトリム§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5右下：§o正面§r
-nomiceu.tooltip.labs.hand_framing.tool=§5手で道具をフレーミングする！§r
-nomiceu.tooltip.labs.hand_framing.drawer=§5 手作業で引き出しのフレームを作る！§r
+nomiceu.tooltip.labs.hand_framing.tool=§5手元で手持ち式フレーミングツールを構成します！§r
+nomiceu.tooltip.labs.hand_framing.drawer=§5手元で引き出しの骨組みを作ります！§r
