@@ -33,7 +33,7 @@ nomifactory.quest.normal.db.2.title=缶詰装置と各種アイテム
 
 # db 3 of mode normal
 nomifactory.quest.normal.db.3.title=§2創世記
-nomifactory.quest.normal.db.3.desc=§5Nomifactory§r §2GTCEu Edition§rへようこそ！%n%nこのパックは、§bLost Cities / Overworld ディメンション§r でプレイすることが想定されています。%n%n友人とプレイするときには、§eクエストブックのパーティ§rへの招待を忘れないでください。%n%n§rスカイブロック上に拠点を作りたい場合、§6Void World Cake§rを設置し、食べることでVoidに移動します。採掘のためにLost Cities / Overworld ディメンションを行き来する必要はありますが、 §eVoid World§rでは自由に安全に建築をすることができます。%n%n§2CEu§rでの新要素と新しい内容を含むクエストは§2深緑色 (カラーコード 2)§rで強調されます。
+nomifactory.quest.normal.db.3.desc=§5Nomifactory§r §2GTCEu Edition§rへようこそ！%n%nこのパックは、§bLost Cities / Overworld ディメンション§r でプレイすることが想定されています。%n%n友人とプレイするときには、§eクエストブックのパーティ§rへの招待を忘れないでください。%n%n覚えておこう:§eGrave§rキーを押すことで、いつでも §6クエストブック§rを開くことができます！%n%n§rスカイブロック上に拠点を作りたい場合、§6Void World Cake§rを設置し、食べることでVoidに移動します。採掘のためにLost Cities / Overworld ディメンションを行き来する必要はありますが、 §eVoid World§rでは自由に安全に建築をすることができます。%n%n§2CEu§rでの新要素と新しい内容を含むクエストは§2深緑色 (カラーコード 2)§rで強調されます。
 
 # db 4 of mode normal
 nomifactory.quest.normal.db.4.title=鉄の確保
@@ -582,7 +582,7 @@ nomifactory.quest.normal.db.195.title=§2核融合炉 MK3
 nomifactory.quest.normal.db.196.title=§2トリタニウムインゴット
 
 # db 197 of mode normal
-nomifactory.quest.normal.db.197.title=タングステンスチール
+nomifactory.quest.normal.db.197.title=RTM合金
 
 # db 198 of mode normal
 nomifactory.quest.normal.db.198.title=§2IVマシン筐体
@@ -3038,7 +3038,7 @@ nomifactory.quest.expert.db.195.title=§2核融合炉 MK3
 nomifactory.quest.expert.db.196.title=§2トリタニウムインゴット
 
 # db 197 of mode expert
-nomifactory.quest.expert.db.197.title=タングステンスチール
+nomifactory.quest.expert.db.197.title=RTM合金
 
 # db 198 of mode expert
 nomifactory.quest.expert.db.198.title=§2IVマシン筐体
@@ -4103,7 +4103,7 @@ nomifactory.quest.normal.db.31.desc=
 nomifactory.quest.normal.db.41.desc=
 nomifactory.quest.normal.db.44.desc=
 nomifactory.quest.normal.db.45.desc=
-nomifactory.quest.normal.db.51.desc=
+nomifactory.quest.normal.db.51.desc=§3刻印機§rは、§bApplied Energistics§rの§6刻印回路§rの作成に必要な機械です。
 nomifactory.quest.normal.db.52.desc=
 nomifactory.quest.normal.db.53.desc=
 nomifactory.quest.normal.db.54.desc=
@@ -4153,9 +4153,9 @@ nomifactory.quest.normal.db.111.desc=
 nomifactory.quest.normal.db.112.desc=
 nomifactory.quest.normal.db.113.desc=
 nomifactory.quest.normal.db.114.desc=
-nomifactory.quest.normal.db.122.desc=
-nomifactory.quest.normal.db.123.desc=
-nomifactory.quest.normal.db.124.desc=
+nomifactory.quest.normal.db.122.desc=§a4k液体セル§rに使われる、二つ目の液体コンポーネントです。
+nomifactory.quest.normal.db.123.desc=§a16k液体セル§rに使われる、三つ目の液体コンポーネントです。
+nomifactory.quest.normal.db.124.desc=§a64k液体セル§rに使われる、最も大きい液体コンポーネントです。
 nomifactory.quest.normal.db.125.desc=
 nomifactory.quest.normal.db.126.desc=
 nomifactory.quest.normal.db.129.desc=
@@ -5282,7 +5282,7 @@ nomifactory.quest.expert.db.845.title=§2濃縮ナクアダ
 nomifactory.quest.expert.db.846.title=§2ナクアドリア
 nomifactory.quest.expert.db.851.desc=HSS-Gにイリジウムとオスミウムをいくつか加えることで作成できます。
 nomifactory.quest.expert.db.852.desc=
-nomifactory.quest.expert.db.853.desc=
+nomifactory.quest.expert.db.853.desc=§2ルリジットは、LuV機械の素材に使われるルテニウムとイリジウムの合金です。
 nomifactory.quest.expert.db.854.desc=
 nomifactory.quest.expert.db.855.desc=
 nomifactory.quest.expert.db.856.desc=
@@ -5590,7 +5590,7 @@ nomifactory.quest.normal.db.196.desc=
 nomifactory.quest.normal.db.197.desc=
 nomifactory.quest.normal.db.207.desc=複数のコンポーネントをまとめて一つのカタリストにします。
 nomifactory.quest.normal.db.208.desc=
-nomifactory.quest.normal.db.209.desc=
+nomifactory.quest.normal.db.209.desc=拡張作業台により、5x5のレシピでのクラフトが可能になります。
 nomifactory.quest.normal.db.215.desc=
 nomifactory.quest.normal.db.216.desc=
 nomifactory.quest.normal.db.219.desc=
@@ -5628,10 +5628,10 @@ nomifactory.quest.normal.db.294.desc=§6Empowered Restonia Crystal§rから鋳�
 nomifactory.quest.normal.db.295.desc=
 nomifactory.quest.normal.db.296.desc=
 nomifactory.quest.normal.db.298.desc=
-nomifactory.quest.normal.db.305.desc=
-nomifactory.quest.normal.db.306.desc=
-nomifactory.quest.normal.db.307.desc=
-nomifactory.quest.normal.db.308.desc=
+nomifactory.quest.normal.db.305.desc=§6ブレイズロッド§rの破片。§3粉砕機§rを使うと生成量が倍になります。
+nomifactory.quest.normal.db.306.desc=§6バザルツロッド§rの破片。§3粉砕機§rを使うと生成量が倍になります。
+nomifactory.quest.normal.db.307.desc=§6ブリッツロッド§rの破片。§3粉砕機§rを使うと生成量が倍になります。
+nomifactory.quest.normal.db.308.desc=§6ブリーズロッド§rの破片。§3粉砕機§rを使うと生成量が倍になります。
 nomifactory.quest.normal.db.309.desc=
 nomifactory.quest.normal.db.310.desc=
 nomifactory.quest.normal.db.311.desc=
@@ -6526,13 +6526,13 @@ nomifactory.quest.expert.db.871.desc=§2この元素もオムニウムに必要�
 nomifactory.quest.expert.db.872.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.873.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.874.desc=§2この元素もオムニウムに必要になりました。
-nomifactory.quest.expert.db.875.desc=
+nomifactory.quest.expert.db.875.desc=§2この元素もオムニウムに必要になりました。(今までは違いました！)
 nomifactory.quest.expert.db.876.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.877.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.878.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.879.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.880.desc=
-nomifactory.quest.expert.db.881.desc=
+nomifactory.quest.expert.db.881.desc=§2薄いポリフェニレンスルファイドシートはLuV以上のケーブルを被覆するのに必要です。
 nomifactory.quest.expert.db.882.desc=クリスタルのための非表示の入手クエスト
 nomifactory.quest.expert.db.883.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.884.desc=§2この元素もオムニウムに必要になりました。
