@@ -35,3 +35,6 @@ item.ec.singularity_ultimate.name=オムニウムの微片
 
 # line 69-70
 item.ec.material_ultimate_ingot.name=オムニウムインゴット
+
+# Ultimate Trimmed -> Omnium Trimmed
+tooltip.ec.trimmed_ultimate=オムニウムで縁取られている
