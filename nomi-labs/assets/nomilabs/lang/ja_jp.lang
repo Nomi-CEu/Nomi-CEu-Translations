@@ -471,8 +471,8 @@ config.nomilabs.advanced.fluid_registry.default_fluids=デフォルトの流体
 config.nomilabs.advanced.fluid_registry.log_conflicting_fluids=競合する流体のログ
 
 # GUI
-nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweakerのレシピ。
-nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScriptのレシピ。
+nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweakerで作成されたレシピ
+nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScriptで作成されたレシピ
 
 # Custom Fluids
 fluid.uranium233=ウラン233
