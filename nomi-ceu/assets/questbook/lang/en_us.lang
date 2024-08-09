@@ -1162,7 +1162,7 @@ nomifactory.quest.normal.db.294.desc=A gear forged from §6Empowered Restonia Cr
 
 # db 295 of mode normal
 nomifactory.quest.normal.db.295.title=Basic Fusion Injectors
-nomifactory.quest.normal.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.%n%nYes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
+nomifactory.quest.normal.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need a setup with eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.
 
 # db 296 of mode normal
 nomifactory.quest.normal.db.296.title=Grains Of Infinity
@@ -3422,7 +3422,7 @@ nomifactory.quest.normal.db.1018.desc=The §aME Controller§r acts as the `brain
 
 # db 1019 of mode normal
 nomifactory.quest.normal.db.1019.title=Automating Draconic Evolution Fusion
-nomifactory.quest.normal.db.1019.desc=You're going to craft a LOT of stuff using §bDraconic Evolution §6Fusion§r. Therefore, a way to automate it is crucial.%n%nUsing §bPackagedDraconic§r, Draconic Fusion recipes can be easily automated through PackagedAuto. To get started, place a §6Fusion Package Crafter§r next to an §6Unpackager§r and surround it with §6Marked Fusion Crafting Injectors§r like a normal Fusion setup. Then, you can handle recipes through the Unpackager just like any other PAuto setup.
+nomifactory.quest.normal.db.1019.desc=You're going to craft a §lLOT§r of stuff using §bDraconic Evolution Fusion§r. Therefore, a way to automate it is crucial.%n%nUsing §bPackagedDraconic§r, Draconic Fusion recipes can be easily automated through PackagedAuto. To get started, place a §6Fusion Package Crafter§r next to an §6Unpackager§r and surround it with §6Marked Fusion Crafting Injectors§r like a normal Fusion setup. §cNote that Marked Fusion Crafting Injectors do not accept ME Power, only RF/EU Power!§r%n%nNow you can handle recipes through the Unpackager, just like any other PAuto setup! No more laser routing and messy conduit spaghetti!
 
 # db 1020 of mode normal
 nomifactory.quest.normal.db.1020.title=Auto Chisel
@@ -4700,7 +4700,7 @@ nomifactory.quest.expert.db.294.desc=A gear forged from §6Empowered Restonia Cr
 
 # db 295 of mode expert
 nomifactory.quest.expert.db.295.title=Basic Fusion Injectors
-nomifactory.quest.expert.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.%n%nYes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
+nomifactory.quest.expert.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need a setup with eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.
 
 # db 296 of mode expert
 nomifactory.quest.expert.db.296.title=Grains Of Infinity
@@ -6584,7 +6584,7 @@ nomifactory.quest.expert.db.924.desc=The §aME Controller§r acts as the `brain'
 
 # db 925 of mode expert
 nomifactory.quest.expert.db.925.title=Automating Draconic Evolution Fusion
-nomifactory.quest.expert.db.925.desc=You're going to craft a LOT of stuff using §bDraconic Evolution §6Fusion§r. Therefore, a way to automate it is crucial.%n%nUsing §bPackagedDraconic§r, Draconic Fusion recipes can be easily automated through PackagedAuto. To get started, place a §6Fusion Package Crafter§r next to an §6Unpackager§r and surround it with §6Marked Fusion Crafting Injectors§r like a normal Fusion setup. Then, you can handle recipes through the Unpackager just like any other PAuto setup.
+nomifactory.quest.expert.db.925.desc=You're going to craft a §lLOT§r of stuff using §bDraconic Evolution Fusion§r. Therefore, a way to automate it is crucial.%n%nUsing §bPackagedDraconic§r, Draconic Fusion recipes can be easily automated through PackagedAuto. To get started, place a §6Fusion Package Crafter§r next to an §6Unpackager§r and surround it with §6Marked Fusion Crafting Injectors§r like a normal Fusion setup. §cNote that Marked Fusion Crafting Injectors do not accept ME Power, only RF/EU Power!§r%n%nNow you can handle recipes through the Unpackager, just like any other PAuto setup! No more laser routing and messy conduit spaghetti!
 
 # db 926 of mode expert
 nomifactory.quest.expert.db.926.title=Auto Chisel
