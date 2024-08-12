@@ -140,6 +140,8 @@ nomilabs.gui.language_jei.title=§lShould JEI be Reloaded?§r
 nomilabs.gui.language_jei.desc.1=Reloading §bJEI§r ensures that category titles and descriptions are translated to your chosen language.
 nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple seconds§r to perform.
 
+nomilabs.gui.top_override.fluid=Fluid: %s
+
 # Custom Fluids
 fluid.uranium233=Uranium 233
 fluid.plutonium2=Plutonium
