@@ -1,7 +1,85 @@
 nomifactory.nonetherportals=Los portales del Nether están deshabilitados en §5Nomi-CEu§r. Sigue el libro de misiones para desbloquear la §6Tarta Nether§r!
-
 nomiceu.tooltip.labs.hand_framing.tool=§5¡Enmarque su herramienta de marco manual a mano!§r
 nomiceu.tooltip.labs.hand_framing.drawer=§5¡Enmarca tus cajones a mano!§r
 nomiceu.tooltip.labs.hand_framing.top_left=§5Alta izquierda: §oLado§r
 nomiceu.tooltip.labs.hand_framing.top_right=§5Alta derecha: §oMolde§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5Baja izquierda: §oFrente§r
+# Actually Additions
+nomiceu.tooltip.actuallyadditions.drill_core.1=§cSe puede adquirir explorando los edificios de las Ciudades Perdidas o en calabozos vainilla.§r
+nomiceu.tooltip.actuallyadditions.drill_core.2=§c¡También se puede comprar con monedas Nomi!§r
+nomiceu.tooltip.actuallyadditions.canola.1=§aLa canola se puede hacer aceite de canola en una prensa de canola.§r
+nomiceu.tooltip.actuallyadditions.canola.2=§aEsta es una máquina algo lenta y requiere RF para funcionar.§r
+nomiceu.tooltip.actuallyadditions.canola_press=§aTransforma canola a aceite de canola. Requiere RF.§r
+nomiceu.tooltip.actuallyadditions.knife=§c¡Cuando cocines hamburguesas, recuerda poner esto al final en tu mesa de trabajo!§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.1=§aSoltada por monstruos, también se puede hacer en§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.expert=§aHecho en un solidificador de fluidos o solidificador de experiencia.§r
+
+# Advanced Rocketry
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.1=§7¡Gloria al PGS!§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.2=§7Consulte la Wiki de AR por las instrucciones construcción.§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.4=§cExtremadamente delicado. Úselo con precaución.§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.5=§cIntente reiniciar su mundo si esto no funciona.§r
+nomiceu.tooltip.advancedrocketry.basic_lens=§7Un lente básico, usado por el taladro orbital láser.§r
+
+# AE2 & NAE2
+nomiceu.tooltip.ae2.crafting_terminal_removal.1=§cEste objeto está siendo removido.§r
+nomiceu.tooltip.ae2.crafting_terminal_removal.3=§cRevise JEI para más detalles.§r
+nomiceu.tooltip.ae2.quantum_link_card.1=§e¡Habilita el acceso inalámbrico desde cualquier lado!§r
+nomiceu.tooltip.ae2.pattern_expansion_card=§e¡Expande la capacidad de patrones de tus interfaces!§r
+nomiceu.tooltip.ae2.acceleration_card=§eAgiliza tus máquinas ME§r.
+nomiceu.tooltip.ae2.magnet_card=§eToma tus objetos y los pone dentro de tu sistema AE2.§r
+nomiceu.tooltip.ae2.inverter_card=§e¡Invierte tu configuración de AE2!§r
+nomiceu.tooltip.ae2.fuzzy_card=§eÚnicamente maneja objetos con daño dentro de cierto rango.§r
+nomiceu.tooltip.ae2.capacity_card=§e¡Expande tus buses de importación/exportación!§r
+nomiceu.tooltip.ae2.redstone_card=§e¡Controla tus máquinas ME... con Redstone!§r
+nomiceu.tooltip.ae2.sticky_card=§e¡Los objetos Configurados SOLO pueden ir a esa máquina ME!§r
+nomiceu.tooltip.ae2.pure_nether_quartz=§aHecho en una cámara de crecimiento de cristales con una semilla de cuarzo.§r
+nomiceu.tooltip.ae2.pure_fluix=§aHecho en una cámara de crecimiento de cristales con una semilla de Fluix.§r
+nomiceu.tooltip.ae2.crafting_storage=§e¡Colóca esto en una grilla de crafteo para reciclarlo!§r
+nomiceu.tooltip.ae2.channels_not_enabled=¡Los canales no están habilitados!
+nomiceu.tooltip.ae2.controller=§b¡El controlador ME reduce la energía consumida por tu sistema AE2!§r
+nomiceu.tooltip.ae2.dense=§b¡Para decorar!§r
+nomiceu.tooltip.ae2.facade=§3Las fachadas de AE2 se pueden hacer con la mayoría de entidades que no son mosaicos.§r
+
+# Dark Utils
+nomiceu.tooltip.darkutils.ender_tether=Inhabilita la teleportación de los Enderman.
+tooltip.eio_glass.dye=¡Puede ser §bpintado§r!
+
+# Project Red
+nomiceu.tooltip.projectred.wire=§ePara usar con ProjectRed.§r
+
+# Ender IO
+tooltip.fused_glass.make=Hecho con §6Cristal Templado§r y §7Tinte Blanco§r
+nomiceu.tooltip.ae2.storage_cell=§e¡Presiona Shift y el click derecho mientras sostienes esto para reciclarlo!§r
+nomiceu.tooltip.ae2.quartz_knife=§e¡Haz click derecho en las partes de ME puestas para renombrarlas... gratis!§r
+nomiceu.tooltip.ae2.p2p_reset_me_shapeless=§5¡Reinicia los P2Pes a ME P2Pes!§r
+nomiceu.tooltip.dimensionaledibles.island_cake.2=§a¡Mira el archivo de información del server en GitHub para más información!§r
+
+# Deep Mob Learning
+nomiceu.tooltip.dml.glitch_fragment=§bObtenido al partir corazones glitcheados contra un bloque de obsidiana.§r
+
+# Thermal Expansion
+nomiceu.tooltip.thermalexpansion.capacitors=§c¡No se puede descargar en un búfer de baterías de GT!§r
+
+# GregTech
+nomiceu.tooltip.gregtech.prospector.1=§6§lUso:§r
+nomiceu.tooltip.gregtech.prospector.2=Grilla de cuadrados = 1 chunk, arriba esta el norte.
+nomiceu.tooltip.gregtech.prospector.3=Haz click en una mena en la barra del costado para aislarla.
+nomiceu.tooltip.gregtech.facade.1=§3Las fachadas de 3GTCEu se pueden hacer con la mayoría de entidades que no son mosaicos.§r
+nomiceu.tooltip.gregtech.facade.2=§3¡Distintos metales van a dar distintas cantidades!§r
+
+# XTones
+nomiceu.tooltip.xtones.lamp=§eRequiere una señal de redstone para prenderse.§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.3=§7Consume §e1,000,000§r RF/t§r
+nomiceu.tooltip.ae2.crafting_terminal_removal.2=§cUna receta de conversión a sido añadida temporalmente.§r
+nomiceu.tooltip.ae2.quantum_link_card.2=§eRevise el libro de misiones para más información.§r
+nomiceu.tooltip.ae2.crafting_card=§ePermite a las máquinas crear los objetos a medida que se usan, automáticamente.§r
+nomiceu.tooltip.ae2.pure_certus_quartz=§aHecho en una cámara de crecimiento de cristales con una semilla de cuarzo Certus.§r
+nomiceu.tooltip.ae2.charged_certus=§bObtenido cargándolo con poder RF en el cargador de AE2 o el inyector energético.§r
+nomiceu.tooltip.ae2.p2p.me=§bLa base para todos los otros túneles P2P.§r
+nomiceu.tooltip.ae2.p2p.desc=§a¡Mantén apretado Shift y desplazate con la rueda para ciclar a través de los tipos de P2P!§r
+
+# Dimensional Edibles
+nomiceu.tooltip.dimensionaledibles.island_cake.1=§a¡Usado por los dueños de servidores para mandar equipos de FTB e individuos a sus islas personales!§r
+nomiceu.tooltip.gregtech.prospector.4=Usa JEI para encontrar la profundidad potencial de la vena.
+nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a un solidificador de fluidos o un solidificador de experiencia.§r
