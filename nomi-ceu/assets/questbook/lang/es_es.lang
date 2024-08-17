@@ -1,6 +1,6 @@
 
 # line 1 of mode normal
-nomifactory.quest.normal.line.1.title=
+nomifactory.quest.normal.line.1.title=Etapa Inicial
 nomifactory.quest.normal.db.41.desc=
 
 # db 54 of mode normal
@@ -573,29 +573,29 @@ nomifactory.quest.expert.db.941.title=
 # Normal Quest Lang Entries:
 
 # line 0 of mode normal
-nomifactory.quest.normal.line.0.title=
-nomifactory.quest.normal.line.0.desc=
-nomifactory.quest.normal.line.1.desc=
+nomifactory.quest.normal.line.0.title=El Principio
+nomifactory.quest.normal.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comienza a construir una fábrica!%n%nConsigue acceso a §bDeep Mob Evolution§r, la tecnología inicial de §bEnderIO§r, y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruye un §3Alto Horno Eléctrico (EBF)§r para fundir materiales avanzados y aleaciones.
+nomifactory.quest.normal.line.1.desc=§7Voltaje Medio (MV Tier)§r en GregTech: Nuevas máquinas y procesamiento rudimentario de menas.%n%nUsa Química para crear §6Plasticos§r, y construye una torre de destilación.%n%nAutomatizá §bApplied Energistics 2§r. Explorá §bActually Additions§r.
 
 # line 2 of mode normal
-nomifactory.quest.normal.line.2.title=
-nomifactory.quest.normal.line.2.desc=
+nomifactory.quest.normal.line.2.title=Etapa del Medio
+nomifactory.quest.normal.line.2.desc=§6Alto Voltaje (HV Tier)§r, §5Voltaje Extremo (EV Tier)§r, y §1Voltaje Insano (IV Tier)§r en GregTech:%n%n§3Destilación Criogénica§r, y petroquímica para hacer §6Epoxi§r y §2Diésel Potenciado con Cetano§r.%n%nCraftea §6Estrellas del Nether§r y desbloquea máquinas de §bThermal Expansion§r.%n%nConstruye un reactor de fisión de §b NuclearCraft§r para obtener nuevos materiales.%n%nConstruye una estación espacial y un núcleo de teletransportación.
 
 # line 3 of mode normal
-nomifactory.quest.normal.line.3.title=
-nomifactory.quest.normal.line.3.desc=
+nomifactory.quest.normal.line.3.title=Progresión
+nomifactory.quest.normal.line.3.desc=Siempre puede sentirse recompensante poder avanzar aunque sea un poco.%n%nEsta ventana delinea la progresión de varías cosas en §5Nomifactory§r.%n%nLos tipos y niveles de circuitos son la principal medida de tu progreso.
 
 # line 4 of mode normal
-nomifactory.quest.normal.line.4.title=
+nomifactory.quest.normal.line.4.title=Etapa Tardía
 nomifactory.quest.normal.line.4.desc=
 
 # line 5 of mode normal
-nomifactory.quest.normal.line.5.title=
+nomifactory.quest.normal.line.5.title=Etapa Final
 nomifactory.quest.normal.line.5.desc=
 
 # line 6 of mode normal
-nomifactory.quest.normal.line.6.title=
-nomifactory.quest.normal.line.6.desc=
+nomifactory.quest.normal.line.6.title=Genesis
+nomifactory.quest.normal.line.6.desc=Bienvenido/a a §5Nomi-CEu§r, voy a ser tu guía.
 
 # line 7 of mode normal
 nomifactory.quest.normal.line.7.title=
