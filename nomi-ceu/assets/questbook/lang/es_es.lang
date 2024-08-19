@@ -587,62 +587,62 @@ nomifactory.quest.normal.line.3.desc=Siempre puede sentirse recompensante poder 
 
 # line 4 of mode normal
 nomifactory.quest.normal.line.4.title=Etapa Tardía
-nomifactory.quest.normal.line.4.desc=
+nomifactory.quest.normal.line.4.desc=§dVoltaje Ridículo (LuV Tier)§r, Voltaje ZPM (ZPM Tier)§r, §3Voltaje Definitivo (UV Tier)§r, y §4Voltaje UHV (UHV Tier)§r en GregTech:%n%n¡Construye §3Lineas de Ensamble§r, §3Reactores de Fusión§r, y más!%n%nAutomatizá con estilo en §bPackagedAuto§r. Creá cada vez mejores §6Micro Mineros§r.%n%nUsá §bDraconic Evolution§r para hacer crafteo de fusión y almacenamiento de energía.
 
 # line 5 of mode normal
 nomifactory.quest.normal.line.5.title=Etapa Final
-nomifactory.quest.normal.line.5.desc=
+nomifactory.quest.normal.line.5.desc=Ya estás en la etapa final...%n%nCosecha micro-versos enteros y desbloquea el §dTanque Creativo§r.%n%nPon tu automatización a la prueba definitiva para progresar al objetivo final: el §dCofre Creativo§r.
 
 # line 6 of mode normal
 nomifactory.quest.normal.line.6.title=Genesis
 nomifactory.quest.normal.line.6.desc=Bienvenido/a a §5Nomi-CEu§r, voy a ser tu guía.
 
 # line 7 of mode normal
-nomifactory.quest.normal.line.7.title=
-nomifactory.quest.normal.line.7.desc=
+nomifactory.quest.normal.line.7.title=Entrando al Micro-verso
+nomifactory.quest.normal.line.7.desc=Moja tus pies en §bExtra Utilities§r y §bExtended Crafting§r.%n%nConquista el End o invierte en §bEnderIO §rpara tecnologías de teletransportación.%n%nConstruye un cohéte y vé a la Luna (o no, pero es muy divertido hacerlo).%n%nCualquiera sea el caso, tienes que comenzar a minar §emicro-versos§r.
 
 # line 8 of mode normal
-nomifactory.quest.normal.line.8.title=
-nomifactory.quest.normal.line.8.desc=
+nomifactory.quest.normal.line.8.title=Fusión e Investigación
+nomifactory.quest.normal.line.8.desc=¡Crea nuevos elementos y empodera tu base con donas!%n%nAprovecha la capacidad de computación combinada de tus circuitos para desbloquear los secretos para hacer componentes más avanzados.
 
 # line 9 of mode normal
-nomifactory.quest.normal.line.9.title=
-nomifactory.quest.normal.line.9.desc=
+nomifactory.quest.normal.line.9.title=Simulando Recursos
+nomifactory.quest.normal.line.9.desc=¡Genera recursos con §bDeep Mob Evolution§r!%n%n¡Cierra el ciclo de producción en MV con recursos 100%% renovables!
 
 # line 10 of mode normal
-nomifactory.quest.normal.line.10.title=
-nomifactory.quest.normal.line.10.desc=
+nomifactory.quest.normal.line.10.title=Energía de Materia
+nomifactory.quest.normal.line.10.desc=Transforma materia y energía entre ellas con §bApplied Energistics§r.%n%n¡Automatiza TODO! o/
 
 # line 11 of mode normal
-nomifactory.quest.normal.line.11.title=
-nomifactory.quest.normal.line.11.desc=
+nomifactory.quest.normal.line.11.title=Lineas de Procesamiento
+nomifactory.quest.normal.line.11.desc=Este capítulo está para ayudarte con el procesamiento de recursos, ¡tanto las complejas como las directas!
 
 # db 0 of mode normal
-nomifactory.quest.normal.db.0.title=
-nomifactory.quest.normal.db.0.desc=
+nomifactory.quest.normal.db.0.title=Cargando Cuarzo
+nomifactory.quest.normal.db.0.desc=El propósito principal de este aparato es transformar §6Cuarzo de Certus§r a §6Cristales de Cuarzo Certus Cargados§r.%n%nSe le puede dar energía con RF mediante conductos de energía, o energía AE a través de una red de conductos ME o cables.%n%nAcepta energía de ambos lados. ¿Cuales dos lados? Es algo fácil de adivinar.%n%n%n%n%n%n%n%n%nOk, ok. Son el de arriba y abajo.
 
 # db 1 of mode normal
-nomifactory.quest.normal.db.1.title=
-nomifactory.quest.normal.db.1.desc=
+nomifactory.quest.normal.db.1.title=Cámara de Crecimiento de Cristales
+nomifactory.quest.normal.db.1.desc=La §3Cámara de Crecimiento de Cristales§r te permite usar las recetas de crafteo §bApplied Energistics§r del exterior ahora dentro de una máquina. ¡Hurra, ya no vas a tener que tirar cosas en el agua!%n%nLa máquina se utiliza para cultivar §6Semillas de Cristal§r para conseguir §6Cristales Puros§r, y crear §6Cristales de Fluix§r.%n%nJEI no te muestra las recetas de la Cámara directamente, por lo que las explicaremos aquí:%n%nLas semillas se crean pulverizando cualquiera de los tres cristales y mezclando el polvo con arena. Una semilla crece para volverse su correspondiente Cristal Puro, que es un substituto del cristal original en la mayoría de recetas. Por lo que usar Cristales Puros efectivamente te duplica la eficiencia de tus materiales, lo que es mucho muy bueno. Y no, no se puede pulverizar los Cristales Puros para multiplicarlos aún más. Perdón.%n%nYa has creado Cristales de Fluix en un charco de agua antes, aquí aplican los mismos ingredientes: uno de §6Redstone§r, §6Cristal de Cuarzo Certus Cargado§r, y §6Cuarzo de Nether§r te dan dos Cristales de Fluix.
 
 # db 2 of mode normal
-nomifactory.quest.normal.db.2.title=
-nomifactory.quest.normal.db.2.desc=
+nomifactory.quest.normal.db.2.title=Máquina de Enlatado y Cosas Variadas
+nomifactory.quest.normal.db.2.desc=Nota: Esta misión acepta tanto máquinas de enlatado de LV como de MV.%n%nLas §aBaterias LV§r eran muy simples de hacer, pero las formas más efectivas de guardado de energía son más complejas para construir, por lo que tenemos que preparar la base ahora.%n%nPon a trabajar tu §3Centrifuga§r para el §6Antimonio§r que necesitaras, que se consigue en pizcas por procesar menas de §6Tetraedrita§r y §6Estibina§r.
 
 # db 3 of mode normal
-nomifactory.quest.normal.db.3.title=
-nomifactory.quest.normal.db.3.desc=
+nomifactory.quest.normal.db.3.title=§2Genesis
+nomifactory.quest.normal.db.3.desc=¡Bienvenida/o a §5Nomifactory§r §2Edición GTCEu§r!%n%nEste paquete está preparado para ser jugado en una dimensión de §bLost Cities§r o la §bSuperficie§r.%n%nSi estas jugando con amigos, no olvides invitarlos a tu grupo del §eLibro de Misiones§r.%n%nNo olvides: ¡Siempre puedes abrir el §6Libro de Misiones§r con la tecla §eGrave§r (cambiable en la configuración)!%n%nSi deseas construir tu base en un mundo de Skyblock, puedes comer un poco del §6Pastel de Mundo Void§r para ser teletransportarte al Vacío. Por favor ten en cuenta que necesitaras volver a la dimensión original para minar, pero siéntete en la comodidad y seguridad de construir en el §eMundo Void§r.%n%nLas características nuevas y misiones con nuevo contenido para §2CEu§r se marcarán en §2Verde Oscúro (el color 2)§r.
 
 # db 4 of mode normal
-nomifactory.quest.normal.db.4.title=
-nomifactory.quest.normal.db.4.desc=
+nomifactory.quest.normal.db.4.title=Suministro de Hierro
+nomifactory.quest.normal.db.4.desc=Las Menas en §5Nomifactory§r existen en grupos grandes, o '§evetas§r'. Estas vetas están dispersadas por todo el mundo y son relativamente comunes. §2¡El Escáner de Prospector Eléctrico HV mejorado que te fue dado te dirá los tipos de menas que puedes encontrar en un área de 7x7 chunks!§r%n%nEl escáner requiere energía para funcionar, pero es poco probable que se quede sin batería. Aún así, en su momento, el libro de misiones te va a guiar para hacer una §2Batería HV§r para poder cargar §aHerramientas HV§r en tu inventario.%n%nPara proceder, necesitas localizar una fuente de §6hierro§r. Tienes un par de opciones. Las vetas de §6Magnetita§r se encuentran a una altura alta y contienen altas cantidades de hierro, al igual que un poco de §6Vanadio§r y §6Oro§r. Otra fuente buena de hierro son las vetas de §6Limonita§r, que contienen varios tipos de hierro. Finalmente menas de §6Pirita§r se pueden encontrar junto con §6Cobre§r en varios tipos de vetas.%n%nEl §6Hierro Forjado§r se consigue simplemente por §efundir/cocinar lingotes de hierro otra vez§r. Tiene más durabilidad que el Hierro, por lo que es mejor para hacer herramientas, pero §cno conviertas todo tu suministro de Hierro a Hierro Forjado§r. Los dos materiales no son intercambiables y vas a necesitar tanto Hierro como Hierro Forjado según la receta lo requiera.
 
 # db 5 of mode normal
-nomifactory.quest.normal.db.5.title=
-nomifactory.quest.normal.db.5.desc=
+nomifactory.quest.normal.db.5.title=Martillos de Minería
+nomifactory.quest.normal.db.5.desc=Los §aMartillos de Minería§r ofrecen una forma relativamente barata de minar áreas mucho mas rápido. Estos rompen bloques en grupos de 3x3 (a menos que te agaches) y minan rápido.%n%n§2¡GTCEu ahora tiene Martillos de Minería por defecto! Los puedes crear con cualquier material de GT para herramienta. §r%n%nLos 4 martillos de minería gratuitos que tienes deben durar un rato, y siempre puedes arreglarlos usando un yunque y unos diamantes.
 
 # db 6 of mode normal
-nomifactory.quest.normal.db.6.title=
+nomifactory.quest.normal.db.6.title=§2Más Materiales
 nomifactory.quest.normal.db.6.desc=
 
 # db 7 of mode normal
@@ -654,12 +654,12 @@ nomifactory.quest.normal.db.8.title=
 nomifactory.quest.normal.db.8.desc=
 
 # db 9 of mode normal
-nomifactory.quest.normal.db.9.title=
-nomifactory.quest.normal.db.9.desc=
+nomifactory.quest.normal.db.9.title=§2¿Duplicar Menas?
+nomifactory.quest.normal.db.9.desc=En la mayoría de packs para expertos, uno quiere procesar la menor cantidad de menas posibles antes de poder duplicar la cantidad obtenida. Es un habito que se puede tomar.%n%n§eNo te preocupes por esto en Nomifactory§r. Las vetas de mineral son masivas, y minarlas es extremadamente rápido con §aMartillos de Minería§r. Además, aún cuando consigues §3Maceradoras§r, inicialmente procesan menas lentamente y requieren energía para operar.%n%nObviamente, igual, van a haber minerales raros, como los que puedes comprar con §dMonedas Nomi§r. Estos si valen el esfuerzo de duplicar, si es posible.%n%n¡Pero por ahora, al menos, no sientas culpa por fundir las menas mas comunes sin duplicarlas! Se puede ignorar la §eduplicación de menas§r hasta que tengas la §2Moledora de Vapor§e, o Voltaje Medio, o incluso más.§r
 
 # db 10 of mode normal
-nomifactory.quest.normal.db.10.title=
-nomifactory.quest.normal.db.10.desc=
+nomifactory.quest.normal.db.10.title=§2Micro Minero de Nivel Dos
+nomifactory.quest.normal.db.10.desc=¡El Segundo Micro Minero! §2Vas a necesitar ese fósforo para los Generadores de Campo LV.§r%n%nPara esto vas a necesitar una §bMesa Extendida de Trabajo§r por lo que no va a ser posible automatizar al Minero en sí con §bApplied Energistics 2§r aún (esto requiere tecnología mas avanzada que es difícil de conseguir hasta el Micro Minero de Nivel Cuatro). ¡Podes prepararlo al menos pre-abasteciendo los componentes que necesitas y llenando la Mesa Extendida de Trabajo con §bJEI§r!%n%nEste Micro Minero te puede dar:§6%n* Mena de Bauxita%n§2* Mena de Pirocloro§6%n* Mena de Cobre%n§2 Mena de Esfalerita§r%n§6* Mena de Casiterita%n* Mena de Scheelita%n* Mena de Tungstato%n* Sal de Radio§r%n%nA su vez puede dar §6Datos de Creación Estelar§r, que va a ser útil mucho más tarde.%n%n§2Una nueva misión se habilita en CEu. Esta misión usa Bombas Eléctricas HV y Polvo de Crioterio. Esto te da Neón, Xenón, y Kriptón solidificados, aunque va a ser mejor conseguir esos destilando Aíre Líquido del Nether y de Ender, por los subproductos que consigues y la baja cantidad que obtienes de cada elemento en esta misión.
 
 # db 11 of mode normal
 nomifactory.quest.normal.db.11.title=
