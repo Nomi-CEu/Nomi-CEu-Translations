@@ -643,15 +643,15 @@ nomifactory.quest.normal.db.5.desc=Los §aMartillos de Minería§r ofrecen una f
 
 # db 6 of mode normal
 nomifactory.quest.normal.db.6.title=§2Más Materiales
-nomifactory.quest.normal.db.6.desc=
+nomifactory.quest.normal.db.6.desc=Antes de continuar, vas a necesitar acceso a algunos materiales más.%n%n§6Redstone§r: Se encuentra únicamente en lo profundo del mundo, en vetas masivas junto con §6Cinabrio§r y §6Rubí§r.%n%n§6Cobre: Tiene dos fuentes primarias, vetas de §6Tetraedríta§r que se encuentra relativamente alto, y vetas de §6Calcopirita§r que se encuentran en las profundidades, junto con pequeñas cantidades de §6Hierro§r. También vas a encontrar §6Malaquita§r dentro de vetas de Hierro, que es otro tipo de mena de cobre.%n%n§5Estaño§r: Se encuentra esencialmente a nivel del suelo. La §6Casiterita§r es un tipo de mena de estaño, y siempre se encuentran juntos. Si no puedes encontrar una veta de Estaño, vas a encontrar pequeñas cantidades de Estaño en vetas de §6Aluminio§r y §6Roca de Sal§r, que puede ser suficiente para usar hasta que encuentres una verdadera veta de Estaño.%n%n§6Carbón§r: Encontrable a bajas profundidades. El §6Carbón de Lignito§r fue removido.%n%n§6Oro§r: Se encuentra dentro de las vetas de §6Magnetita§r, cerca de la superficie.
 
 # db 7 of mode normal
-nomifactory.quest.normal.db.7.title=
-nomifactory.quest.normal.db.7.desc=
+nomifactory.quest.normal.db.7.title=§2Cables
+nomifactory.quest.normal.db.7.desc=Los cables más básicos, como estos §6Cables de Aleación Roja§r, se pueden proteger a mano con aislante de §6Caucho§r.%n%nTipos de cables más avanzados van a necesitar una §3Máquina de Ensamblaje§r y §9Caucho§r líquido, pero puedes hacerlos de la manera simple por ahora.%n%n§2CEu tiene tuberías y cables como los de GT6 por defecto. §rVas a necesitar un §aCortador de Alambres§r para conectar cada lado de un cable a máquinas y a otros cables. Poniendo un cable contra una máquina u otro cable lo conecta automáticamente. Lo mismo aplica para las tuberías de GT, pero se tiene que usar una §aLlave Inglesa§r.%nEsto te puede salvar de enviar fluidos o energía a lugares incorrectos. Pero si no te gusta, puedes deshabilitar la opción "Tuberías y Cables de GT6" en el archivo de configuración de GregTech.%n%n§2¡Los cables de GT ahora pueden convertir RF automáticamente! §rConectando una máquina de §dRF§r a un cable de §dEU§r directamente convertirá la energía. Aún así no se puede conectar una fuente de poder de §dRF§r a un cable de §dEU§r.
 
 # db 8 of mode normal
-nomifactory.quest.normal.db.8.title=
-nomifactory.quest.normal.db.8.desc=
+nomifactory.quest.normal.db.8.title=Los Terceros Circuitos de Nivel Tres
+nomifactory.quest.normal.db.8.desc=Con tres §6Microcircuitos§r y algunos componentes estándar, puedes mejorar tus circuitos al penúltimo circuito de Nivel Tres: un §6Microprocesador§r.
 
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2¿Duplicar Menas?
@@ -662,107 +662,107 @@ nomifactory.quest.normal.db.10.title=§2Micro Minero de Nivel Dos
 nomifactory.quest.normal.db.10.desc=¡El Segundo Micro Minero! §2Vas a necesitar ese fósforo para los Generadores de Campo LV.§r%n%nPara esto vas a necesitar una §bMesa Extendida de Trabajo§r por lo que no va a ser posible automatizar al Minero en sí con §bApplied Energistics 2§r aún (esto requiere tecnología mas avanzada que es difícil de conseguir hasta el Micro Minero de Nivel Cuatro). ¡Podes prepararlo al menos pre-abasteciendo los componentes que necesitas y llenando la Mesa Extendida de Trabajo con §bJEI§r!%n%nEste Micro Minero te puede dar:§6%n* Mena de Bauxita%n§2* Mena de Pirocloro§6%n* Mena de Cobre%n§2 Mena de Esfalerita§r%n§6* Mena de Casiterita%n* Mena de Scheelita%n* Mena de Tungstato%n* Sal de Radio§r%n%nA su vez puede dar §6Datos de Creación Estelar§r, que va a ser útil mucho más tarde.%n%n§2Una nueva misión se habilita en CEu. Esta misión usa Bombas Eléctricas HV y Polvo de Crioterio. Esto te da Neón, Xenón, y Kriptón solidificados, aunque va a ser mejor conseguir esos destilando Aíre Líquido del Nether y de Ender, por los subproductos que consigues y la baja cantidad que obtienes de cada elemento en esta misión.
 
 # db 11 of mode normal
-nomifactory.quest.normal.db.11.title=
-nomifactory.quest.normal.db.11.desc=
+nomifactory.quest.normal.db.11.title=§2Subcomponentes Electrónicos
+nomifactory.quest.normal.db.11.desc=Un "§esubstrato§r" es la "placa" en una placa de circuitos... la base donde los componentes del circuito y los cables son colocados. Un buen substrato requiere no conducir electricidad, por obvias razones. §6Madera§r bañada con §6Resina Pegajosa§r es un material primitivo pero efectivo como un primer substrato.%n%n§2En CEu, tienes que poner cables en el substrato para que sea utilizable. En este caso, usa alambres de cobre finos.§r%n%nTambién vas a necesitar crear §6Tubos de Vacío§r, al igual que unos §6Resistores§r primitivos. Por ahora, se va a usar §6Papel§r como material para estos.%n%nAsegurate tener estas recetas codificadas en una §3Estación de Trabajo§r... vas a estar haciendo MUCHAS de estas cosas.
 
 # db 12 of mode normal
-nomifactory.quest.normal.db.12.title=
-nomifactory.quest.normal.db.12.desc=
+nomifactory.quest.normal.db.12.title=Algunas Herramientas para Comenzar
+nomifactory.quest.normal.db.12.desc=Una de las excentricidades del paquete es que te tienes que acomodar a la forma en la que las herramientas aparecen. La mayoría de herramientas se puede realizar con casi cualquier metal, y §bJEI§r va a mostrar una gran cantidad de opciones... cada combinación de cada herramienta con cada material. Aun así, el patrón para hacer la herramienta es siempre idéntico, por lo que §esimplemente organiza las placas y los lingotes en la misma manera que los ejemplos, ignorando el material que diga§r. Varas donde las varas vayan, placas donde las placas vayan, etcétera. La única restricción es que toda la herramienta §ese debe hacer del mismo material§r... no puedes mezclar diferentes metales en un solo objeto.%n%nLas recetas por defecto te muestran la §6herramienta de hierro§r del tipo apropiado de herramienta si una es requerida, pero puedes usar la de cualquier material siempre y cuando sea el tipo correcto. Solo ignora el material de la herramienta en las recetas: puede ser lo que quieras.%n%nPor ahora, haz un §aMartillo§r (no un §aMartillo de Minería§r, por si las moscas... seis lingotes, placas no). Los martillos pueden aplastar §edos lingotes para volverlos una placa§r.Con esas §6Placas§r puedes hacer una §aLima§r, las Limas pueden hacer §6Varas§r, etcétera. Usa Jei para hacer la lista de herramientas.%n%nEl §6Hierro Forjado§r probablemente es tu mejor opción para usar de material ahora mismo, pero vas a desbloquear nuevos materiales a medida que progresas. Esta misión acepta todo tipo de materiales.
 
 # db 13 of mode normal
-nomifactory.quest.normal.db.13.title=
-nomifactory.quest.normal.db.13.desc=
+nomifactory.quest.normal.db.13.title=Craftear en Lotes con Estilo
+nomifactory.quest.normal.db.13.desc=Si intentas crear cada objeto solo cuando lo necesitas, te vas a volver loco. Es mucho más efectivo §ecrear en tandas§r objetos que usas frecuentemente así no tienes que hacerlo tan seguido. Es muy satisfactorio tener todos los ingredientes juntos y luego crear un §astack de objetos§r todo de una.%n%nLas §3Estaciones de Trabajo§r son una herramienta indispensable para crear cosas en tandas. Pueden guardar recetas para todos los pasos en cadenas de producción de cosas como herramientas, circuitos, carcasas de maquinaria, y más. Vas a querer §ehacer varias estaciones§r por la conveniencia que ofrecen.%n%nCada Estación de Trabajo viene con algo de inventario para objetos generales, al igual que una fila reservada únicamente para guardar herramientas de §bGregTech§r. Además, las Estaciones de Trabajo pueden §einteractuar con inventarios adyacentes§r, por lo que puedes tener materiales comunes en un contenedor entre ellas. Esto incluye puntos de acceso a inventarios virtuales más grandes, como un §aControlador de Cajones§r, que vas a poder hacer más adelante.%n%nPara usar la Estación de Trabajo, tienes que poner manualmente la receta en el area del patrón, o hacer click en una receta de §bJEI§r. Coloca los ingredientes dentro de la Estación de Trabajo o en un contenedor adyacente, y finalmente puedes hacer click en el objeto resultante para crearlo. Una vez usada, la receta aparecerá arriba a la derecha en el panel de historial. Como siempre, haciendo click mientras aprietas Shift va a crear un stack del objeto.%n%nCada Estación de Trabajo va a recordar únicamente hasta §elas últimas nueve recetas§r que hiciste en ella, cada una puede ser utilizada nuevamente haciendo click en ella en el historial. Las recetas más viejas se van a olvidar a medida que se supere el límite, pero para asegurar que se mantengan, puedes hacer §eshift-click en la receta en el historial para bloquearla§r.%n%nLos ingredientes disponibles de inventarios vecinos se pueden ver a través de la ventana de §eAlmacenamiento§r de la Estación de Trabajo, además puedes colocar objetos en esta ventana para llevarlos a inventarios con espacio disponible.
 
 # db 14 of mode normal
-nomifactory.quest.normal.db.14.title=
-nomifactory.quest.normal.db.14.desc=
+nomifactory.quest.normal.db.14.title=Horno v2.0
+nomifactory.quest.normal.db.14.desc=Los §3Hornos de Hierro§r pueden fundir un objeto en §a150 ticks§r, que es un poco más rápido que el §6Horno§r vainilla, que requiere §a200 ticks§r. La eficiencia de cada combustible es el mismo para todos los hornos.
 
 # db 15 of mode normal
-nomifactory.quest.normal.db.15.title=
-nomifactory.quest.normal.db.15.desc=
+nomifactory.quest.normal.db.15.title=Horno v3.0
+nomifactory.quest.normal.db.15.desc=Los §3Hornos de Cobre§r tienen otro aumento más de velocidad, requiriendo solo §a100 ticks§r para cocinar un ítem.
 
 # db 16 of mode normal
-nomifactory.quest.normal.db.16.title=
-nomifactory.quest.normal.db.16.desc=
+nomifactory.quest.normal.db.16.title=Horno v4.0
+nomifactory.quest.normal.db.16.desc=Los §3Hornos de Plata§r aumentan aun más la velocidad, tomando meramente §a60 ticks§r para fundir un objeto.
 
 # db 17 of mode normal
-nomifactory.quest.normal.db.17.title=
-nomifactory.quest.normal.db.17.desc=
+nomifactory.quest.normal.db.17.title=Horno v5.0
+nomifactory.quest.normal.db.17.desc=Los §3Hornos de Oro§r aumentan un poco más la velocidad, tomando únicamente §a40 ticks§r para fundir un ítem.
 
 # db 18 of mode normal
-nomifactory.quest.normal.db.18.title=
-nomifactory.quest.normal.db.18.desc=
+nomifactory.quest.normal.db.18.title=Horno v7.0
+nomifactory.quest.normal.db.18.desc=Mientras que los §3Hornos de Obsidiana§r tienen la misma velocidad que los §3Hornos de Diamante§r, tienen el doble de rendimiento ya que pueden §ecocinar dos ítems a la vez§r.%n%nPuedes creer que los Hornos de Diamante te sirvan mejor que los de Obsidiana, pero pronto ambos van a ser ingredientes para otras máquinas, por lo que hacer uno no es un desperdicio, aunque no lo uses.
 
 # db 19 of mode normal
-nomifactory.quest.normal.db.19.title=
-nomifactory.quest.normal.db.19.desc=
+nomifactory.quest.normal.db.19.title=Fundidor de Aleaciones LV
+nomifactory.quest.normal.db.19.desc=Los Fundidores de Aleaciones se utilizan para crear aleaciones derritiendo y reformando ítems juntos.%n%n¡Ya no vas a requerir pulverizar metales y mezclar los polvos! Además, muchas de las aleaciones más complejas que no podías hacer, ahora están disponibles.
 
 # db 20 of mode normal
-nomifactory.quest.normal.db.20.title=
-nomifactory.quest.normal.db.20.desc=
+nomifactory.quest.normal.db.20.title=Horno v6.0
+nomifactory.quest.normal.db.20.desc=Los §3Hornos de Diamante§r son los más rápidos que puedes conseguir, tardando §a25 ticks§r para cocinar un ítem.
 
 # db 21 of mode normal
-nomifactory.quest.normal.db.21.title=
-nomifactory.quest.normal.db.21.desc=
+nomifactory.quest.normal.db.21.title=§2Acero
+nomifactory.quest.normal.db.21.desc=Ya tienes §6Acero§r, pero se puede hacer mucho más rápido en el §3Fundidor de Aleaciones§r, con el costo de consumir EU. Cuando hayas construido el §3Alto Horno Eléctrico§r, puedes optar por hacer Acero con Oxígeno ahí.%n%nTal vez quieras guardar tu §6Carbón en Polvo§r para circuitos y reemplazarlo por §6Polvo de Carbón Vegetal§r. Más adelante, puedes procesar cualquiera de estos polvos, §6Polvo de Coque de Carbón§r, §2o Polvo de Diamante§r, para conseguir §6Polvo de Carbono§r, que se puede usar para Acero y otras cosas útiles.
 
 # db 22 of mode normal
-nomifactory.quest.normal.db.22.title=
-nomifactory.quest.normal.db.22.desc=
+nomifactory.quest.normal.db.22.title=§2Horno de Pirólisis
+nomifactory.quest.normal.db.22.desc=La función principal de este horno es incrementar el valor combustible de tu madera y carbón, y a su vez recuperar algunos residuos más útiles.%n%nTransformando §6Carbón§r a §6Coque de Carbón§r que va a volverlo más útil como combustible, y además produciendo §9Fenol§r, que vas a necesitar para circuitos.%n%nEl Horno de Pirólisis es además la fuente de varios otros fluidos que pueden ser destilados para conseguir ingredientes útiles.%n%nRecuerda que las compuertas y los buses pueden ser reemplazados con iguales de otros niveles, aunque el Bus de Entrada debe ser al menos de nivel LV, ya que se requieren mínimamente dos casillas de entrada; además puedes hacer §6click derecho mientras estas agachado§r en el controlador para ver una vista previa de como se vería la estructura en el mundo.%n%n§2Como lo indica la descripción emergente, bobinas de mayor nivel aumentan la velocidad del horno.
 
 # db 23 of mode normal
-nomifactory.quest.normal.db.23.title=
-nomifactory.quest.normal.db.23.desc=
+nomifactory.quest.normal.db.23.title=Obsidiana
+nomifactory.quest.normal.db.23.desc=Vas a requerir §6Obsidiana§r para hacer §6Acero Oscuro§r. La mayoría de las herramientas que puedes hacer no pueden minar Obsidiana, pero tienes un par de opciones potenciales. Las opciones que seguramente tienes en este momento son:%n%n1) Un §a Pico de Diamante§r o un §aMartillo de Minería de Diamante§r.%n%n2) Un §aMartillo de Minería de Platino§r (un pico no funcionaría).%n%n¡Más adelante, vas a poder utilizar un §3Machacador de Piedras§r de Alto Voltaje, o más alto, para hacer §6Obsidiana§r sin gastar §6Lava§r!
 
 # db 24 of mode normal
-nomifactory.quest.normal.db.24.title=
-nomifactory.quest.normal.db.24.desc=
+nomifactory.quest.normal.db.24.title=Dínamo de Vapor
+nomifactory.quest.normal.db.24.desc=¡Tu primer proyecto grande de crafteo!%n%nEl §6Dínamo de Vapor§r va a ser tu fuente de §denergía§r para el inicio del juego. Requiere §9Agua§r y combustible inflamable como el §6Carbón§r o la §6Caña de Azúcar§r para producir energía.%n%nVas a necesitar un poquito de §6Plata§r para este dínamo. Si aun no has encontrado una veta de §6Galena§r (que es donde está la Plata), considera "comprar" unas pocas menas de §6Plata§r usando §dMonedas Nomi§r. No vas a necesitar mucha plata o plomo aun, por lo que no te vas a fundir.%n%nTen en cuenta que §elos Dínamos solo sueltan energía cuando hay combustible quemándose, y solo el bloque directamente conectado a la bobina va a recibir la energía§r.
 
 # db 25 of mode normal
-nomifactory.quest.normal.db.25.title=
-nomifactory.quest.normal.db.25.desc=
+nomifactory.quest.normal.db.25.title=Transito Dimensional a base de Tartas
+nomifactory.quest.normal.db.25.desc=Esta misión es repetible una vez por hora y da una tarta para el Mundo Void y otra para la Superficie. A su vez puedes rellenar las tartas con los ítems indicados en su cartel emergente.
 
 # db 26 of mode normal
-nomifactory.quest.normal.db.26.title=
-nomifactory.quest.normal.db.26.desc=
+nomifactory.quest.normal.db.26.title=Acero Oscuro
+nomifactory.quest.normal.db.26.desc=El §6Acero§r aleado con §6Obsidiana§r da por resultado §6Acero Oscuro§r, que es requerido para varias máquinas de §bEnderIO§r y §bApplied Energistics§r.%n%nMás adelante, vas a poder usar un §6Cristal de Void§r en vez de Obsidiana.
 
 # db 27 of mode normal
-nomifactory.quest.normal.db.27.title=
-nomifactory.quest.normal.db.27.desc=
+nomifactory.quest.normal.db.27.title=Reactor Químico LV
+nomifactory.quest.normal.db.27.desc=El lugar para tus primeras reacciones químicas, principalmente hacer mejores substratos.
 
 # db 28 of mode normal
-nomifactory.quest.normal.db.28.title=
-nomifactory.quest.normal.db.28.desc=
+nomifactory.quest.normal.db.28.title=Polvo Pulsante
+nomifactory.quest.normal.db.28.desc=El §6Polvo Pulsante§r es un misterioso material mágico que maneja el poder de Ender. Tiene todo tipo de usos raros y potencialmente peligrosos, incluida la habilidad de hacer §6Lingotes Pulsantes§r y §6Perlas de Ender§r.%n%nTu primera fuente de Polvo Pulsante es §6Uraninita§r, que puedes conseguir de menas de §6Uranitita§r. Más adelante, vas a ser capaz de producir Polvo Pulsante cocinando §6Clatratos Resonantes§r.%n%n§cPor favor ten en cuenta que la receta de electrólisis de Polvo de Perla de Ender requiere un Electrolizador EV, y seguramente no vale la pena.§r
 
 # db 29 of mode normal
-nomifactory.quest.normal.db.29.title=
-nomifactory.quest.normal.db.29.desc=
+nomifactory.quest.normal.db.29.title=Hierro Pulsante y Perlas de Ender
+nomifactory.quest.normal.db.29.desc=Una aleación misteriosa, hecha de §6Polvo Pulsante§r y §6Hierro§r.%n%nSi no puedes encontrar una, las §6Perlas de Ender§r se pueden craftear con Polvo Pulsante y un §6Diamante§r en un §3Horno de Aleación§r.
 
 # db 30 of mode normal
-nomifactory.quest.normal.db.30.title=
-nomifactory.quest.normal.db.30.desc=
+nomifactory.quest.normal.db.30.title=Acero Eléctrico
+nomifactory.quest.normal.db.30.desc=Un tipo refinado de acero, hecho con §6Polvo de Silicona§r y §6Acero§r.%n%nEste material se usa frecuentemente en electrónicos y equipamiento digital.
 
 # db 31 of mode normal
-nomifactory.quest.normal.db.31.title=
-nomifactory.quest.normal.db.31.desc=
+nomifactory.quest.normal.db.31.title=Banco de Condensadores Vibrante
+nomifactory.quest.normal.db.31.desc=Dos §aBanco de Condensadores Avanzados§r pueden unirse con un §6Cristal Vibrante§r y §6Placas de Aleación Resonante§r para crear un §aBanco de Condensadores Vibrante§r, que almacena cinco veces más RF que el banco avanzado, superando veinticinco veces al banco básico.
 
 # db 32 of mode normal
-nomifactory.quest.normal.db.32.title=
-nomifactory.quest.normal.db.32.desc=
+nomifactory.quest.normal.db.32.title=Banco de Condensadores Avanzado
+nomifactory.quest.normal.db.32.desc=Dos §aBancos de Condensadores§r se pueden unir con un §6Capacitor de Capa Doble§r y §6Acero Eléctrico§r para crear un §aBanco de Condensadores Avanzado§r, que almacena cinco veces tanto RF como un banco básico.
 
 # db 33 of mode normal
-nomifactory.quest.normal.db.33.title=
-nomifactory.quest.normal.db.33.desc=
+nomifactory.quest.normal.db.33.title=Banco de Condensadores Básico
+nomifactory.quest.normal.db.33.desc=Almacenamiento multi-bloque ampliable de energía RF.%n%nEste primer nivel no vale mucho, pero puedes mejorarlo lentamente para sostener cantidades importantes de energía.
 
 # db 34 of mode normal
-nomifactory.quest.normal.db.34.title=
-nomifactory.quest.normal.db.34.desc=
+nomifactory.quest.normal.db.34.title=§rAleación Energética
+nomifactory.quest.normal.db.34.desc=Esta aleación se hace §2mezclando dos Polvos de Oro, un Redstone, y un Polvo de Piedra Luminosa en una Mezcladora, creando Polvo de Aleación Energética§r, y poniéndolo en tu nuevo §3Alto Horno Eléctrico§r.%n%nTira §2el polvo preparado al bus de entrada§r y en 20 segundos tu §6Lingote de Aleación Energética§r estará en el bus de salida.%n%nEn la edad de Voltaje Extremo (EV), podrás construir un Alto Horno de Aleación para duplicar el resultado.
 
 # db 35 of mode normal
-nomifactory.quest.normal.db.35.title=
-nomifactory.quest.normal.db.35.desc=
+nomifactory.quest.normal.db.35.title=§2Aleación Vibrante
+nomifactory.quest.normal.db.35.desc=Otra aleación.%n%n§2En la edad de Voltaje Extremo (EV), podrás construir un Alto Horno de Aleación para duplicar el resultado.
 
 # db 37 of mode normal
-nomifactory.quest.normal.db.37.title=
+nomifactory.quest.normal.db.37.title=Láminas de Caucho
 nomifactory.quest.normal.db.37.desc=
 
 # db 38 of mode normal
