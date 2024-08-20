@@ -33,3 +33,6 @@ tile.ec.storage_ender_star.name=末影极星块
 # line 75-76
 item.ec.material_ender_star.name=末影极星
 item.ec.material_ender_star_nugget.name=末影极星粒
+
+# Ultimate Trimmed -> Omnium Trimmed
+tooltip.ec.trimmed_ultimate=缀饰：终极
