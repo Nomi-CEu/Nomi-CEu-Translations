@@ -1,7 +1,7 @@
 
 # line 1 of mode normal
 nomifactory.quest.normal.line.1.title=Etapa Inicial
-nomifactory.quest.normal.db.41.desc=
+nomifactory.quest.normal.db.41.desc=¡Ahora que tienes §6Aleación Energética§r, es hora de hacer mejores conductos!%n%nCada vez que mejores tus conductos, vas a conseguir más de ellos. ¡Genial!%n%nSi no tienes una §3Máquina de Ensamblaje§r, vas a tener que hacerlos a mano. Este método no es tan eficiente como la máquina, pero ya vas a hacer una pronto.
 
 # db 54 of mode normal
 nomifactory.quest.normal.db.54.title=
@@ -763,57 +763,57 @@ nomifactory.quest.normal.db.35.desc=Otra aleación.%n%n§2En la edad de Voltaje 
 
 # db 37 of mode normal
 nomifactory.quest.normal.db.37.title=Láminas de Caucho
-nomifactory.quest.normal.db.37.desc=
+nomifactory.quest.normal.db.37.desc=Buscar un §6Árbol de Caucho§r es una opción viable. Pero, en caso que no lo quieras hacer, puedes simplemente §erecortar hojas§r y hacer §6Bolas de Plantas§r con ellas. Las Bolas de Plantas se pueden cocinar para hacer §6Slime§r, y cocinar nuevamente este para conseguir §6Caucho§r.%n%n Vas a querer transicionar a usar Árboles de Caucho en algún momento, ya que la §ecantidad de hojas por unidad de caucho es muy alta§r.%n%nEl caucho se puede martillar para hacer láminas exactamente como se martilla lingotes para hacer placas. Es muy ineficiente hacerlo de esta manera, pero así es la vida al principio de §bGregTech§r. Al menos el caucho no es difícil de encontrar.
 
 # db 38 of mode normal
-nomifactory.quest.normal.db.38.title=
-nomifactory.quest.normal.db.38.desc=
+nomifactory.quest.normal.db.38.title=§2Energía LV
+nomifactory.quest.normal.db.38.desc=§oNota: Esta misión acepta cualquier §oConversor de Energía LV§r.%n%nLos §3Dínamos de Vapor§r que has hecho son capaces de generar §aenergía RF §r, pero las máquinas §bGregTech§r requieren §aenergía EU§r. Habiendo hecho tu primer §6circuito§r, ya tienes todo listo para construir un §2Conversor de Energía §ede Bajo Voltaje (LV)§r.%n%n§c¡Nota que las dos energías son incompatibles entre ellas!§r%n%nEl §2Conversor de Energía§r es un dispositivo especial que §econvierte §2entre §aenergía RF§r y §aenergía EU§r. Puede venir en §2cuatro tamaños: 1A, 4A, 8A, y 16A.%n%nEl §aRF§r tiene un §eratio de 4 a 1§r con el §aEU§r. §a100 RF§r se vuelven §a25 EU§r, y vice-versa. §2Puedes usar un Martillo Blando para cambiar la dirección de conversión.
 
 # db 39 of mode normal
-nomifactory.quest.normal.db.39.title=
-nomifactory.quest.normal.db.39.desc=
+nomifactory.quest.normal.db.39.title=Conductos de Objetos
+nomifactory.quest.normal.db.39.desc=Los conductos de objetos son útiles para moverlos a través de distintos inventarios a distancias moderadas.%n%nCrearlos en una Máquina de Ensamblaje en vez de a mano genera el doble de conductos.
 
 # db 40 of mode normal
-nomifactory.quest.normal.db.40.title=
-nomifactory.quest.normal.db.40.desc=
+nomifactory.quest.normal.db.40.title=Conductos de Energía de Hierro Conductivo
+nomifactory.quest.normal.db.40.desc=El nivel más básico de conductos de energía §aRF§r de §bEnderIO§r.%n%nEstos se pueden usar para transportar energía desde tus §3Dínamos de Vapor§r a donde desees.
 
 # db 41 of mode normal
-nomifactory.quest.normal.db.41.title=
+nomifactory.quest.normal.db.41.title=Conductos de Energía de Aleación Energética
 
 # db 42 of mode normal
-nomifactory.quest.normal.db.42.title=
-nomifactory.quest.normal.db.42.desc=
+nomifactory.quest.normal.db.42.title=Conductos de Energía de Aleación Vibrante
+nomifactory.quest.normal.db.42.desc=Conductos para llevar AUN MÁS RF.%n%n¿Estas haciendo estos en una §3Máquina de Ensamblaje§r, no?
 
 # db 44 of mode normal
-nomifactory.quest.normal.db.44.title=
-nomifactory.quest.normal.db.44.desc=
+nomifactory.quest.normal.db.44.title=Condensador Doble
+nomifactory.quest.normal.db.44.desc=Combinando §6Condensadores Básicos de RF§r con algo de §6Polvo de Carbón§r y §rAleación Energética§r produce un §6Condensador de Doble Capa de RF§r.%n%nEste es un condensador de nivel dos. Los Condensadores de RF de niveles más altos van a hacer que las máquinas de §bEnderIO§r trabajen más rápido y dependiendo en la máquina expandan sus capacidades (como por ejemplo, el área de efecto).
 
 # db 45 of mode normal
 nomifactory.quest.normal.db.45.title=
-nomifactory.quest.normal.db.45.desc=
+nomifactory.quest.normal.db.45.desc=Es lindo ser capaz de volar. Este es el primer Jet-pack que usa materiales de §bEnderIO§r.%n%nHay otra cadena de misiones para Jet-packs que usan materiales de §bThermal Expansion§r (empezando con el §6Jet-pack de Plomo§r). Eventualmente vas a necesitar hacer ambos, pero no dentro de poco, por lo que siéntete libre de ignorar una de estas dos cadenas a menos que te guste demasiado volar.%n%nSi el panel del §6Jet-pack§r y la información de §bThe One Probe§r se solapan, se pueden ajustar tanto a través del §earchivo de configuración§r de §bSimply Jetpacks 2§r como por el comando §6/topcfg§r respectivamente.
 
 # db 47 of mode normal
 nomifactory.quest.normal.db.47.title=
-nomifactory.quest.normal.db.47.desc=
+nomifactory.quest.normal.db.47.desc=Volar aun más rápido, mucho mejor aun.
 
 # db 48 of mode normal
 nomifactory.quest.normal.db.48.title=
-nomifactory.quest.normal.db.48.desc=
+nomifactory.quest.normal.db.48.desc=Volar más rápido es mejor.
 
 # db 49 of mode normal
-nomifactory.quest.normal.db.49.title=
-nomifactory.quest.normal.db.49.desc=
+nomifactory.quest.normal.db.49.title=Centrifugando Aire
+nomifactory.quest.normal.db.49.desc=Nota: Esta misión acepta cualquier Centrífuga de nivel LV, MV, o HV.%n%nCentrifugar aire es una forma segura de conseguir §9Nitrógeno§r antes de que puedas §2destilar Aire Liquido§r.
 
 # db 50 of mode normal
-nomifactory.quest.normal.db.50.title=
-nomifactory.quest.normal.db.50.desc=
+nomifactory.quest.normal.db.50.title=§2Transportar Fluidos
+nomifactory.quest.normal.db.50.desc=Los §6Conductos de Fluidos Presurizados§r van a ser tu manera principal de transportar fluidos por ahora. Tienen la ventaja de ser §6Conductos§r, permitiéndoles entrar en el mismo bloque que otros §6Conductos§r.%n%nLas §2Tuberías de Fluidos de GTCEu§r también están disponibles, mejoradas desde CE. Su ventaja es una mayor §drendimiento§r, pero tienen limitaciones en cuanto a que tipo de fluidos (§eácidos, gases§r, etcétera) pueden transportar sin romperse. Investiga el cuadro emergente de cada tubería de cierto material para saber los detalles.%n%nAdemás, hay §6Tuberías Cuádruples y Nónuples§r para transportar multiples fluidos a través del mismo bloque.%n%nElige tu veneno.
 
 # db 51 of mode normal
-nomifactory.quest.normal.db.51.title=
-nomifactory.quest.normal.db.51.desc=
+nomifactory.quest.normal.db.51.title=Prensa
+nomifactory.quest.normal.db.51.desc=Las §3Prensas§r son máquinas usadas para hacer §6circuítos impresos§r para §bApplied Energistics§r.
 
 # db 52 of mode normal
-nomifactory.quest.normal.db.52.title=
+nomifactory.quest.normal.db.52.title=§2Cámara Estéril
 nomifactory.quest.normal.db.52.desc=
 
 # db 53 of mode normal
