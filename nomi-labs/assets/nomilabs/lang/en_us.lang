@@ -24,13 +24,12 @@ config.nomilabs.content.custom_content.items=Enable Custom Items
 config.nomilabs.content.custom_content.blocks=Enable Custom Blocks
 config.nomilabs.content.custom_content.fluids=Enable Custom Fluids
 config.nomilabs.content.custom_content.complex_recipes=Enable Complex Recipes
-config.nomilabs.content.custom_content.remap=Remap Old Content Tweaker Content
+config.nomilabs.content.custom_content.custom_void=Enable Custom Void Dimension
 
 config.nomilabs.content.gt_content=Custom GT Content Settings
 config.nomilabs.content.gt_content.tooltip=Custom GT Content Settings
 config.nomilabs.content.gt_content.materials=Enable Custom GT Materials
 config.nomilabs.content.gt_content.perfect_gems=Enable Perfect Gems
-config.nomilabs.content.gt_content.remap_perfect_gems=Remap Old Perfect Gems
 config.nomilabs.content.gt_content.blocks=Enable Custom GT Blocks
 config.nomilabs.content.gt_content.old_multiblocks=Enable Old Multiblocks
 config.nomilabs.content.gt_content.new_multiblocks=Enable New Multiblocks
@@ -72,11 +71,13 @@ config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Int
 config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
 config.nomilabs.mod_integration.draconicevolution.auto_builder_speed=Auto Builder Speed
 config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Auto Destructor Speed
+config.nomilabs.mod_integration.draconicevolution.fusion_charging_time=Fusion Injector Charging Time
 
 config.nomilabs.advanced=Advanced Settings
 config.nomilabs.advanced.tooltip=Advanced Settings
 config.nomilabs.advanced.allow_other_modes=Allow Other Modes
 config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
+config.nomilabs.advanced.other_mods_linear_xp=Misc Mod Linear XP Support
 config.nomilabs.advanced.disable_narrator=Disable Narrator
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Enable Nomi-CEu Specific Data Fixes
 config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
@@ -86,6 +87,12 @@ config.nomilabs.advanced.ignore_biomes=BIOME Missing Registry Ignore List
 config.nomilabs.advanced.language_modify_option=Language Tab Modifier Mode
 config.nomilabs.advanced.window=Minecraft Window Title Overrides
 config.nomilabs.advanced.difficulty=Difficulty Overrides
+config.nomilabs.advanced.server_motd_substitutions=Enable Server MOTD Substitutions
+config.nomilabs.advanced.sync_dim_properties=Sync Dimension Properties
+config.nomilabs.advanced.client_side_fields=Client Side ONLY Fields
+config.nomilabs.advanced.client_side_methods=Client Side ONLY Methods
+config.nomilabs.advanced.server_side_fields=Server Side ONLY Fields
+config.nomilabs.advanced.server_side_methods=Server Side ONLY Methods
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
@@ -132,6 +139,8 @@ nomilabs.gui.language.exit=Apply and Exit
 nomilabs.gui.language_jei.title=§lShould JEI be Reloaded?§r
 nomilabs.gui.language_jei.desc.1=Reloading §bJEI§r ensures that category titles and descriptions are translated to your chosen language.
 nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple seconds§r to perform.
+
+nomilabs.gui.top_override.fluid=Fluid: %s
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
