@@ -623,7 +623,7 @@ nomifactory.quest.normal.db.0.desc=El propósito principal de este aparato es tr
 
 # db 1 of mode normal
 nomifactory.quest.normal.db.1.title=Cámara de Crecimiento de Cristales
-nomifactory.quest.normal.db.1.desc=La §3Cámara de Crecimiento de Cristales§r te permite usar las recetas de crafteo §bApplied Energistics§r del exterior ahora dentro de una máquina. ¡Hurra, ya no vas a tener que tirar cosas en el agua!%n%nLa máquina se utiliza para cultivar §6Semillas de Cristal§r para conseguir §6Cristales Puros§r, y crear §6Cristales de Fluix§r.%n%nJEI no te muestra las recetas de la Cámara directamente, por lo que las explicaremos aquí:%n%nLas semillas se crean pulverizando cualquiera de los tres cristales y mezclando el polvo con arena. Una semilla crece para volverse su correspondiente Cristal Puro, que es un substituto del cristal original en la mayoría de recetas. Por lo que usar Cristales Puros efectivamente te duplica la eficiencia de tus materiales, lo que es mucho muy bueno. Y no, no se puede pulverizar los Cristales Puros para multiplicarlos aún más. Perdón.%n%nYa has creado Cristales de Fluix en un charco de agua antes, aquí aplican los mismos ingredientes: uno de §6Redstone§r, §6Cristal de Cuarzo Certus Cargado§r, y §6Cuarzo de Nether§r te dan dos Cristales de Fluix.
+nomifactory.quest.normal.db.1.desc=La §3Cámara de Crecimiento de Cristales§r te permite usar las recetas de crafteo §bApplied Energistics§r del exterior ahora dentro de una máquina. ¡Hurra, ya no vas a tener que tirar cosas en el agua!%n%nLa máquina se utiliza para cultivar §6Semillas de Cristal§r para conseguir §6Cristales Puros§r, y crear §6Cristales de Fluix§r.%n%nEsta máquina requiere §eEnergía ME§r, que obtiene a través de una conexión con una §aRed ME§r. Colocandola al costado de tu §3Conector de Energía§r logra esto por ahora, o la puedes conectar vía §3Cábles de Vidrio de Fluix§r.%n%nJEI no te muestra las recetas de la Cámara directamente, por lo que las explicaremos aquí:%n%nLas semillas se crean pulverizando cualquiera de los tres cristales y mezclando el polvo con arena. Una semilla crece para volverse su correspondiente Cristal Puro, que es un substituto del cristal original en la mayoría de recetas. Por lo que usar Cristales Puros efectivamente te duplica la eficiencia de tus materiales, lo que es mucho muy bueno. Y no, no se puede pulverizar los Cristales Puros para multiplicarlos aún más. Perdón.%n%nYa has creado Cristales de Fluix en un charco de agua antes, aquí aplican los mismos ingredientes: uno de §6Redstone§r, §6Cristal de Cuarzo Certus Cargado§r, y §6Cuarzo de Nether§r te dan dos Cristales de Fluix.
 
 # db 2 of mode normal
 nomifactory.quest.normal.db.2.title=Máquina de Enlatado y Cosas Variadas
@@ -711,7 +711,7 @@ nomifactory.quest.normal.db.22.desc=La función principal de este horno es incre
 
 # db 23 of mode normal
 nomifactory.quest.normal.db.23.title=Obsidiana
-nomifactory.quest.normal.db.23.desc=Vas a requerir §6Obsidiana§r para hacer §6Acero Oscuro§r. La mayoría de las herramientas que puedes hacer no pueden minar Obsidiana, pero tienes un par de opciones potenciales. Las opciones que seguramente tienes en este momento son:%n%n1) Un §a Pico de Diamante§r o un §aMartillo de Minería de Diamante§r.%n%n2) Un §aMartillo de Minería de Platino§r (un pico no funcionaría).%n%n¡Más adelante, vas a poder utilizar un §3Machacador de Piedras§r de Alto Voltaje, o más alto, para hacer §6Obsidiana§r sin gastar §6Lava§r!
+nomifactory.quest.normal.db.23.desc=Para hacer §6Acero Oscuro§r vas a requerir §6Obsidiana§r, que se crea solidificando lava con agua como siempre. Se puede minar con un §aMartillo/Pico de Diamante§r u otra herramienta con el nivel del Diamante.%n%nUn §3Machacador de Piedras§r de Alto Voltaje puede hacer §6Obsidiana§r sin gastar §6Lava§r más adelante, y los §6Cristales de Void§r pueden usarse como un sustituto más barato.
 
 # db 24 of mode normal
 nomifactory.quest.normal.db.24.title=Dínamo de Vapor
@@ -767,7 +767,7 @@ nomifactory.quest.normal.db.37.desc=Buscar un §6Árbol de Caucho§r es una opci
 
 # db 38 of mode normal
 nomifactory.quest.normal.db.38.title=§2Energía LV
-nomifactory.quest.normal.db.38.desc=§oNota: Esta misión acepta cualquier §oConversor de Energía LV§r.%n%nLos §3Dínamos de Vapor§r que has hecho son capaces de generar §aenergía RF §r, pero las máquinas §bGregTech§r requieren §aenergía EU§r. Habiendo hecho tu primer §6circuito§r, ya tienes todo listo para construir un §2Conversor de Energía §ede Bajo Voltaje (LV)§r.%n%n§c¡Nota que las dos energías son incompatibles entre ellas!§r%n%nEl §2Conversor de Energía§r es un dispositivo especial que §econvierte §2entre §aenergía RF§r y §aenergía EU§r. Puede venir en §2cuatro tamaños: 1A, 4A, 8A, y 16A.%n%nEl §aRF§r tiene un §eratio de 4 a 1§r con el §aEU§r. §a100 RF§r se vuelven §a25 EU§r, y vice-versa. §2Puedes usar un Martillo Blando para cambiar la dirección de conversión.
+nomifactory.quest.normal.db.38.desc=§oNota: Esta misión acepta cualquier §oConversor de Energía LV§r.%n%nLos §3Dínamos de Vapor§r que has hecho son capaces de generar §aenergía RF §r, pero las máquinas §bGregTech§r requieren §aenergía EU§r. Habiendo hecho tu primer §6circuito§r, ya tienes todo listo para construir un §2Conversor de Energía §ede Bajo Voltaje (LV)§r.%n%n§c¡Nota que las máquinas de EU no pueden usar RF! §2Aun así, el EU es automáticamente convertido a RF cuando se necesite.§r%n%nEl §2Conversor de Energía§r es un dispositivo especial que §econvierte §2entre §aenergía RF§r y §aenergía EU§r. Puede venir en §2cuatro tamaños: 1A, 4A, 8A, y 16A.%n%nEl §aRF§r tiene un §eratio de 4 a 1§r con el §aEU§r. §a100 RF§r se vuelven §a25 EU§r, y vice-versa.
 
 # db 39 of mode normal
 nomifactory.quest.normal.db.39.title=Conductos de Objetos
@@ -817,7 +817,7 @@ nomifactory.quest.normal.db.52.title=§2Cámara Estéril
 nomifactory.quest.normal.db.52.desc=
 
 # db 53 of mode normal
-nomifactory.quest.normal.db.53.title=
+nomifactory.quest.normal.db.53.title=§2Fábrica de Alambres LV
 nomifactory.quest.normal.db.53.desc=
 
 # db 55 of mode normal
