@@ -47,6 +47,7 @@ config.nomilabs.mod_integration.ender_io=Enable Ender IO Integration
 config.nomilabs.mod_integration.ftb_utils=Enable FTB Utilities Integration
 config.nomilabs.mod_integration.top_addons=Enable TOP Addons Integration
 config.nomilabs.mod_integration.jei_crafting_output_empty_line=Add JEI Crafting Output Tooltip Empty Line
+config.nomilabs.mod_integration.bqu_fluid_task_fixes=Enable BQu Fluid Task Fixes
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
@@ -141,6 +142,18 @@ nomilabs.gui.language_jei.desc.1=Reloading §bJEI§r ensures that category title
 nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple seconds§r to perform.
 
 nomilabs.gui.top_override.fluid=Fluid: %s
+
+nomilabs.gui.better_p2p.input=Input
+nomilabs.gui.better_p2p.output=Output
+nomilabs.gui.better_p2p.error.same_output=P2P is already an {}.
+
+nomilabs.gui.advanced_memory_card.mode.add_input=Add as Input
+nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
+nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency.
+
+nomilabs.gui.advanced_memory_card.mode.add_output=Add as Output
+nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
+nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency.
 
 # Custom Fluids
 fluid.uranium233=Uranium 233
