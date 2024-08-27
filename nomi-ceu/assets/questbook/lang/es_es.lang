@@ -160,7 +160,7 @@ nomifactory.quest.normal.db.950.title=
 
 # db 959 of mode normal
 nomifactory.quest.normal.db.959.title=
-nomifactory.quest.normal.db.995.desc=
+nomifactory.quest.normal.db.995.desc=Sin Descripción
 
 # db 996 of mode normal
 nomifactory.quest.normal.db.996.title=
@@ -215,7 +215,7 @@ nomifactory.quest.normal.db.1030.title=
 nomifactory.quest.normal.db.1044.title=
 
 # line 6 of mode expert
-nomifactory.quest.expert.line.6.title=
+nomifactory.quest.expert.line.6.title=Genesis
 nomifactory.quest.expert.db.3.desc=
 
 # db 5 of mode expert
@@ -627,7 +627,7 @@ nomifactory.quest.normal.db.1.desc=La §3Cámara de Crecimiento de Cristales§r 
 
 # db 2 of mode normal
 nomifactory.quest.normal.db.2.title=Máquina de Enlatado y Cosas Variadas
-nomifactory.quest.normal.db.2.desc=Nota: Esta misión acepta tanto máquinas de enlatado de LV como de MV.%n%nLas §aBaterias LV§r eran muy simples de hacer, pero las formas más efectivas de guardado de energía son más complejas para construir, por lo que tenemos que preparar la base ahora.%n%nPon a trabajar tu §3Centrifuga§r para el §6Antimonio§r que necesitaras, que se consigue en pizcas por procesar menas de §6Tetraedrita§r y §6Estibina§r.
+nomifactory.quest.normal.db.2.desc=Nota: Esta misión acepta tanto Maquinas de Enlatado de LV como de MV.%n%nLas §aBaterias LV§r eran muy simples de hacer, pero las formas más efectivas de guardado de energía son más complejas para construir, por lo que tenemos que preparar la base ahora.%n%nPon a trabajar tu §3Centrifuga§r para el §6Antimonio§r que necesitaras, que se consigue en pizcas por procesar menas de §6Tetraedrita§r y §6Estibina§r.
 
 # db 3 of mode normal
 nomifactory.quest.normal.db.3.title=§2Genesis
@@ -3046,7 +3046,7 @@ nomifactory.quest.normal.db.811.title=
 
 # db 812 of mode normal
 nomifactory.quest.normal.db.812.title=
-nomifactory.quest.normal.db.812.desc=
+nomifactory.quest.normal.db.812.desc=Sin Descripción
 
 # db 813 of mode normal
 nomifactory.quest.normal.db.813.title=
@@ -3342,7 +3342,7 @@ nomifactory.quest.normal.db.888.desc=
 
 # db 889 of mode normal
 nomifactory.quest.normal.db.889.title=
-nomifactory.quest.normal.db.889.desc=
+nomifactory.quest.normal.db.889.desc=Sin Descripción
 
 # db 890 of mode normal
 nomifactory.quest.normal.db.890.title=
@@ -3390,7 +3390,7 @@ nomifactory.quest.normal.db.900.desc=
 
 # db 901 of mode normal
 nomifactory.quest.normal.db.901.title=
-nomifactory.quest.normal.db.901.desc=
+nomifactory.quest.normal.db.901.desc=Sin Descripción
 
 # db 902 of mode normal
 nomifactory.quest.normal.db.902.title=
@@ -3411,11 +3411,11 @@ nomifactory.quest.normal.db.906.desc=
 
 # db 907 of mode normal
 nomifactory.quest.normal.db.907.title=
-nomifactory.quest.normal.db.907.desc=
+nomifactory.quest.normal.db.907.desc=Sin Descripción
 
 # db 908 of mode normal
 nomifactory.quest.normal.db.908.title=
-nomifactory.quest.normal.db.908.desc=
+nomifactory.quest.normal.db.908.desc=Sin Descripción
 
 # db 909 of mode normal
 nomifactory.quest.normal.db.909.title=
@@ -3443,15 +3443,15 @@ nomifactory.quest.normal.db.914.desc=
 
 # db 915 of mode normal
 nomifactory.quest.normal.db.915.title=
-nomifactory.quest.normal.db.915.desc=
+nomifactory.quest.normal.db.915.desc=Sin Descripción
 
 # db 916 of mode normal
 nomifactory.quest.normal.db.916.title=
-nomifactory.quest.normal.db.916.desc=
+nomifactory.quest.normal.db.916.desc=Sin Descripción
 
 # db 917 of mode normal
 nomifactory.quest.normal.db.917.title=
-nomifactory.quest.normal.db.917.desc=
+nomifactory.quest.normal.db.917.desc=Sin Descripción
 nomifactory.quest.normal.db.918.desc=
 
 # db 919 of mode normal
@@ -3460,7 +3460,7 @@ nomifactory.quest.normal.db.919.desc=
 
 # db 920 of mode normal
 nomifactory.quest.normal.db.920.title=
-nomifactory.quest.normal.db.920.desc=
+nomifactory.quest.normal.db.920.desc=Sin Descripción
 
 # db 921 of mode normal
 nomifactory.quest.normal.db.921.title=
@@ -3575,15 +3575,15 @@ nomifactory.quest.normal.db.953.desc=
 
 # db 954 of mode normal
 nomifactory.quest.normal.db.954.title=
-nomifactory.quest.normal.db.954.desc=
+nomifactory.quest.normal.db.954.desc=Sin Descripción
 
 # db 955 of mode normal
 nomifactory.quest.normal.db.955.title=
-nomifactory.quest.normal.db.955.desc=
+nomifactory.quest.normal.db.955.desc=Sin Descripción
 
 # db 956 of mode normal
 nomifactory.quest.normal.db.956.title=
-nomifactory.quest.normal.db.956.desc=
+nomifactory.quest.normal.db.956.desc=Sin Descripción
 
 # db 957 of mode normal
 nomifactory.quest.normal.db.957.title=
@@ -3648,7 +3648,7 @@ nomifactory.quest.normal.db.972.desc=
 
 # db 973 of mode normal
 nomifactory.quest.normal.db.973.title=
-nomifactory.quest.normal.db.973.desc=
+nomifactory.quest.normal.db.973.desc=Sin Descripción
 
 # db 974 of mode normal
 nomifactory.quest.normal.db.974.title=
@@ -3656,59 +3656,59 @@ nomifactory.quest.normal.db.974.desc=
 
 # db 975 of mode normal
 nomifactory.quest.normal.db.975.title=
-nomifactory.quest.normal.db.975.desc=
+nomifactory.quest.normal.db.975.desc=Sin Descripción
 
 # db 976 of mode normal
 nomifactory.quest.normal.db.976.title=
-nomifactory.quest.normal.db.976.desc=
+nomifactory.quest.normal.db.976.desc=Sin Descripción
 
 # db 977 of mode normal
 nomifactory.quest.normal.db.977.title=
-nomifactory.quest.normal.db.977.desc=
+nomifactory.quest.normal.db.977.desc=Sin Descripción
 
 # db 978 of mode normal
 nomifactory.quest.normal.db.978.title=
-nomifactory.quest.normal.db.978.desc=
+nomifactory.quest.normal.db.978.desc=Sin Descripción
 
 # db 979 of mode normal
 nomifactory.quest.normal.db.979.title=
-nomifactory.quest.normal.db.979.desc=
+nomifactory.quest.normal.db.979.desc=Sin Descripción
 
 # db 980 of mode normal
 nomifactory.quest.normal.db.980.title=
-nomifactory.quest.normal.db.980.desc=
+nomifactory.quest.normal.db.980.desc=Sin Descripción
 
 # db 981 of mode normal
 nomifactory.quest.normal.db.981.title=
-nomifactory.quest.normal.db.981.desc=
+nomifactory.quest.normal.db.981.desc=Sin Descripción
 
 # db 982 of mode normal
 nomifactory.quest.normal.db.982.title=
-nomifactory.quest.normal.db.982.desc=
+nomifactory.quest.normal.db.982.desc=Sin Descripción
 
 # db 983 of mode normal
 nomifactory.quest.normal.db.983.title=
-nomifactory.quest.normal.db.983.desc=
+nomifactory.quest.normal.db.983.desc=Sin Descripción
 
 # db 984 of mode normal
 nomifactory.quest.normal.db.984.title=
-nomifactory.quest.normal.db.984.desc=
+nomifactory.quest.normal.db.984.desc=Sin Descripción
 
 # db 985 of mode normal
 nomifactory.quest.normal.db.985.title=
-nomifactory.quest.normal.db.985.desc=
+nomifactory.quest.normal.db.985.desc=Sin Descripción
 
 # db 986 of mode normal
 nomifactory.quest.normal.db.986.title=
-nomifactory.quest.normal.db.986.desc=
+nomifactory.quest.normal.db.986.desc=Sin Descripción
 
 # db 987 of mode normal
 nomifactory.quest.normal.db.987.title=
-nomifactory.quest.normal.db.987.desc=
+nomifactory.quest.normal.db.987.desc=Sin Descripción
 
 # db 988 of mode normal
 nomifactory.quest.normal.db.988.title=
-nomifactory.quest.normal.db.988.desc=
+nomifactory.quest.normal.db.988.desc=Sin Descripción
 
 # db 989 of mode normal
 nomifactory.quest.normal.db.989.title=
@@ -3716,19 +3716,19 @@ nomifactory.quest.normal.db.989.desc=
 
 # db 990 of mode normal
 nomifactory.quest.normal.db.990.title=
-nomifactory.quest.normal.db.990.desc=
+nomifactory.quest.normal.db.990.desc=Sin Descripción
 
 # db 991 of mode normal
 nomifactory.quest.normal.db.991.title=
-nomifactory.quest.normal.db.991.desc=
+nomifactory.quest.normal.db.991.desc=Sin Descripción
 
 # db 992 of mode normal
 nomifactory.quest.normal.db.992.title=
-nomifactory.quest.normal.db.992.desc=
+nomifactory.quest.normal.db.992.desc=Sin Descripción
 
 # db 993 of mode normal
 nomifactory.quest.normal.db.993.title=
-nomifactory.quest.normal.db.993.desc=
+nomifactory.quest.normal.db.993.desc=Sin Descripción
 
 # db 994 of mode normal
 nomifactory.quest.normal.db.994.title=
@@ -3736,7 +3736,7 @@ nomifactory.quest.normal.db.994.desc=
 
 # db 995 of mode normal
 nomifactory.quest.normal.db.995.title=
-nomifactory.quest.normal.db.996.desc=
+nomifactory.quest.normal.db.996.desc=Sin Descripción
 
 # db 997 of mode normal
 nomifactory.quest.normal.db.997.title=
@@ -3744,11 +3744,11 @@ nomifactory.quest.normal.db.997.desc=
 
 # db 998 of mode normal
 nomifactory.quest.normal.db.998.title=
-nomifactory.quest.normal.db.998.desc=
+nomifactory.quest.normal.db.998.desc=Sin Descripción
 
 # db 999 of mode normal
 nomifactory.quest.normal.db.999.title=
-nomifactory.quest.normal.db.999.desc=
+nomifactory.quest.normal.db.999.desc=Sin Descripción
 
 # db 1000 of mode normal
 nomifactory.quest.normal.db.1000.title=
@@ -3760,35 +3760,35 @@ nomifactory.quest.normal.db.1001.desc=
 
 # db 1002 of mode normal
 nomifactory.quest.normal.db.1002.title=
-nomifactory.quest.normal.db.1002.desc=
+nomifactory.quest.normal.db.1002.desc=Sin Descripción
 
 # db 1003 of mode normal
 nomifactory.quest.normal.db.1003.title=
-nomifactory.quest.normal.db.1003.desc=
+nomifactory.quest.normal.db.1003.desc=Sin Descripción
 
 # db 1004 of mode normal
 nomifactory.quest.normal.db.1004.title=
-nomifactory.quest.normal.db.1004.desc=
+nomifactory.quest.normal.db.1004.desc=Sin Descripción
 
 # db 1005 of mode normal
 nomifactory.quest.normal.db.1005.title=
-nomifactory.quest.normal.db.1005.desc=
+nomifactory.quest.normal.db.1005.desc=Sin Descripción
 
 # db 1006 of mode normal
 nomifactory.quest.normal.db.1006.title=
-nomifactory.quest.normal.db.1006.desc=
+nomifactory.quest.normal.db.1006.desc=Sin Descripción
 
 # db 1007 of mode normal
 nomifactory.quest.normal.db.1007.title=
-nomifactory.quest.normal.db.1007.desc=
+nomifactory.quest.normal.db.1007.desc=Sin Descripción
 
 # db 1008 of mode normal
 nomifactory.quest.normal.db.1008.title=
-nomifactory.quest.normal.db.1008.desc=
+nomifactory.quest.normal.db.1008.desc=Sin Descripción
 
 # db 1009 of mode normal
 nomifactory.quest.normal.db.1009.title=
-nomifactory.quest.normal.db.1009.desc=
+nomifactory.quest.normal.db.1009.desc=Sin Descripción
 
 # db 1010 of mode normal
 nomifactory.quest.normal.db.1010.title=
@@ -3884,59 +3884,59 @@ nomifactory.quest.normal.db.1044.desc=
 # Expert Quest Lang Entries:
 
 # line 0 of mode expert
-nomifactory.quest.expert.line.0.title=
-nomifactory.quest.expert.line.0.desc=
+nomifactory.quest.expert.line.0.title=El Principio
+nomifactory.quest.expert.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comienza a construir una fábrica!%n%nConsigue acceso a la tecnología inicial de §bEnderIO§r y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruye un §3Alto Horno Eléctrico (EBF)§r para fundir materiales avanzados y aleaciones.
 
 # line 1 of mode expert
-nomifactory.quest.expert.line.1.title=
-nomifactory.quest.expert.line.1.desc=
+nomifactory.quest.expert.line.1.title=Etapa Inicial
+nomifactory.quest.expert.line.1.desc=§7Voltaje Medio (MV Tier)§r en GregTech: Nuevas máquinas y procesamiento rudimentario de menas.%n%nUsa Química Orgánica para crear §6Plasticos§r, y construye una torre de destilación.%n%nAutomatizá §bApplied Energistics 2§r. Explorá §bActually Additions§r.
 
 # line 2 of mode expert
-nomifactory.quest.expert.line.2.title=
-nomifactory.quest.expert.line.2.desc=
+nomifactory.quest.expert.line.2.title=Etapa del Medio
+nomifactory.quest.expert.line.2.desc=§6Alto Voltaje (HV Tier)§r, §5Voltaje Extremo (EV Tier)§r, y §1Voltaje Insano (IV Tier)§r en GregTech:%n%n§3Destilación Criogénica§r, y petroquímica para hacer §6Epoxi§r y §9Diésel Potenciado con Cetano§r.%n%nCraftea §6Estrellas del Nether§r y desbloquea máquinas de §bThermal Expansion§r.%n%nConstruye un reactor de fisión de §b NuclearCraft§r para obtener nuevos materiales.%n%nConstruye una estación espacial y un núcleo de teletransportación.
 
 # line 3 of mode expert
-nomifactory.quest.expert.line.3.title=
-nomifactory.quest.expert.line.3.desc=
+nomifactory.quest.expert.line.3.title=Progresión
+nomifactory.quest.expert.line.3.desc=Siempre puede sentirse recompensante poder avanzar aunque sea un poco.%n%nEsta ventana delinea la progresión de varías cosas en §5Nomifactory§r.%n%nLos tipos y niveles de circuitos son la principal medida de tu progreso.
 
 # line 4 of mode expert
-nomifactory.quest.expert.line.4.title=
-nomifactory.quest.expert.line.4.desc=
+nomifactory.quest.expert.line.4.title=Etapa Tardía
+nomifactory.quest.expert.line.4.desc=§dVoltaje Ridículo (LuV Tier)§r, Voltaje ZPM (ZPM Tier)§r, §3Voltaje Definitivo (UV Tier)§r, y §4Voltaje UHV (UHV Tier)§r en GregTech:%n%n¡Construye §3Lineas de Ensamble§r, §3Reactores de Fusión§r, y más!%n%nAutomatizá con estilo en §bPackagedAuto§r. Creá cada vez mejores §6Micro Mineros§r.%n%nUsá §bDraconic Evolution§r para hacer crafteo de fusión y almacenamiento de energía.
 
 # line 5 of mode expert
-nomifactory.quest.expert.line.5.title=
-nomifactory.quest.expert.line.5.desc=
-nomifactory.quest.expert.line.6.desc=
+nomifactory.quest.expert.line.5.title=Etapa Final
+nomifactory.quest.expert.line.5.desc=Ya estás en la etapa final...%n%nCosecha micro-versos enteros y desbloquea §dMicro Mineros Estabiliizados§r.%n%nPon tu automatización a la prueba definitiva para progresar al objetivo final: el §dCofre Creativo§r.
+nomifactory.quest.expert.line.6.desc=Bienvenido/a a §5Nomi-CEu§r §cModo Difícil/Experto§r, voy a ser tu guía.
 
 # line 7 of mode expert
-nomifactory.quest.expert.line.7.title=
-nomifactory.quest.expert.line.7.desc=
+nomifactory.quest.expert.line.7.title=Entrando al Micro-verso
+nomifactory.quest.expert.line.7.desc=Moja tus pies en §bExtra Utilities§r y §bExtended Crafting§r.%n%nConquista el End o invierte en §bEnderIO §rpara tecnologías de teletransportación.%n%nConstruye un cohéte y vé a la Luna (o no, pero es muy divertido hacerlo).%n%nCualquiera sea el caso, tienes que comenzar a minar §emicro-versos§r.
 
 # line 8 of mode expert
-nomifactory.quest.expert.line.8.title=
-nomifactory.quest.expert.line.8.desc=
+nomifactory.quest.expert.line.8.title=Fusión e Investigación
+nomifactory.quest.expert.line.8.desc=¡Crea nuevos elementos y empodera tu base con donas!%n%nAprovecha la capacidad de computación combinada de tus circuitos para desbloquear los secretos para hacer componentes más avanzados.
 
 # line 10 of mode expert
-nomifactory.quest.expert.line.10.title=
-nomifactory.quest.expert.line.10.desc=
+nomifactory.quest.expert.line.10.title=Energía de Materia
+nomifactory.quest.expert.line.10.desc=Transforma materia y energía entre ellas con §bApplied Energistics§r.%n%n¡Automatiza TODO! o/
 
 # db 0 of mode expert
-nomifactory.quest.expert.db.0.title=
-nomifactory.quest.expert.db.0.desc=
+nomifactory.quest.expert.db.0.title=Cargando Cuarzo
+nomifactory.quest.expert.db.0.desc=El propósito principal de este aparato es transformar §6Cuarzo de Certus§r a §6Cuarzo de Certus Cargado§r.%n%nSe le puede dar energía con RF mediante conductos de energía, o energía AE a través de una red de conductos ME o cables.%n%nAcepta energía de ambos lados. ¿Cuales dos lados? Es algo fácil de adivinar.%n%n%n%n%n%n%n%n%nOk, ok. Son el de arriba y abajo.
 
 # db 1 of mode expert
-nomifactory.quest.expert.db.1.title=
+nomifactory.quest.expert.db.1.title=Cámara de Crecimiento de Cristales
 nomifactory.quest.expert.db.1.desc=
 
 # db 2 of mode expert
-nomifactory.quest.expert.db.2.title=
-nomifactory.quest.expert.db.2.desc=
+nomifactory.quest.expert.db.2.title=Máquina de Enlatado y Cosas Variadas
+nomifactory.quest.expert.db.2.desc=Nota: Esta misión acepta tanto máquinas de enlatado de LV como de MV.%n%nLas §aBaterias LV§r eran muy simples de hacer, pero las formas más efectivas de guardado de energía son más complejas para construir, por lo que tenemos que preparar la base ahora.%n%nPon a trabajar tu §3Centrifuga§r para el §6Antimonio§r que necesitaras, que se consigue en pizcas por procesar menas de §6Tetraedrita§r y §6Estibina§r.
 
 # db 3 of mode expert
-nomifactory.quest.expert.db.3.title=
+nomifactory.quest.expert.db.3.title=§2Genesis§c-Difícil
 
 # db 4 of mode expert
-nomifactory.quest.expert.db.4.title=
+nomifactory.quest.expert.db.4.title=Suministro de Hierro
 nomifactory.quest.expert.db.4.desc=
 nomifactory.quest.expert.db.5.desc=
 nomifactory.quest.expert.db.6.desc=
@@ -3952,7 +3952,7 @@ nomifactory.quest.expert.db.9.desc=
 # db 10 of mode expert
 nomifactory.quest.expert.db.10.title=
 nomifactory.quest.expert.db.10.desc=
-nomifactory.quest.expert.db.11.desc=
+nomifactory.quest.expert.db.11.desc=Un "§esubstrato§r" es la "placa" en una placa de circuitos... la base donde los componentes del circuito y los cables son colocados. Un buen substrato requiere no conducir electricidad, por obvias razones. §6Madera§r bañada con §6Resina Pegajosa§r es un material primitivo pero efectivo como un primer substrato.%n%n§2En CEu, tienes que poner cables en el substrato para que sea utilizable. En este caso, usa alambres de cobre.§r%n%nTambién vas a necesitar crear §6Tubos de Vacío§r, al igual que unos §6Resistores§r primitivos. Por ahora, se va a usar §6Papel§r como material para estos.%n%nAsegurate tener estas recetas codificadas en una §3Estación de Trabajo§r... vas a estar haciendo MUCHAS de estas cosas.
 nomifactory.quest.expert.db.12.desc=
 nomifactory.quest.expert.db.13.desc=
 nomifactory.quest.expert.db.14.desc=
@@ -4005,7 +4005,7 @@ nomifactory.quest.expert.db.28.desc=
 
 # db 29 of mode expert
 nomifactory.quest.expert.db.29.title=
-nomifactory.quest.expert.db.29.desc=
+nomifactory.quest.expert.db.29.desc=Una aleación misteriosa, hecha de §6Polvo Pulsante§r y §6Hierro§r.%n%nSi no puedes encontrar una, las §6Perlas de Ender§r se pueden craftear con Polvo Pulsante y un §6Diamante§r en un §3Horno de Aleación§r.
 
 # db 30 of mode expert
 nomifactory.quest.expert.db.30.title=
@@ -6155,7 +6155,7 @@ nomifactory.quest.expert.db.811.desc=
 
 # db 812 of mode expert
 nomifactory.quest.expert.db.812.title=
-nomifactory.quest.expert.db.812.desc=
+nomifactory.quest.expert.db.812.desc=Sin Descripción
 
 # db 813 of mode expert
 nomifactory.quest.expert.db.813.title=
@@ -6456,7 +6456,7 @@ nomifactory.quest.expert.db.888.desc=
 
 # db 889 of mode expert
 nomifactory.quest.expert.db.889.title=
-nomifactory.quest.expert.db.889.desc=
+nomifactory.quest.expert.db.889.desc=Sin Descripción
 
 # db 890 of mode expert
 nomifactory.quest.expert.db.890.title=
@@ -6498,7 +6498,7 @@ nomifactory.quest.expert.db.900.desc=
 
 # db 901 of mode expert
 nomifactory.quest.expert.db.901.title=
-nomifactory.quest.expert.db.901.desc=
+nomifactory.quest.expert.db.901.desc=Sin Descripción
 
 # db 902 of mode expert
 nomifactory.quest.expert.db.902.title=
@@ -6518,11 +6518,11 @@ nomifactory.quest.expert.db.906.desc=
 
 # db 907 of mode expert
 nomifactory.quest.expert.db.907.title=
-nomifactory.quest.expert.db.907.desc=
+nomifactory.quest.expert.db.907.desc=Sin Descripción
 
 # db 908 of mode expert
 nomifactory.quest.expert.db.908.title=
-nomifactory.quest.expert.db.908.desc=
+nomifactory.quest.expert.db.908.desc=Sin Descripción
 
 # db 909 of mode expert
 nomifactory.quest.expert.db.909.title=
@@ -6579,7 +6579,7 @@ nomifactory.quest.expert.db.922.desc=
 
 # db 923 of mode expert
 nomifactory.quest.expert.db.923.title=
-nomifactory.quest.expert.db.923.desc=
+nomifactory.quest.expert.db.923.desc=Sin Descripción
 
 # db 924 of mode expert
 nomifactory.quest.expert.db.924.title=
