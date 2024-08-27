@@ -83,3 +83,37 @@ nomiceu.tooltip.ae2.p2p.desc=§a¡Mantén apretado Shift y desplazate con la rue
 nomiceu.tooltip.dimensionaledibles.island_cake.1=§a¡Usado por los dueños de servidores para mandar equipos de FTB e individuos a sus islas personales!§r
 nomiceu.tooltip.gregtech.prospector.4=Usa JEI para encontrar la profundidad potencial de la vena.
 nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a un solidificador de fluidos o un solidificador de experiencia.§r
+# Mixed
+nomiceu.tooltip.mixed.fillable=Se puede rellenar con la §bMáquina de Enlatado§r.
+nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.1=§aLa sueltan monstruos, y se puede hacer en§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.2=§aun Solidificador de Fluidos o Solidificador de Experiencia.§r
+
+# MC
+nomiceu.tooltip.mc.xp_bottle=§e¡Da 25 puntos de EXP, o un nivel de EXP!§r
+
+# Output: §eGives 8 XP, of 32% of a XP Level!§r (% is Escaped)
+nomiceu.tooltip.actuallyadditions.solidifed_xp.amount=§e¡Da 8 puntos de EXP, o 32%% de un nivel de EXP!§r
+nomiceu.tooltip.ae2.hyper_acceleration_card.1=§b¡Una versión aun más rápida de la Tarjeta de Aceleración!§r
+nomiceu.tooltip.ae2.hyper_acceleration_card.2=§cSolo funciona con puertos de IO ME.§r
+
+# Deep Mob Evolution
+nomiceu.tooltip.dme.glitch_fragment=§bSe obtiene moliendo Corazones de Glitch contra Obsidiana.§r
+
+# Output: §eGives (AMOUNT)% of a XP Level!§r (% is Escaped)
+nomiceu.tooltip.dme.matter=§e¡Da %s%% de un nivel de EXP!§r
+nomiceu.tooltip.dme.matter.full_level=§e¡Da un Nivel de EXP!§r
+nomiceu.tooltip.ae2.buses.warning=§c¡Puede causar lag de TPS si se usa excesivamente! ¡En cambio, usa interfaces!§r
+nomiceu.tooltip.ae2.storage_exposer.warning=§c¡Puede causar lag de TPS si se usa en redes grandes sin filtros!§r
+nomiceu.tooltip.ae2.tiny_tnt.1=§c¡No se puede prender con un Mechero!
+nomiceu.tooltip.ae2.tiny_tnt.3=§e¡No rompe bloques!§r
+nomiceu.tooltip.ae2.matter_cannon.1=§eRecibe Bolas de Materia, Bolas de Pintura, y Pepitas de munición.§r
+nomiceu.tooltip.ae2.color_applicator.1=§eAcepta Bolas de Pintura como una Célula de Almacenamiento.§r
+nomiceu.tooltip.ae2.storage_cell_like=§b¡Puede resultarle útil usar un ME Cofre!§r
+
+# Ender IO
+nomiceu.tooltip.eio.fused_glass.make=Hecho con §6Vidrio Templado§r y §7Tinte Blanco§r
+nomiceu.tooltip.eio.glass.dye=¡Puede ser §bTintado§r!
+nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 Nivel de EXP!§r
+nomiceu.tooltip.ae2.tiny_tnt.2=§b¡En cambio, utiliza una señal de Redstone para activarlo!§r
+nomiceu.tooltip.eio.facade=§c¡Puede causar lag de FPS si se usa excesivamente!§r
+nomiceu.tooltip.ae2.matter_cannon.2=§b¡Se rellena con munición como una Célula de Almacenamiento!§r
