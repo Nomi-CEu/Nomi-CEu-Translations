@@ -146,7 +146,7 @@ nomifactory.quest.normal.db.23.desc=你需要§6黑曜石§r来制造§6玄钢§
 
 # db 24 of mode normal
 nomifactory.quest.normal.db.24.title=蒸汽能源炉
-nomifactory.quest.normal.db.24.desc=你的第一个重大合成项目！%n%n你将需要一些§6银§r来做这个§6蒸汽能源炉§r。它需要§9水§r和燃料，比如§6煤炭§r和§6甘蔗§r来发电。%n%n如果你还没有找到一个§6方铅矿矿脉§r（银的来源），那么可以考虑用§d万象币§r“购买”一些§6银矿石§r。你还不需要大量的银和铅，所以这不会让你破产。%n%n请记住，§e能源炉只有在运行时才会输出，并且只有线圈那一端才能输出能量§r。
+nomifactory.quest.normal.db.24.desc=（§o这个任务接收蒸汽能源炉和大型青铜锅炉。§r）%n%n你的第一个重大合成项目！%n%n§6蒸汽能源炉§r是你早期的§d能量§r来源。它需要§9水§r和燃料，比如§6煤炭§r和§6甘蔗§r来发电。%n%n如果你还没有找到一个§6方铅矿矿脉§r（银的来源），那么可以考虑用§d万象币§r“购买”一些§6银矿石§r。你还不需要大量的银和铅，所以这不会让你破产。%n%n请记住，§e能源炉只有在运行时才会输出，并且只有线圈那一端才能输出能量§r。%n%n你也可以用§6大型青铜锅炉§r来产生用于§6蒸汽轮机§r和§b装有涡轮增压装置的蒸汽能源炉§r的蒸汽。每个大型青铜锅炉产生 800mB 蒸汽每 tick，等价于 400EU/t 或者 1600RF/t。然而，大型蒸汽锅炉要贵的多。
 
 # db 25 of mode normal
 nomifactory.quest.normal.db.25.title=基于蛋糕的维度传送
@@ -198,7 +198,7 @@ nomifactory.quest.normal.db.37.desc=出去寻找§6橡胶树§r当然是一个�
 
 # db 38 of mode normal
 nomifactory.quest.normal.db.38.title=§2LV能源
-nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§oLV能量转换器§o。%n%n§r到现在为止，你一直在用你的§3蒸汽能源炉§r产生§aRF§r，但§b格雷科技§r机器需要§aEU§r。有了你的第一个§6电路§r，你已经准备好制作一个§eLV§2能量转换器§r。%n%n§c注意 EU 机器不能用 RF，但 RF 机器能用 EU，因为它会自动转化成 RF。§r%n%n§2能量转换器§r是一个特殊的方块，可以在§aRF能量§r和§aGTEU能量§r之间进行转换。它们有§24种规格：1A、4A、8A§r和§216A§r。%n%n§aRF§r转换成§aGTEU§r遵循§e4比1的比例§r。§a100RF§r变成§a25GTEU§r，反之亦然。
+nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§oLV能量转换器§o。%n%n§r你制造的§3蒸汽能源炉§r能产生§aRF§r能量，但是§b格雷§r机器需要§aEU§r能量。有了你的第一个§6电路§r，你已经准备好制作一个 §eLV§2 能量转换器§r。%n%n§2能量转换器§r是一个特殊的方块，可以在 §aRF 能量§r和 §aEU 能量§r之间进行转换。它们有§2 4 种规格：1A、4A、8A §r和§2 16A§r。%n%n你可以拿着软锤右击它来将模式改成从 EU 转为 RF。%n%nEU 会在需要的适合§2自动转换§r为 RF，例如用§b格雷§r线缆连接 RF 机器时。然而，导线无法直接连接到大部分 EU 供应器，所以你仍然需要使用 EU 到 RF 转换器来将 EU 发电机连接到电网。%n%n§aRF§r 遵循§e 4 比 1 的比例§r转换成 §aEU§r。§a100RF§r 变成 §a25EU§r，反之亦然。
 
 # db 39 of mode normal
 nomifactory.quest.normal.db.39.title=物品导管
@@ -618,7 +618,7 @@ nomifactory.quest.normal.db.150.desc=§3真空冷冻机§r主要用于冷却§6�
 
 # db 151 of mode normal
 nomifactory.quest.normal.db.151.title=早期金红石处理
-nomifactory.quest.normal.db.151.desc=§6金红石§r是§6钛§r的§6一种前身§r，可在§6钛铁矿矿石§r和§6铝土矿矿石§r中找到，这些矿石在主世界内特别罕见。%n%n在月球和其他行星上可能会发现更多的钛铁矿和铝土矿。
+nomifactory.quest.normal.db.151.desc=§6金红石§r是§6钛§r的§6一种前身§r，可在§6钛铁矿矿石§r和§6铝土矿矿石§r中找到，这些矿石在主世界内特别罕见。%n%n在§6月球§r和其他行星上可能会发现更多的§6钛铁矿§r和§6铝土矿§r。%n%n§6钛铁矿§r粉可以在电力高炉内处理成§6金红石§r，并产出副产物§6锻铁§r。
 
 # db 152 of mode normal
 nomifactory.quest.normal.db.152.title=四氯化钛
@@ -714,7 +714,7 @@ nomifactory.quest.normal.db.174.desc=注意：这个任务同时接受LV/MV/HV/E
 
 # db 175 of mode normal
 nomifactory.quest.normal.db.175.title=§2稀有气体
-nomifactory.quest.normal.db.175.desc=你将需要大量的各种稀有气体，所以你应该让它自动化并持续运行。%n%n例如，§9氩§r，对生产先进的§6单晶硅§r很重要。%n%n§2液化后，主世界空气提供氦和氩；下界空气提供氦-3和氖；末地空气提供氦、氪、氙和氡。%n%n§2某些惰性气体也可以提高电力高炉处理的速度。
+nomifactory.quest.normal.db.175.desc=你将需要大量的各种稀有气体，所以你应该让它自动化并持续运行。%n%n§2液化后，主世界空气能分离出氦和氩；下界空气能分离出氦-3 和氖；末地空气能分离出氦、氪、氙和氡。%n%n§2某些惰性气体也可以提高电力高炉处理的速度。
 
 # db 176 of mode normal
 nomifactory.quest.normal.db.176.title=二氧化氮
@@ -810,7 +810,7 @@ nomifactory.quest.normal.db.201.desc=§6钨§r是一种材料，需要一个§3E
 
 # db 202 of mode normal
 nomifactory.quest.normal.db.202.title=阿波罗计划
-nomifactory.quest.normal.db.202.desc=这是你可以建造的较简单的火箭之一。形状的具体细节其实并不重要，只要火箭发动机在底部，所有的零件都加起来就可以了。它还需要在发射台的边缘之内，并且不比结构塔高。%n%n§a为了进一步推进这个任务链，你首先需要完成跨维度传送（传送符咒或传送台）任务线和火箭燃料任务线，这两个任务都在这个任务标签的附近。§r%n%n译者注：跨纬度传送是必须要做的，即使你使用旅行地图传送也要，因为旅行地图传送似乎对星球无效。
+nomifactory.quest.normal.db.202.desc=这是你可以建造的较简单的火箭之一。形状的具体细节其实并不重要，只要火箭发动机在底部，所有的零件都加起来就可以了。它还需要在发射台的边缘之内，并且不比结构塔高。%n%n§a为了进一步推进这个任务链，你首先需要完成跨维度传送（不管是 FTB 设置家，传送符咒还是传送台）任务线和火箭燃料任务线，这两个任务都在这个任务标签的附近。§r%n%n译者注：跨纬度传送是必须要做的，即使你使用旅行地图传送也要，因为旅行地图传送似乎对星球无效。
 
 # db 203 of mode normal
 nomifactory.quest.normal.db.203.title=§2第二种三阶电路
@@ -818,11 +818,11 @@ nomifactory.quest.normal.db.203.desc=制造成本略低于§2高级集成电路�
 
 # db 204 of mode normal
 nomifactory.quest.normal.db.204.title=太空服
-nomifactory.quest.normal.db.204.desc=为自己制作一套太空服是走向太空冒险的最重要一步。%n%n这套衣服可以让你在太空中呼吸，这一点很重要。
+nomifactory.quest.normal.db.204.desc=为自己制作一套太空服是走向太空冒险的最重要一步。%n%n这套衣服可以让你在太空中呼吸，这一点很重要。%n%n如果你能承受造价的话，也可以给你全身装甲加上§d真空密封§r附魔。§c它仍然需要不时在气体装填台填充氧气！§r
 
 # db 205 of mode normal
-nomifactory.quest.normal.db.205.title=太空服调节台
-nomifactory.quest.normal.db.205.desc=太空服调节台是用来安装§6低压槽§r（或一个更大的槽，如果你喜欢的话）到你的太空服胸前。%n%n一旦安装好，你可以站在一个§a气体装填台§r上，给槽加满§9氧§r。当然，你需要先在气体装填台中注入氧气。
+nomifactory.quest.normal.db.205.title=整装待发
+nomifactory.quest.normal.db.205.desc=太空服调节台可以安装§6低压槽§r（或一个更大的槽，如果你喜欢的话）到你的太空胸甲。%n%n一旦安装好，你可以站在一个§a气体装填台§r上，给气体槽加满§9氧§r。当然，你需要先用流体导管之类的在气体装填台中注入氧气。%n%n如果你选择用§d真空密封§r附魔而不是太空服的话，只需要气体装填台就可以了。
 
 # db 206 of mode normal
 nomifactory.quest.normal.db.206.title=高级组件
@@ -834,7 +834,7 @@ nomifactory.quest.normal.db.207.desc=将几种成分组合成一种催化剂。
 
 # db 208 of mode normal
 nomifactory.quest.normal.db.208.title=发射台和火箭组装机
-nomifactory.quest.normal.db.208.desc=在某些时候，你可以考虑进入太空，比如月球。虽然这不是进展的必要条件，但你可能会发现它很有价值：至少可以说，月球上有一些矿脉，而这些矿脉在地球上是非常罕见的。而为此，你需要一枚火箭和一大堆准备工作。%n%n在你建造火箭本身之前，你需要搭建一个发射台。§6发射台§r方块在地面上以3x3的平面布局形成平台。%n%n结构塔是由§6个结构塔§r方块组成的柱子，将你的火箭竖立起来。第一个方块与发射台平台的任何一侧相邻（与发射台块在同一水平面上）。%n%n使用6个结构塔方块，你只能建造一个5个方块高的火箭，因为再高就会超过塔的高度。为了建造更高的火箭，你需要使用更多的结构塔方块建造更高的塔。%n%n§3火箭组装机§r需要放在发射台旁边（而不是在上面），比平台高一个方块，以便火箭组装机的底部与发射台的顶部平齐。它还需要提供RF能量才能运作。
+nomifactory.quest.normal.db.208.desc=在某些时候，你可以考虑进入太空，比如月球。虽然这不是进展的必要条件，但你可能会发现它很有价值：至少可以说，月球上有一些矿脉，而这些矿脉在地球上是非常罕见的。而为此，你需要一枚火箭和一大堆准备工作。%n%n在你建造火箭本身之前，你需要搭建一个发射台。§6发射台§r方块在地面上以 3x3 的平面布局形成平台。%n%n结构塔是由§ 6 个结构塔§r方块组成的柱子，将你的火箭竖立起来。第一个方块与发射台平台的任何一侧相邻（与发射台块在同一水平面上）。%n%n使用 6 个结构塔方块，你只能建造一个 5 个方块高的火箭，因为再高就会超过塔的高度。为了建造更高的火箭，你需要使用更多的结构塔方块建造更高的塔。%n%n§3火箭组装机§r需要放在发射台旁边（而不是在上面），比平台高一个方块，以便火箭组装机的底部与发射台的顶部平齐。它还需要提供RF能量才能运作。
 
 # db 209 of mode normal
 nomifactory.quest.normal.db.209.title=高级拓展工作台
