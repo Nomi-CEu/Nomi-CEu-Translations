@@ -284,9 +284,6 @@ nomifactory.quest.normal.db.1006.desc=Sin Descripción
 nomifactory.quest.normal.db.1007.desc=Sin Descripción
 nomifactory.quest.normal.db.1008.desc=Sin Descripción
 nomifactory.quest.normal.db.1009.desc=Sin Descripción
-
-# Expert Quest Lang Entries:
-
 # line 0 of mode expert
 nomifactory.quest.expert.line.0.title=El Principio
 nomifactory.quest.expert.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comienza a construir una fábrica!%n%nConsigue acceso a la tecnología inicial de §bEnderIO§r y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruye un §3Alto Horno Eléctrico (EBF)§r para fundir materiales avanzados y aleaciones.
