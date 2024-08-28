@@ -16,7 +16,7 @@ nomiceu.tooltip.ae2.inverter_card=§e使机器接受且仅接受未标记的物�
 nomiceu.tooltip.ae2.fuzzy_card=§e只处理特定耐久度范围的物品。§r
 nomiceu.tooltip.ae2.redstone_card=§e用红石控制你的 ME 机器！§r
 nomiceu.tooltip.ae2.pure_fluix=§a由福鲁伊克斯种子在晶体催生仓中生长而成。§r
-nomiceu.tooltip.ae2.dense=§b用于装修！§r
+nomiceu.tooltip.ae2.dense=§b用于装饰！§r
 nomiceu.tooltip.ae2.facade=§3AE2 覆盖板可以由大多数方块制作。§r
 nomiceu.tooltip.ae2.crafting_storage=§e把它放入制作栏来回收元件！§r
 nomiceu.tooltip.ae2.storage_cell=§e拿着它 Shift 右击来回收元件！§r
@@ -81,3 +81,19 @@ nomiceu.tooltip.labs.hand_framing.top_right=§5右上：§o棱边§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5右下：§o正面§r
 nomiceu.tooltip.labs.hand_framing.tool=§5框架你的手框架工具用手！§r
 nomiceu.tooltip.labs.hand_framing.drawer=§5框架你的抽屉用手！§r
+nomiceu.tooltip.ae2.p2p.desc=§Shift 加滚轮可切换 P2P 类型！§r
+
+# Advanced Rocketry
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.1=§7荣耀归于 PGS！§r
+nomiceu.tooltip.ae2.p2p_reset_me_shapeless=§5将 P2P 变回 ME P2P！§r
+nomiceu.tooltip.eio.glass.dye=可被§b染色§r！
+
+# Ender IO
+nomiceu.tooltip.eio.fused_glass.make=用§6强化玻璃§r和§7白色染料§r制作
+# Mixed
+nomiceu.tooltip.mixed.fillable=
+nomiceu.tooltip.ae2.hyper_acceleration_card.1=§b比加速卡还要快！§r
+nomiceu.tooltip.ae2.hyper_acceleration_card.2=§c只能用于 ME-IO 端口§r
+
+# Deep Mob Evolution
+nomiceu.tooltip.dme.glitch_fragment=§b用损坏的故障心脏敲击黑曜石获得。§r

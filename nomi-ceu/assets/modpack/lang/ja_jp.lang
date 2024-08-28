@@ -1,7 +1,85 @@
 nomifactory.nonetherportals=ネザーポータルは§5Nomi-CEu§rでは無効化されています。クエストブックに従って§6Nether Cake§rを作成しましょう！
-
 nomiceu.tooltip.labs.hand_framing.top_left=§5左上：§oサイド§r
 nomiceu.tooltip.labs.hand_framing.top_right=§5右上： §oトリム§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5右下：§o正面§r
-nomiceu.tooltip.labs.hand_framing.tool=§5手で道具をフレーミングする！§r
-nomiceu.tooltip.labs.hand_framing.drawer=§5 手作業で引き出しのフレームを作る！§r
+nomiceu.tooltip.labs.hand_framing.tool=§5手元で手持ち式フレーミングツールを構成します！§r
+nomiceu.tooltip.labs.hand_framing.drawer=§5手元で引き出しの骨組みを作ります！§r
+# Actually Additions
+nomiceu.tooltip.actuallyadditions.drill_core.1=§cロストシティの建物やバニラダンジョンを探索すると獲得できる。§r
+nomiceu.tooltip.actuallyadditions.drill_core.2=§cノミコインでも購入可能！§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.2=§7作り方はAR Wikiを参照。§r
+nomiceu.tooltip.actuallyadditions.knife=§cハンバーガーを作るときは、必ずこれを最後にクラフトテーブルに入れてください！§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a液体成型機または経験成型機。§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.expert=§a液体成型機または経験成型機で製造。§r
+nomiceu.tooltip.actuallyadditions.canola.2=§aこれはやや遅いマシンであり、機能するには RF が必要です。§r
+
+# Advanced Rocketry
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.1=§7PGSに栄光あれ！§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.3=§e1,000,000 RF/t§r§7 を消費します§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.5=§cワールドが機能しない場合は、再起動してみてください。§r
+nomiceu.tooltip.ae2.crafting_card=§eアイテムが存在しないと、機械が自動的にアイテムを作成するようになります。§r
+nomiceu.tooltip.ae2.acceleration_card=§eME マシンを高速化します§r.
+nomiceu.tooltip.ae2.inverter_card=§eAE2 のカードの設定を反転させます。§r
+nomiceu.tooltip.ae2.capacity_card=§eインポート/エクスポートバスを拡張してください!§r
+nomiceu.tooltip.ae2.pure_certus_quartz=§aケルタスクオーツの種から水晶成長室で作られる。§r
+nomiceu.tooltip.ae2.pure_fluix=§aフルーシュの種から結晶成長室で作られる。§r
+nomiceu.tooltip.ae2.channels_not_enabled=チャンネルが有効になっていません!
+nomiceu.tooltip.gregtech.facade.2=§3使用される金属に基づいて、さまざまな量にクラフトされます。§r
+nomiceu.tooltip.actuallyadditions.canola_press=§aキャノーラをキャノーラ油に変える。 RFが必要。§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.1=§aモンスターからのドロップで作成可能§r
+nomiceu.tooltip.advancedrocketry.orbital_laser_drill.4=§c極めて使用が困難。 使用は自己責任で。§r
+
+# AE2 & NAE2
+nomiceu.tooltip.ae2.crafting_terminal_removal.1=§cこの項目は削除されています。§r
+nomiceu.tooltip.advancedrocketry.basic_lens=§7オービタルレーザードリルに使用される基本レンズ。§r
+nomiceu.tooltip.ae2.crafting_terminal_removal.2=§c一時変換レシピを追加しました。§r
+nomiceu.tooltip.ae2.crafting_terminal_removal.3=§c詳細については、JEI を確認してください。§r
+nomiceu.tooltip.ae2.quantum_link_card.1=§eどこからでもワイヤレスアクセスが可能！§r
+nomiceu.tooltip.ae2.pattern_expansion_card=§eインターフェイスのパターン容量を拡張してください。§r
+nomiceu.tooltip.ae2.redstone_card=§eME マシンをレッドストーンで制御しましょう!§r
+nomiceu.tooltip.ae2.quantum_link_card.2=§e詳細については、クエストブックを確認してください。§r
+nomiceu.tooltip.ae2.magnet_card=§eアイテムを拾って AE2倉庫に収納します。§r
+nomiceu.tooltip.ae2.fuzzy_card=§e特定のダメージ範囲のアイテムのみを扱います。§r
+nomiceu.tooltip.ae2.sticky_card=§e設定されたアイテムは、その ME マシンにのみ送信できます。§r
+nomiceu.tooltip.ae2.charged_certus=§bAE2 充電器またはエナジェティック インフューザーの RF 電力で充電することで入手できます。§r
+nomiceu.tooltip.ae2.p2p.me=§b他のすべての P2P トンネルの基礎。§r
+nomiceu.tooltip.ae2.p2p.desc=§aShift キーを押しながらスクロールすると、P2P タイプを順番に切り替えることができます。§r
+nomiceu.tooltip.ae2.pure_nether_quartz=§aネザークォーツの種から水晶成長室で作られる。§r
+nomiceu.tooltip.ae2.crafting_storage=§eこれをクラフトグリッドに配置してリサイクルしてください。§r
+nomiceu.tooltip.ae2.storage_cell=§eこれを押しながら Shift 右クリックするとリサイクルできます。§r
+
+# Dimensional Edibles
+nomiceu.tooltip.dimensionaledibles.island_cake.1=§aサーバー所有者が FTB チームと個人を個人の島に送信するために使用します。§r
+nomiceu.tooltip.gregtech.prospector.3=サイドバーの鉱石アイコンをクリックして個別に見れます。
+nomiceu.tooltip.actuallyadditions.canola.1=§aキャノーラは、キャノーラ圧搾機を介してキャノーラ油に変えることができます。§r
+nomiceu.tooltip.ae2.controller=§bME コントローラは AE2 システムの消費電力を削減します。§r
+nomiceu.tooltip.ae2.dense=§b飾り用に！§r
+nomiceu.tooltip.ae2.facade=§3AE2外装板は、タイル以外のほとんどのエンティティから作成できます。§r
+nomiceu.tooltip.ae2.quartz_knife=§e配置した ME パーツを右クリックして名前を変更します...何も消費しません。§r
+nomiceu.tooltip.ae2.p2p_reset_me_shapeless=§5P2P を ME P2P にリセットしてください。§r
+nomiceu.tooltip.dimensionaledibles.island_cake.2=§a詳細については、GitHub のサーバー情報ファイルを参照してください。§r
+
+# Dark Utils
+nomiceu.tooltip.darkutils.ender_tether=エンダーマンのテレポートをブロックします。
+
+# Deep Mob Learning
+nomiceu.tooltip.dml.glitch_fragment=§bオブシディアンに対してグリッチハートを粉砕することで入手できます。§r
+
+# Thermal Expansion
+nomiceu.tooltip.thermalexpansion.capacitors=§cGT蓄電器では放電できません。§r
+
+# GregTech
+nomiceu.tooltip.gregtech.prospector.1=§6§l使用法：§r
+nomiceu.tooltip.gregtech.prospector.2=グリッド正方形 = 1 チャンク、上が北です。
+nomiceu.tooltip.gregtech.prospector.4=JEI を使用して鉱脈の深さを確認します。
+nomiceu.tooltip.gregtech.facade.1=§3GTCEu外装は、タイル以外のほとんどのエンティティから作成できます。§r
+
+# Ender IO
+tooltip.fused_glass.make=§6強化ガラス§rおよび§7白色染料で作られています§r
+tooltip.eio_glass.dye=§b染色§r可能!
+
+# Project Red
+nomiceu.tooltip.projectred.wire=§eProjectRed で使用します。§r
+
+# XTones
+nomiceu.tooltip.xtones.lamp=§e点灯するにはレッドストーン信号が必要です。§r

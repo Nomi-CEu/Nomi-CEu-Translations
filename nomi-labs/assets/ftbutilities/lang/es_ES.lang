@@ -1,1 +1,9 @@
 
+
+ftbutilities.status.server.item_disabled=§c¡Objeto deshabilitado!§r
+ftbutilities.status.server.pvp=§c¡No puedes hacer PvP aquí!§r
+ftbutilities.status.chunk.no_attack=§c¡No puedes atacar entidades amigables en este chunk!§r
+ftbutilities.status.chunk.no_break_block=§c¡No puedes romper bloques en este chunk!§r
+ftbutilities.status.chunk.no_interact_item=§c¡No puedes usar ese objeto en este chunk!§r
+ftbutilities.status.chunk.no_interact_block=§c¡No puedes interactuar con bloques en este chunk!§r
+ftbutilities.status.chunk.no_place_block=§c¡No puedes colocar bloques en este chunk!§r

@@ -33,3 +33,6 @@ tile.ec.storage_ender_star.name=Bloque de estrellas ender
 # line 75-76
 item.ec.material_ender_star.name=Estrella ender
 item.ec.material_ender_star_nugget.name=Nugget de estrella ender
+
+# Ultimate Trimmed -> Omnium Trimmed
+tooltip.ec.trimmed_ultimate=Omnio recortado
