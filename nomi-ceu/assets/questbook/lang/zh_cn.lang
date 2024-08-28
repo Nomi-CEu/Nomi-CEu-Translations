@@ -1,5 +1,3 @@
-# Normal Quest Lang Entries:
-
 # line 0 of mode normal
 nomifactory.quest.normal.line.0.title=一切的起点（LV）
 nomifactory.quest.normal.line.0.desc=格雷科技§7低压（LV）§r等级：开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
@@ -1778,7 +1776,6 @@ nomifactory.quest.normal.db.546.desc=§o注意：这个任务同时接受LV和MV
 
 # db 547 of mode normal
 nomifactory.quest.normal.db.547.title=扫描模块：方块
-nomifactory.quest.normal.db.547.desc=
 
 # db 548 of mode normal
 nomifactory.quest.normal.db.548.title=模具
@@ -5296,7 +5293,6 @@ nomifactory.quest.expert.db.546.desc=§o注意：这个任务同时接受LV和MV
 
 # db 547 of mode expert
 nomifactory.quest.expert.db.547.title=扫描模块：方块
-nomifactory.quest.expert.db.547.desc=
 
 # db 548 of mode expert
 nomifactory.quest.expert.db.548.title=模具
