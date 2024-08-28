@@ -34,7 +34,7 @@ This contains Lang Files from the `gregtech-drawers` module.
 | Nomi-CEu (Quest Book) | ✅      | ❌      | ❓       | ❌     | ❌              | ❌                  | ❌      |
 | Gregtech Drawers      | ✅      | ✅      | ✅       | ✅     | ✅              | ❌                  | ✅      |
 | Nomi Labs             | ✅      | ✅      | ✅       | ❌     | ✅              | ❌                  | ❓      |
-| Overall               | ✅      | ❓      | ✅       | ❌     | ❓              | ❌                  | ❌      |
+| **Overall**           | ✅      | ❓      | ✅       | ❌     | ❓              | ❌                  | ❌      |
 
 #### Key:
 - ✅: Well Supported, Mostly/Fully Complete
