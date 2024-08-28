@@ -28,12 +28,13 @@ This contains Lang Files from the `gregtech-drawers` module.
 ## Supported Lanuages:
 
 ### Language Support Table
-|Type            |Chinese|Russian|Japanese|French|Spanish|Turkish|
-|----------------|-------|-------|--------|------|-------|-------|
-|Nomi-CEu        |✅     |❓     |❓      |❓    |❓     |❓     |
-|Gregtech Drawers|✅     |✅     |✅      |✅    |✅     |✅     |
-|Nomi Labs       |✅     |✅     |✅      |❌    |✅     |❓     |
-|Overall         |✅     |❓     |✅      |❌    |❓     |❌     |
+| Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina) | Turkish |
+| --------------------- | ------- | ------- | -------- | ------ | --------------- | ------------------- | ------- |
+| Nomi-CEu (Main)       | ✅      | ✅      | ✅       | ❓     | ✅              | ❌                  | ❓      |
+| Nomi-CEu (Quest Book) | ✅      | ❌      | ❓       | ❌     | ❌              | ❌                  | ❌      |
+| Gregtech Drawers      | ✅      | ✅      | ✅       | ✅     | ✅              | ❌                  | ✅      |
+| Nomi Labs             | ✅      | ✅      | ✅       | ❌     | ✅              | ❌                  | ❓      |
+| Overall               | ✅      | ❓      | ✅       | ❌     | ❓              | ❌                  | ❌      |
 
 #### Key:
 - ✅: Well Supported, Mostly/Fully Complete
