@@ -18,20 +18,3 @@ item.ec.material_ender_star.name=Étoile Pleinement Final
 
 # line 69-70
 item.ec.material_ultimate_ingot.name=Lingot d'Omnium
-
-# line 11
-tile.ec.storage_ender_star.name=
-
-# line 62
-item.ec.material_ultimater_component.name=
-tile.ec.table_elite.name=
-tile.ec.table_ultimate.name=
-
-# line 57
-item.ec.material_ultimater_catalyst.name=
-
-# line 33-35
-tile.ec.table_advanced.name=
-
-# line 203
-item.ec.singularity_ultimate.name=
