@@ -35,7 +35,6 @@ config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=Скор
 config.nomilabs.advanced=Расширенные настройки
 config.nomilabs.advanced.allow_other_modes=Разрешить другие режимы
 config.nomilabs.advanced.disable_xp_scaling=Отключить масштабирование опыта наковальни
-config.nomilabs.advanced.enable_data_fixes=
 config.nomilabs.advanced.ignore_items=Список игнорируемых пропущенных Предметов
 config.nomilabs.advanced.ignore_blocks=Список игнорируемых пропущенных Блоков
 config.nomilabs.advanced.ignore_entities=Список игнорируемых пропущенных Энтити
@@ -400,10 +399,6 @@ item.nomilabs.hand_framing_tool.desc6=При помощи инструмента
 item.nomilabs.hand_framing_tool.desc7=также вы можете применять и рамки/декорации.
 item.nomilabs.pulsatingdust.name=Пульсирующая пыль
 item.nomilabs.pulsatingmesh.name=Пульсирующая сеть
-
-
-#----------------Multiblocks----------------#
-
 # Names
 nomilabs.machine.microverse_projector_1.name=Обычный проектор микровселенной
 nomilabs.machine.microverse_projector_2.name=Улучшенный проектор микровселенной
@@ -434,10 +429,6 @@ tooltip.nomilabs.general.press_shift_for_usages=Зажмите [SHIFT] для И
 tooltip.nomilabs.general.press_ctrl_for_usages=Зажмите [CTRL] для Информации использования.
 tooltip.nomilabs.general.press_shift_for_info=Нажмите [SHIFT] для Информации.
 tooltip.nomilabs.general.press_ctrl_for_info=Нажмите [CTRL] для Информации.
-
-# Items
-tooltip.nomilabs.excitationcoil.description_block=
-tooltip.nomilabs.excitationcoil.description_item=
 tooltip.nomilabs.excitationcoil.placeable=§7Размещаемый!§r
 tooltip.nomilabs.excitationcoil.wearable=§7Можно носить на голове!§r
 tooltip.nomilabs.excitationcoil.night_vision=Дает Ночное зрение когда надето!
@@ -445,7 +436,6 @@ tooltip.nomilabs.hand_framing_tool.not_set=Положи этот инструм�
 tooltip.nomilabs.hand_framing_tool.side=Бока: %s
 tooltip.nomilabs.hand_framing_tool.trim=Отделка: %s
 tooltip.nomilabs.hand_framing_tool.front=Фасад: %s
-tooltip.nomilabs.ultimate_items.description=
 tooltip.nomilabs.universalnavigator.description=§9До скорого, Навигатор!§r
 tooltip.nomilabs.eternalcatalyst.description=§8Взгляни в Бездну...§r
 tooltip.nomilabs.tieroneship.description=§f§oДобывает Титан и другие лёгкие металлы из астероидов в микровселенной.§r

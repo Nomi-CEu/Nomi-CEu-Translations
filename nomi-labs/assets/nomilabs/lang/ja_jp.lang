@@ -177,7 +177,6 @@ item.nomilabs.solidifiedchlorine.name=固体化塩素
 item.nomilabs.sixteensmore.name=十六重スモアインゴット
 tooltip.nomilabs.hand_framing_tool.side=外側: %s
 tooltip.nomilabs.dme_sim_chamber.description=§8 より複雑なシミュレーションを今まで以上に高速で実行する、高性能シミュレーションデバイス。§r
-tooltip.nomilabs.greenhouse.description=
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Nomi-CEu固有のデータ修正を有効化する
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution連携の設定
 config.nomilabs.mod_integration.draconicevolution.enable=Draconic Evolutionとの連携を有効化する
@@ -411,10 +410,6 @@ item.nomilabs.hand_framing_tool.desc6=木製のひきだしを右クリックし
 nomilabs.machine.microverse_projector_1.name=マイクロバース投影機 I
 nomilabs.machine.microverse_projector_2.name=マイクロバース投影機 II
 nomilabs.machine.microverse_projector_3.name=マイクロバース投影機 III
-
-
-#----------------Tooltips----------------#
-
 # General
 tooltip.nomilabs.general.press_shift_for_usages=[Shift]でさらなる使用方法を表示。
 tooltip.nomilabs.general.press_ctrl_for_usages=[Ctrl]でさらなる使用方法を表示。
