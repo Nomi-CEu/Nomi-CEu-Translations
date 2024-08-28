@@ -408,10 +408,6 @@ recipemap.naquadah_reactor_2.name=二类硅岩反应堆
 recipemap.actualization_chamber.name=实体化
 recipemap.universal_crystallizer.name=万能结晶器
 recipemap.dme_sim_chamber.name=模拟
-
-
-#----------------Tooltips----------------#
-
 # General
 tooltip.nomilabs.general.press_shift_for_usages=按住 [Shift] 查看更多用法。
 tooltip.nomilabs.general.press_ctrl_for_usages=按住 [Ctrl] 查看更多用法。
