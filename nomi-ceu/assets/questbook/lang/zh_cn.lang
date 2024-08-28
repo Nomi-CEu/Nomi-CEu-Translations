@@ -3515,9 +3515,6 @@ nomifactory.quest.normal.db.1044.desc=§a激光§r是§d格雷科技§r针对大
 # db 1045 of mode normal
 nomifactory.quest.normal.db.1045.title=存储板条箱
 nomifactory.quest.normal.db.1045.desc=不要被这个名字欺骗了。§6小型板条箱§r可以用木头制作，可以在单个方块中容纳117组物品。%n%n这些将是您的存储解决方案，直到您启动并运行您的§dME系统§r。%n%n您可以使用§6板条箱守护徽章§r移动它们。
-
-# Expert Quest Lang Entries:
-
 # line 0 of mode expert
 nomifactory.quest.expert.line.0.title=一切的起点（LV）
 nomifactory.quest.expert.line.0.desc=格雷科技§7低压（LV）§r等级：开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
