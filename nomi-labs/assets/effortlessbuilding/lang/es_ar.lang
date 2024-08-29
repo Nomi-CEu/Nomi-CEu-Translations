@@ -1,0 +1,10 @@
+effortlessbuilding.use.reach_upgrade.success.2=§3¡Límite de bloques§7 desde §c%s §7a §e%s§7§r!
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7Consumí esto para aumentar:§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3¡Distancia para poner bloques§7 a §e%s§7!§r
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3¡Límite de bloques§7 a §e%s§7!§r
+effortlessbuilding.use.reach_upgrade.creative.1=¡Las mejoras de alcance son innecesarias en Creativo!
+effortlessbuilding.use.reach_upgrade.creative.2=¿Aún querés aumentar el alcance? ¡Usá la configuración!
+effortlessbuilding.use.reach_upgrade.success.1=§aMejorado:§r
+effortlessbuilding.use.reach_upgrade.success.3=§3¡Distancia para poner bloques§7 desde §c%s §7a §e%s§7§r!
+effortlessbuilding.use.reach_upgrade.already_used=¡Ya usaste esta mejora!
+effortlessbuilding.use.reach_upgrade.previous=¡Tenes que consumir la Mejora de Alcance %s primero!
