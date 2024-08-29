@@ -1,1 +1,8 @@
 ecore.gui.invalid_block.txt=Bloque invalido en: X: %s, Y: %s, Z: %s. Se esperaba: %s.
+button.de.destructCore.start.txt=Empezar a desarmar el núcleo
+button.de.destructCore.instant.txt=Desarmar el núcleo
+button.de.destructCore.stop.txt=Frenar el desarmado del núcleo
+button.de.assembleCore.start.txt=Empezar a armar el núcleo
+button.de.assembleCore.instant.txt=Armar el núcleo
+button.de.assembleCore.stop.txt=Frenar el armado del núcleo
+ecore.de.assemble_missing_required_new.txt=¡No se puede completar la estructura! Bloques faltantes requeridos: %s.
