@@ -1,0 +1,38 @@
+# line 18-23 of the jar file
+tile.ec.trimmed_iron.name=Bloque de acero negro
+tile.ec.trimmed_gold.name=Bloque de acero negro
+tile.ec.trimmed_diamond.name=Bloque de acero negro
+tile.ec.trimmed_emerald.name=Bloque de acero negro
+tile.ec.trimmed_crystaltine.name=Bloque de acero negro
+tile.ec.trimmed_ultimate.name=Bloque de acero negro
+
+# line 62
+item.ec.material_ultimater_component.name=Componente de confluencia
+
+# line 57
+item.ec.material_ultimater_catalyst.name=Catalizador de confluencia
+
+# line 33-35
+tile.ec.table_advanced.name=Mesa de trabajo extendida
+tile.ec.table_elite.name=Mesa de trabajo extendida de élite
+tile.ec.table_ultimate.name=Mesa de trabajo extendida definitiva
+
+# line 203
+item.ec.singularity_ultimate.name=Mota de omnio
+
+# line 69-70
+item.ec.material_ultimate_ingot.name=Lingote de omnio
+item.ec.material_ultimate_nugget.name=Pepita de omnio
+
+# line 9
+tile.ec.storage_ultimate.name=Bloque de omnio
+
+# line 11
+tile.ec.storage_ender_star.name=Bloque de estrellas finales
+
+# line 75-76
+item.ec.material_ender_star.name=Estrella final
+item.ec.material_ender_star_nugget.name=Pepita de estrella final
+
+# Ultimate Trimmed -> Omnium Trimmed
+tooltip.ec.trimmed_ultimate=Detallado con omnio
