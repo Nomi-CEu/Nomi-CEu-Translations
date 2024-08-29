@@ -1,0 +1,1 @@
+ecore.gui.invalid_block.txt=Bloque invalido en: X: %s, Y: %s, Z: %s. Se esperaba: %s.
