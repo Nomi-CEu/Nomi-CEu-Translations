@@ -1,0 +1,23 @@
+
+# db 3 of mode normal
+nomifactory.quest.normal.db.3.title=§2Genesis
+
+# line 6 of mode normal
+nomifactory.quest.normal.line.6.title=Genesis
+nomifactory.quest.normal.line.3.desc=Siempre es recompensante dar un paso adelante.%n%nEsta ventana delinea la progresión de varias cosas en §5Nomifactory§r.%n%nLos circuitos son la principal medida de tu progreso.
+nomifactory.quest.normal.db.3.desc=¡Bienvenido/a a §5Nomifactory §2Edición GTCEu§r!%n%nEste pack fue creado para ser jugado en la dimensión de §bCiudades Perdidas/Superficie§r.%n%nSi estás jugando con amigos, no te olvides de invitarlos a tu §egrupo del libro de misiones§r.%n%nNo te olvides: ¡Siempre puedes abrir el §6libro de misiones§r con la tecla §eGrave§r (o la que hayas configurado)!%n%nSi preferís construir tu base en un mundo SkyBlock, poné esta §6torta del vacío§r en el piso, y comé una porción para ser enviado al vacío. Por favor tené en cuenta que vas a necesitar volver a la dimensión §bCiudades Perdidas/Superficie§r para minar, pero podes construir seguramente en el §evacío§r.%n%nLas características nuevas de §2CEu§r y misiones con nuevo contenido se van a resaltar con §2Verde Oscuro (el color 2)§r.
+
+# line 6 of mode expert
+nomifactory.quest.expert.line.6.title=Genesis
+nomifactory.quest.expert.line.6.desc=Bienvenido/a a §5Nomi-CEu §Modo difícil/experto§r, voy a ser tu guía.
+
+# line 3 of mode expert
+nomifactory.quest.expert.line.3.title=Progresión
+nomifactory.quest.expert.line.3.desc=Siempre es recompensante dar un paso adelante.%n%nEsta ventana delinea la progresión de varias cosas en §5Nomifactory§r.%n%nLos circuitos son la principal medida de tu progreso.
+
+# db 3 of mode expert
+nomifactory.quest.expert.db.3.title=§2Genesis §cDifícil
+nomifactory.quest.normal.line.6.desc=Bienvenido/a a §5Nomi-CEu§r, voy a ser tu guía.
+
+# line 3 of mode normal
+nomifactory.quest.normal.line.3.title=Progresión
