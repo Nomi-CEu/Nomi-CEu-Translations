@@ -21,3 +21,357 @@ nomifactory.quest.normal.line.6.desc=Bienvenido/a a §5Nomi-CEu§r, voy a ser tu
 
 # line 3 of mode normal
 nomifactory.quest.normal.line.3.title=Progresión
+nomifactory.quest.normal.db.862.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.863.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.864.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.865.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.866.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.867.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.868.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.869.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.870.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.871.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.872.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.873.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.874.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.875.desc=§2Este elemento ahora se requiere para hacer Omnio. (¡No se necesitaba antes!)
+nomifactory.quest.normal.db.876.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.877.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.878.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.879.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.883.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.normal.db.884.desc=§2Este elemento ahora se requiere para hacer Omnio.
+
+# db 921 of mode normal
+nomifactory.quest.normal.db.921.title=Pestaña de Progresión
+nomifactory.quest.normal.db.921.desc=La ventana de progresión fue añadida para que puedas mantener rastro de las partes importantes del pack.%n%nLos circuitos son la base fundamental de la progresión entera de Nomifactory-GTCEu, ¡por lo que seguí escalando!
+
+# db 12 of mode normal
+nomifactory.quest.normal.db.12.title=Algunas Herramientas para Comenzar
+nomifactory.quest.normal.db.4.desc=Los minerales en §5Nomifactory§r se generan en grupos grandes, o '§efilones§r'. Estos filones están dispersos por todo el mundo y son relativamente fáciles de encontrar. §2¡El Escáner de Prospector Eléctrico HV mejorado que te fue dado te dirá los tipos de minerales que podes encontrar en un área de 7x7 chunks!§r%n%nEl escáner requiere energía para funcionar, pero es improbable que se quede sin batería. Aun así, en su momento, el libro de misiones te guiará para hacer §2Baterias HV§r para cargar §aHerramientas HV§r en tu inventario.%n%nPara proceder, necesitás localizar una fuente de §6hierro§r. Tenés un par de opciones. Los filones de §6Magnetita§r se encuentran cerca de la superficie y contienen altas cantidades de hierro, además de un poco de §6Vanadio§r y §6Oro§r. Otra fuente buena de hierro son los filones de §6Limonita§r, que contienen varios tipos de hierro. Finalmente se puede encontrar §6Pirita§r junto con §6Cobre§r en varios tipos de filones.%n%nEl §6hierro forjado§r se consigue simplemente al §efundir/cocinar lingotes de hierro otra vez§r. Tiene más durabilidad que el Hierro, por lo que es mejor para hacer herramientas, pero §cno conviertas todo tu suministro de Hierro a Hierro Forjado§r. Los dos materiales no son intercambiables y vas a necesitar tanto Hierro como Hierro Forjado según la receta lo requiera.
+
+# db 66 of mode normal
+nomifactory.quest.normal.db.66.title=De Polvo a Alambres
+nomifactory.quest.normal.db.66.desc=Aunque la mayoría de §ealeaciones§r requiere un §3fundidor de aleaciones§r, algunas se pueden hacer simplemente mezclando los polvos de metales correctos.%n%nPolvo de cobre mezclado con redstone crea §6polvo de aleación roja§r.%n%nPolvo de hierro mezclado con redstone crea §6polvo de hierro conductivo§r.%n%n§3Fundilo§r en lingotes, §amartillalos§r a §6placas§r, y §acortalas§r para hacer §6alambres§r.
+nomifactory.quest.normal.db.596.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.622.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.12.desc=Una de las excentricidades del paquete es que te tenés que acomodar a la forma en la que las herramientas se ven. La mayoría de herramientas se puede hacer con casi cualquier metal, y §bJEI§r va a mostrar una gran cantidad de opciones... cada combinación de cada herramienta con cada material. Aun así, el patrón para hacer la herramienta es siempre el mismo, por lo que §esimplemente organizá las placas y los lingotes de la misma manera que los ejemplos, ignorando el material que digan§r. Varas donde las varas vayan, placas donde las placas vayan, etcétera. La única restricción es que toda la herramienta §ese debe hacer con el mismo material§r... no podes mezclar diferentes metales en un solo objeto.%n%nLas recetas por defecto te muestran la §6herramienta de hierro§r del tipo apropiado de herramienta si una es requerida, pero podes usar la de cualquier material siempre y cuando sea el tipo correcto. Solo ignorá el material de la herramienta en las recetas: puede ser lo que quieras.%n%nPor ahora, hacé un §aMartillo§r (no un §amartillo de minería§r, por si las dudas... seis lingotes, placas no). Los martillos pueden aplastar §edos lingotes para unirlos en una placa§r. Con esas §6Placas§r podes hacer una §aLima§r, las Limas pueden hacer §6Varas§r, etcétera. Usá JEI para hacer la lista de herramientas.%n%nTu mejor opción por ahora va a ser el §6Hierro Forjado§r para usar de material, pero vas a desbloquear nuevos materiales a medida que progresas. Esta misión acepta todo tipo de materiales para las herramientas.
+nomifactory.quest.normal.db.503.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.513.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.543.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.582.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.583.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.588.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.601.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.613.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.617.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.627.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.632.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.642.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.645.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.624.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.637.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.653.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.663.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.664.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.665.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.596.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.599.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.601.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.613.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.614.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.615.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.648.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.658.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.582.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.589.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.591.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.594.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.626.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.630.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.620.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.621.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.635.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.653.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.657.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.658.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.659.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.666.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.877.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.884.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.636.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.650.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.651.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.652.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.862.desc=§2Este elemento ahora se requiere para hacer Omnio. §e
+nomifactory.quest.expert.db.865.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.866.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.871.desc=§2Este elemento ahora se requiere para hacer Omnio.
+
+# db 40 of mode normal
+nomifactory.quest.normal.db.40.title=Conductos de Energía de Hierro Conductivo
+nomifactory.quest.normal.db.40.desc=El nivel más básico de conductos de energía §aFR§r de §bEnderIO§r.%n%nEstos se pueden usar para transportar energía desde tus §3Dínamos de Vapor§r a donde desees.
+
+# db 743 of mode normal
+nomifactory.quest.normal.db.743.title=¡Usá JEI! ¡Usá JEI! USÁ. JEI.
+
+# db 743 of mode expert
+nomifactory.quest.expert.db.743.title=¡Usá JEI! ¡Usá JEI! USÁ. JEI.
+
+# db 393 of mode normal
+nomifactory.quest.normal.db.393.title=¡Declará tu Territorio e Invitá a Compañeros!
+nomifactory.quest.normal.db.743.desc=§e¡¡¡USÁ JEI!!!§r%n%n%§bJEI§r es un acrónimo de §bJust Enough Items§r, o la Cantidad de Objetos Justa. Es la lista de todos los objetos que ves cuando abrís el inventario. Es el mejor™ libro de recetas que te muestra todos los objetos y sus recetas del modpack.%n%nPara verlo en acción, ¡abrí cualquier misión que requiera un objeto y solo hace click sobre él!%n%nSi querés saber como crear un objeto, solo colocá tu cursor sobre él y presiona la tecla §6R§r. JEI te va a mostrar todas las recetas disponibles.%n%nSi, en cambio, querés saber que recetas usan este objeto, poné el cursor nuevamente sobre él y apretá la tecla §6U§r.%n%nApretá la tecla §6A§r sobre un objeto para marcarlo. Para sacarlo de la lista de marcados, presioná A sobre el objeto en la lista.%n%nUna de las características remarcables de JEI es su capacidad al ayudarte con recetas. Hacé click derecho en una mesa de trabajo, buscá la receta que necesitas y apretá el botón §2[+]§r: Si tenés todos los objetos necesarios, esto va a ponerlos en la mesa de trabajo por vos.%n%n§2Se ha añadido un nuevo mod: JEI Utilities.§r%nEste mod guarda tus 20 recetas más recientes, y podes usar el botón del medio del ratón para mover marcadores entre ellos. Hay otras funciones, pero esas son probablemente las más notables y útiles.
+nomifactory.quest.expert.db.743.desc=§e¡¡¡USÁ JEI!!!§r%n%n%§bJEI§r es un acrónimo de §bJust Enough Items§r, o la Cantidad de Objetos Justa. Es la lista de todos los objetos que ves cuando abrís el inventario. Es el mejor™ libro de recetas que te muestra todos los objetos y sus recetas del modpack.%n%nPara verlo en acción, ¡abrí cualquier misión que requiera un objeto y solo hace click sobre él!%n%nSi querés saber como crear un objeto, solo colocá tu cursor sobre él y presiona la tecla §6R§r. JEI te va a mostrar todas las recetas disponibles.%n%nSi, en cambio, querés saber que recetas usan este objeto, poné el cursor nuevamente sobre él y apretá la tecla §6U§r.%n%nApretá la tecla §6A§r sobre un objeto para marcarlo. Para sacarlo de la lista de marcados, presioná A sobre el objeto en la lista.%n%nUna de las características remarcables de JEI es su capacidad al ayudarte con recetas. Hacé click derecho en una mesa de trabajo, buscá la receta que necesitas y apretá el botón §2[+]§r: Si tenés todos los objetos necesarios, esto va a ponerlos en la mesa de trabajo por vos.
+nomifactory.quest.normal.db.393.desc=Te estarás preguntando cuales son las opciones para cargado de chunks en este pack.%n%nAbrí tu inventario y mirá la esquina izquierda superior de la pantalla. Hacé click en el ícono con forma de mapa llamado §eChunks Propios§r.%n%n§6Hacé click en un chunk§r para declararlo tuyo. Esto va a prevenir las explosiones de creepers no deseadas y que otros jugadores interactúen con tu base.%n%n§6Hacé click izquierdo mientras apretás Shift en un chunk propio§r para cargarlo. Esto va a asegurar que el chunk se mantenga cargado todo el tiempo, hasta cuando no estés. Alternativamente, hay §amonolitos cargadores de chunks§r (Chunk Loading Ward) de §bExtra Utilities§r.%n%n§eSi estás jugando en un servidor configurado, preguntale al dueño que métodos están disponibles§r.%n%nPara invitar a otros jugadores a tu grupo de §bFTB Utils§r, fijate en el botón correspondiente de la misma esquina. Los jugadores del grupo comparten territorio entre ellos. Podes configurar los permisos que tiene tu grupo en el menú de configuración de grupo.
+
+# db 405 of mode normal
+nomifactory.quest.normal.db.405.title=Calculadora de Crafteo
+
+# db 811 of mode normal
+nomifactory.quest.normal.db.811.title=Mineral de Sulfuro
+nomifactory.quest.normal.db.811.desc=El §6mineral de sulfuro§r es la única fuente de §6polvo de sulfuro§r que tenés disponible ahora mismo.%n%nTal vez quieras gastar unas cuantas §dNomi-monedas§r en el mineral para impulsar tu almacenamiento de energía.%n%nSi no, el mineral únicamente se puede encontrar en §ael Nether§r, y la única manera de llegar allá es con una §6Torta del Nether§r. ¡Oh no!
+nomifactory.quest.normal.db.405.desc=Este modpack tiene §acalculadoras de crafteo§r. Tiene una curva de aprendizaje empinada, pero una vez que aprendés a usarla, va a ser tu compañera fiel a la hora de calcular el costo de recetas.%n%nFabricate una y toca el botón con forma de libro en la esquina izquierda superior para ver un pantallazo de como funciona.%n%n§2La terminal de GTCEu también tiene un equivalente integrado de la calculadora de crafteo, que podes usar si querés.
+nomifactory.quest.expert.db.405.desc=Este modpack tiene §acalculadoras de crafteo§r. Tiene una curva de aprendizaje empinada, pero una vez que aprendés a usarla, va a ser tu compañera fiel a la hora de calcular el costo de recetas.%n%nFabricate una y toca el botón con forma de libro en la esquina izquierda superior para ver un pantallazo de como funciona.%n%n§2La terminal de GTCEu también tiene un equivalente integrado de la calculadora de crafteo, que podes usar si querés.
+nomifactory.quest.normal.db.808.desc=§5Nomi-CEu§r comparte un servidor de Discord oficial con §5Nomifactory§r, que sirve como recurso útil para la comunidad.%n%nEn el servidor, hay diagramas de flujo y guías para ayudarte con varías partes del pack, anuncios de desarrollos y más disponibles en el canal Nomi-CEu-News, y la comunidad te puede ayudar con consultas de soporte técnico, o investigación de posibles reportes de errores.%n%nTambién podes charlar con varios otros jugadores si querés, que quieren con ansias responderte consultas generales.%n%nPara unirte al server, podes usar el botón del Menú Principal para ir al URL de entrada, o si no te gusta Discord, podes encontrar nuestros proyectos en GitHub dentro de nuestra página de organización: §9https://github.com/Nomi-CEu§r.%n%nEl seguimiento de errores y desarrollo, incluido Nomi Labs, se maneja en los repositorios respectivos de cada proyecto en GitHub. El repositorio de este pack es §9https://github.com/Nomi-CEu/Nomi-CEu§r.
+nomifactory.quest.expert.db.914.desc=La ventana de progresión fue añadida para que puedas mantener rastro de las partes importantes del pack.%n%nLos circuitos son la base fundamental de la progresión entera de Nomifactory, ¡por lo que seguí escalando!
+nomifactory.quest.expert.db.808.desc=§5Nomi-CEu§r comparte un servidor de Discord oficial con §5Nomifactory§r, que sirve como recurso útil para la comunidad.%n%nEn el servidor, hay diagramas de flujo y guías para ayudarte con varías partes del pack, anuncios de desarrollos y más disponibles en el canal Nomi-CEu-News, y la comunidad te puede ayudar con consultas de soporte técnico, o investigación de posibles reportes de errores.%n%nTambién podes charlar con varios otros jugadores si querés, que quieren con ansias responderte consultas generales.%n%nPara unirte al server, podes usar el botón del Menú Principal para ir al URL de entrada, o si no te gusta Discord, podes encontrar nuestros proyectos en GitHub dentro de nuestra página de organización: §9https://github.com/Nomi-CEu§r.%n%nEl seguimiento de errores y desarrollo, incluido Nomi Labs, se maneja en los repositorios respectivos de cada proyecto en GitHub. El repositorio de este pack es §9https://github.com/Nomi-CEu/Nomi-CEu§r.
+nomifactory.quest.expert.db.932.desc=Este pack tiene el §bOrganizador de Inventario Bogo§r (Inventory Bogo Sorter), permitiendo ordenar cualquier inventario rápida, personalizada, y fácilmente.%n%nLa tecla estándar para organizar es el §aClick del Medio§r, pero siempre podes cambiarla. Simplemente colocá tu cursor sobre cualquier ranura de un inventario (§ecofres§r , §ecajas§r, §etu inventario§r, etcétera), tocá la tecla de ordenamiento, ¡y voilà! Un inventario ordenado.%n%nTambién podes configurar como se organizan los objetos en la GUI de configuración. La tecla predeterminada para abrir este menú es la §aK§r.%n%nInventory Bogo Sorter, por defecto, también §erellena los objetos de tu barra de inventario a medida que se usan§r, como bloques, herramientas, o comida, siempre y cuando tengas reservas en el inventario. Para las herramientas, las reemplaza §ejusto antes de que se rompan§r, para que puedas repararlas.
+nomifactory.quest.normal.db.1024.desc=Este pack tiene el §bOrganizador de Inventario Bogo§r (Inventory Bogo Sorter), permitiendo ordenar cualquier inventario rápida, personalizada, y fácilmente.%n%nLa tecla estándar para organizar es el §aClick del Medio§r, pero siempre podes cambiarla. Simplemente colocá tu cursor sobre cualquier ranura de un inventario (§ecofres§r , §ecajas§r, §etu inventario§r, etcétera), tocá la tecla de ordenamiento, ¡y voilà! Un inventario ordenado.%n%nTambién podes configurar como se organizan los objetos en la GUI de configuración. La tecla predeterminada para abrir este menú es la §aK§r.%n%nInventory Bogo Sorter, por defecto, también §erellena los objetos de tu barra de inventario a medida que se usan§r, como bloques, herramientas, o comida, siempre y cuando tengas reservas en el inventario. Para las herramientas, las reemplaza §ejusto antes de que se rompan§r, para que puedas repararlas.
+nomifactory.quest.expert.db.938.desc=No dejes que el nombre te engañe. La §6caja de almacenamiento pequeña§r se puede hacer con pocos recursos y puede almacenar hasta 117 pilas de objetos en un único bloque.%n%nEstas van a ser tu solución para almacenar hasta que consigas poner tu §dSistema ME§r en funcionamiento.%n%nPodes mover las cajas con el §6cuidador de cajas de almacenamiento§r.
+nomifactory.quest.normal.db.1045.desc=No dejes que el nombre te engañe. La §6caja de almacenamiento pequeña§r se puede hacer con solo madera y puede almacenar hasta 117 pilas de objetos en un único bloque.%n%nEstas van a ser tu solución para almacenar hasta que consigas poner tu §dSistema ME§r en funcionamiento.%n%nPodes mover las cajas con el §6cuidador de cajas de almacenamiento§r.
+
+# db 25 of mode normal
+nomifactory.quest.normal.db.25.title=Transito Dimensional a base de Tartas
+nomifactory.quest.expert.db.25.desc=Esta misión es repetible una vez por hora y da una tarta para el Mundo Void y otra para la Superficie. A su vez podes rellenar las tartas con los ítems indicados en su cartel emergente respectivo.
+nomifactory.quest.normal.db.25.desc=Esta misión es repetible una vez por hora y da una tarta para el Mundo Void y otra para la Superficie. A su vez podes rellenar las tartas con los ítems indicados en su cartel emergente respectivo.
+
+# db 1048 of mode expert
+nomifactory.quest.expert.db.1048.title=Minerales Visuales
+nomifactory.quest.expert.db.319.desc=Vas a necesitar grandes cantidades de §6canola§r (para hacer §6aceite de canola§r en una §bprensa de canola§r) y §6cañas de azucar§r (para hacer §6etanol§r).%n%nObviamente, otros cultivos pueden funcionar también, si querés mezclar un poco las cosas.
+nomifactory.quest.normal.db.810.desc=El §6sulfuro§r se va a utilizar en una variedad de reacciones químicas a continuación.%n%nSe puede electrolizar fácilmente desde la §6esfarelita§r (que también provee §6galio§r), el §6cinabrío§r, y la §6pirita§r. Alternativamente, el sulfuro se puede conseguir a través de §bDeep Mob Evolution§r - fijate esa linea de misiones si no lo hiciste aun.
+nomifactory.quest.normal.db.1048.desc=El §6escaner de prospector eléctrico§r donado ahora tiene integración con §eJourneyMap§r.%n%nAgarrá unas rocas de la superficie, hacé click derecho en los bloques de minerales, o usá un prospector eléctrico en modo mineral para descubrir filones.%n%nPresioná la "tecla de acción" (por defecto: eliminar) mientras el cursor esté encima de un filón para marcarlo por agotado (o no agotado).%n%nHacé doble click en un filón para marcarlo como un punto de ruta, y hacelo nuevamente para desmarcarlo.
+nomifactory.quest.expert.db.1048.desc=El §6escaner de prospector eléctrico§r donado ahora tiene integración con §eJourneyMap§r.%n%nAgarrá unas rocas de la superficie, hacé click derecho en los bloques de minerales, o usá un prospector eléctrico en modo mineral para descubrir filones.%n%nPresioná la "tecla de acción" (por defecto: eliminar) mientras el cursor esté encima de un filón para marcarlo por agotado (o no agotado).%n%nHacé doble click en un filón para marcarlo como un punto de ruta, y hacelo nuevamente para desmarcarlo.
+nomifactory.quest.normal.db.319.desc=Vas a necesitar grandes cantidades de §6canola§r (para hacer §6aceite de canola§r en una §bprensa de canola§r) y §6cañas de azucar§r (para hacer §6etanol§r).%n%nObviamente, otros cultivos pueden funcionar también, si querés mezclar un poco las cosas.
+nomifactory.quest.normal.db.1015.desc=Si, §opor alguna razón§r, te llegas a quedar sin carga en tu prospector. Simplemente entregalo acá, ¡y te damos uno nuevo!%n%nDisponible una vez por hora.
+nomifactory.quest.expert.db.913.desc=Si, §opor alguna razón§r, te llegas a quedar sin carga en tu prospector. Simplemente entregalo acá, ¡y te damos uno nuevo!%n%nDisponible una vez por hora.
+
+# db 1015 of mode normal
+nomifactory.quest.normal.db.1015.title=¡Recargá tu Prospector!
+
+# db 909 of mode normal
+nomifactory.quest.normal.db.909.title=§2Fábrica de Acero Primitiva
+nomifactory.quest.normal.db.909.desc=Una mezcla de ladrillos y arcilla produce una cantidad grande de §6ladrillos refractarios§r, usados en la construcción del §3alto horno primitivo§r. Este te permite hacer §6acero§r con §6hierro forjado§r, que es §2la base de los esqueletos de maquinas LV§r, y te permite a su vez hacer §6bolsillos de cinturón§r, para mejorar tu §ecinturón de trabajo§r.%n%nEl §3AHP§r fue modificado para ser mucho más rápido - ¡solo en 20 segundos hace un §6lingote de acero§r! Vas a querer mantenerlo corriendo constantemente, ya que nunca vas a dejar de necesitar acero.
+nomifactory.quest.expert.db.909.desc=
+nomifactory.quest.normal.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comenzá a construir una fábrica!%n%nConseguí acceso a §bDeep Mob Evolution§r, la tecnología inicial de §bEnderIO§r, y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruí un §3Alto Horno Eléctrico (AHE)§r para fundir materiales avanzados y aleaciones.
+nomifactory.quest.normal.line.1.desc=§7Voltaje Medio (MV Tier)§r en GregTech: Nuevas máquinas y procesamiento rudimentario de minerales.%n%nUsá Química para crear §6Plasticos§r, y construí una torre de destilación.%n%nAutomatizá §bApplied Energistics 2§r. Explorá §bActually Additions§r.
+nomifactory.quest.normal.line.2.desc=§6Alto Voltaje (HV Tier)§r, §5Voltaje Extremo (EV Tier)§r, y §1Voltaje Insano (IV Tier)§r en GregTech:%n%n§3Destilación criogénica§r, y petroquímica para hacer §6epoxi§r y §2diésel potenciado con cetano§r.%n%nCrafteá §6estrellas del Nether§r y desbloqueá máquinas de §bThermal Expansion§r.%n%nConstruí un reactor de fisión de §b NuclearCraft§r para obtener nuevos materiales.%n%nConstruí una estación espacial y un núcleo de teletransportación.
+nomifactory.quest.normal.line.7.desc=Da un chapuzón en §bExtra Utilities§r y §bExtended Crafting§r.%n%nConquistá el End o inviertí en §bEnderIO §rpara conseguir tecnologías de teletransportación.%n%nConstruí un cohete y vé a la Luna (o no, pero es muy divertido hacerlo).%n%nCualquiera sea el caso, tenes que comenzar a minar §emicro-versos§r.
+
+# db 393 of mode expert
+nomifactory.quest.expert.db.393.title=¡Declará tu Territorio e Invitá a Compañeros!
+nomifactory.quest.expert.db.393.desc=Te estarás preguntando cuales son las opciones para cargado de chunks en este pack.%n%nAbrí tu inventario y mirá la esquina izquierda superior de la pantalla. Hacé click en el ícono con forma de mapa llamado §eChunks Propios§r.%n%n§6Hacé click en un chunk§r para declararlo tuyo. Esto va a prevenir las explosiones de creepers no deseadas y que otros jugadores interactúen con tu base.%n%n§6Hacé click izquierdo mientras apretás Shift en un chunk propio§r para cargarlo. Esto va a asegurar que el chunk se mantenga cargado todo el tiempo, hasta cuando no estés. Alternativamente, hay §amonolitos cargadores de chunks§r (Chunk Loading Ward) de §bExtra Utilities§r.%n%n§eSi estás jugando en un servidor configurado, preguntale al dueño que métodos están disponibles§r.%n%nPara invitar a otros jugadores a tu grupo de §bFTB Utils§r, fijate en el botón correspondiente de la misma esquina. Los jugadores del grupo comparten territorio entre ellos. Podes configurar los permisos que tiene tu grupo en el menú de configuración de grupo.
+
+# db 1024 of mode normal
+nomifactory.quest.normal.db.1024.title=Ordenando el Inventario
+
+# db 405 of mode expert
+nomifactory.quest.expert.db.405.title=Calculadora de Crafteo
+
+# db 1045 of mode normal
+nomifactory.quest.normal.db.1045.title=Cajas de Almacenamiento
+
+# db 1048 of mode normal
+nomifactory.quest.normal.db.1048.title=Minerales Visuales
+
+# db 25 of mode expert
+nomifactory.quest.expert.db.25.title=Transito Dimensional a base de Tartas
+
+# db 40 of mode expert
+nomifactory.quest.expert.db.40.title=Conductos de Energía de Hierro Conductivo
+nomifactory.quest.expert.db.40.desc=El nivel más básico de conductos de energía §aFR§r de §bEnderIO§r.%n%nEstos se pueden usar para transportar energía desde tus §3Dínamos de Vapor§r a donde desees.
+nomifactory.quest.expert.db.503.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.508.desc=Requerido para hacer §dOmnio§r.
+# Normal Quest Lang Entries:
+
+# line 0 of mode normal
+nomifactory.quest.normal.line.0.title=El Principio
+
+# line 1 of mode normal
+nomifactory.quest.normal.line.1.title=Etapa Inicial
+nomifactory.quest.expert.db.513.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.543.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.583.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.584.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.585.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.586.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.587.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.588.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.592.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.593.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.595.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.597.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.598.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.600.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.602.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.603.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.616.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.617.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.618.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.619.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.622.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.623.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.624.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.625.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.627.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.628.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.629.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.631.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.632.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.633.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.634.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.637.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.638.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.639.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.640.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.641.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.642.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.643.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.644.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.645.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.646.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.647.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.648.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.649.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.654.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.655.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.656.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.660.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.661.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.662.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.663.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.664.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.665.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.667.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.expert.db.668.desc=Requerido para hacer §dOmnio§r.
+
+# line 2 of mode normal
+nomifactory.quest.normal.line.2.title=Etapa del Medio
+
+# line 4 of mode normal
+nomifactory.quest.normal.line.4.title=Etapa Tardía
+nomifactory.quest.normal.line.4.desc=§dVoltaje Ridículo (LuV Tier)§r, Voltaje Módulo de Punto Cero (ZPM Tier)§r, §3Voltaje Definitivo (UV Tier)§r, y §4Voltaje Ultra Alto (UHV Tier)§r en GregTech:%n%n¡Construí §3lineas de ensamble§r, §3reactores de fusión§r, y más!%n%nAutomatizá con estilo en §bPackagedAuto§r. Creá cada vez mejores §6micro mineros§r.%n%nUsá §bDraconic Evolution§r para hacer crafteo de fusión y almacenamiento de energía.
+
+# line 5 of mode normal
+nomifactory.quest.normal.line.5.title=Etapa Final
+nomifactory.quest.normal.line.5.desc=Ya estás en la etapa final...%n%nCosechá micro-versos enteros y desbloqueá el §dtanque creativo§r.%n%nPoné tu automatización a la prueba definitiva para progresar al objetivo final: el §dcofre creativo§r.
+
+# line 7 of mode normal
+nomifactory.quest.normal.line.7.title=Entrando al Micro-verso
+
+# db 4 of mode normal
+nomifactory.quest.normal.db.4.title=Suministro de Hierro
+nomifactory.quest.normal.db.6.desc=Antes de continuar, vas a necesitar acceso a unos materiales más.%n%n§6Redstones§r: Se encuentra en las profundidades del mundo, en filones masivos junto con §6Cinabrio§r y §6Rubí§r.%n%n§6Cóbre§r: Dos fuentes primarias. Los filones de §6Tetraedrita§r se hallan más cerca de la superficie, mientras que los filones de §6Calcopirita§r se encuentran más profundo, junto con cantidades pequeñas de §6Hierro§r. A su vez, vas a encontrar §6Malaquita§r dentro de filones de hierro, que es otro tipo de mineral de cobre.%n%n§6Estaño§r: Se encuentra esencialmente en la superficie. La §6Casiterita§r es otro tipo de mineral de estaño y siempre se encuentran juntos. Si no podes encontrar un filón de estaño, hay pequeñas cantidades de estaño dentro de filones de §6Aluminio§r y §6Sal de Roca§r, que puede serte suficiente hasta que encuentres un filón de estaño real.%n%n§6Carbón§r : Se encuentra cerca de la superficie. El §6Lignito§r fue §2removido.%n%n§6Oro§r: Se encuentra dentro de filones de §6Magnetita§r, cerca de la superficie.
+
+# db 319 of mode expert
+nomifactory.quest.expert.db.319.title=Cultivando
+
+# db 319 of mode normal
+nomifactory.quest.normal.db.319.title=Cultivando
+nomifactory.quest.normal.db.508.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.584.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.585.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.586.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.587.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.589.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.591.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.592.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.593.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.594.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.595.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.597.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.598.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.599.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.600.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.602.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.603.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.614.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.615.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.616.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.618.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.619.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.620.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.621.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.623.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.625.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.626.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.628.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.629.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.630.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.631.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.633.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.634.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.635.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.636.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.638.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.639.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.640.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.641.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.643.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.644.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.646.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.647.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.649.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.650.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.651.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.652.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.654.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.655.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.656.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.657.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.659.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.660.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.661.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.662.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.666.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.667.desc=Requerido para hacer §dOmnio§r.
+nomifactory.quest.normal.db.668.desc=Requerido para hacer §dOmnio§r.
+
+# db 779 of mode normal
+nomifactory.quest.normal.db.779.title=Adoquín Infinito
+
+# db 808 of mode normal
+nomifactory.quest.normal.db.808.title=Discord y GitHub
+
+# db 810 of mode normal
+nomifactory.quest.normal.db.810.title=Sulfuro
+
+# db 808 of mode expert
+nomifactory.quest.expert.db.808.title=Discord y GitHub
+nomifactory.quest.expert.db.863.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.864.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.867.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.868.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.869.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.870.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.872.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.873.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.874.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.876.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.878.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.879.desc=§2Este elemento ahora se requiere para hacer Omnio.
+nomifactory.quest.expert.db.883.desc=§2Este elemento ahora se requiere para hacer Omnio.
+
+# db 914 of mode expert
+nomifactory.quest.expert.db.914.title=Pestaña de Progresión
+
+# db 913 of mode expert
+nomifactory.quest.expert.db.913.title=¡Recargá tu Prospector!
+
+# db 909 of mode expert
+nomifactory.quest.expert.db.909.title=§2Fábrica de Acero Primitiva
+
+# db 932 of mode expert
+nomifactory.quest.expert.db.932.title=Ordenando el Inventario
+
+# db 938 of mode expert
+nomifactory.quest.expert.db.938.title=Cajas de Almacenamiento
