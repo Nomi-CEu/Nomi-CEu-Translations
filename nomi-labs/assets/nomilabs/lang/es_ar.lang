@@ -506,9 +506,6 @@ item.nomilabs.info_item.name=Información
 item.nomilabs.pulsatingdust.name=Polvo pulsante
 item.nomilabs.pulsatingmesh.name=Malla pulsante
 command.nomilabs.difficulty.labs_locked_1=§c¡La dificultad de este mundo se bloqueó a %s§c!
-
-#----------------Multiblocks----------------#
-
 # Names
 nomilabs.machine.microverse_projector_1.name=Proyector del microverso I
 nomilabs.machine.microverse_projector_2.name=Proyector del microverso II
