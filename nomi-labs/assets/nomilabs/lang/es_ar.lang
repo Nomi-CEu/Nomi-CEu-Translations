@@ -66,10 +66,6 @@ tooltip.nomilabs.naquadah_reactor_1.description=§8Un reactor avanzado que produ
 item.nomilabs.hand_framing_tool.desc2=La §5herramienta de encuadre manual§r te permite enmarcar cajones que ya están colocados en el mundo.
 nomilabs.machine.dme_sim_chamber.name=Supercomputadora de simulación DME
 recipemap.microverse_projector_2.name=Misión (MK II)
-
-
-#----------------Tooltips----------------#
-
 # General
 tooltip.nomilabs.general.press_shift_for_usages=Presione [Shift] para ver más usos.
 tooltip.nomilabs.tierthreeship.description=§f§oCosecha metales ultracalientes y gemas de los microversos del Nether.§r
