@@ -161,7 +161,6 @@ nomifactory.quest.normal.db.1015.title=¡Recargá tu Prospector!
 # db 909 of mode normal
 nomifactory.quest.normal.db.909.title=§2Fábrica de Acero Primitiva
 nomifactory.quest.normal.db.909.desc=Una mezcla de ladrillos y arcilla produce una cantidad grande de §6ladrillos refractarios§r, usados en la construcción del §3alto horno primitivo§r. Este te permite hacer §6acero§r con §6hierro forjado§r, que es §2la base de los esqueletos de maquinas LV§r, y te permite a su vez hacer §6bolsillos de cinturón§r, para mejorar tu §ecinturón de trabajo§r.%n%nEl §3AHP§r fue modificado para ser mucho más rápido - ¡solo en 20 segundos hace un §6lingote de acero§r! Vas a querer mantenerlo corriendo constantemente, ya que nunca vas a dejar de necesitar acero.
-nomifactory.quest.expert.db.909.desc=
 nomifactory.quest.normal.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comenzá a construir una fábrica!%n%nConseguí acceso a §bDeep Mob Evolution§r, la tecnología inicial de §bEnderIO§r, y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruí un §3Alto Horno Eléctrico (AHE)§r para fundir materiales avanzados y aleaciones.
 nomifactory.quest.normal.line.1.desc=§7Voltaje Medio (MV Tier)§r en GregTech: Nuevas máquinas y procesamiento rudimentario de minerales.%n%nUsá Química para crear §6Plasticos§r, y construí una torre de destilación.%n%nAutomatizá §bApplied Energistics 2§r. Explorá §bActually Additions§r.
 nomifactory.quest.normal.line.2.desc=§6Alto Voltaje (HV Tier)§r, §5Voltaje Extremo (EV Tier)§r, y §1Voltaje Insano (IV Tier)§r en GregTech:%n%n§3Destilación criogénica§r, y petroquímica para hacer §6epoxi§r y §2diésel potenciado con cetano§r.%n%nCrafteá §6estrellas del Nether§r y desbloqueá máquinas de §bThermal Expansion§r.%n%nConstruí un reactor de fisión de §b NuclearCraft§r para obtener nuevos materiales.%n%nConstruí una estación espacial y un núcleo de teletransportación.
@@ -191,8 +190,6 @@ nomifactory.quest.expert.db.40.title=Conductos de Energía de Hierro Conductivo
 nomifactory.quest.expert.db.40.desc=El nivel más básico de conductos de energía §aFR§r de §bEnderIO§r.%n%nEstos se pueden usar para transportar energía desde tus §3Dínamos de Vapor§r a donde desees.
 nomifactory.quest.expert.db.503.desc=Requerido para hacer §dOmnio§r.
 nomifactory.quest.expert.db.508.desc=Requerido para hacer §dOmnio§r.
-# Normal Quest Lang Entries:
-
 # line 0 of mode normal
 nomifactory.quest.normal.line.0.title=El Principio
 
