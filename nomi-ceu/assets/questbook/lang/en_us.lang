@@ -874,7 +874,7 @@ nomifactory.quest.normal.db.216.desc=This is your first §3Microverse Projector�
 
 # db 217 of mode normal
 nomifactory.quest.normal.db.217.title=§2First Foray Into The Microverse
-nomifactory.quest.normal.db.217.desc=This is your first Micro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Imenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a Gemstone Sensor (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
+nomifactory.quest.normal.db.217.desc=This is your first §bMicro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Ilmenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a §bGemstone Sensor§r (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
 
 # db 219 of mode normal
 nomifactory.quest.normal.db.219.title=Travel Anchors
@@ -4504,7 +4504,7 @@ nomifactory.quest.expert.db.216.desc=This is your first §3Microverse Projector�
 
 # db 217 of mode expert
 nomifactory.quest.expert.db.217.title=§2First Foray Into The Microverse
-nomifactory.quest.expert.db.217.desc=This is your first Micro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Imenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a Gemstone Sensor (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
+nomifactory.quest.expert.db.217.desc=This is your first §bMicro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Ilmenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a §bGemstone Sensor§r (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
 
 # db 219 of mode expert
 nomifactory.quest.expert.db.219.title=Travel Anchors
