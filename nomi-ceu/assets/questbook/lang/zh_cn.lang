@@ -196,7 +196,7 @@ nomifactory.quest.normal.db.37.desc=出去寻找§6橡胶树§r当然是一个�
 
 # db 38 of mode normal
 nomifactory.quest.normal.db.38.title=§2LV能源
-nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§oLV能量转换器§o。%n%n§r你制造的§3蒸汽能源炉§r能产生§aRF§r能量，但是§b格雷§r机器需要§aEU§r能量。有了你的第一个§6电路§r，你已经准备好制作一个 §eLV§2 能量转换器§r。%n%n§2能量转换器§r是一个特殊的方块，可以在 §aRF 能量§r和 §aEU 能量§r之间进行转换。它们有§2 4 种规格：1A、4A、8A §r和§2 16A§r。%n%n你可以拿着软锤右击它来将模式改成从 EU 转为 RF。%n%nEU 会在需要的适合§2自动转换§r为 RF，例如用§b格雷§r线缆连接 RF 机器时。然而，导线无法直接连接到大部分 EU 供应器，所以你仍然需要使用 EU 到 RF 转换器来将 EU 发电机连接到电网。%n%n§aRF§r 遵循§e 4 比 1 的比例§r转换成 §aEU§r。§a100RF§r 变成 §a25EU§r，反之亦然。
+nomifactory.quest.normal.db.38.desc=§o注意：这个任务接受任何§o LV 能量转换器§o。%n%n§r你制造的§3蒸汽能源炉§r能产生§a RF §r能量，但是§b格雷§r机器需要§a EU §r能量。有了第一个§6电路§r，你已经准备好制作 §eLV§2 能量转换器§r。%n%n§2能量转换器§r是一种特殊的方块，可以在 §aRF 能量§r和 §aEU 能量§r之间进行转换。它们有§2 4 种规格：1A、4A、8A §r和§2 16A§r。%n%n你可以拿着软锤右击它来将模式改成从 EU 转为 RF。%n%nEU 会在需要的时候§2自动转换§r为 RF，例如用§b格雷§r线缆连接 RF 机器时。然而，能量导管无法直接连接到大部分 EU 能量源，所以你仍然需要使用 EU 到 RF 转换器来将 EU 发电机连接到电网。%n%n§aRF§r 遵循§e 4 比 1 的比例§r转换成 §aEU§r。§a100RF§r 变成 §a25EU§r，反之亦然。
 
 # db 39 of mode normal
 nomifactory.quest.normal.db.39.title=物品导管
@@ -220,7 +220,7 @@ nomifactory.quest.normal.db.44.desc=将一些§6基础电容§r和§6煤炭粉§
 
 # db 45 of mode normal
 nomifactory.quest.normal.db.45.title=钢铁侠
-nomifactory.quest.normal.db.45.desc=飞起来的感觉真棒，这是第一个使用§b末影接口§r材料的喷气背包。%n%n还有一个使用§b热力膨胀§r材料的喷气背包任务链（从§6铅石喷气背包§r开始）。虽然最终，您需要同时完成这两种任务，但后期不会花多少时间的，所以除非您真的非常喜欢飞行，否则现在请随意忽略其中至少一个任务链。%n%n如果§6喷气背包§r的概述和§bThe One Probe§r中的信息发生冲突，可以分别通过§bSimply Jetpacks 2 §eConfiguration文件§r或命令§6/topcfg§r进行调整。%n%n译者注：The One Probe就是那个左上角显示物品信息那个，类似另一个模组§6what am I looking at（简称waila）§r。
+nomifactory.quest.normal.db.45.desc=飞起来的感觉真棒，这是第一个使用§b末影接口§r材料的喷气背包。%n%n还有一个使用§b热力膨胀§r材料的喷气背包任务链（从§6铅石喷气背包§r开始）。虽然最终，你需要两种任务都完成，但这在后期不会花多少时间的，所以除非你真的非常喜欢飞行，否则请任意忽略其中一个任务链。%n%n如果§6喷气背包§r的信息概览和 §bThe One Probe§r 提供的信息发生冲突，可以分别通过 §bSimply Jetpacks 2 的§e配置文件§r和命令 §6/topcfg§r 进行调整。%n%n译者注：The One Probe 就是那个左上角显示物品信息那个，类似另一个模组 §6what am I looking at（简称waila）§r。
 
 # db 47 of mode normal
 nomifactory.quest.normal.db.47.title=钢铁侠3
@@ -3705,7 +3705,7 @@ nomifactory.quest.expert.db.37.desc=出去寻找§6橡胶树§r当然是一个�
 
 # db 38 of mode expert
 nomifactory.quest.expert.db.38.title=§2LV能源
-nomifactory.quest.expert.db.38.desc=注意：这个任务接受任意§o LV 能量转换器§o。%n%n§r你制作的§3蒸汽能源炉§r能够产生 §aRF 能量§r，但§b格雷科技§r机器需要 §aEU 能量§r。%n%n§c注意 EU 机器不能用 RF，但 RF 机器能用 EU，因为它会自动转化成 RF。§r%n%n有了你的第一个§6电路§r，你已经准备好制作一个 §eLV §2能量转换器§r。%n%n§2能量转换器§r是一个特殊的方块，可以在 §aRF 能量§r和 §aGTEU 能量§r之间进行转换。它们有§24种规格：1A、4A、8A§r和§216A§r。%n%n§aRF§r 转换成 §aGTEU§r 遵循§e4比1的比例§r。§a100RF§r变成§a25GTEU§r，反之亦然。
+nomifactory.quest.expert.db.38.desc=§o注意：这个任务接受任何§o LV 能量转换器§o。%n%n§r你制造的§3蒸汽能源炉§r能产生§a RF §r能量，但是§b格雷§r机器需要§a EU §r能量。%n%n§3能量转换器§r是一种特殊机器，可以在 §aRF 能量§r和 §aEU 能量§r之间进行转换。它们有§2 4 种规格：1A、4A、8A §r和§2 16A§r。%n%n你可以拿着软锤右击它来将模式改成从 EU 转为 RF。%n%nEU 会在需要的时候§2自动转换§r为 RF，例如用§b格雷§r线缆连接 RF 机器时。然而，能量导管无法直接连接到大部分 EU 能量源，所以你仍然需要使用 EU 到 RF 转换器来将 EU 发电机连接到电网。§r%n%n有了第一个§6电路§r，就能造 §eLV§2 能量转换器了。%n%n§aRF§r 遵循§e 4 比 1 的比例§r转换成 §aEU§r。§a100RF§r 变成 §a25EU§r，反之亦然。
 
 # db 39 of mode expert
 nomifactory.quest.expert.db.39.title=物品导管
@@ -3729,7 +3729,7 @@ nomifactory.quest.expert.db.44.desc=将一些§6基础电容§r和§6煤炭粉§
 
 # db 45 of mode expert
 nomifactory.quest.expert.db.45.title=钢铁侠
-nomifactory.quest.expert.db.45.desc=飞起来的感觉真棒，这是第一个使用§b末影接口§r材料的喷气背包。%n%n还有一个使用§b热力膨胀§r材料的喷气背包任务链（从§6铅石喷气背包§r开始）。虽然最终，您需要同时完成这两种任务，但后期不会花多少时间的，所以除非您真的非常喜欢飞行，否则现在请随意忽略其中至少一个任务链。%n%n如果§6喷气背包§r的概述和§bThe One Probe§r中的信息发生冲突，可以分别通过§bSimply Jetpacks 2§r§eConfiguration文件§r或命令§6/topcfg§r进行调整。%n%n译者注：The One Probe就是那个左上角显示物品信息那个，类似另一个模组§6what am I looking at（简称waila）§r。
+nomifactory.quest.expert.db.45.desc=飞起来的感觉真棒，这是第一个使用§b末影接口§r材料的喷气背包。%n%n还有一个使用§b热力膨胀§r材料的喷气背包任务链（从§6铅石喷气背包§r开始）。虽然最终，你需要两种任务都完成，但这在后期不会花多少时间的，所以除非你真的非常喜欢飞行，否则请任意忽略其中一个任务链。%n%n如果§6喷气背包§r的信息概览和 §bThe One Probe§r 提供的信息发生冲突，可以分别通过 §bSimply Jetpacks 2 的§e配置文件§r和命令 §6/topcfg§r 进行调整。%n%n译者注：The One Probe 就是那个左上角显示物品信息那个，类似另一个模组 §6what am I looking at（简称waila）§r。
 
 # db 47 of mode expert
 nomifactory.quest.expert.db.47.title=钢铁侠3
