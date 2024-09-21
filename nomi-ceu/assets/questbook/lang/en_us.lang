@@ -874,7 +874,7 @@ nomifactory.quest.normal.db.216.desc=This is your first §3Microverse Projector�
 
 # db 217 of mode normal
 nomifactory.quest.normal.db.217.title=§2First Foray Into The Microverse
-nomifactory.quest.normal.db.217.desc=This is your first Micro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Imenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a Gemstone Sensor (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
+nomifactory.quest.normal.db.217.desc=This is your first §bMicro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Ilmenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a §bGemstone Sensor§r (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
 
 # db 219 of mode normal
 nomifactory.quest.normal.db.219.title=Travel Anchors
@@ -1334,7 +1334,7 @@ nomifactory.quest.normal.db.338.desc=§2You can make HV Batteries like LV and MV
 
 # db 339 of mode normal
 nomifactory.quest.normal.db.339.title=§2EV Machine Hulls
-nomifactory.quest.normal.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism. §6%n%nNeodynium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%nEV Machine Hulls unlock a handful of nice things. Check the surrounding quests for more information.
+nomifactory.quest.normal.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism. §6%n%nNeodymium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%nEV Machine Hulls unlock a handful of nice things. Check the surrounding quests for more information.
 
 # db 340 of mode normal
 nomifactory.quest.normal.db.340.title=§2EV Power Storage
@@ -4504,7 +4504,7 @@ nomifactory.quest.expert.db.216.desc=This is your first §3Microverse Projector�
 
 # db 217 of mode expert
 nomifactory.quest.expert.db.217.title=§2First Foray Into The Microverse
-nomifactory.quest.expert.db.217.desc=This is your first Micro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Imenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a Gemstone Sensor (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
+nomifactory.quest.expert.db.217.desc=This is your first §bMicro Miner. §2You'll need that Phosphorous in the LV Field Generators.§r%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Dense Iron Ore%n* Cassiterite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Ilmenite Ore§r%n§6* Uraninite Ore%n* Galena Ore%n§2* Molybdenum Ore§r%n§6* Moon Turf%n* Dilithium%n* Salt Ore§r%n%nWhen equipped with a §bGemstone Sensor§r (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.
 
 # db 219 of mode expert
 nomifactory.quest.expert.db.219.title=Travel Anchors
@@ -4964,7 +4964,7 @@ nomifactory.quest.expert.db.338.desc=§2You can make HV Batteries like LV and MV
 
 # db 339 of mode expert
 nomifactory.quest.expert.db.339.title=§2EV Machine Hulls
-nomifactory.quest.expert.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism.§6%n%nNeodynium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%nEV Machine Hulls unlock a handful of nice things. Check the surrounding quests for more information.
+nomifactory.quest.expert.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%nEV motors require a better material than §6Steel§r for its magnetism.§6%n%nNeodymium§r is required, which is mainly achieved from §6Rare Earth§r. The main sources of this are §6Redstone§r, and everything inside of §6Bastnasite§r veins.%n%nEV Machine Hulls unlock a handful of nice things. Check the surrounding quests for more information.
 
 # db 340 of mode expert
 nomifactory.quest.expert.db.340.title=§2EV Power Storage
