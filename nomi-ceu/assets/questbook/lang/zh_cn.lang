@@ -88,7 +88,7 @@ nomifactory.quest.normal.db.9.desc=在大多数专家包中，玩家习惯于在
 
 # db 10 of mode normal
 nomifactory.quest.normal.db.10.title=§2二阶微型采掘机
-nomifactory.quest.normal.db.10.desc=第二个微型采掘机！§2在LV力场发生器中将会用到磷。§r%n%n该采掘机使用了§b拓展合成§r配方表，所以现在还不可能用§b应用能源2§r来实现采掘机的自动化（在第四阶微型采掘机之前都很难获得）。您可以提前备好需要的部件，并在拓展合成配方表上填充§bJEI§r来半自动地制作它！%n%n这个微型采掘机可以为您提供：§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%§2* 闪锌矿矿石§r%n§6* 锡石矿石%n* 白钨矿矿石%n* 钨酸盐矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这将在很久以后有用。%n%n§2GTCEu中有一个新任务。该任务需要高压电动泵和凛冰粉并返还固化氖、固化氙与固化氪。然而通过蒸馏液态下界与末地空气可以获得微量的这些元素，与更多其他有用的副产物。
+nomifactory.quest.normal.db.10.desc=第二个微型采掘机！§2在LV力场发生器中将会用到磷。§r%n%n该采掘机使用了§b拓展合成§r配方表，所以现在还不可能用§b应用能源2§r来实现采掘机的自动化（在第四阶微型采掘机之前都很难获得）。您可以提前备好需要的部件，并在拓展合成配方表上填充§bJEI§r来半自动地制作它！%n%n这个微型采掘机可以为您提供：§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%n§2* 闪锌矿矿石§r%n§6* 锡石矿石%n* 白钨矿矿石%n* 钨酸盐矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这将在很久以后有用。%n%n§2GTCEu中有一个新任务。该任务需要高压电动泵和凛冰粉并返还固化氖、固化氙与固化氪。然而通过蒸馏液态下界与末地空气可以获得微量的这些元素，与更多其他有用的副产物。
 
 # db 11 of mode normal
 nomifactory.quest.normal.db.11.title=§2电子元件
@@ -1000,7 +1000,7 @@ nomifactory.quest.normal.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode normal
 nomifactory.quest.normal.db.252.title=§2五阶微型采掘机
-nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.normal.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块%n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode normal
 nomifactory.quest.normal.db.253.title=铱
@@ -1919,7 +1919,7 @@ nomifactory.quest.normal.db.604.desc=在获取这一物品的过程中，没有�
 
 # db 605 of mode normal
 nomifactory.quest.normal.db.605.title=十阶微型采掘机
-nomifactory.quest.normal.db.605.desc=你已经成为死亡本身，宇宙的毁灭者。%n%很明显，这个采掘机收集了§6宇宙之心§r。
+nomifactory.quest.normal.db.605.desc=你已经成为死亡本身，宇宙的毁灭者。%n%n很明显，这个采掘机收集了§6宇宙之心§r。
 
 # db 606 of mode normal
 nomifactory.quest.normal.db.606.title=双重中子素板
@@ -3459,7 +3459,7 @@ nomifactory.quest.normal.db.1029.desc=§2研究机制已回归格雷科技1.12�
 
 # db 1030 of mode normal
 nomifactory.quest.normal.db.1030.title=§2蓄能变电站
-nomifactory.quest.normal.db.1030.desc=§3蓄能变电站§r是格雷科技的原生大规模电力存储解决方案。在§cZPM§r级及以上，它可以与龙之研究的§67级能量核心§r相媲美。%n%n该结构可接受多达18层3x3§a兰波顿电容§r块。当制作成兰波顿电容库时，格雷科技电池可以容纳§d6倍§r对应物品所能容纳的最大电能。该结构不必由所有相同等级的方块组成，但它必须被填满，因此用§a空电容器块§r填充任何空白空间。%n%n通过§6能源仓§r输入能量，并从§6动力仓§r中提取能量，每层均可。该蓄能变电站可以接受特殊的§664A蓄能变电站舱口§r，以及§a激光仓§r。%n%n蓄能变电站每24小时（现实）将§c被动损失总容量的1%§r，每个电容器块最高100,000 EU/t。这相当于每tick损失总容量的§d58亿分之一§r，所以在正常运行下，这应该不是一个问题。
+nomifactory.quest.normal.db.1030.desc=§3蓄能变电站§r是格雷科技的原生大规模电力存储解决方案。在§cZPM§r级及以上，它可以与龙之研究的§67级能量核心§r相媲美。%n%n该结构可接受多达18层3x3§a兰波顿电容§r块。当制作成兰波顿电容库时，格雷科技电池可以容纳§d6倍§r对应物品所能容纳的最大电能。该结构不必由所有相同等级的方块组成，但它必须被填满，因此用§a空电容器块§r填充任何空白空间。%n%n通过§6能源仓§r输入能量，并从§6动力仓§r中提取能量，每层均可。该蓄能变电站可以接受特殊的§664A蓄能变电站舱口§r，以及§a激光仓§r。%n%n蓄能变电站每24小时（现实）将§c被动损失总容量的1%%§r，每个电容器块最高100,000 EU/t。这相当于每tick损失总容量的§d58亿分之一§r，所以在正常运行下，这应该不是一个问题。
 
 # db 1031 of mode normal
 nomifactory.quest.normal.db.1031.title=§2克罗诺斯的右手
@@ -3597,7 +3597,7 @@ nomifactory.quest.expert.db.9.desc=在大多数专家包中，玩家习惯于在
 
 # db 10 of mode expert
 nomifactory.quest.expert.db.10.title=§2二阶微型采掘机
-nomifactory.quest.expert.db.10.desc=第二个微型采掘机！§2在LV力场发生器中将会用到磷。§r%n%n该采掘机使用了§b拓展合成§r配方表，所以现在还不可能用§b应用能源2§r来实现采掘机的自动化（在第四阶微型采掘机之前都很难获得）。您可以提前备好需要的部件，并在拓展合成配方表上填充§bJEI§r来半自动地制作它！%n%n这个微型采掘机可以为您提供：§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%§2* 闪锌矿矿石§r%n§6* 锡石矿石%n* 白钨矿矿石%n* 钨酸盐矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这将在很久以后有用。
+nomifactory.quest.expert.db.10.desc=第二个微型采掘机！§2在LV力场发生器中将会用到磷。§r%n%n该采掘机使用了§b拓展合成§r配方表，所以现在还不可能用§b应用能源2§r来实现采掘机的自动化（在第四阶微型采掘机之前都很难获得）。您可以提前备好需要的部件，并在拓展合成配方表上填充§bJEI§r来半自动地制作它！%n%n这个微型采掘机可以为您提供：§6%n* 铝土矿矿石%n§2* 烧绿石矿石§6%n* 铜矿石%n§2* 闪锌矿矿石§r%n§6* 锡石矿石%n* 白钨矿矿石%n* 钨酸盐矿石%n* 氡岩盐§r%n%n以及§6恒星创造数据§r，这将在很久以后有用。
 
 # db 11 of mode expert
 nomifactory.quest.expert.db.11.title=§2电子元件
@@ -4509,7 +4509,7 @@ nomifactory.quest.expert.db.251.desc=第四个微型微型采掘机。%n%n所有
 
 # db 252 of mode expert
 nomifactory.quest.expert.db.252.title=§2五阶微型采掘机
-nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块% n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
+nomifactory.quest.expert.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还可获得§2希尔顿矿石§r（用于§6铂族处理§r）和§2凯特明矿石（用于§6凯金§r），仅需要消耗一些§6稳定钚§r。%n%n当提供了§6稳定铀§r时，带来的是：%n§2* 晶质铀矿石§6%n* 钯矿石%n§2* 雄黄矿石%n§6* 氟碳铈矿矿石%n* 闪锌矿矿石%n* 独居石矿石%n§2* 末影珍珠块%n* 铱锇80/20矿石%n§6* 硼粉%n* 辉钼矿矿石%n* 铍矿石
 
 # db 253 of mode expert
 nomifactory.quest.expert.db.253.title=铱
@@ -5428,7 +5428,7 @@ nomifactory.quest.expert.db.604.desc=在获取这一物品的过程中，没有�
 
 # db 605 of mode expert
 nomifactory.quest.expert.db.605.title=十阶微型采掘机
-nomifactory.quest.expert.db.605.desc=你已经成为死亡本身，宇宙的毁灭者。%n%很明显，这个采掘机收集了§6宇宙之心§r。
+nomifactory.quest.expert.db.605.desc=你已经成为死亡本身，宇宙的毁灭者。%n%n很明显，这个采掘机收集了§6宇宙之心§r。
 
 # db 606 of mode expert
 nomifactory.quest.expert.db.606.title=§2双重中子素板
@@ -6793,3 +6793,7 @@ nomifactory.quest.normal.db.1072.desc=你可能以前已经体验过§5高级火
 # db 1073 of mode normal
 nomifactory.quest.normal.db.1073.title=月面尘
 nomifactory.quest.normal.db.1073.desc=§e月球§r满是月岩。研磨它们生产§6月面尘§r，月面尘是§9氘§r的来源，而氘能用来更便宜地生产§6量子通量§r。
+nomifactory.quest.expert.db.1050.desc=§o此任务接受 LV、MV 或 HV 采矿机。§r%n%n§3采矿机§r在其正下方一定半径范围内开采矿石。更高级别的采矿机运行速度更快，覆盖面积更大。%n%nLV 采矿机需要 §6LV 传感器§r，这需要§6石英岩§r。%n%n在 §5EV§r 级别没有单方块采矿机，不过你可以建造§3大型采矿场§r。
+nomifactory.quest.expert.db.1075.desc=§e月球§r上覆满了月面土，将其研磨即可产生§6月面尘§r，月面尘可以作为§9氘气§r的来源，也可以用来更便宜的制作量子通量。
+nomifactory.quest.expert.db.1049.title=多方块旋转
+nomifactory.quest.expert.db.1075.title=月面尘
