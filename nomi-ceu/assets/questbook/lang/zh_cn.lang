@@ -1104,7 +1104,7 @@ nomifactory.quest.normal.db.278.desc=你可以将各种各样的物品与§6空�
 
 # db 279 of mode normal
 nomifactory.quest.normal.db.279.title=打碎龙蛋
-nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
+nomifactory.quest.normal.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%n之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
 
 # db 280 of mode normal
 nomifactory.quest.normal.db.280.title=万物归一
@@ -4613,7 +4613,7 @@ nomifactory.quest.expert.db.278.desc=你可以将各种各样的物品与§6空�
 
 # db 279 of mode expert
 nomifactory.quest.expert.db.279.title=打碎龙蛋
-nomifactory.quest.expert.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
+nomifactory.quest.expert.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路组，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋（恰好足够用于这个任务），但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%n之后，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
 
 # db 280 of mode expert
 nomifactory.quest.expert.db.280.title=万物归一
