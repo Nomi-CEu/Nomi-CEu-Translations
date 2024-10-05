@@ -548,6 +548,8 @@ item.nomilabs.info_item.name=Information
 item.nomilabs.pulsatingdust.name=Pulsating Dust
 item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 
+item.nomilabs.industrial_rebreather_kit.name=Industrial Rebreather Kit
+
 #-----------------Commands-----------------#
 
 command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
