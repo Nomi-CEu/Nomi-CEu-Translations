@@ -592,6 +592,8 @@ tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Items
+tooltip.nomilabs.drawers.upgrades=§eUpgrades sealed within§r
+
 tooltip.nomilabs.excitationcoil.description=§7Crafting Component Only... Except:§r
 tooltip.nomilabs.excitationcoil.placeable=§7Placeable!§r
 tooltip.nomilabs.excitationcoil.wearable=§7Wearable on your head!§r
