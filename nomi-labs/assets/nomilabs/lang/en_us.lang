@@ -589,7 +589,7 @@ tooltip.nomilabs.general.press_shift_for_info=Press [Shift] for More Info.
 tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
 tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
-tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Cleared!§r
+tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Items
 tooltip.nomilabs.excitationcoil.description=§7Crafting Component Only... Except:§r
