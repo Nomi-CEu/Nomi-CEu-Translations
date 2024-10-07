@@ -548,6 +548,8 @@ item.nomilabs.info_item.name=Information
 item.nomilabs.pulsatingdust.name=Pulsating Dust
 item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 
+item.nomilabs.industrial_rebreather_kit.name=Industrial Rebreather Kit
+
 #-----------------Commands-----------------#
 
 command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
@@ -586,8 +588,12 @@ tooltip.nomilabs.general.press_ctrl_for_usages=Press [Ctrl] for More Usages.
 tooltip.nomilabs.general.press_shift_for_info=Press [Shift] for More Info.
 tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
 tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
+tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
+tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Items
+tooltip.nomilabs.drawers.upgrades=§eUpgrades sealed within§r
+
 tooltip.nomilabs.excitationcoil.description=§7Crafting Component Only... Except:§r
 tooltip.nomilabs.excitationcoil.placeable=§7Placeable!§r
 tooltip.nomilabs.excitationcoil.wearable=§7Wearable on your head!§r
