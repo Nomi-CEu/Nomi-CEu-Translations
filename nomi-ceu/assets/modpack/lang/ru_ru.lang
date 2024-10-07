@@ -1,4 +1,4 @@
-nomifactory.nonetherportals=Порталы Нижнего мира отключены в §5Nomi-CEu§r, вам необходимо создать §6Торт Нижнего мираs§r. Используйте квест-бук!
+nomifactory.nonetherportals=Порталы Нижнего мира отключены в §5Nomi-CEu§r, вам необходимо создать §6Торт Нижнего мираs§r. Используйте Книгу заданий!
 nomiceu.tooltip.actuallyadditions.drill_core.2=§cТакже может быть куплено за Номимонеты!§r
 nomiceu.tooltip.actuallyadditions.canola.2=§aЭтот механизм довольно медленный, и для работы требует RF энергию.§r
 # Actually Additions
@@ -23,3 +23,5 @@ nomiceu.tooltip.ae2.magnet_card=§eПодбирает предметы и кла
 nomiceu.tooltip.ae2.redstone_card=§eКонтролирует ваши AE2 машины... с помощью Редстоуна!§r
 nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.1=§aВыпадает с монстров, и может быть изготовлен в§r
 nomiceu.tooltip.ae2.dense=§bДля декорации!§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.2=§a Жидкостном отвердителе или Затвердителе опыта.§r
+nomiceu.tooltip.ae2.quantum_link_card.2=§eПроверьте Книгу заданий для большей информации.§r
