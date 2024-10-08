@@ -190,11 +190,11 @@ nomifactory.quest.normal.db.33.desc=Expandable multi-block storage for RF power.
 
 # db 34 of mode normal
 nomifactory.quest.normal.db.34.title=§2Energetic Alloy
-nomifactory.quest.normal.db.34.desc=This alloy is made from §2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust in a Mixer, creating Energetic Alloy Dust,§r and putting it in your new §3Electric Blast Furnace§r.%n%nThrow §2the prepared dust into the input bus§r and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.%n%n§2In EV Age, you can build an Alloy Blast Smelter which doubles the yield.
+nomifactory.quest.normal.db.34.desc=This alloy is made from §2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust§r and putting it in a mixer, then your new §3Electric Blast Furnace (EBF)§r.%n%nThrow §2the prepared dust into the input bus§r and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.%n%nYou might want to consider getting some §9Nitrogen§r, which speeds up EBF recipes. See the "Basic Air Collection" quest to start your journey. For this recipe, it reduces the duration to 13.7 seconds.%n%n§2In EV, you can build an Alloy Blast Smelter, which doubles the yield.
 
 # db 35 of mode normal
 nomifactory.quest.normal.db.35.title=§2Vibrant Alloy
-nomifactory.quest.normal.db.35.desc=Another alloy.%n%n§2In EV Age, you can build an Alloy Blast Smelter which doubles the yield.
+nomifactory.quest.normal.db.35.desc=Another alloy.%n%n§2In EV, you can build an Alloy Blast Smelter, which doubles the yield.
 
 # db 37 of mode normal
 nomifactory.quest.normal.db.37.title=Rubber Sheets
@@ -236,10 +236,6 @@ nomifactory.quest.normal.db.47.desc=Flying faster, even nicer.
 nomifactory.quest.normal.db.48.title=Ironman 2
 nomifactory.quest.normal.db.48.desc=Flying faster is nice.
 
-# db 49 of mode normal
-nomifactory.quest.normal.db.49.title=Air Centrifuging
-nomifactory.quest.normal.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.%n%nCentrifuging air is a reliable way to get §9Nitrogen§r before you have access to §2distlling Liquid Air§r.
-
 # db 50 of mode normal
 nomifactory.quest.normal.db.50.title=§2Fluid Transport
 nomifactory.quest.normal.db.50.desc=§6Pressurized Fluid Conduits§r will be your main way of transporting fluids for now. They have the advantage of being §6Conduits§r, allowing them to fit in the same block as other §6Conduits§r.%n%n§2GTCEu Fluid Pipes§r are also available, much improved from CE. Their advantage is higher §dthroughput§r, but they have limitations on the kinds of fluids (§eacids, gases§r, etc) they can transport safely. Check each pipe material's tooltip for details.%n%nThere are also §6Quadruple and Nonuple Pipes§r for transporting multiple fluid types through the same block.%n%nPick your poison.
@@ -262,7 +258,7 @@ nomifactory.quest.normal.db.54.desc=When §6Ender Eyes§r just aren't creepy eno
 
 # db 55 of mode normal
 nomifactory.quest.normal.db.55.title=§2Centrifuge
-nomifactory.quest.normal.db.55.desc=§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).%n%nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9liquid Rubber§r.
+nomifactory.quest.normal.db.55.desc=§3Centrifuges§r spin up items to seperate them into simpler components. Similar to an §bElectrolyzer§r.%n%nCurrently, you need this to make §eGlue§r, as well as §9Nitrogen§r.
 
 # db 56 of mode normal
 nomifactory.quest.normal.db.56.title=Putting It All Together
@@ -710,7 +706,7 @@ nomifactory.quest.normal.db.172.desc=The reaction that produces §9Bio Diesel§r
 
 # db 173 of mode normal
 nomifactory.quest.normal.db.173.title=§2Nitrogen
-nomifactory.quest.normal.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Because of this, after the first few processes of §9Liquid Air§r, you'll probably have more Nitrogen than you know what to do with.%n%nIf you got here centrifuging air, then it's gonna take you longer to get to that point.%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, such as §2speeding up some Electric Blast Furnace recipes§r, §2making Glowstone-Doped Silicon Boules§r, and §2making Cetane-Boosted Diesel§r.
+nomifactory.quest.normal.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Although it might take a while, you will start accumulating a large amount of it. Simply start placing your placing your collected §9Air§r into a §bCentrifuge§r!%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, such as speeding up some §bElectric Blast Furnace§r recipes, making §6Glowstone-Doped Silicon Boules§r, and making §6Cetane-Boosted Diesel§r.%n%nSince it has so many uses, make sure you have §eautomated§r the process of making §9Nitrogen§r. Yes, do it now! You'll thank yourself when you start running §bElectric Blast Furnace§r recipes.
 
 # db 174 of mode normal
 nomifactory.quest.normal.db.174.title=§2Basic Air Collection
@@ -979,10 +975,6 @@ nomifactory.quest.normal.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§
 # db 245 of mode normal
 nomifactory.quest.normal.db.245.title=Titanium Double Plates
 nomifactory.quest.normal.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThis special plating is used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
-
-# db 246 of mode normal
-nomifactory.quest.normal.db.246.title=§2Tungsten Carbide Double Plates
-nomifactory.quest.normal.db.246.desc=§2Double Plates§r for Micro Miners made from §6Tungsten Carbide§r.%n%nYou §2no longer need high tier Compressors to make these.
 
 # db 248 of mode normal
 nomifactory.quest.normal.db.248.title=Space Station Assembler
@@ -2645,8 +2637,8 @@ nomifactory.quest.normal.db.826.title=§2Large Chemical Reactor
 nomifactory.quest.normal.db.826.desc=§2The Large Chemical Reactor (LCR) is a multiblock Chemical Reactor with more input/output slots.§r%n%nThe §3LCR§r can also perform some exclusive reactions which allow you to combine multiple normal §3Chemical Reactor§r steps into a §6single step§r, such as:%n- §aTetrafluoroethylene§r%n- §aNitrogen Dioxide§r%n- §aSulfuric Acid§r%n- §aEpichlorohydrin§r, needed for...%n- §aEpoxy§r%n%nThe §3LCR§r also is required to perform some recipes, such as §aRaw Gasoline§r production, and §aPolybenzimidazole§r.%n%nAny other recipe which could be done in a normal §9Chemical Reactor§r, as well as certain §9Mixer§r recipes, can also be done in an §3LCR§r.%n%nAll §dOverclocks§r in the §3LCR§r are §6100%% efficient§r; each overclock will §5quadruple the speed§r, as opposed to doubling it.
 
 # db 827 of mode normal
-nomifactory.quest.normal.db.827.title=§2Platinum Group Processing
-nomifactory.quest.normal.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. However, the yields of these ores from Microverse missions are small, so you should consider processing §6Platinum Group Sludge (PGS)§r for more.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
+nomifactory.quest.normal.db.827.title=§2Platinum Group Metals
+nomifactory.quest.normal.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM-Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
 
 # db 828 of mode normal
 nomifactory.quest.normal.db.828.title=§2Polybenzimidazole (PBI)
@@ -2989,7 +2981,7 @@ nomifactory.quest.normal.db.912.title=Hard Mode
 nomifactory.quest.normal.db.912.desc=The §2CEu§r version of Nomi is already slightly harder than the original, due to various progression changes CEu makes.%n%nBut if you want a §charder§r, or perhaps a more "§5true§r" §dGregTech§r experience, check out the §cExpert§r mode. This pack mode is based on the §bSelf-Torture Edition fork§r of the original pack.%n%nHighlights include:%n%n- No §bDME§r for easy infinite resources%n- §6Nomicoins§r don't exist%n- The §7Steam Age§r%n- No §3Creative Tank§r; instead...%n- §6Stabilized Micro Miners§r for late-game infinite resources%n- Harder recipes for assorted things like §6Iridium§r, §3Numismatic Dynamos§r, and more%n%nTo enable §cExpert§r mode, change the pack mode (Options -> Pack Mode) to Expert, then run §e/bq_admin default load ExpertQuests§r. The same command should be used for updating the quest book on Expert mode.%nTo go back, change the pack mode to §aNormal§r and run §e/bq_admin default load§r.%n%nTo tune your challenge even further, check out the various recipe configs in the GregTech config file.
 
 # db 913 of mode normal
-nomifactory.quest.normal.db.913.title=§2Machine Naming
+nomifactory.quest.normal.db.913.title=§2Machine Naming§r
 nomifactory.quest.normal.db.913.desc=As you expand your production lines, it can get confusing where everything is real quickly.%n%nNew in GTCEu, you can §2name machines in an Anvil§r or shift-right-click with a §6Name Tag§r in order to display a hologram above them. This hologram can't be seen through walls, so you needn't worry about clogging your view with names.
 
 # db 914 of mode normal
@@ -3186,7 +3178,7 @@ nomifactory.quest.normal.db.961.desc=§oThis quest completes via checkbox or upo
 
 # db 962 of mode normal
 nomifactory.quest.normal.db.962.title=Hydrogen and Oxygen
-nomifactory.quest.normal.db.962.desc=§oSilicon Dioxide is an important part of a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation of how to passively automate this.§r%n%nAround this point, you will need large quantities of §6Hydrogen§r and §6Oxygen§r.%n%nThe first way that comes to mind is electrolysing §9Water§r, but that is §cextremely slow and inefficient§r.§r.%n%nInstead, the best way of making early game §6Oxygen§r is §6Silicon Dioxide§r.%n%n§6Hydrogen§r is a bit trickier, but you can put §6Methane§r and §6Water§r together in a §3Chemical Reactor§r. §chowever this requires a HV Chemical Reactor§r. §6Methane§r can be obtained from §6Pyrolyse byproducts§r, or via §6Petrochemistry§r, although there are many sources. You can also recombine your methane after reacting it with water, although this process is somewhat inefficient.%n%nFor now, you could obtain the first couple of buckets of §9Hydrogen§r needed to set up petrochemistry by electrolyzing §9Methane§r from §6centrifuging§r various biological materials, or various ores like §6Limonite§r. Electrolyzing various dusts provides early §9Oxygen§r.
+nomifactory.quest.normal.db.962.desc=Around this point, you will need large quantities of §6Hydrogen§r and §6Oxygen§r.%n%nThe first way that comes to mind is electrolyzing §9Water§r, but that is §cextremely slow and inefficient§r.§r.%n%nInstead, the best way of making early game §6Oxygen§r is through §6Silicon Dioxide§r. This dust can easily be obtained through processing §6Cobblestone§r, and is fast and efficient.%n%n§6Hydrogen§r is a bit trickier, but you can put §6Methane§r in an §bElectrolyzer§r. §6Methane§r can be obtained from §6Biological Materials§r, §6Pyrolyse Byproducts§r, or later, via §6Petrochemistry§r. There are many other sources as well, including various ores like §6Limonite§r. Check JEI!%n%nIn §6HV§r, you can react §6Methane§r with §6Water§r in a §bChemical Reactor§r for fast and efficient Hydrogen.%n%nIt is worth setting up automation for these early! Even if you stockpile some simply through electrolyzing Water, it is worth it!
 
 # db 963 of mode normal
 nomifactory.quest.normal.db.963.title=Obsidian
@@ -3529,7 +3521,7 @@ nomifactory.quest.normal.db.1048.title=Visual Ores
 nomifactory.quest.normal.db.1048.desc=The §6Electric Prospector's Scanner§r given for free now has integration with §eJourneyMap§r.%n%nPick up surface rocks, right-click ore blocks, or use an electric prospector on ore mode to discover veins.%n%nPress the "action key" (default: delete) while hovering over a vein to mark it as depleted (or not depleted).%n%nDouble-click a vein to mark it as a waypoint, and again to unmark it.
 
 # db 1049 of mode normal
-nomifactory.quest.normal.db.1049.title=Multiblock Rotation
+nomifactory.quest.normal.db.1049.title=§2Multiblock Rotation§r
 nomifactory.quest.normal.db.1049.desc=Most multiblocks now support §2rotation§r along any axis. Right-click with a wrench on a face with a rotation ↺ symbol to rotate the controller.%n%nMultiblocks can also be §2reflected§r to form a mirror image of the normal structure. You don't need to do anything to the controller for this, a mirror image will automatically be recognized as a valid structure.%n%nThe rules for building multiblocks otherwise remain the same.%n%nTake your setups to a new dimension!%n%nThe §3Cleanroom§r, §3Multiblock Miners/Drills§r, and §3Distillation Tower§r do not support being rotated.
 
 # db 1050 of mode normal
@@ -3643,6 +3635,10 @@ nomifactory.quest.normal.db.1076.desc=§2Gregicality Multiblocks§r features a c
 # db 1077 of mode normal
 nomifactory.quest.normal.db.1077.title=Interdimensional Networking
 nomifactory.quest.normal.db.1077.desc=There are more uses to your newly-crafted §3Quantum Link Chamber§r, including being able to §amove your AE2 connection across dimensions.§r%n%nTo start, simply drop 1 §6Singularity§r and 1 §6Ender Dust§r and create an explosion nearby. This will create 2 §6Quantum Entangled Singularities§r.%n%nMake 2 §3Quantum Rings,§r 1 at your base and another at a remote location. Put 1 of each §6Entangled Singularity§r into the respective §3Quantum Rings§r and it will allow the other side to access the main network.%n%n§cMake sure to provide the other side with power in order for the connection to be formed!
+
+# db 1079 of mode normal
+nomifactory.quest.normal.db.1079.title=Ore Processing with Centrifuges
+nomifactory.quest.normal.db.1079.desc=§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).
 
 # Expert Quest Lang Entries:
 
@@ -3824,11 +3820,11 @@ nomifactory.quest.expert.db.33.desc=Expandable multi-block storage for RF power.
 
 # db 34 of mode expert
 nomifactory.quest.expert.db.34.title=§2Energetic Alloy
-nomifactory.quest.expert.db.34.desc=This alloy is made from §2mixing §22 Gold Dust, 1 Redstone, and 1 Glowstone Dust §2and putting it §rin your new §3Electric Blast Furnace§r.%n%nThrow §2the prepared dust into the input bus§r and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.%n%n§2In EV Age, you can build an Alloy Blast Smelter which doubles the yield.
+nomifactory.quest.expert.db.34.desc=This alloy is made from §2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust§r and putting it in a mixer, then your new §3Electric Blast Furnace (EBF)§r.%n%nThrow §2the prepared dust into the input bus§r and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.%n%nYou might want to consider getting some §9Nitrogen§r, which speeds up EBF recipes. See the "Basic Air Collection" quest to start your journey. For this recipe, it reduces the duration to 13.7 seconds.%n%n§2In EV, you can build an Alloy Blast Smelter, which doubles the yield.
 
 # db 35 of mode expert
 nomifactory.quest.expert.db.35.title=§2Vibrant Alloy
-nomifactory.quest.expert.db.35.desc=Another alloy.%n%n§2In EV Age, you can build an Alloy Blast Smelter which doubles the yield.
+nomifactory.quest.expert.db.35.desc=Another alloy.%n%n§2In EV, you can build an Alloy Blast Smelter, which doubles the yield.
 
 # db 37 of mode expert
 nomifactory.quest.expert.db.37.title=Rubber Sheets
@@ -3870,10 +3866,6 @@ nomifactory.quest.expert.db.47.desc=Flying faster, even nicer.
 nomifactory.quest.expert.db.48.title=Ironman 2
 nomifactory.quest.expert.db.48.desc=Flying faster is nice.
 
-# db 49 of mode expert
-nomifactory.quest.expert.db.49.title=Air Centrifuging
-nomifactory.quest.expert.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.%n%nCentrifuging air is a reliable way to get §9Nitrogen§r before you have access to §3Cryogenic Distillation§r.
-
 # db 50 of mode expert
 nomifactory.quest.expert.db.50.title=§2Fluid Transport
 nomifactory.quest.expert.db.50.desc=§2GTCEu Fluid Pipes§r are now available, much improved from CE. Their advantage is higher §dthroughput§r, but they have limitations on the kinds of fluids (§eacids, gases§r, etc) they can transport safely. Check each pipe material's tooltip for details.%n%nThere are also §6Quadruple and Nonuple Pipes§r for transporting multiple fluid types through the same block.%n%nYou also can only use them for now, until you get access to...%n%n§bEnderIO§6 Fluid Conduits§r. They have the advantage of being §6Conduits§r, allowing them to fit in the same block as other §6Conduits§r.%n%nPick your poison.
@@ -3896,7 +3888,7 @@ nomifactory.quest.expert.db.54.desc=When §6Ender Eyes§r just aren't creepy eno
 
 # db 55 of mode expert
 nomifactory.quest.expert.db.55.title=Centrifuge
-nomifactory.quest.expert.db.55.desc=§3Centrifuges§r spin up items to seperate them into simpler components. Similar to a §bElectrolyzer§r.%n%nCurrently, you need this to make §eGlue§r.
+nomifactory.quest.expert.db.55.desc=§3Centrifuges§r spin up items to seperate them into simpler components. Similar to an §bElectrolyzer§r.%n%nCurrently, you need this to make §eGlue§r, as well as §9Nitrogen§r.
 
 # db 56 of mode expert
 nomifactory.quest.expert.db.56.title=Putting It All Together
@@ -4344,7 +4336,7 @@ nomifactory.quest.expert.db.172.desc=The reaction that produces §9Bio Diesel§r
 
 # db 173 of mode expert
 nomifactory.quest.expert.db.173.title=Nitrogen
-nomifactory.quest.expert.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Because of this, after the first few processes of §9Liquid Air§r, you'll probably have more Nitrogen than you know what to do with.%n%nIf you got here centrifuging air, then it's gonna take you longer to get to that point.%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, one of which you'll be needing very soon.
+nomifactory.quest.expert.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Although it might take a while, you will start accumulating a large amount of it. Simply start placing your placing your collected §9Air§r into a §bCentrifuge§r!%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, such as speeding up some §bElectric Blast Furnace§r recipes, making §6Glowstone-Doped Silicon Boules§r, and making §6Cetane-Boosted Diesel§r.%n%nSince it has so many uses, make sure you have §eautomated§r the process of making §9Nitrogen§r. Yes, do it now! You'll thank yourself when you start running §bElectric Blast Furnace§r recipes.
 
 # db 174 of mode expert
 nomifactory.quest.expert.db.174.title=§2Basic Air Collection
@@ -4613,10 +4605,6 @@ nomifactory.quest.expert.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§
 # db 245 of mode expert
 nomifactory.quest.expert.db.245.title=§2Titanium Double Plates
 nomifactory.quest.expert.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThese §2double plates§r are used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
-
-# db 246 of mode expert
-nomifactory.quest.expert.db.246.title=§2Tungsten Carbide Double Plates
-nomifactory.quest.expert.db.246.desc=§2Double Plates§r for Micro Miners made from §6Tungsten Carbide§r.%n%nYou §2no longer need high tier Compressors to make these.
 
 # db 248 of mode expert
 nomifactory.quest.expert.db.248.title=Space Station Assembler
@@ -6188,7 +6176,7 @@ nomifactory.quest.expert.db.804.desc=The §3Assembly Line§r is a particularly u
 
 # db 805 of mode expert
 nomifactory.quest.expert.db.805.title=Hydrogen and Oxygen
-nomifactory.quest.expert.db.805.desc=Around this point, you will need large quantities of §6Hydrogen§r and §6Oxygen§r.%n%nThe first way that comes to mind is electrolysing §9Water§r, but that is §cextremely slow and inefficient§r.§r.%n%nInstead, the best way of making early game §6Oxygen§r is §6Silicon Dioxide§r.%n%n§6Hydrogen§r is a bit trickier, but you can put §6Methane§r and §6Water§r together in a §3Chemical Reactor§r. §chowever this requires a HV Chemical Reactor§r. §6Methane§r can be obtained from §6Pyrolyse byproducts§r, or via §6Petrochemistry§r, although there are many sources. You can also recombine your methane after reacting it with water, although this process is somewhat inefficient.%n%nFor now, you could obtain the first couple of buckets of §9Hydrogen§r needed to set up petrochemistry by electrolyzing §9Methane§r from §6centrifuging§r various biological materials, or various ores like §6Limonite§r. Electrolyzing various dusts provides early §9Oxygen§r.
+nomifactory.quest.expert.db.805.desc=Around this point, you will need large quantities of §6Hydrogen§r and §6Oxygen§r.%n%nThe first way that comes to mind is electrolyzing §9Water§r, but that is §cextremely slow and inefficient§r.§r.%n%nInstead, the best way of making early game §6Oxygen§r is through §6Silicon Dioxide§r. This dust can easily be obtained through processing §6Cobblestone§r, and is fast and efficient.%n%n§6Hydrogen§r is a bit trickier, but you can put §6Methane§r in an §bElectrolyzer§r. §6Methane§r can be obtained from §6Biological Materials§r, §6Pyrolyse Byproducts§r, or later, via §6Petrochemistry§r. There are many other sources as well, including various ores like §6Limonite§r. Check JEI!%n%nIn §6HV§r, you can react §6Methane§r with §6Water§r in a §bChemical Reactor§r for fast and efficient Hydrogen.%n%nIt is worth setting up automation for these early! Even if you stockpile some simply through electrolyzing Water, it is worth it!
 
 # db 806 of mode expert
 nomifactory.quest.expert.db.806.title=§2Allyl Chloride
@@ -6275,8 +6263,8 @@ nomifactory.quest.expert.db.826.title=§2Large Chemical Reactor
 nomifactory.quest.expert.db.826.desc=§2The §2Large Chemical Reactor (LCR) §2is a multiblock §2Chemical Reactor §2with more input/output slots.§r%n%nThe §3LCR§r can perform some exclusive reactions which allow you to combine multiple normal §3Chemical Reactor§r steps into a §6single step§r, such as:%n- §aNitrogen Dioxide§r%n- §aSulfuric Acid§r%n- §aEpichlorohydrin§r, needed for...%n- §aEpoxy§r%n%nThe §3LCR§r also is required to perform some recipes, such as §aRaw Gasoline§r production.%n%nAny other recipe which could be done in a normal §9Chemical Reactor§r, as well as certain §9Mixer§r recipes, can also be done in an §3LCR§r.%n%nAll §dOverclocks§r in the §3LCR§r are §6100%% efficient§r; each overclock will §5quadruple the speed§r, as opposed to doubling it.
 
 # db 827 of mode expert
-nomifactory.quest.expert.db.827.title=§2Platinum Group Processing
-nomifactory.quest.expert.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. However, the yields of these ores from Microverse missions are small, so you should consider processing §6Platinum Group Sludge (PGS)§r for more.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
+nomifactory.quest.expert.db.827.title=§2Platinum Group Metals
+nomifactory.quest.expert.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM-Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more. You will also need to process PGS for your initial yields of §6Iridium§r, as §6Osmiridium Ore§r and §6Iridosmine Ore§r are only available with the §6Tier Five Micro Miner§r. The mission also gives only small amounts, so processing PGS is the better option.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
 
 # db 828 of mode expert
 nomifactory.quest.expert.db.828.title=§2Polybenzimidazole (PBI)
@@ -6643,7 +6631,7 @@ nomifactory.quest.expert.db.918.title=AE2 Everywhere!
 nomifactory.quest.expert.db.918.desc=Accessing AE2 from anywhere is a bit more expensive and complex, but its well worth it.%n%nFirstly, you need to setup a §aQuantum Ring Multiblock§r. Build a 3 by 3 vertical ring with your §6Quantum Rings§r, leaving a hole in the middle. Finally, stick your §6Quantum Link Chamber§r in the hole, and connect it to your ME system. If you built it correctly, the textures of the rings should combine, leaving you with a §aMultiblock§r.%n%nWith your 2 Singularities, put it into an §3Inscriber§r or an §3Advanced Inscriber§r with a §6Advanced Card§r, resulting in a §6Quantum Link Card§r. Finally, put that into the §6Quantum Link Chamber§r of the §aQuantum Ring§r, §cNOT the Wireless Terminal§r!%n%nYou should be good to go! You can now access AE2 anywhere, including in different dimensions!
 
 # db 919 of mode expert
-nomifactory.quest.expert.db.919.title=Machine Naming
+nomifactory.quest.expert.db.919.title=§2Machine Naming§r
 nomifactory.quest.expert.db.919.desc=As you expand your production lines, it can get confusing where everything is real quickly.%n%nNew in GTCEu, you can §2name machines in an Anvil§r in order to display a hologram above them. This hologram can't be seen through walls, so you needn't worry about clogging your view with names.
 
 # db 920 of mode expert
@@ -6799,7 +6787,7 @@ nomifactory.quest.expert.db.1048.title=Visual Ores
 nomifactory.quest.expert.db.1048.desc=The §6Electric Prospector's Scanner§r given for free now has integration with §eJourneyMap§r.%n%nPick up surface rocks, right-click ore blocks, or use an electric prospector on ore mode to discover veins.%n%nPress the "action key" (default: delete) while hovering over a vein to mark it as depleted (or not depleted).%n%nDouble-click a vein to mark it as a waypoint, and again to unmark it.
 
 # db 1049 of mode expert
-nomifactory.quest.expert.db.1049.title=Multiblock Rotation
+nomifactory.quest.expert.db.1049.title=§2Multiblock Rotation§r
 nomifactory.quest.expert.db.1049.desc=Most multiblocks now support §2rotation§r along any axis. Right-click with a wrench on a face with a rotation ↺ symbol to rotate the controller.%n%nMultiblocks can also be §2reflected§r to form a mirror image of the normal structure. You don't need to do anything to the controller for this, a mirror image will automatically be recognized as a valid structure.%n%nThe rules for building multiblocks otherwise remain the same.%n%nTake your setups to a new dimension!%n%nThe §3Cleanroom§r, §3Multiblock Miners/Drills§r, and §3Distillation Tower§r do not support being rotated.
 
 # db 1050 of mode expert
@@ -6812,7 +6800,7 @@ nomifactory.quest.expert.db.1051.desc=To operate your future §bElectric Blast F
 
 # db 1052 of mode expert
 nomifactory.quest.expert.db.1052.title=Ore Processing with Centrifuges
-nomifactory.quest.expert.db.1052.desc=§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).%n%nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9Liquid Rubber§r.
+nomifactory.quest.expert.db.1052.desc=§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).
 
 # db 1053 of mode expert
 nomifactory.quest.expert.db.1053.title=Tungstensteel
