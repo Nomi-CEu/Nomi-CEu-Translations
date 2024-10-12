@@ -6797,9 +6797,13 @@ nomifactory.quest.expert.db.1050.desc=§o此任务接受 LV、MV 或 HV 采矿�
 nomifactory.quest.expert.db.1075.desc=§e月球§r上覆满了月面土，将其研磨即可产生§6月面尘§r，月面尘可以作为§9氘气§r的来源，也可以用来更便宜的制作量子通量。
 nomifactory.quest.expert.db.1049.title=多方块旋转
 nomifactory.quest.expert.db.1075.title=月面尘
-nomifactory.quest.normal.db.1077.title=跨纬度网络
-nomifactory.quest.expert.db.1079.title=跨纬度网络
+nomifactory.quest.normal.db.1077.title=跨维度网络
+nomifactory.quest.expert.db.1079.title=跨维度网络
 nomifactory.quest.normal.db.1075.title=虚空背包
 nomifactory.quest.expert.db.1077.title=虚空背包
 nomifactory.quest.normal.db.1075.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！
 nomifactory.quest.expert.db.1077.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！
+nomifactory.quest.normal.db.1077.desc=最近制作的§3量子链接仓§r还有别的用途，包括§a跨纬度连接你的AE网络。§r%n%n首先，把一个§6奇点§r和一个§6末影珍珠粉§r丢在地上，然后用爆炸物引爆即可。这将会生成两个§6量子缠绕态奇点§r。%n%n制作两个§3量子环，§r一个放在你的基地，另一个则放在远地。把每个§6量子缠绕奇点§r§放到各自的§3量子环§r内，这样远处量子环就能够访问你的主网络。%n%n§c记得为远处的量子环提供能量，以此保证连接正常！
+nomifactory.quest.expert.db.1052.title=用离心机进行矿物处理
+nomifactory.quest.expert.db.1079.desc=最近制作的§3量子链接仓§r还有别的用途，包括§a跨纬度连接你的AE网络。§r%n%n首先，把一个§6奇点§r和一个§6末影珍珠粉§r丢在地上，然后用爆炸物引爆即可。这将会生成两个§6量子缠绕态奇点§r。%n%n制作两个§3量子环，§r一个放在你的基地，另一个则放在远地。把每个§6量子缠绕奇点§r§放到各自的§3量子环§r内，这样远处量子环就能够访问你的主网络。%n%n§c记得为远处的量子环提供能量，以此保证连接正常！
+nomifactory.quest.expert.db.1052.desc=在处理矿石粉时，§3离心机§r为你提供§21小撮粉§r的额外材料（§e9小撮粉=1粉§r）。有时它是离心物的粉尘，但通常它是另一种有用的材料，否则这种材料将是无法获得的。%n%n与其在坩埚中清洗§6含杂粉§r（通过浸渍或锤打矿石），不如通过离心来获得更多的粉尘。当你做出了§3洗矿机§r或者§3化学浸洗器§r的时候，同样的情况还有§6洁净粉§r，但请注意，洁净粉和含杂粉通常会产生不同的副产物（请务必在§bJEI§r中查看）。%n%n离心机还有其他用途，如去除复合粉尘和液体的混合物，或获取§6橡胶末§r，它可以与§6硫§r发生化学反应，从而有效地制成§9液态橡胶§r。
