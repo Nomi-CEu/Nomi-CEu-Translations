@@ -62,6 +62,13 @@ config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2
 config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Max Blocks Placed (Creative)
 
+config.nomilabs.mod_integration.ae2_terminal=AE2 Terminal Options
+config.nomilabs.mod_integration.ae2_terminal.fluid=Fluid Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.interface=Interface Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_interface=Interface Configuration Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_fluid_interface=Fluid Interface Configuration Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_interface_save=Save Interface Configuration Terminal Searches
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
