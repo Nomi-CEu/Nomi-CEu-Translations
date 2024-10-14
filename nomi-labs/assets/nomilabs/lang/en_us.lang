@@ -135,6 +135,8 @@ config.nomilabs.advanced.difficulty.expert_override=Difficulty Override Expert
 # GUI
 nomilabs.top.steam_heating_up=Heating Up:
 nomilabs.top.steam_cooling_down=Cooling Down
+nomilabs.top.steam_venting_stuck.1=Steam Vent Stuck!
+nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
 
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
