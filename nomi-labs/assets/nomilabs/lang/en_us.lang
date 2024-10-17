@@ -555,6 +555,7 @@ item.nomilabs.hand_framing_tool.desc4=If you wish to frame the tool in a Craftin
 item.nomilabs.hand_framing_tool.desc5=Then, once the tool is framed, right clicking any drawers in-world will frame them.
 item.nomilabs.hand_framing_tool.desc6=When right clicking any wood-type drawers in world, they will also be turned into framed drawers.
 
+item.nomilabs.tiny_coke.name=Tiny Coke
 item.nomilabs.info_item.name=Information
 
 item.nomilabs.pulsatingdust.name=Pulsating Dust
@@ -648,6 +649,8 @@ tooltip.nomilabs.info.ae2-stuff.2=§6Please use AE2 Pattern Terminals instead.§
 tooltip.nomilabs.info.ae2-stuff.3=§eAll Existing Items §l(including in Patterns),§r
 tooltip.nomilabs.info.ae2-stuff.4=§eBlocks, and usages in Recipes,§r
 tooltip.nomilabs.info.ae2-stuff.5=§ehave been replaced by AE2 Interfaces.§r
+
+tooltip.nomilabs.tiny_fuels=Smelts Exactly One Item in a Furnace!
 
 # Multiblocks
 tooltip.nomilabs.microverse_projector_1.description=§8A machine capable of stabilizing projection into microverses for basic micro miner missions.§r
