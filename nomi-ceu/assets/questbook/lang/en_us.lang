@@ -1425,8 +1425,8 @@ nomifactory.quest.normal.db.368.title=Movin' Around
 nomifactory.quest.normal.db.368.desc=You may wish to §aautomatically sprint§r, instead of having to press §eControl + W§r or §eW twice§r. To achieve this, change the §bSprint§r keybind to §eW§r. (or the same keybind as Move Foward)%n%nA §aGrappling Hook§r is also very useful in an urban environment, allowing you to climb buildings with ease!%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however you can change this as you wish. Just be careful of §cKeybind Conflicts§r!
 
 # db 370 of mode normal
-nomifactory.quest.normal.db.370.title=Charcoal
-nomifactory.quest.normal.db.370.desc=No hoops to jump through here. Smelt §6Wood Logs§r to get §6Charcoal§r. It will serve you well as a fuel source until you locate a vein of §6Coal§r.%n%nYou might want to craft Charcoal into §6Tiny Charcoal§r pieces to save some fuel. One tiny piece is enough to smelt exactly one item. Just put charcoal into the crafting grid to make some!
+nomifactory.quest.normal.db.370.title=Charcoal and Tiny Fuels
+nomifactory.quest.normal.db.370.desc=No hoops to jump through here. Smelt §6Wood Logs§r to get §6Charcoal§r. It will serve you well as a fuel source until you locate a vein of §6Coal§r.%n%nYou might want to craft Charcoal into §6Tiny Charcoal§r pieces to save some fuel. One tiny piece is enough to smelt exactly one item. Just put charcoal into the crafting grid to make some!%n%nYou can also make §6Tiny Coal§r in the same way.
 
 # db 371 of mode normal
 nomifactory.quest.normal.db.371.title=Soft Mallet
@@ -3736,7 +3736,7 @@ nomifactory.quest.expert.db.11.desc=A "§esubstrate§r" is the "board" part of a
 
 # db 12 of mode expert
 nomifactory.quest.expert.db.12.title=Some Starter Tools
-nomifactory.quest.expert.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§r will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§r. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§r... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Iron Tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§r (not a §aMining Hammer§r, mind you... six ingots, not five). Hammers can be used to turn §etwo ingots into one plate§r. §6Plates§r can make a §aFile§r, Files can make §6Rods§r, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§r is probably your best bet for a tool material right now, but better materials will become available as you progress.%n%nThis quest technically accepts any tool material, but it is highly recommended to use §6Wrought Iron§r.
+nomifactory.quest.expert.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§r will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§r. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§r... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Iron Tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§r (not a §aMining Hammer§r, mind you... six ingots, not five). Hammers can be used to turn §etwo ingots into one plate§r. §6Plates§r can make a §aFile§r, Files can make §6Rods§r, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§r is probably your best bet for a tool material right now, but better materials will become available as you progress.%n%nThis quest technically accepts any tool material, but it is highly recommended to use §6Wrought Iron§r, due to its high durability.
 
 # db 13 of mode expert
 nomifactory.quest.expert.db.13.title=Batch Crafting In Style
@@ -3776,7 +3776,7 @@ nomifactory.quest.expert.db.21.desc=You already have §6Steel§r, but it can be 
 
 # db 22 of mode expert
 nomifactory.quest.expert.db.22.title=§2Pyrolyse Oven
-nomifactory.quest.expert.db.22.desc=The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products.%n%nTurning §6Coal§r into §6Coal Coke§r will not only make it more useful as fuel, but will also produce §9Phenol§r, which you'll need for circuits.%n%nThe Pyrolyse Oven is also the source of several other fluids that can be distilled for useful ingredients.%n%nYou can §6sneak-right click§r the controller to enable the in-world preview.%n%n§2As stated in the tooltip, higher tier coils will make this faster.
+nomifactory.quest.expert.db.22.desc=The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products.%n%nTurning §6Coal§r into some more §6Coal Coke§r will also produce §9Phenol§r, which you'll need for circuits. Yes, this oven is different from the §bCoke Oven§r in many ways!%n%nThe Pyrolyse Oven is also the source of several other fluids that can be distilled for useful ingredients.%n%nYou can §6sneak-right click§r the controller to enable the in-world preview.%n%n§2As stated in the tooltip, higher tier coils will make this faster.
 
 # db 23 of mode expert
 nomifactory.quest.expert.db.23.title=Obsidian
@@ -5060,7 +5060,7 @@ nomifactory.quest.expert.db.368.desc=You may wish to §aautomatically sprint§r,
 
 # db 370 of mode expert
 nomifactory.quest.expert.db.370.title=§2Coke Oven
-nomifactory.quest.expert.db.370.desc=§2For making Charcoal for smelting, and Creosote, which can be used as furnace fuel, boiler fuel, and for Treated Planks.%n%nUse up to 5 Coke Oven Hatches for automation.
+nomifactory.quest.expert.db.370.desc=You need the §bCoke Oven§r for §9Creosote Oil§r, which can be used as fuel and for §6Treated Planks§r. Given how slow the recipes run, you might want to make more than one of these.%n%nPlacing your §6Coal§r into here will turn it into §6Coal Coke§r, which burns for twice as long, and produces extra §9Crescote Oil§r, which you can use as a further fuel source. Essentially, you create more bang for your buck!%n%nYou can also make §6Charcoal§r now! Only takes 45 seconds...%n%nAlso, remember: You can make §6Tiny Charcoal§r and §6Tiny Coke§r, which smelt exactly one item in the §bFurnace§r. Don't waste fuel!%n%nYou can use up to 5 §6Coke Oven Hatches§r for automation. Don't let the §9Crescote Oil§r fill up, or the Oven will stop!%n%nMake some §bGregTech §6Wooden Barrels§r or §6Bronze Drums§r to store all the oil!
 
 # db 371 of mode expert
 nomifactory.quest.expert.db.371.title=Soft Mallet
@@ -6596,7 +6596,7 @@ nomifactory.quest.expert.db.908.desc=No Description
 
 # db 909 of mode expert
 nomifactory.quest.expert.db.909.title=§2Primitive Steelworks
-nomifactory.quest.expert.db.909.desc=A mixture of §6Clay, Brick, §cGypsum and Concrete§r produces §6Firebricks§r, used in building the §3Primitive Blast Furnace§r. §c%n%nSo far, your only available route for Concrete is adding Stone Dust, Quartz Sand, Clay and Calcite to a bucket of Water.§r%n%nThis allows you to make §6Steel§r from §6Wrought Iron§r (or with §6Iron§r, but its slower). Now you can make §7LV §6Machine Hulls§r!%n%nAlso allows you to make the §6Belt Pouch§r, to upgrade your §eTool Belt§r.
+nomifactory.quest.expert.db.909.desc=A mixture of §6Clay, Brick, §cGypsum and Concrete§r produces §6Firebricks§r, used in building the §3Primitive Blast Furnace§r. Given how slow the recipes run, you might want to eventually make more than one of these.%n%nSo far, your only available route for §6Concrete§r is adding §6Stone Dust§r, §6Quartz Sand§r, §6Clay§r and §6Calcite§r to a §6Bucket of Water§r. Have fun!%n%nThis allows you to make §6Steel§r from §6Wrought Iron§r (or with §6Iron§r, but its slower). Now you can make §7LV §6Machine Hulls§r!%n%nAlso allows you to make the §6Belt Pouch§r, to upgrade your §eTool Belt§r.
 
 # db 910 of mode expert
 nomifactory.quest.expert.db.910.title=§2Rhodium Plated Lumium-Palladium
@@ -6917,3 +6917,7 @@ nomifactory.quest.expert.db.1079.desc=There are more uses to your newly-crafted 
 # db 1081 of mode expert
 nomifactory.quest.expert.db.1081.title=Find My Items and Fluids
 nomifactory.quest.expert.db.1081.desc=§5Nomi-CEu§r also features §bFind My Items and Fluids.§r A mod that allows you to search any nearby inventories for §6Item§r and §9Fluids§r. Originally, you were able to do this with §bExtra Utilities 2§r, but it didn't support searching for fluids.%n%nThis mod features two hotkeys: §eT§r for searching items and §eY§r for searching fluids. To start, simply press §eT§r while hovering an item inside a GUI or with §bJEI§r. Any inventories containing the specified item will §6Emit a particle effect§r.%n%nWhile pressing §eY§r while hovering any fluid inside a GUI, any tanks or buckets containing the specified fluid will also emit a particle effect.%n%nNote that the said mod only matches the type of item, not §eMetadata§r or §eNBT§r. For example, when you search with said mod using a §6GregTech Wrench§r, it will match any GregTech wrench made from any material.%n%n§cKeep in mind nothing will happen if there are no fluids/items of that type nearby!§r
+
+# db 1082 of mode expert
+nomifactory.quest.expert.db.1082.title=Tiny Fuels
+nomifactory.quest.expert.db.1082.desc=To save your limited supplies of §6Coal§r, you may wish to transform it into §6Tiny Coal§r, which smelts exactly one item, saving you fuel in the §bFurnace!§r.%n%nSimply place your §6Coal§r in the §bCrafting Table§r. You can also change your Tiny Coal back into Coal at any time!%n%nNote: tiny versions are also available for §6Charcoal§r and §6Coal Coke§r, which you will unlock later.
