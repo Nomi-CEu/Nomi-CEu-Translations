@@ -62,6 +62,13 @@ config.nomilabs.mod_integration.effortlessbuilding.blocks.2=Max Blocks Placed (2
 config.nomilabs.mod_integration.effortlessbuilding.blocks.3=Max Blocks Placed (3 Upgrades)
 config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Max Blocks Placed (Creative)
 
+config.nomilabs.mod_integration.ae2_terminal=AE2 Terminal Options
+config.nomilabs.mod_integration.ae2_terminal.fluid=Fluid Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.interface=Interface Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_interface=Interface Configuration Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_fluid_interface=Fluid Interface Configuration Terminal Auto-Focusing
+config.nomilabs.mod_integration.ae2_terminal.cfg_interface_save=Save Interface Configuration Terminal Searches
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
@@ -126,6 +133,11 @@ config.nomilabs.advanced.difficulty.normal_override=Difficulty Override Normal
 config.nomilabs.advanced.difficulty.expert_override=Difficulty Override Expert
 
 # GUI
+nomilabs.top.steam_heating_up=Heating Up:
+nomilabs.top.steam_cooling_down=Cooling Down
+nomilabs.top.steam_venting_stuck.1=Steam Vent Stuck!
+nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
+
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
 
@@ -543,6 +555,7 @@ item.nomilabs.hand_framing_tool.desc4=If you wish to frame the tool in a Craftin
 item.nomilabs.hand_framing_tool.desc5=Then, once the tool is framed, right clicking any drawers in-world will frame them.
 item.nomilabs.hand_framing_tool.desc6=When right clicking any wood-type drawers in world, they will also be turned into framed drawers.
 
+item.nomilabs.tiny_coke.name=Tiny Coke
 item.nomilabs.info_item.name=Information
 
 item.nomilabs.pulsatingdust.name=Pulsating Dust
@@ -636,6 +649,8 @@ tooltip.nomilabs.info.ae2-stuff.2=§6Please use AE2 Pattern Terminals instead.§
 tooltip.nomilabs.info.ae2-stuff.3=§eAll Existing Items §l(including in Patterns),§r
 tooltip.nomilabs.info.ae2-stuff.4=§eBlocks, and usages in Recipes,§r
 tooltip.nomilabs.info.ae2-stuff.5=§ehave been replaced by AE2 Interfaces.§r
+
+tooltip.nomilabs.tiny_fuels=Smelts Exactly One Item in a Furnace!
 
 # Multiblocks
 tooltip.nomilabs.microverse_projector_1.description=§8A machine capable of stabilizing projection into microverses for basic micro miner missions.§r
