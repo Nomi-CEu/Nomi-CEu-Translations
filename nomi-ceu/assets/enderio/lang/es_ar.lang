@@ -1,0 +1,38 @@
+# line 51-53 of EnderIO.jar
+item.item_basic_capacitor.basic.name=Condensador básico de FR
+item.item_basic_capacitor.activated.name=Condensador de doble capa de FR
+item.item_basic_capacitor.ender.name=Condensador octádico de FR
+
+# line 1575-1577 of EnderIO.jar
+enderio.item_power_conduit.name=Conducto de energía de hierro conductivo
+enderio.item_power_conduit_ender.name=Conducto de energía de aleación vibrante
+
+# line 16,17,20,22,26,27 of EnderIO-endergy.jar
+enderio.item_endergy_conduit_iron.name=Conducto de energía de acero del End
+enderio.item_endergy_conduit_electrum.name=Conducto de energía de lumio
+enderio.item_endergy_conduit_copper.name=Conducto de energía de signalio
+enderio.item_endergy_conduit_cobble.name=Conducto de energía de enderio
+enderio.item_endergy_conduit_melodic.name=Conducto de energía de draconio
+enderio.item_endergy_conduit_stellar.name=Conducto de energía superconductor dracónico
+
+# line 1603 of EnderIO.jar
+tile.block_cap_bank.activated.name=Banco de condensadores avanzado
+
+# line 434 of EnderIO.jar
+tile.block_dark_iron_bars.name=Barrotes de acero oscuro
+enderio.item_power_conduit_enhanced.name=Conducto de energía de aleación energética
+
+# line 127-134 of EnderIO.jar
+item.item_dark_steel_helmet.name=Casco de acero oscuro
+item.item_dark_steel_leggings.name=Pantalones de acero oscuro
+item.item_dark_steel_chestplate.name=Pechera de acero oscuro
+item.item_dark_steel_boots.name=Botas de acero oscuro
+
+# line 154-161 of EnderIO.jar
+item.item_end_steel_helmet.name=Casco de acero del End
+item.item_end_steel_chestplate.name=Pechera de acero del End
+item.item_end_steel_leggings.name=Pantalones de acero del End
+item.item_end_steel_boots.name=Botas de acero del End
+
+# line 2245 of EnderIO.jar
+tile.block_enchanter.name=Encantador de acero oscuro

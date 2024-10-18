@@ -1,0 +1,5 @@
+key.toolbelt.cycle.right=Rotar cursor a la derecha
+text.toolbelt.tooltip=Mejoras: %s (%s Ranuras)
+key.toolbelt.open=Cambiar Herramienta
+key.toolbelt.slot=Abrir inventario de ranuras del cinturón
+key.toolbelt.cycle.left=Rotar cursor a la izquierda
