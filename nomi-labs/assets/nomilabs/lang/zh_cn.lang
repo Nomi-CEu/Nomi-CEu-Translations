@@ -583,3 +583,7 @@ nomilabs.gui.advanced_memory_card.mode.add_output=作为输出添加
 nomilabs.gui.advanced_memory_card.mode.add_input=作为输入添加
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=§a选定的 P2P§7被设置为§9输入§7，以§b绑定对象§7的频率。
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=§a选定的 P2P§7被设置为§9输出§7，以§b绑定对象§7的频率。
+tooltip.nomilabs.drawers.upgrades=§e升级保存在内§r
+tooltip.nomilabs.recipe.clearing=§c所以存储将会被清空！§r
+item.nomilabs.industrial_rebreather_kit.name=工业循环呼吸器套件
+tooltip.nomilabs.item.can_clear=放在合成栏来 §e清空存储§r！
