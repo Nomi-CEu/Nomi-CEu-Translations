@@ -1,0 +1,10 @@
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7Consommer pour Augmenter:§r
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3Portée du Placement§7 jusqu'à §e%s§7!§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3Portée§7 jusqu'à §e%s§7!§r
+effortlessbuilding.use.reach_upgrade.creative.1=Les Améliorations de Portée ne sont pas Nécessaires en Créatif!
+effortlessbuilding.use.reach_upgrade.creative.2=Vous voulez Quand Même Améliorer la Portée? Utilisez les Fichiers de Configuration!
+effortlessbuilding.use.reach_upgrade.success.1=§aAmélioré:§r
+effortlessbuilding.use.reach_upgrade.success.2=§3Portée de Placement§7 de §c%s §7à §e%s§r!
+effortlessbuilding.use.reach_upgrade.success.3=§3Portée§7 de §c%s §7à §e%s§r!
+effortlessbuilding.use.reach_upgrade.already_used=Cette Amélioration à Déjà été Utilisée!
+effortlessbuilding.use.reach_upgrade.previous=Vous devez utiliser l'Amélioration de Portée %s d'Abord!
