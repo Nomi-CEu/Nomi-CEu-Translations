@@ -18,3 +18,8 @@ item.ec.material_ender_star.name=Étoile Pleinement Final
 
 # line 69-70
 item.ec.material_ultimate_ingot.name=Lingot d'Omnium
+tile.ec.table_advanced.name=Table de Fabrication Etendue
+tile.ec.storage_ender_star.name=Bloc d'Etoiles Extrêmes
+tile.ec.table_ultimate.name=Table de Fabrication Etendue Ultime
+item.ec.singularity_ultimate.name=Motte d'Omnium
+tile.ec.table_elite.name=Table de Fabrication Etendue Elite
