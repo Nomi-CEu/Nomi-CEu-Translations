@@ -1,0 +1,7 @@
+ftbutilities.status.chunk.no_interact_block=§cVous ne pouvez pas interagir avec les Blocs dans ce Chunk!§r
+ftbutilities.status.chunk.no_interact_item=§cVous ne pouvez pas utiliser cet item dans ce chunk!§r
+ftbutilities.status.chunk.no_place_block=§cVous ne pouvez pas placer de Blocs dans ce chunk!§r
+ftbutilities.status.chunk.no_break_block=§cVous ne pouvez pas casser de Blocs dans ce Chunk!§r
+ftbutilities.status.chunk.no_attack=§cVous ne pouvez pas attaquer les Entités Amicales dans ce Chunk!§r
+ftbutilities.status.server.pvp=§cVous ne pouvez PvP Ici!§r
+ftbutilities.status.server.item_disabled=§cItem Désactivé!§r
