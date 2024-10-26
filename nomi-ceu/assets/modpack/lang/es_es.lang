@@ -117,9 +117,3 @@ nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 Nivel de EXP!§r
 nomiceu.tooltip.ae2.tiny_tnt.2=§b¡En cambio, utiliza una señal de Redstone para activarlo!§r
 nomiceu.tooltip.eio.facade=§c¡Puede causar lag de FPS si se usa excesivamente!§r
 nomiceu.tooltip.ae2.matter_cannon.2=§b¡Se rellena con munición como una Célula de Almacenamiento!§r
-nomiceu.tooltip.ae2.p2p.type=
-nomiceu.tooltip.gregtech.facade=
-nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=
-nomiceu.tooltip.nc.nbt_clearing.cooler.warning=
-nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=
-nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=
