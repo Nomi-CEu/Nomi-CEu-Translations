@@ -5,4 +5,3 @@ button.de.assembleCore.start.txt=Commencer à Assembler le Noyau
 button.de.assembleCore.instant.txt=Assembler le Noyau
 button.de.assembleCore.stop.txt=Arrêter d'Assembler le Noyau
 ecore.de.assemble_missing_required_new.txt=Impossible de compléter la structure! Il manque ce(s) bloc(s): %s.
-ecore.gui.invalid_block.txt=
