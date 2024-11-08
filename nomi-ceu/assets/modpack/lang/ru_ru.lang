@@ -75,3 +75,12 @@ nomiceu.tooltip.gregtech.prospector.3=Нажмите на руду в боков
 nomiceu.tooltip.eio.fused_glass.make=Сделано из §6Закаленного стекла§r и §7Белого красителя§r
 nomiceu.tooltip.gregtech.prospector.4=Используйте JEI, чтобы узнать возможную глубину жилы.
 nomiceu.tooltip.gregtech.facade=§3Фасады в GTCEu могут быть изготовлены из большинства не-тайловых энтити.§r
+nomiceu.tooltip.eio.glass.dye=Можно §bОкрасить§r!
+nomiceu.tooltip.eio.liquid_xp=§e20Л = 1 ед. опыта, 500Л = 1 уровень!§r
+nomiceu.tooltip.projectred.wire=§eДля использования с ProjectRed.§r
+nomiceu.tooltip.eio.facade=§cМожет вызвать задержку FPS при чрезмерном использовании!§r
+nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§cОхладитель будет уничтожен!§r
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Поместите в сетку создания, чтобы §eОчистить содержимое§r!
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=Улучшения будут §aСохранены§r!
+nomiceu.tooltip.xtones.lamp=§eТребуется редстоун сигнал чтобы включить.§r
+nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=Поместите в Сетку создания, чтобы §eУбрать охладитель§r!
