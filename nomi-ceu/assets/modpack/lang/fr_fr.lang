@@ -1,4 +1,4 @@
-nomifactory.nonetherportals=Les portails du Nether sont désactivé dans §5Nomi-CEu§r. Suis les quête du livre afin de débloquer le §6Gâteau du Nether§r!
+nomifactory.nonetherportals=Les portails du Nether sont désactivé dans §5Nomi-CEu§r. Suis les quête du livre afin de débloquer le §6Gâteau du Nether§r !
 nomiceu.tooltip.ae2.crafting_terminal_removal.3=§cVérifiez sur JEI pour plus de détails.§r
 nomiceu.tooltip.ae2.p2p_reset_me_shapeless=§5Réinitialise les P2P en P2P ME!§r
 nomiceu.tooltip.mixed.fillable=Peut être rempli avec la §bMachine de Mise en Conserve§r.
@@ -39,7 +39,7 @@ nomiceu.tooltip.ae2.storage_cell=§eShift + Clique-Droit en le tenant pour le re
 nomiceu.tooltip.ae2.hyper_acceleration_card.1=§bUne version encore plus rapide de la Card d'Accélération!§r
 nomiceu.tooltip.ae2.hyper_acceleration_card.2=§cMarche seulement dans les Ports IO ME.§r
 nomiceu.tooltip.ae2.storage_exposer.warning=§cPeut causer su l'âge TPS si utilisé sur des trop gros réseaux sans filtres!§r
-nomiceu.tooltip.ae2.tiny_tnt.1=§cNe peut pas être allumé avec un briquet!
+nomiceu.tooltip.ae2.tiny_tnt.1=§cNe peut pas être allumé avec un briquet !
 nomiceu.tooltip.ae2.crafting_card=§ePermet aux machines de fabriquer automatiquement des objets au fur et à mesure qu'ils sont épuisés.§r
 nomiceu.tooltip.ae2.magnet_card=§eRamassez vos items et les mets dans votre système AE.§r
 nomiceu.tooltip.ae2.sticky_card=§eLes items configurés peuvent SEULEMENT aller dans cette machine ME!§r
@@ -73,7 +73,7 @@ nomiceu.tooltip.labs.hand_framing.drawer=§5Encadrez vos Tiroirs à la Main !§r
 nomiceu.tooltip.labs.hand_framing.top_left=§5Haut Gauche : §oCoté§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5Bas Gauche : §oAvant§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§cLe Liquide de Refroidissement sera Vidé !§r
-nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Placez dans une Grille de Fabrication pour §eVider le Contenu§r!
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Placez dans une Grille de Fabrication pour §eVider le Contenu§r !
 nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=Les Améliorations seront §aGardées§r !
 nomiceu.tooltip.labs.hand_framing.top_right=§5Haut Droit : §oParrage§r
 nomiceu.tooltip.gregtech.prospector.2=Carreaux de grilles = 1 chunk, le haut est le Nord.
