@@ -188,7 +188,7 @@ nomifactory.quest.normal.db.34.desc=这种合金由§2 2 个金粉、1 个红石
 
 # db 35 of mode normal
 nomifactory.quest.normal.db.35.title=§2充能合金
-nomifactory.quest.normal.db.35.desc=另一种合金。%n%n§2在EV时代，你可以建造一座合金冶炼炉，使获得的合金产量翻倍。
+nomifactory.quest.normal.db.35.desc=另一种合金。%n%n§2在 EV 时代，你可以建造一座合金冶炼炉，使获得的合金产量翻倍。
 
 # db 37 of mode normal
 nomifactory.quest.normal.db.37.title=橡胶板
@@ -3569,7 +3569,7 @@ nomifactory.quest.expert.db.2.desc=注意：这个任务接受 LV 或 MV 的装�
 
 # db 3 of mode expert
 nomifactory.quest.expert.db.3.title=§c更难的§2开始
-nomifactory.quest.expert.db.3.desc=欢迎来到 §5Nomi§2-CEu§c 专家模式§r！%n%n这个整合包最好在§b失落城市（Lost Cities）或主世界§r游玩。%n%n如果你有队友，不要忘记将他邀请进§e任务书队伍§r。%n%n小贴士：你可以随时使用§e波浪键（esc 下面那个键）§r打开§6任务书§r！%n%n§r如果你想在空岛造自己的基地，那就把§6虚空世界蛋糕§r放在地上，然后吃一口。不过采矿还是要回到失落城市/主世界的，但是在§e虚空世界，你可以自由自在的在一个安全的地方建造你的基地§r。%n%n§2GTCEu§r 的新功能会用§2深绿色（color 2）§r标出，§c专家模式§r的独有功能会用§c红色（color C）§r标出。%n%n上文是该任务的全部内容，接下来说说译者想说的：%n%n1.gtnh.huijiwiki.com是另一个格雷科技整合包“格雷科技：新视野”的wiki站点，虽然nomiceu和gtnh两者没有任何关系，不过部分关于格雷科技，应用能源，末影接口的问题可以在上面查查，说不定会有什么收获。%n%n2.译者自己本身也是萌新，在nomiceu也仅游玩到了装配线部分，也就是说IV之后我都没玩过，所以任务上有错误的地方请反馈给我，我会尝试修改。%n%n3.本人英语是半吊子水平，具体翻译方式是deepL机翻后再手动修改，所以语句可能会比较生硬。%n%n4.格雷科技的物品配方迭代较快，你应该每升到一个新电压（一般我们是以能否制作出某电压的机械外壳为准），制作出几个新机器，甚至准备制作这个物品的时候多看看jei，说不定会找到当前能用的效率更高的配方，尤其是电路板，电路板的配方迭代极快，而且由于电路板的成本较高，所以一定要时常注意。（不看小心血亏一堆材料，真空管就是一个很好的例子）%n%n就这样，我是Ede1weiss，感谢你使用我的汉化。也感谢每一个给予我帮助的人。%n%n二注：这个汉化现在是使用zero6six的普通版汉化略微修改得到的，目前只支持1.7.alpha.1，回头再考虑其他版本。%n%n三注：当前版本由XingRen针对部分无法理解的机翻文本与之前汉化缺少的内容进行了校对，可能会进一步长期维护。%n%n四注（20240918）：在 1.7 版本，Zero6six 对大量的普通版汉化进行了优化，使之更符合中文习惯，专家版汉化也因此得以改进。
+nomifactory.quest.expert.db.3.desc=欢迎来到 §5Nomi§2-CEu§c 专家模式§r！%n%n这个整合包最好在§b失落城市（Lost Cities）或主世界§r游玩。%n%n如果你有队友，不要忘记将他邀请进§e任务书队伍§r。%n%n小贴士：你可以随时使用§e波浪键（esc 下面那个键）§r打开§6任务书§r！%n%n§r如果你想在空岛造自己的基地，那就把§6虚空世界蛋糕§r放在地上，然后吃一口。不过采矿还是要回到失落城市/主世界的，但是在§e虚空世界，你可以自由自在的在一个安全的地方建造你的基地§r。%n%n§2GTCEu§r 的新功能会用§2深绿色（color 2）§r标出，§c专家模式§r的独有功能会用§c红色（color C）§r标出。%n%n上文是该任务的全部内容，接下来说说译者想说的：%n%n1.gtnh.huijiwiki.com是另一个格雷科技整合包“格雷科技：新视野”的wiki站点，虽然nomiceu和gtnh两者没有任何关系，不过部分关于格雷科技，应用能源，末影接口的问题可以在上面查查，说不定会有什么收获。%n%n2.译者自己本身也是萌新，在nomiceu也仅游玩到了装配线部分，也就是说IV之后我都没玩过，所以任务上有错误的地方请反馈给我，我会尝试修改。%n%n3.本人英语是半吊子水平，具体翻译方式是deepL机翻后再手动修改，所以语句可能会比较生硬。%n%n4.格雷科技的物品配方迭代较快，你应该每升到一个新电压（一般我们是以能否制作出某电压的机械外壳为准），制作出几个新机器，甚至准备制作这个物品的时候多看看jei，说不定会找到当前能用的效率更高的配方，尤其是电路板，电路板的配方迭代极快，而且由于电路板的成本较高，所以一定要时常注意。（不看小心血亏一堆材料，真空管就是一个很好的例子）%n%n就这样，我是Ede1weiss，感谢你使用我的汉化。也感谢每一个给予我帮助的人。%n%n二注：这个汉化现在是使用zero6six的普通版汉化略微修改得到的，目前只支持1.7.alpha.1，回头再考虑其他版本。%n%n三注：当前版本由XingRen针对部分无法理解的机翻文本与之前汉化缺少的内容进行了校对，可能会进一步长期维护。%n%n四注（20240918）：在 1.7 版本，zero6six 对大量的普通版汉化进行了优化，使之更符合中文习惯，专家版汉化也因此得以改进。20241122：非常感谢 xiaozi0721 做完了 zero6six 没修完的几百条汉化。
 
 # db 4 of mode expert
 nomifactory.quest.expert.db.4.title=需要铁
@@ -3697,7 +3697,7 @@ nomifactory.quest.expert.db.34.desc=这种合金由§2 2 个金粉、1 个红石
 
 # db 35 of mode expert
 nomifactory.quest.expert.db.35.title=§2充能合金
-nomifactory.quest.expert.db.35.desc=另一种合金。%n%n§2在EV时代，你可以建造一座合金冶炼炉，使获得的合金产量翻倍。
+nomifactory.quest.expert.db.35.desc=另一种合金。%n%n§2在 EV 时代，你可以建造一座合金冶炼炉，使获得的合金产量翻倍。
 
 # db 37 of mode expert
 nomifactory.quest.expert.db.37.title=橡胶板
@@ -6902,3 +6902,5 @@ nomifactory.quest.expert.db.1057.desc=六阶 AE §6存储组件§r。用于制�
 nomifactory.quest.expert.db.1062.desc=倒数第二阶流体存储组件，用于制作§a4069k 流体存储元件§r。%n%n快到了！
 nomifactory.quest.expert.db.1059.desc=终极 AE §6存储组件§r。用于制作§a存储元件§r或者§a合成存储器§r。%n%n几乎是无限存储空间！
 nomifactory.quest.expert.db.1060.title=256k 流体存储
+nomifactory.quest.expert.db.1072.desc=通过 §aME 存储暴露器（ME Storage Exposer）§r 可以访问你网络里的所有物品和流体。%n%n它就像§a抽屉管理器§r：你可以直接用§6导管§r、§6覆盖板§r或者其他 ME 部件，比如§a存储总线§r或者 §aP2P§r与它交互。%n%n§c强大的功能伴随而来的是相应的性能开销§r：越多能访问的东西就越卡。用§e过滤子网络§r来减少访问的东西会更好。%n%n例如，你可以建造一个由 §aME 矿典存储总线§r和 Exposer 组成的子网络。如果你想把所有矿石放到子网络，你可以在存储总线里填上 §eore*§r。
+nomifactory.quest.expert.db.1082.desc=为了节省有限的§6煤炭§r，你可以将它搓成§6小块煤炭§r，小块煤炭每个刚好可以熔炼一个物品。%n%n只需将§6煤炭§r放进§b工作台§r就能合成。你也可以随时把小块煤炭合成成煤炭！%n%n注意：小块的燃料同样适用于§6木炭§r和§6焦煤§r。
