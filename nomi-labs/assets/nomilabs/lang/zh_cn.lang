@@ -590,3 +590,7 @@ tooltip.nomilabs.item.can_clear=放在合成栏来 §e清空存储§r！
 tooltip.nomilabs.tiny_fuels=在熔炉内精准燃烧一个物品！
 item.nomilabs.tiny_coke.name=小块焦煤
 config.nomilabs.mod_integration.ae2_terminal=AE2终端设置
+nomilabs.top.steam_venting_stuck.1=蒸汽排气口受阻！
+nomilabs.top.steam_venting_stuck.2=使用扳手更改排气口方向！
+nomilabs.top.steam_heating_up=升温中：
+nomilabs.top.steam_cooling_down=冷却
