@@ -30,6 +30,7 @@ config.nomilabs.content.gt_content=Custom GT Content Settings
 config.nomilabs.content.gt_content.tooltip=Custom GT Content Settings
 config.nomilabs.content.gt_content.materials=Enable Custom GT Materials
 config.nomilabs.content.gt_content.perfect_gems=Enable Perfect Gems
+config.nomilabs.content.gt_content.items=Enable Custom GT Items
 config.nomilabs.content.gt_content.blocks=Enable Custom GT Blocks
 config.nomilabs.content.gt_content.old_multiblocks=Enable Old Multiblocks
 config.nomilabs.content.gt_content.new_multiblocks=Enable New Multiblocks
