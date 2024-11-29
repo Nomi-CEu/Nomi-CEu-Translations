@@ -84,10 +84,6 @@ nomifactory.quest.normal.db.6.desc=Before you continue, you'll need access to so
 nomifactory.quest.normal.db.7.title=§2Cables
 nomifactory.quest.normal.db.7.desc=The most basic cables, such as these §6Red Alloy Cables§r, can be wrapped in their §6Rubber§r insulation by hand.%n%nMore advanced types of cables will require an §3Assembling Machine§r and liquid §9Rubber§r, but you can do it the simple way for now.%n%n§2CEu has GT6-style pipes and cables on by default. §rYou will need to use §aWire Cutters§r to connect each side of a cable to machines or other cables. Placing it against the machine or cable automatically connects it as well. The same behaviour follows for GT pipes, whose tool is the §aWrench§r.%nThis can save you from energy or fluids going the wrong way. But if you don't like this, disable the config option for "GT6 style pipes and cables" in the GregTech config file.%n%n§2GT cables now support RF conversion natively! §rYou can plug an §dRF§r machine into an §dEU§r cable directly and it will convert the energy. You cannot, however, plug an §dRF§r power source directly into an §dEU§r cable.
 
-# db 8 of mode normal
-nomifactory.quest.normal.db.8.title=The Third Tier Three Circuits
-nomifactory.quest.normal.db.8.desc=With three §6Microcircuits§r and some standard components, you can upgrade to the penultimate Tier Three circuit: a §6Microprocessor§r.
-
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2Ore Doubling?
 nomifactory.quest.normal.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Nomifactory, though§r. Ore veins are massive, and mining is extremely fast with §aMining Hammers§r. What's more, even once you get access to §3Macerators§r, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials or anything you buy with §dNomicoins §rbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have the §2Steam Grinder§e, or Medium Voltage machines or even later.§r
@@ -420,10 +416,6 @@ nomifactory.quest.normal.db.95.desc=§9Ethylene§r is a hydrocarbon obtained fro
 nomifactory.quest.normal.db.96.title=Polyethylene
 nomifactory.quest.normal.db.96.desc=§9Polyethylene (PE)§r is the most common category of plastic, made from polymers of §9Ethylene§r. Adding §9Oxygen§r in a §3Chemical Reactor§r recreates (with some artistic license) early accidental synthesis of Polyethylene.%n%nWhen you have large amounts of §6Rutile§r and §6Bauxite§r (probably after you visit the Moon) you can consider using §9Titanium Tetrachloride§r as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for §6Titanium§r.%n%nForm §6Polyethylene Sheets§r using a §3Fluid Solidifier§r and a §aPlate Mold§r for use in crafting electronics components. You'll need both the liquid and the sheets. For §9Polyethylene (PE)§r pipes, you can either pulverise your sheets into dust and use those in the extruder, or solidify §9Polyethylene (PE)§r into §6Polyethylene Bars§r seperately.
 
-# db 97 of mode normal
-nomifactory.quest.normal.db.97.title=Keeping Stuff In Stock
-nomifactory.quest.normal.db.97.desc=If you didn't know, you can have stacks of items stored inside of an §aME Interface§r. Placing a §aStorage Bus§r onto the ME Interface lets you access and use those items in recipes. Putting a §aCrafting Card§r inside the Interface will let the Interface automatically place autocraft orders for items it should stock but you don't have.%n%nThis approach can be used for autocrafting to some extent, but proceed with caution as crafting cards can produce a great deal of lag on larger ME Networks. AE calculates the full crafting tree of these items every time a request is made, even if you have enough items already in stock.%n%nThus, it is strongly recommended to limit Crafting Cards to simple recipes (ones without many dependent recipes) and ideally on smaller purpose-built networks.%n%nPrefer passive autocrafting methods on your main network, or if things are gonna get complicated.
-
 # db 98 of mode normal
 nomifactory.quest.normal.db.98.title=Stainless Steel
 nomifactory.quest.normal.db.98.desc=§6Stainless Steel§r will be your primary material for HV, in the same way that §6Aluminium§r was for MV and §2Steel§r was for LV.%n%n§6Manganese§r comes from electrolyzing §6Tantalite§r, §6Pyrolusite§r, or §6Spessartine Dusts§r. You already have §6Chrome§r.%n%nMix up a bunch of the dust in a MV §3Mixer§r and begin processing it through the §3Electric Blast Furnace§r. This may be a good time to reevaluate your power generation and storage infrastructure.%n%nYou will need HV power to smelt this, which you can achieve with 2 MV Energy Hatches.
@@ -516,10 +508,6 @@ nomifactory.quest.normal.db.119.desc=The third tier of component for AE §6Item 
 nomifactory.quest.normal.db.120.title=64k Item Storage
 nomifactory.quest.normal.db.120.desc=The fourth tier of component for AE §6Item Storage§r.%n%nUsed for storing large amounts of items or information, like in a §a64k ME Storage Cell§r or a §a64k Crafting Storage§r.
 
-# db 121 of mode normal
-nomifactory.quest.normal.db.121.title=IV Compressor
-nomifactory.quest.normal.db.121.desc=This compressor is needed for making §6Signalum Heavy Plating§r.
-
 # db 122 of mode normal
 nomifactory.quest.normal.db.122.title=4k Fluid Storage
 nomifactory.quest.normal.db.122.desc=The second fluid storage component, used for §a4k Fluid Storage Cells§r.
@@ -567,10 +555,6 @@ nomifactory.quest.normal.db.134.desc=Better substrates. Using §6Polyvinyl Chlor
 # db 135 of mode normal
 nomifactory.quest.normal.db.135.title=§2The Third And Final Tier Two Circuits
 nomifactory.quest.normal.db.135.desc=§2Unique to this tier of Circuit, this MV circuit doesn't require the previous tier to craft.§r These are the best kind of Tier Two circuits you can make, and you won't unlock the better recipes for quite a while.%n%nYou should absolutely automate the production of these circuits, and §ekeep a stockpile automatically crafted§r so you don't have to wait around for them or bloat your crafting orders making them on-demand through AE.
-
-# db 136 of mode normal
-nomifactory.quest.normal.db.136.title=Small Coils
-nomifactory.quest.normal.db.136.desc=Another electronic component.%n%nMaking it inside an §3Assembling Machine§r is much, much cheaper than by hand, and using §6Nickel Zinc Ferrite§r bolts gives even better returns.
 
 # db 138 of mode normal
 nomifactory.quest.normal.db.138.title=§2LuV Machine Hulls
@@ -652,14 +636,6 @@ nomifactory.quest.normal.db.158.desc=§6Nichrome§r is an alloy of §6Nickel§r 
 nomifactory.quest.normal.db.159.title=§2Nichrome Coil Blocks
 nomifactory.quest.normal.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.%n%nNotice that an §6HV §3Assembler§r is required to make them. Each tier of coil requires their tier of Assembler - we won't remind you again.%n%n§d3600K§r is now also hot enough to grant a single §d100%% efficient overclock§r to 1800K and below recipes. This means that one overclock will grant §d4x speed§r instead of the normal §d2x§r. In effect, you will get an additional 2x speed boost by overclocking once.%n%nThis means that the gas-boosted recipe for §6Aluminium§r will get cut from about §e7s§r to §e3s§r at HV. Once you upgrade your EBF to EV power, §6Stainless Steel Ingots§r will get cut from about §e37s§r to §e9s§r! It's well worth upgrading the EBFs producing these materials to §6Nichrome§r once you can afford it.%n%nLater coils will give similar bonuses. Additionally, the EBF's temperature will increase by §d100K§r for each voltage tier above MV, which could make a difference for future materials.
 
-# db 160 of mode normal
-nomifactory.quest.normal.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
-nomifactory.quest.normal.db.160.desc=First, you need some §9Oil§r. Pick your favorite method: you should engineer a renewable automated source, as you will need large quantities.%n%nStart off by running the Oil through the §3Distillation Tower§r. This will result in §9Sulfuric Heavy Fuel§r, §9Sulfuric Light Fuel§r, §9Sulfuric Naphtha§r, and §9Sulfuric Gas§r.%n%nThese will all need to be hydrodesulfurized using §9Hydrogen§r in a §3Chemical Reactor§r, which produces the non-Sulfuric versions.%n%nAll of these products are useful, so figure out how you want to store the variety and large quantities of fluids.
-
-# db 161 of mode normal
-nomifactory.quest.normal.db.161.title=§2Refinery Gas
-nomifactory.quest.normal.db.161.desc=Like other petroleum products, §9Sulfuric Gas §2or Natural Gas§r is hydrodesulfurized into §9Refinery Gas§r using §9Hydrogen§r in a §3Chemical Reactor§r.%n%nRefinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for §3Gas Turbines§r. While it can be burned directly, centrifuging Refinery Gas produces §9LPG§r (Liquefied Petroleum Gas), which is an ideal fuel for Gas Turbines, and §9Methane§r which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
-
 # db 162 of mode normal
 nomifactory.quest.normal.db.162.title=Canola Press
 nomifactory.quest.normal.db.162.desc=The §3Canola Press§r is a machine that uses RF power to extract §9Canola Oil§r from §6Canola§r.%n%nCanola Oil can be turned into §9Glycerol§r and §9Bio Diesel§r in a §3Chemical Reactor§r.%n%nRefining, Crystallizing, or Empowering the Canola Oil first allows you to make Glycerol and Bio Diesel more efficiently.
@@ -668,29 +644,9 @@ nomifactory.quest.normal.db.162.desc=The §3Canola Press§r is a machine that us
 nomifactory.quest.normal.db.163.title=Seed Oil, Fish Oil, Canola Oil
 nomifactory.quest.normal.db.163.desc=A whole host of fluids can be used as the feedstock for your §9Bio Diesel§r, including §9Seed Oil§r, §9Fish Oil§r, and the various tiers of §9Canola Oils§r.%n%nFish Oil and Canola Oil are probably the easiest, but it's up to you to choose.%n%nFish are easiest to get from §aGuardian Models§r from §bDME§r.
 
-# db 164 of mode normal
-nomifactory.quest.normal.db.164.title=Heavy Fuel
-nomifactory.quest.normal.db.164.desc=§9Heavy Fuel§r is mixed with §9Light Fuel§r to create §9Diesel§r.%n%nSince Diesel requires more Light than Heavy fuel, you should consider Steam-cracking and distilling the excess quantity of Heavy Fuel for its useful constituents.
-
-# db 165 of mode normal
-nomifactory.quest.normal.db.165.title=§2Light Fuel
-nomifactory.quest.normal.db.165.desc=§2Light Fuel's distillates are now more useful, and it is the only source of Octane for High-Octane Gasoline.%nBut if you choose to produce Diesel, a large proportion of the Light Fuel you produce still has to go into Diesel production.
-
-# db 166 of mode normal
-nomifactory.quest.normal.db.166.title=Naphtha
-nomifactory.quest.normal.db.166.desc=§9Naphtha§r is best utilized for Steam-Cracking and distilling for its constituents.%n%nNotably it contains §9Light Fuel§r and §9Heavy Fuel§r for making more §9Diesel§r, as well as many other useful chemicals for a variety of purposes.
-
-# db 167 of mode normal
-nomifactory.quest.normal.db.167.title=§2Hydrogen Sulfide
-nomifactory.quest.normal.db.167.desc=§9Hydrogen Sulfide§r is a byproduct of hydrodesulfurization. §2It also comes from distilling Liquid Nether Air.§r%n%nA simple chemical reaction with §9Oxygen§r reprocesses it into the useful §9Sulfuric Acid§r, or it can be electrolyzed for recovering the §9Hydrogen§r.
-
 # db 168 of mode normal
 nomifactory.quest.normal.db.168.title=Diesel
 nomifactory.quest.normal.db.168.desc=§9Diesel§r is a mixture of §9Light Fuel§r and §9Heavy Fuel§r.%n%nThe primary use is for making §2Cetane-Boosted Diesel§r, which you will want to stockpile in large quantities for the later production of §6Draconium §2(unless you use Gasoline instead).%n%nThe performance of Combustion Generators is also improved, but you probably want to refine Diesel anyway.%n%n§2It's more power efficient to use singleblock Distilleries over a Distillation Tower for Oil, due to the overclocking mechanics being different. However, it is still recommended to use Distillation Towers, to get the other useful byproducts too. For Diesel, the correct ratio is 3 Distilleries for Light Oil and 2 Distilleries for Heavy Oil.
-
-# db 169 of mode normal
-nomifactory.quest.normal.db.169.title=§2Palladium
-nomifactory.quest.normal.db.169.desc=§6Palladium§r is found in §6Palladium Ore§r, which is found alongside §6Platinum Ore§r. ou can also get Palladium from Platinum Group Processing§r. If you haven't found a vein yet, you should buy some.%n%nPalladium is smelted in the §3Electric Blast Furnace§r.
 
 # db 170 of mode normal
 nomifactory.quest.normal.db.170.title=Sodium Hydroxide
@@ -768,10 +724,6 @@ nomifactory.quest.normal.db.188.desc=§6Epoxy Circuit Boards§r are a more advan
 nomifactory.quest.normal.db.190.title=Nano CPUs
 nomifactory.quest.normal.db.190.desc=§6Nano CPUs§r are advanced §6Circuit Wafers§r made from infusing a §6CPU Wafer§r with §6Carbon Fibers§r and §9Energized Glowstone§r in a §3Chemical Reactor§r.%n%nThen, cut the resulting wafer into dies using a §3Cutting Machine§r.
 
-# db 191 of mode normal
-nomifactory.quest.normal.db.191.title=The Fourth And Final Tier Two Circuits
-nomifactory.quest.normal.db.191.desc=Using your new §6Epoxy Circuit Boards§r and some familiar components, you can now make the final form of Tier Two Circuit: the §6Microcircuit§r.%n%nYou craft four of these at once, and they're pretty cheap. Consider that you used to have to make §6Primitive Processors§r for this tier, and realize how far you've come.%n%nAs with the final form of any tier of circuits, be sure to set up automation to stockpile these. You won't get to the §6System-on-Chip§r variant recipe for a while yet.
-
 # db 192 of mode normal
 nomifactory.quest.normal.db.192.title=§2The First Tier Five Circuit
 nomifactory.quest.normal.db.192.desc=The first Mainframe you'll have to contend with.%n%nThis is the first Tier Five circuit available, and consequently the most expensive to make. as always, invest in the next circuit theme to get to cheaper recipes as soon as possible.
@@ -835,10 +787,6 @@ nomifactory.quest.normal.db.208.desc=At some point you might consider venturing 
 # db 209 of mode normal
 nomifactory.quest.normal.db.209.title=Advanced Extended Crafting Table
 nomifactory.quest.normal.db.209.desc=With the Extended Crafting Table, you can now craft 5x5 recipes.
-
-# db 210 of mode normal
-nomifactory.quest.normal.db.210.title=Steel Double Plates
-nomifactory.quest.normal.db.210.desc=Even simple rockets demand §6Double Plates§r for their construction. In this case, made out of §6Steel§r.
 
 # db 211 of mode normal
 nomifactory.quest.normal.db.211.title=Flightplan To The Moon
@@ -964,17 +912,9 @@ nomifactory.quest.normal.db.241.desc=§2Double Plates§r used exclusively for th
 nomifactory.quest.normal.db.242.title=Wetware Substrate
 nomifactory.quest.normal.db.242.desc=The most advanced substrate available, prepared for bleeding-edge bioengineering technology.%n%n§6Wetware Circuit Boards§r are the basis of §6Wetware§r circuits, the final theme that spans tiers six through nine.
 
-# db 243 of mode normal
-nomifactory.quest.normal.db.243.title=Tritanium Coils
-nomifactory.quest.normal.db.243.desc=The final tier of EBF Coils.
-
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=Draconic Reactor Core
 nomifactory.quest.normal.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§r, and §6Stabilized Einsteinium§r can be used in a Draconic Tier fusion crafting setup to create a §6Draconic Reactor Core§r.%n%nThis is an important component in the Tier Nine and Tier Ten Micro Miners, as well as some Endgame items.
-
-# db 245 of mode normal
-nomifactory.quest.normal.db.245.title=Titanium Double Plates
-nomifactory.quest.normal.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThis special plating is used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
 
 # db 248 of mode normal
 nomifactory.quest.normal.db.248.title=Space Station Assembler
@@ -1223,18 +1163,6 @@ nomifactory.quest.normal.db.312.desc=§6HSS-G§r is an alloy of §6Tungstensteel
 # db 313 of mode normal
 nomifactory.quest.normal.db.313.title=HSS-G Coil Block
 nomifactory.quest.normal.db.313.desc=§6HSS-G§r is the fifth coil material available, increasing your EBF's operating temperature to 5400K so it can process more advanced materials, such as §6Naquadah§r.
-
-# db 314 of mode normal
-nomifactory.quest.normal.db.314.title=§2Iridium Double Plates
-nomifactory.quest.normal.db.314.desc=§2Double Plates§r made from §6Iridium§r for Tier Five and Tier Eight Micro Miners.
-
-# db 315 of mode normal
-nomifactory.quest.normal.db.315.title=§2Signalum Double Plates
-nomifactory.quest.normal.db.315.desc=§2Double Plates§r required for the next two tiers of Micro Miners.
-
-# db 316 of mode normal
-nomifactory.quest.normal.db.316.title=§2Enderium Double Plates
-nomifactory.quest.normal.db.316.desc=§2Double Plates§r made from §6Enderium§r used for the Tier Six Micro Miner.
 
 # db 317 of mode normal
 nomifactory.quest.normal.db.317.title=Quantum Fluxed Eternium Heavy Plating
@@ -1536,10 +1464,6 @@ nomifactory.quest.normal.db.409.desc=Unlike §aRF power§r, which is safe to tra
 nomifactory.quest.normal.db.411.title=§2Large Microverse Projector
 nomifactory.quest.normal.db.411.desc=The §3Large Microverse Projector§r is a more powerful projector required for sending §6Tier Seven§r through §6Tier Ten Micro Miners§r into microverses.%n%nTier Seven missions will operate on §eLuV power§r, but higher energy tiers will be required for later missions. As with the prior projector, this structure supports overclocking and the position of buses and hatches can be swapped with any §6Microverse Projector Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
 
-# db 412 of mode normal
-nomifactory.quest.normal.db.412.title=Lunar Mining Station
-nomifactory.quest.normal.db.412.desc=The §3Lunar Mining Station§r is a large multiblock structure used for mining gases from the moon. It is an excellent (though not the only) source of §9Deuterium§r or §9Helium-3§r, depending on what kind of §6Rover§r you use.%n%nRovers only have a 10%% chance to break while mining, so a stack of them will last quite a while.%n%nWhile both available recipes require §eMV power§r, you can overclock it with higher tiers of power. The positions of hatches and buses can be swapped with any §6LuV Machine Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.%n%nBecause this structure must be placed on the Moon, it is a good idea to use mechanisms like §aEnder Tanks§r or a §6Quantum Link Chamber§r for teleporting the fluids back to your base.%n%nMake sure to keep it chunk-loaded!
-
 # db 413 of mode normal
 nomifactory.quest.normal.db.413.title=§2LV Extractor
 nomifactory.quest.normal.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%nWhen you have access to §6Steel§r, you can make molds and use §3Fluid Solidifiers§r to form various components more efficiently from fluids, like §6Gears§r.
@@ -1572,10 +1496,6 @@ nomifactory.quest.normal.db.490.desc=§oThis quest accepts any Autoclave from LV
 nomifactory.quest.normal.db.491.title=Veinmining Trees?
 nomifactory.quest.normal.db.491.desc=No need for Lumberaxes anymore, §dGregTech Axes§r will cut down entire trees for you. They won't destroy your Storage Drawer networks, too.%n%nThis quest accepts a §dGregTech Axe§r made from any material.
 
-# db 492 of mode normal
-nomifactory.quest.normal.db.492.title=Drill Baby Drill
-nomifactory.quest.normal.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
-
 # db 494 of mode normal
 nomifactory.quest.normal.db.494.title=Fluid Terminal
 nomifactory.quest.normal.db.494.desc=This terminal allows you to interact with fluid storage on your ME Network, like §aFluid Storage Disks§r.%n%nPut fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
@@ -1595,10 +1515,6 @@ nomifactory.quest.normal.db.497.desc=Great for automatically converting between 
 # db 498 of mode normal
 nomifactory.quest.normal.db.498.title=§2Soldering Alloy
 nomifactory.quest.normal.db.498.desc=When making circuits, you'll need either molten §9Tin§r, or molten §9Soldering Alloy§r. §2Soldering Alloy is made in the Mixer with 6 parts Tin Dust, 3 parts Lead Dust and 1 part Antimony Dust.§r You then process it in an §3Extractor §rfor the usual 144mB of fluid per unit.%n%nThe §2Circuit Assembler§r will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff, however, it is probably not worth it, due to the lack of antimony, whilst tin is infinite from DME, available later. However, you'll still need §9Soldering Alloy§r much later on for §3Assembly Lines§r.%n%n§2Antimony can be directly smelted from Stibnite Ore, allowing you to skip ore processing for this.
-
-# db 499 of mode normal
-nomifactory.quest.normal.db.499.title=Fine Copper Wire
-nomifactory.quest.normal.db.499.desc=Now that you have a §3Wiremill§r, you can turn one §6Copper Wire§r into four §6Fine Copper Wire§r. The recipes for §6Resistors§r, §6LV Motors§r and §6Vacuum Tubes§r all accept either type, so doing this extra processing step will make your §6Copper Ingots§r go §efour times further§r when making circuits.%n%nYou'll be making a lot more circuits from here on out, so it's definitely worthwhile to save your copper!
 
 # db 500 of mode normal
 nomifactory.quest.normal.db.500.title=§2The Third And Final Tier Three Circuits
@@ -1664,17 +1580,9 @@ nomifactory.quest.normal.db.517.desc=§6Robot Arms§r are components of several 
 nomifactory.quest.normal.db.519.title=Naquadah Reactor
 nomifactory.quest.normal.db.519.desc=The §3Naquadah Reactor§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%nIt has two versions, the §3Naquadah Reactor Mk1§r and the §3Naquadah Reactor Mk2§r. The latter produces significantly more power, but costs a large amounts of §dOmnium§r.
 
-# db 520 of mode normal
-nomifactory.quest.normal.db.520.title=The Second Tier Four Circuits
-nomifactory.quest.normal.db.520.desc=Four §6Microprocessors§r combined with §6Titanium Plates§r and a few other standard components will make a §6MicroSupercomputer§r.
-
 # db 521 of mode normal
 nomifactory.quest.normal.db.521.title=Resonant Upgrade Kit
 nomifactory.quest.normal.db.521.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a1000%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a1250 buckets§r.%n%nMachines operate at §a600%% of base speed§r.
-
-# db 522 of mode normal
-nomifactory.quest.normal.db.522.title=LuV Compressor
-nomifactory.quest.normal.db.522.desc=This compressor is needed for making §6Iridium Heavy Plating§r and §6Enderium Heavy Plating§r.
 
 # db 523 of mode normal
 nomifactory.quest.normal.db.523.title=§2The Second Tier Five Circuits
@@ -1775,10 +1683,6 @@ nomifactory.quest.normal.db.548.desc=§aMolds§r are used in a §3Fluid Solidifi
 # db 549 of mode normal
 nomifactory.quest.normal.db.549.title=§2Fluid Rig
 nomifactory.quest.normal.db.549.desc=§2Fluid Rigs will harvest fluids from underground fluid veins. Note that the fluid veins are simply simulated and don't exist in the world. §r%n%nShift-right-click while holding the §3Prospector's Scanner§r to set it to fluid mode, then right click it in order to see the type and amount of fluid underground and to check the depletion state of the vein. The first number represents the base amount of fluid extracted per second. You can also check the §eFluid Vein Information JEI§r page for information on where they spawn.%n%nIn the §eOverworld§r, it can harvest: §9Oil, Light Oil, Heavy Oil, Raw Oil, Natural Gas%nSalt Water§r (only in Ocean biomes)%n%nIn the §eNether§r: §eLava, Natural Gas§r%n%nOn the §eMoon§r: §9Deuterium, Helium-3§r%n%nIn the §eVoid§r: §9Raw Oil§r%n%nAs Fluid Rigs work, they will deplete the vein under them, reducing their yields. When a vein is depleted, it still yields a small amount of its fluid. The first tier of Fluid Rig takes §d100,000 operations§r to deplete a vein. Higher tier Fluid Rigs harvest fluids far faster and deplete veins slower.%n%nNote that regular oil veins and raw oil veins in the §eOverworld§r have §aequivalent§r depleted yield to the raw oil veins in the §eVoid§r: 40 regular oil or 80 raw oil, respectively.
-
-# db 550 of mode normal
-nomifactory.quest.normal.db.550.title=Vertical Digger
-nomifactory.quest.normal.db.550.desc=Place the §3Vertical Digger§r over an ore vein, feed it RF, and it will mine up the entire vein for you.%n%nFor drills, you will need a §6GregTech Drill§r (any LV drill will work), a §6Fluxbore§r (Reinforced tier is required) and an §6Actually Additions Drill§r (any color is fine, but take out any augments you wish to keep).%n%nThe GregTech Drill will not be consumed, but everything else will be.
 
 # db 551 of mode normal
 nomifactory.quest.normal.db.551.title=Phantom Booster
@@ -1912,10 +1816,6 @@ nomifactory.quest.normal.db.604.desc=No hypothetical aliens were harmed in the h
 nomifactory.quest.normal.db.605.title=Tier Ten Micro Miner
 nomifactory.quest.normal.db.605.desc=You have become Death, destroyer of Universes.%n%nMight probably be obvious, but this miner gathers a §6Heart of a Universe§r.
 
-# db 606 of mode normal
-nomifactory.quest.normal.db.606.title=Neutronium Double Plates
-nomifactory.quest.normal.db.606.desc=Kind of redundant, really.%n%nThese plates are used exclusively for the Tier Ten Micro Miner. You need some serious protection from forces when harvesting a whole microverse.
-
 # db 607 of mode normal
 nomifactory.quest.normal.db.607.title=§2Neutronium Ingot
 nomifactory.quest.normal.db.607.desc=§6Neutronium§r is a hyper-dense material normally found in the hearts of neutron stars: the collapsed cores of stars between ten and thirty times the size of the sun.%n%nFun fact: a single neutronium block is approximately 2884 million metric tons and somewhere around 600000K, yet you're somehow capable of holding one with your bare hands. Don't think about it too much.%n%nNeutronium is made from fusing molten §9Naquadria§r, a super-enriched form of §6Naquadah§r, with molten §9Americium§r, §2or from the Tier Eight Micro Miner.§r%n%nAfter getting §6Chaotic Fusion Injectors§r, you might consider using Tier Nine Micro Miners to supplement the fusion, as it is net-positive for Neutronium. These miners are expensive though, so it's up to you.
@@ -1935,10 +1835,6 @@ nomifactory.quest.normal.db.610.desc=§6Phantomfaces§r are powerful blocks adde
 # db 611 of mode normal
 nomifactory.quest.normal.db.611.title=Tough Alloy
 nomifactory.quest.normal.db.611.desc=§6Ferroboron§r is an alloy of §6Steel§r and §6Boron§r.%n%nAlloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
-
-# db 612 of mode normal
-nomifactory.quest.normal.db.612.title=ZPM Compressor
-nomifactory.quest.normal.db.612.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
 
 # db 613 of mode normal
 nomifactory.quest.normal.db.613.title=Element 001: Hydrogen
@@ -2388,10 +2284,6 @@ nomifactory.quest.normal.db.763.desc=A good, but slightly gated way of teleporti
 nomifactory.quest.normal.db.764.title=§2LV Circuits
 nomifactory.quest.normal.db.764.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§2Electronic Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2Integrated Circuits§r are the middle layer between §2Electronic Circuits and Microprocessors.§r%n%nAnd finally, §2Microprocessors§r, which take the lowest effort.
 
-# db 765 of mode normal
-nomifactory.quest.normal.db.765.title=What is This?
-nomifactory.quest.normal.db.765.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
-
 # db 766 of mode normal
 nomifactory.quest.normal.db.766.title=MV Circuits
 nomifactory.quest.normal.db.766.desc=Circuits along this line are MV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
@@ -2516,10 +2408,6 @@ nomifactory.quest.normal.db.795.desc=The §6Advanced System-on-Chip§r (or §6AS
 nomifactory.quest.normal.db.796.title=Naquadah Boules
 nomifactory.quest.normal.db.796.desc=The §6Naquadah-Doped Boule§r produces even more wafers per boule. It also is relatively cheap, due to the abundance of Naquadah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
 
-# db 797 of mode normal
-nomifactory.quest.normal.db.797.title=System-on-Chip
-nomifactory.quest.normal.db.797.desc=The §6System-on-Chip§r (or §6SoC§r) is a specialty component that miniaturizes all the typical circuit components (like §6SMDs§r) onto a single chip.%n%nThese are very useful as they unlock the most efficient recipes for creating §6Refined§r, §6Micro§r, and §6Nano Circuits§r.%n%nEach SoC-based circuit recipe requires a different minimum tier of §aAssembling Machine§r, with the Nano Circuits requiring §eLuV§r.
-
 # db 798 of mode normal
 nomifactory.quest.normal.db.798.title=Sunnarium
 nomifactory.quest.normal.db.798.desc=§6Sunnarium§r is an alloy formed from §6Stabilized Plutonium§r and §6Stabilized Curium§r in an IV or better §3Alloy Smelter§r.%n%nIt is a common ingredient in higher tier §6Solar Panels§r, as well as a crucial ingredient of the §3Processing Array§r.%n%nThis stuff takes a long time to produce so consider stocking it passively.
@@ -2575,10 +2463,6 @@ nomifactory.quest.normal.db.810.desc=§6Sulfur§r will be used in a variety of u
 # db 811 of mode normal
 nomifactory.quest.normal.db.811.title=Sulfur Ore
 nomifactory.quest.normal.db.811.desc=§6Sulfur Ore§r is the only source of §6Sulfur Dust§r that's currently available to you.%n%nYou may want to spend a few §dNomicoins§r on the ore to jumpstart your power storage.%n%nOtherwise the ore is only available in §athe Nether§r, and the only way to get there is with a §6Nether Cake§r. Oh no!
-
-# db 812 of mode normal
-nomifactory.quest.normal.db.812.title="Ethanol" and "Sulfuric Acid"
-nomifactory.quest.normal.db.812.desc=No Description
 
 # db 813 of mode normal
 nomifactory.quest.normal.db.813.title=§2Material Tree
@@ -2686,7 +2570,7 @@ nomifactory.quest.normal.db.838.desc=§2Systems on Chip can be engraved with HV 
 
 # db 839 of mode normal
 nomifactory.quest.normal.db.839.title=§2Crystal Growing
-nomifactory.quest.normal.db.839.desc=§2Your first few Raw Crystal Chips must be grown in an Autoclave from liquid Enderium, or more efficiently with Europium, and Exquisite Emeralds or Exquisite Olivine.%n%nAfter the first few, you can smash them into pieces using a Forge Hammer, and duplicate them with Bacterial Sludge, Mutagen, or more Europium or Enderium.%n%nBacterial Sludge can later be obtained in the byproducts of getting Stem Cells.
+nomifactory.quest.normal.db.839.desc=Your first few §6Raw Crystal Chips§r must be grown in an §bAutoclave§r from liquid §9Enderium§r, or more efficiently with §9Europium§r, and §6Exquisite Emeralds§r or §6Exquisite Olivine§r.%n%nAfter the first few, you can smash them into pieces using a §bForge Hammer§r, and duplicate them with §9Bacterial Sludge§r, §9Mutagen§r, or more §9Europium§r or §9Enderium§r.%n%n§9Bacterial Sludge§r can later be obtained in the byproducts of getting §6Stem Cells§r.
 
 # db 840 of mode normal
 nomifactory.quest.normal.db.840.title=§2Advanced Processing Array
@@ -2767,10 +2651,6 @@ nomifactory.quest.normal.db.858.desc=§2The Alloy Blast Smelter directly smelts 
 # db 859 of mode normal
 nomifactory.quest.normal.db.859.title=§2Gregicality Multiblocks
 nomifactory.quest.normal.db.859.desc=§2With advanced alloys from the Alloy Blast Smelter and IV Machines, you can make large versions of most GT machines.%n%n§rThese are formed like multiblocks. You can add a §3Parallel Control Hatch§r in order to allow them to process §dmore recipes§r at the same time, similarly to a §3Processing Array§r. The highest tier of Parallel Control Hatch can facilitate processing §d256 recipes§r at once!%n%nSearch "@gregicality" or look up the usages of Parallel Hatches in JEI to see details of all the multiblock machines. The §6Pattern Multi-Tool§r can be used to easily multiply patterns to fully benefit from multiblock parallel capabilities.%n%nMost of the advanced alloys used to make the casings of these multiblocks are made in the §3Alloy Blast Smelter§r. If you can't seem to find the recipes for them, look for the §eMolten Fluid§r form.
-
-# db 860 of mode normal
-nomifactory.quest.normal.db.860.title=§2Chemical Plant
-nomifactory.quest.normal.db.860.desc=§2The ultimate reactor. It is compatible with Parallel Control Hatches and can be configured to run Large Chemical Reactor or normal Chemical Reactor recipes.
 
 # db 861 of mode normal
 nomifactory.quest.normal.db.861.title=§2Upgraded EBF and Freezer
@@ -2876,17 +2756,9 @@ nomifactory.quest.normal.db.885.desc=§2Do you remember Darmstadtium tools in CE
 nomifactory.quest.normal.db.886.title=§2Debug Scanner
 nomifactory.quest.normal.db.886.desc=§2The Portable Scanner, or Tricorder, is GTCEu's debug tool. §rIt shows you a block's details, the details of the energy network, its current status and contents, and its impact on performance.%n%nUsing this anywhere will also display a percentage of fluid remaining in the fluid vein, for the §3Fluid Rigs§r.
 
-# db 887 of mode normal
-nomifactory.quest.normal.db.887.title=§2Patriot's Plastic
-nomifactory.quest.normal.db.887.desc=§2A new, oily path to Polyethylene is available in GTCEu. §rCrack §9Light Fuel§r to §9Severely Steam-Cracked Light Fuel§r in a §3Chemical Reactor§r, then distill it to §eEthylene§r.%n%nThe advantage of this path is that it requires §6no MV machines§r. You lose a few Oil byproducts, but you get so much Oil from future processes that the loss is insignificant.
-
 # db 888 of mode normal
 nomifactory.quest.normal.db.888.title=§2Gasoline
 nomifactory.quest.normal.db.888.desc=§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid. It can also be substituted for Cetane-Boosted Diesel in Draconium production.%n%nGasoline is made of:%n- 16 parts Naphtha%n- 2 parts Refinery Gas%n- 1 part Toluene%n- 1 part Methanol%n- 1 part Acetone%n%nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.
-
-# db 889 of mode normal
-nomifactory.quest.normal.db.889.title=Platinum Group Processing
-nomifactory.quest.normal.db.889.desc=No Description
 
 # db 890 of mode normal
 nomifactory.quest.normal.db.890.title=§2GT Power Management
@@ -2894,7 +2766,7 @@ nomifactory.quest.normal.db.890.desc=§dGregTech Power§r can be tricky to handl
 
 # db 891 of mode normal
 nomifactory.quest.normal.db.891.title=§2Chemical Dyes
-nomifactory.quest.normal.db.891.desc=§2Chemical Dyes are made with 1 unit of dye, 2 Salt and Sulfuric Acid. Each yields 4 dyes when solidified, so you can create an infinite loop of dyes with only 1 initial dye item.%n%nTheir main use is to dye Glass Lenses for production of advanced wafers.%n%nYou may also wish to make a Spray Can and fill it with Chemical Dye. This allows you to paint basically all GT tile entities.
+nomifactory.quest.normal.db.891.desc=§oThis quest accepts any Chemical Dye.§r%n%n§6Chemical Dyes§r are made with 1 unit of dye, 2 Salt and Sulfuric Acid. Each yields 4 dyes when solidified, so you can create an §einfinite loop of dyes§r with only 1 initial dye item.%n%nYou can do many things with them, from making materials for your base, such as in creating §bXTones Blocks§r, to dying §6Glass Lenses§r for §eLaser Engraving§r.%n%nYou may also wish to make a §6Spray Can§r and fill it with Chemical Dye. This allows you to paint basically all §bGT tile entities§r.
 
 # db 892 of mode normal
 nomifactory.quest.normal.db.892.title=§2Large Miners
@@ -2919,10 +2791,6 @@ nomifactory.quest.normal.db.896.desc=§2Sodium Potassium is an alloy of... take 
 # db 897 of mode normal
 nomifactory.quest.normal.db.897.title=§2HV Energy Hatch
 nomifactory.quest.normal.db.897.desc=With §6Silver, LPICs§r, §9NaK§r, and an §6HV Assembler§r, you can finally make HV Energy and Dynamo hatches.%n%nYou should get the gist of making these now, so there will not be further quests on Energy and Dynamo hatches.%n%nLook out for a new more efficient EV-tier recipe for §6Steel§r in the EBF.
-
-# db 898 of mode normal
-nomifactory.quest.normal.db.898.title=§2HV Chemical Bath
-nomifactory.quest.normal.db.898.desc=§2Required for staining Glass Lenses with Chemical Dyes.
 
 # db 899 of mode normal
 nomifactory.quest.normal.db.899.title=§2Hydrofluoric Acid
@@ -2976,10 +2844,6 @@ nomifactory.quest.normal.db.910.desc=§2Rhodium Plated Lumium-Palladium is a mix
 nomifactory.quest.normal.db.911.title=LV Battery Buffer
 nomifactory.quest.normal.db.911.desc=The §6Battery Buffer§r is a machine which can hold §6Batteries§r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp.%n%nYou can also charge §6Electric tools§r in them.%n%n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!
 
-# db 912 of mode normal
-nomifactory.quest.normal.db.912.title=Hard Mode
-nomifactory.quest.normal.db.912.desc=The §2CEu§r version of Nomi is already slightly harder than the original, due to various progression changes CEu makes.%n%nBut if you want a §charder§r, or perhaps a more "§5true§r" §dGregTech§r experience, check out the §cExpert§r mode. This pack mode is based on the §bSelf-Torture Edition fork§r of the original pack.%n%nHighlights include:%n%n- No §bDME§r for easy infinite resources%n- §6Nomicoins§r don't exist%n- The §7Steam Age§r%n- No §3Creative Tank§r; instead...%n- §6Stabilized Micro Miners§r for late-game infinite resources%n- Harder recipes for assorted things like §6Iridium§r, §3Numismatic Dynamos§r, and more%n%nTo enable §cExpert§r mode, change the pack mode (Options -> Pack Mode) to Expert, then run §e/bq_admin default load ExpertQuests§r. The same command should be used for updating the quest book on Expert mode.%nTo go back, change the pack mode to §aNormal§r and run §e/bq_admin default load§r.%n%nTo tune your challenge even further, check out the various recipe configs in the GregTech config file.
-
 # db 913 of mode normal
 nomifactory.quest.normal.db.913.title=§2Machine Naming§r
 nomifactory.quest.normal.db.913.desc=As you expand your production lines, it can get confusing where everything is real quickly.%n%nNew in GTCEu, you can §2name machines in an Anvil§r or shift-right-click with a §6Name Tag§r in order to display a hologram above them. This hologram can't be seen through walls, so you needn't worry about clogging your view with names.
@@ -2988,18 +2852,6 @@ nomifactory.quest.normal.db.913.desc=As you expand your production lines, it can
 nomifactory.quest.normal.db.914.title=§2Cleaner Room
 nomifactory.quest.normal.db.914.desc=§2Wetware and crystal-related processes require some stronger sterilization.§r%n%nYou will need to build another §3Cleanroom§r to run these recipes inside. Instead of §3Filter Casings§r, use §3Sterilizing Filter Casings§r in the top face.%n%nNote that a Sterile Cleanroom cannot handle recipes which require regular Cleanrooms.
 
-# db 915 of mode normal
-nomifactory.quest.normal.db.915.title=Polybenzimidazole (PBI)
-nomifactory.quest.normal.db.915.desc=No Description
-
-# db 916 of mode normal
-nomifactory.quest.normal.db.916.title=Iridium
-nomifactory.quest.normal.db.916.desc=No Description
-
-# db 917 of mode normal
-nomifactory.quest.normal.db.917.title=The First Tier Six Circuits
-nomifactory.quest.normal.db.917.desc=No Description
-
 # db 918 of mode normal
 nomifactory.quest.normal.db.918.title=Fluid Interface Configuration Terminal
 nomifactory.quest.normal.db.918.desc=A variant of the §aInterface Configuration Terminal§r which allows you to view and edit the stocking slots of fluid interfaces on your network, as well as highlighting them in-world.%n%nUseful for managing passive automation setups, and finding them when your base gets large.
@@ -3007,10 +2859,6 @@ nomifactory.quest.normal.db.918.desc=A variant of the §aInterface Configuration
 # db 919 of mode normal
 nomifactory.quest.normal.db.919.title=Interface Configuration Terminal
 nomifactory.quest.normal.db.919.desc=A variant of the §aInterface Terminal§r which allows you to view and edit the stocking slots of interfaces on your network, as well as highlighting them in-world.%n%nUseful for managing passive automation setups, and finding them when your base gets large.
-
-# db 920 of mode normal
-nomifactory.quest.normal.db.920.title=Breaking Some Eggs
-nomifactory.quest.normal.db.920.desc=No Description
 
 # db 921 of mode normal
 nomifactory.quest.normal.db.921.title=Progression Tab
@@ -3145,16 +2993,8 @@ nomifactory.quest.normal.db.953.title=§2Distilling Liquid Nether Air
 nomifactory.quest.normal.db.953.desc=§2This is new to CEu! Before, you could only distil Liquid Air.%n%n§9Nether Air§r, collected from §3Gas Collectors§r, can be sent into the §3Vacuum Freezer§r to turn it into §9Liquid Nether Air§r.%n%n§9Liquid Nether Air§r can be sent into a §2Distillation Tower§r to break it down into its components.%n%n§2Liquid Air and Liquid Ender Air give different useful components too.
 
 # db 954 of mode normal
-nomifactory.quest.normal.db.954.title=Indium and Radon
+nomifactory.quest.normal.db.954.title="Indium" and "Radon"
 nomifactory.quest.normal.db.954.desc=No Description
-
-# db 955 of mode normal
-nomifactory.quest.normal.db.955.title=Phosphorus
-nomifactory.quest.normal.db.955.desc=No Description
-
-# db 956 of mode normal
-nomifactory.quest.normal.db.956.title=Boron
-nomifactory.quest.normal.db.956.desc=No Description
 
 # db 957 of mode normal
 nomifactory.quest.normal.db.957.title=Glass Dust
@@ -3216,117 +3056,9 @@ nomifactory.quest.normal.db.970.desc=§oThis quest completes via checkbox or upo
 nomifactory.quest.normal.db.971.title='Clay' and 'Pulsating Dust'
 nomifactory.quest.normal.db.971.desc=Hidden quest for Pulsating Polymer Clay Processing Line.
 
-# db 972 of mode normal
-nomifactory.quest.normal.db.972.title=Processing Lines: Ethylene
-nomifactory.quest.normal.db.972.desc=§oThis quest completes via checkbox or upon achieving Ethylene.
-
 # db 973 of mode normal
-nomifactory.quest.normal.db.973.title=MV Chemical Reactor, Sulfur, Brewery and Distillery
+nomifactory.quest.normal.db.973.title="MV Chemical Reactor", "Sulfuric Acid", and "Ethanol"
 nomifactory.quest.normal.db.973.desc=No Description
-
-# db 974 of mode normal
-nomifactory.quest.normal.db.974.title=The First Tier Three Circuits
-nomifactory.quest.normal.db.974.desc=Hidden Quest for HV Machines
-
-# db 975 of mode normal
-nomifactory.quest.normal.db.975.title=Petrochem or Ethanol?
-nomifactory.quest.normal.db.975.desc=No Description
-
-# db 976 of mode normal
-nomifactory.quest.normal.db.976.title=Sulfuric Naphtha Distillery
-nomifactory.quest.normal.db.976.desc=No Description
-
-# db 977 of mode normal
-nomifactory.quest.normal.db.977.title=Naphtha Chemical Reactor
-nomifactory.quest.normal.db.977.desc=No Description
-
-# db 978 of mode normal
-nomifactory.quest.normal.db.978.title=Severely Steam-cracked Naphtha Chemical Reactor
-nomifactory.quest.normal.db.978.desc=No Description
-
-# db 979 of mode normal
-nomifactory.quest.normal.db.979.title=Ethylene Distillery
-nomifactory.quest.normal.db.979.desc=No Description
-
-# db 980 of mode normal
-nomifactory.quest.normal.db.980.title=Biomass Brewery
-nomifactory.quest.normal.db.980.desc=No Description
-
-# db 981 of mode normal
-nomifactory.quest.normal.db.981.title=Ethanol Distillery
-nomifactory.quest.normal.db.981.desc=No Description
-
-# db 982 of mode normal
-nomifactory.quest.normal.db.982.title=Ethylene Chemical Reactor
-nomifactory.quest.normal.db.982.desc=No Description
-
-# db 983 of mode normal
-nomifactory.quest.normal.db.983.title=Sulfur Dioxide Chemical Reactor
-nomifactory.quest.normal.db.983.desc=No Description
-
-# db 984 of mode normal
-nomifactory.quest.normal.db.984.title=Sulfur Trioxide Chemical Reactor
-nomifactory.quest.normal.db.984.desc=No Description
-
-# db 985 of mode normal
-nomifactory.quest.normal.db.985.title=Sulfuric Acid Chemical Reactor
-nomifactory.quest.normal.db.985.desc=No Description
-
-# db 986 of mode normal
-nomifactory.quest.normal.db.986.title=Plant Balls Compactor
-nomifactory.quest.normal.db.986.desc=No Description
-
-# db 987 of mode normal
-nomifactory.quest.normal.db.987.title=Bio Chaff Macerator
-nomifactory.quest.normal.db.987.desc=No Description
-
-# db 988 of mode normal
-nomifactory.quest.normal.db.988.title=Steam?
-nomifactory.quest.normal.db.988.desc=No Description
-
-# db 989 of mode normal
-nomifactory.quest.normal.db.989.title=Oxygen
-nomifactory.quest.normal.db.989.desc=Mention SiO2, tell them to use cobbleworks chain nearby if they need help
-
-# db 990 of mode normal
-nomifactory.quest.normal.db.990.title=Sulfur
-nomifactory.quest.normal.db.990.desc=No Description
-
-# db 991 of mode normal
-nomifactory.quest.normal.db.991.title=Processing Lines: Polyethylene
-nomifactory.quest.normal.db.991.desc=No Description
-
-# db 992 of mode normal
-nomifactory.quest.normal.db.992.title=Vinyl Chloride
-nomifactory.quest.normal.db.992.desc=No Description
-
-# db 993 of mode normal
-nomifactory.quest.normal.db.993.title=Chlorine
-nomifactory.quest.normal.db.993.desc=No Description
-
-# db 994 of mode normal
-nomifactory.quest.normal.db.994.title=Solidifying Polyethylene
-nomifactory.quest.normal.db.994.desc=Mention how you need both the fluid and plates, and you can either pulverise sheets for dust to make pipes, or seperately solidify ingots
-
-# db 995 of mode normal
-nomifactory.quest.normal.db.995.title=Processing Lines: Polyvinyl Chloride
-nomifactory.quest.normal.db.995.desc=No Description
-
-# db 996 of mode normal
-nomifactory.quest.normal.db.996.title='Ethylene' and 'Chlorine'
-nomifactory.quest.normal.db.996.desc=No Description
-
-# db 997 of mode normal
-nomifactory.quest.normal.db.997.title=Solidifying Polyvinyl Chloride
-nomifactory.quest.normal.db.997.desc=Mention how you don't need to keep the fluid, and how you can either pulverise sheets for dust to make pipes, or seperately solidify ingots
-
-# db 998 of mode normal
-nomifactory.quest.normal.db.998.title=Processing Lines: Polytetrafluoroethylene
-nomifactory.quest.normal.db.998.desc=No Description
-
-# db 999 of mode normal
-nomifactory.quest.normal.db.999.title=Solidifying Polytetrafluoroethylene
-nomifactory.quest.normal.db.999.desc=No Description
 
 # db 1000 of mode normal
 nomifactory.quest.normal.db.1000.title=Extended Processing Pattern Terminal
@@ -3335,50 +3067,6 @@ nomifactory.quest.normal.db.1000.desc=§bPackagedAuto§r is cool, but check this
 # db 1001 of mode normal
 nomifactory.quest.normal.db.1001.title=Pattern Expansion Card
 nomifactory.quest.normal.db.1001.desc=§aPattern Expansion Cards§r increase the number of pattern slots that an §aME Interface§r can use by 9 each, up to a maximum of 36 patterns with 3 cards.%n%nThese cards cost an Interface to make, but allow you to densely pack patterns into individual interfaces.
-
-# db 1002 of mode normal
-nomifactory.quest.normal.db.1002.title=Tetrafluoroethylene
-nomifactory.quest.normal.db.1002.desc=No Description
-
-# db 1003 of mode normal
-nomifactory.quest.normal.db.1003.title=Chloroform
-nomifactory.quest.normal.db.1003.desc=No Description
-
-# db 1004 of mode normal
-nomifactory.quest.normal.db.1004.title=Hydrofluoric Acid
-nomifactory.quest.normal.db.1004.desc=No Description
-
-# db 1005 of mode normal
-nomifactory.quest.normal.db.1005.title=Fluorine
-nomifactory.quest.normal.db.1005.desc=No Description
-
-# db 1006 of mode normal
-nomifactory.quest.normal.db.1006.title=Hydrogen
-nomifactory.quest.normal.db.1006.desc=No Description
-
-# db 1007 of mode normal
-nomifactory.quest.normal.db.1007.title=Chlorine
-nomifactory.quest.normal.db.1007.desc=No Description
-
-# db 1008 of mode normal
-nomifactory.quest.normal.db.1008.title=Methane
-nomifactory.quest.normal.db.1008.desc=No Description
-
-# db 1009 of mode normal
-nomifactory.quest.normal.db.1009.title=Recycling your Chlorine
-nomifactory.quest.normal.db.1009.desc=No Description
-
-# db 1010 of mode normal
-nomifactory.quest.normal.db.1010.title='Chloroform' and 'Hydrofluoric Acid'
-nomifactory.quest.normal.db.1010.desc=Hidden quest for PTFE processing line
-
-# db 1011 of mode normal
-nomifactory.quest.normal.db.1011.title='Hydrogen' and 'Fluorine'
-nomifactory.quest.normal.db.1011.desc=Hidden quest for PTFE processing line
-
-# db 1012 of mode normal
-nomifactory.quest.normal.db.1012.title='Chlorine' and 'Methane'
-nomifactory.quest.normal.db.1012.desc=Hidden quest for PTFE processing line
 
 # db 1013 of mode normal
 nomifactory.quest.normal.db.1013.title=HV Rock Breaker
@@ -3722,10 +3410,6 @@ nomifactory.quest.expert.db.6.desc=Before you continue, you'll need access to so
 nomifactory.quest.expert.db.7.title=§2Cables
 nomifactory.quest.expert.db.7.desc=The most basic cables, such as these §6Red Alloy Cables§r, can be wrapped in their §6Rubber§r insulation by hand.%n%nMore advanced types of cables will require an §3Assembling Machine§r and liquid §9Rubber§r, but you can do it the simple way for now.%n%n§2GT cables now support RF conversion natively! You can plug an RF machine into an EU cable directly and it will convert the energy. You cannot, however, plug an §dRF§r power source directly into an §dEU§r cable.
 
-# db 8 of mode expert
-nomifactory.quest.expert.db.8.title=The Third Tier Three Circuits
-nomifactory.quest.expert.db.8.desc=With three §6Microcircuits§r and some standard components, you can upgrade to the penultimate Tier Three circuit: a §6Microprocessor§r.
-
 # db 9 of mode expert
 nomifactory.quest.expert.db.9.title=Ore Doubling?
 nomifactory.quest.expert.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Nomifactory, though§r. Ore veins are massive, and mining is extremely fast with §aMining Hammers§r. What's more, even once you get access to §3Macerators§r, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials §rbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have Medium Voltage machines or even later.§r
@@ -4058,10 +3742,6 @@ nomifactory.quest.expert.db.95.desc=§9Ethylene§r is a hydrocarbon made from §
 nomifactory.quest.expert.db.96.title=Plastic Sheets
 nomifactory.quest.expert.db.96.desc=Form §6Polyethylene Sheets§r using a §3Fluid Solidifier§r and a §aPlate Mold§r for use in crafting electronics components.
 
-# db 97 of mode expert
-nomifactory.quest.expert.db.97.title=Keeping Stuff In Stock
-nomifactory.quest.expert.db.97.desc=If you didn't know, you can have stacks of items stored inside of an §aME Interface§r. Placing a §aStorage Bus§r onto the ME Interface lets you access and use those items in recipes. Putting a §aCrafting Card§r inside the Interface will let the Interface automatically place autocraft orders for items it should stock but you don't have.%n%nThis approach can be used for autocrafting to some extent, but proceed with caution as crafting cards can produce a great deal of lag on larger ME Networks. AE calculates the full crafting tree of these items every time a request is made, even if you have enough items already in stock.%n%nThus, it is strongly recommended to limit Crafting Cards to simple recipes (ones without many dependent recipes) and ideally on smaller purpose-built networks.%n%nPrefer passive autocrafting methods on your main network, or if things are gonna get complicated.
-
 # db 98 of mode expert
 nomifactory.quest.expert.db.98.title=Stainless Steel
 nomifactory.quest.expert.db.98.desc=§6Stainless Steel§r will be your primary material for HV, in the same way that §6Aluminium§r was for MV and §2Steel§r was for LV.%n%n§6Manganese§r comes from electrolyzing §6Tantalite§r, §6Pyrolusite§r, or §6Spessartine Dusts§r. You already have §6Chrome§r.%n%nMix up a bunch of the dust in a MV §3Mixer§r and begin processing it through the §3Electric Blast Furnace§r. This may be a good time to reevaluate your power generation and storage infrastructure.
@@ -4154,10 +3834,6 @@ nomifactory.quest.expert.db.119.desc=The third tier of component for AE §6Item 
 nomifactory.quest.expert.db.120.title=64k Item Storage
 nomifactory.quest.expert.db.120.desc=The fourth tier of component for AE §6Item Storage§r.%n%nUsed for storing large amounts of items or information, like in a §a64k ME Storage Cell§r or a §a64k Crafting Storage§r.
 
-# db 121 of mode expert
-nomifactory.quest.expert.db.121.title=IV Compressor
-nomifactory.quest.expert.db.121.desc=This compressor is needed for making §6Signalum Heavy Plating§r.
-
 # db 122 of mode expert
 nomifactory.quest.expert.db.122.title=4k Fluid Storage
 nomifactory.quest.expert.db.122.desc=The second fluid storage component, used for §a4k Fluid Storage Cells§r.
@@ -4205,10 +3881,6 @@ nomifactory.quest.expert.db.134.desc=Better substrates. Using §6Polyvinyl Chlor
 # db 135 of mode expert
 nomifactory.quest.expert.db.135.title=§2The Third And Final Tier Two Circuits
 nomifactory.quest.expert.db.135.desc=§2Unique to this tier of Circuit, this MV circuit doesn't require the previous tier to craft.§r These are the best kind of Tier Two circuits you can make, and you won't unlock the better recipes for quite a while.%n%nYou should absolutely automate the production of these circuits, and §ekeep a stockpile automatically crafted§r so you don't have to wait around for them or bloat your crafting orders making them on-demand through AE.
-
-# db 136 of mode expert
-nomifactory.quest.expert.db.136.title=Small Coils
-nomifactory.quest.expert.db.136.desc=Another electronic component.%n%nMaking it inside an §3Assembling Machine§r is much, much cheaper than by hand, and using §6Nickel Zinc Ferrite§r bolts gives even better returns.
 
 # db 138 of mode expert
 nomifactory.quest.expert.db.138.title=§2LuV Machine Hulls
@@ -4290,14 +3962,6 @@ nomifactory.quest.expert.db.158.desc=§6Nichrome§r is an alloy of §6Nickel§r 
 nomifactory.quest.expert.db.159.title=§2Nichrome Coil Blocks
 nomifactory.quest.expert.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.%n%nNotice that an §6HV §3Assembler§r is required to make them. Each tier of coil requires their tier of Assembler - we won't remind you again.%n%n§d3600K§r is now also hot enough to grant a single §d100%% efficient overclock§r to 1800K and below recipes. This means that one overclock will grant §d4x speed§r instead of the normal §d2x§r. In effect, you will get an additional 2x speed boost by overclocking once.%n%nThis means that the gas-boosted recipe for §6Aluminium§r will get cut from about §e7s§r to §e3s§r at HV. Once you upgrade your EBF to EV power, §6Stainless Steel Ingots§r will get cut from about §e37s§r to §e9s§r! It's well worth upgrading the EBFs producing these materials to §6Nichrome§r once you can afford it.%n%nLater coils will give similar bonuses. Additionally, the EBF's temperature will increase by §d100K§r for each voltage tier above MV, which could make a difference for future materials.
 
-# db 160 of mode expert
-nomifactory.quest.expert.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
-nomifactory.quest.expert.db.160.desc=First, you need some §9Oil§r. Pick your favorite method: you should engineer a renewable automated source, as you will need large quantities.%n%nStart off by running the Oil through the §3Distillation Tower§r. This will result in §9Sulfuric Heavy Fuel§r, §9Sulfuric Light Fuel§r, §9Sulfuric Naphtha§r, and §9Sulfuric Gas§r.%n%nThese will all need to be hydrodesulfurized using §9Hydrogen§r in a §3Chemical Reactor§r, which produces the non-Sulfuric versions.%n%nAll of these products are useful, so figure out how you want to store the variety and large quantities of fluids.
-
-# db 161 of mode expert
-nomifactory.quest.expert.db.161.title=§2Refinery Gas
-nomifactory.quest.expert.db.161.desc=Like other petroleum products, §9Sulfuric Gas §2or Natural Gas§r is hydrodesulfurized into §9Refinery Gas§r using §9Hydrogen§r in a §3Chemical Reactor§r.%n%nRefinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for §3Gas Turbines§r. While it can be burned directly, centrifuging Refinery Gas produces §9LPG§r (Liquefied Petroleum Gas), which is an ideal fuel for Gas Turbines, and §9Methane§r which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
-
 # db 162 of mode expert
 nomifactory.quest.expert.db.162.title=Canola Press
 nomifactory.quest.expert.db.162.desc=The §3Canola Press§r is a machine that uses RF power to extract §9Canola Oil§r from §6Canola§r.%n%nCanola Oil can be turned into §9Glycerol§r and §9Bio Diesel§r in a §3Chemical Reactor§r.%n%nRefining, Crystallizing, or Empowering the Canola Oil first allows you to make Glycerol and Bio Diesel more efficiently.
@@ -4313,14 +3977,6 @@ nomifactory.quest.expert.db.164.desc=§9Heavy Fuel§r is mixed with §9Light Fue
 # db 165 of mode expert
 nomifactory.quest.expert.db.165.title=§2Light Fuel
 nomifactory.quest.expert.db.165.desc=§2Light Fuel's distillates are now more useful, and it is the only source of Octane for High-Octane Gasoline.%nBut if you choose to produce Diesel, a large proportion of the Light Fuel you produce still has to go into Diesel production.
-
-# db 166 of mode expert
-nomifactory.quest.expert.db.166.title=Naphtha
-nomifactory.quest.expert.db.166.desc=§9Naphtha§r is best utilized for Steam-Cracking and distilling for its constituents.%n%nNotably it contains §9Light Fuel§r and §9Heavy Fuel§r for making more §9Diesel§r, as well as many other useful chemicals for a variety of purposes.
-
-# db 167 of mode expert
-nomifactory.quest.expert.db.167.title=§2Hydrogen Sulfide
-nomifactory.quest.expert.db.167.desc=§9Hydrogen Sulfide§r is a byproduct of hydrodesulfurization. §2It also comes from distilling Liquid Nether Air.§r%n%nA simple chemical reaction with §9Oxygen§r reprocesses it into the useful §9Sulfuric Acid§r, or it can be electrolyzed for recovering the §9Hydrogen§r.
 
 # db 168 of mode expert
 nomifactory.quest.expert.db.168.title=Diesel
@@ -4406,10 +4062,6 @@ nomifactory.quest.expert.db.188.desc=§6Epoxy Circuit Boards§r are a more advan
 nomifactory.quest.expert.db.190.title=Nano CPUs
 nomifactory.quest.expert.db.190.desc=§6Nano CPUs§r are advanced §6Circuit Wafers§r made from infusing a §6CPU Wafer§r with §6Carbon Fibers§r and §9Energized Glowstone§r in a §3Chemical Reactor§r.%n%nThen, cut the resulting wafer into dies using a §3Cutting Machine§r.
 
-# db 191 of mode expert
-nomifactory.quest.expert.db.191.title=The Fourth And Final Tier Two Circuits
-nomifactory.quest.expert.db.191.desc=Using your new §6Epoxy Circuit Boards§r and some familiar components, you can now make the final form of Tier Two Circuit: the §6Microcircuit§r.%n%nYou craft four of these at once, and they're pretty cheap. Consider that you used to have to make §6Primitive Processors§r for this tier, and realize how far you've come.%n%nAs with the final form of any tier of circuits, be sure to set up automation to stockpile these. You won't get to the §6System-on-Chip§r variant recipe for a while yet.
-
 # db 192 of mode expert
 nomifactory.quest.expert.db.192.title=§2The First Tier Five Circuit
 nomifactory.quest.expert.db.192.desc=The first Mainframe you'll have to contend with.%n%nThis is the first Tier Five circuit available, and consequently the most expensive to make. as always, invest in the next circuit theme to get to cheaper recipes as soon as possible.
@@ -4473,10 +4125,6 @@ nomifactory.quest.expert.db.208.desc=At some point you might consider venturing 
 # db 209 of mode expert
 nomifactory.quest.expert.db.209.title=Advanced Extended Crafting Table
 nomifactory.quest.expert.db.209.desc=With the Extended Crafting Table, you can now craft 5x5 recipes.
-
-# db 210 of mode expert
-nomifactory.quest.expert.db.210.title=Steel Double Plates
-nomifactory.quest.expert.db.210.desc=Even simple rockets demand §6Double Plates§r for their construction. In this case, made out of §6Steel§r.
 
 # db 211 of mode expert
 nomifactory.quest.expert.db.211.title=Flightplan To The Moon
@@ -4602,17 +4250,9 @@ nomifactory.quest.expert.db.241.desc=§2Double Plates§r used exclusively for th
 nomifactory.quest.expert.db.242.title=§2Wetware Substrate
 nomifactory.quest.expert.db.242.desc=The most advanced substrate available, prepared for bleeding-edge bioengineering technology.%n%n§6Wetware Circuit Boards§r are the basis of §6Wetware§r circuits, the final theme that spans tiers six through nine.
 
-# db 243 of mode expert
-nomifactory.quest.expert.db.243.title=Tritanium Coil Block
-nomifactory.quest.expert.db.243.desc=The final tier of EBF Coils.
-
 # db 244 of mode expert
 nomifactory.quest.expert.db.244.title=Draconic Reactor Core
 nomifactory.quest.expert.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§r, and §6Stabilized Einsteinium§r can be used in a Draconic Tier fusion crafting setup to create a §6Draconic Reactor Core§r.%n%nThis is an important component in the Tier Nine and Tier Ten Micro Miners, as well as some Endgame items.
-
-# db 245 of mode expert
-nomifactory.quest.expert.db.245.title=§2Titanium Double Plates
-nomifactory.quest.expert.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThese §2double plates§r are used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
 
 # db 248 of mode expert
 nomifactory.quest.expert.db.248.title=Space Station Assembler
@@ -4729,10 +4369,6 @@ nomifactory.quest.expert.db.275.desc=§6Luminessence§r is used in a number of t
 # db 276 of mode expert
 nomifactory.quest.expert.db.276.title=Phosphoric Acid
 nomifactory.quest.expert.db.276.desc=§9Phosphoric Acid§r is a key component of §6Luminessence§r, which will be used extensively for such things as §6Nether Stars§r, §6Lumium Blend§r, and §bExtended Crafting§r components.%n%nIt can be made using several equally viable recipes:%n%n§6Phosphorus§r, §9Oxygen§r, and §9Water§r can be chemically reacted to produce §9Phosphoric Acid§r (Requires the §3Large Chemical Reactor§r).%n%nAlternatively, you can combine §6Phosphorus Pentoxide§r and Water for a much faster reaction.%n%nOtherwise, you can react §6Apatite Dust§r, §9Sulfuric Acid§r, and Water to get Phosphoric Acid, §9Hydrochloric Acid§r, and a whole bunch of §6Gypsum Dust§r.
-
-# db 278 of mode expert
-nomifactory.quest.expert.db.278.title=Simulated Mobs
-nomifactory.quest.expert.db.278.desc=You can combine various items with a §6Blank Data Model§r for a completed §6Data Model§r that you can run inside the §3Simulation Chamber§r.
 
 # db 279 of mode expert
 nomifactory.quest.expert.db.279.title=Breaking Some Eggs
@@ -4861,18 +4497,6 @@ nomifactory.quest.expert.db.312.desc=§6HSS-G§r is an alloy of §6Tungstensteel
 # db 313 of mode expert
 nomifactory.quest.expert.db.313.title=HSS-G Coil Block
 nomifactory.quest.expert.db.313.desc=§6HSS-G§r is the fifth coil material available, increasing your EBF's operating temperature to 5400K so it can process more advanced materials, such as §6Naquadah§r.
-
-# db 314 of mode expert
-nomifactory.quest.expert.db.314.title=§2Iridium Double Plates
-nomifactory.quest.expert.db.314.desc=§2Double Plates§r made from §6Iridium§r for Tier Five and Tier Eight Micro Miners.
-
-# db 315 of mode expert
-nomifactory.quest.expert.db.315.title=§2Signalum Double Plates
-nomifactory.quest.expert.db.315.desc=§2Double Plates§r required for the next two tiers of Micro Miners.
-
-# db 316 of mode expert
-nomifactory.quest.expert.db.316.title=§2Enderium Double Plates
-nomifactory.quest.expert.db.316.desc=§2Double Plates§r made from §6Enderium§r used for the Tier Six Micro Miner.
 
 # db 317 of mode expert
 nomifactory.quest.expert.db.317.title=Quantum Fluxed Eternium Heavy Plating
@@ -5174,10 +4798,6 @@ nomifactory.quest.expert.db.409.desc=Unlike §aRF power§r, which is safe to tra
 nomifactory.quest.expert.db.411.title=§2Large Microverse Projector
 nomifactory.quest.expert.db.411.desc=The §3Large Microverse Projector§r is a more powerful projector required for sending §6Tier Seven§r through §6Tier Ten Micro Miners§r into microverses.%n%nTier Seven missions will operate on §eLuV power§r, but higher energy tiers will be required for later missions. As with the prior projector, this structure supports overclocking and the position of buses and hatches can be swapped with any §6Microverse Projector Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
 
-# db 412 of mode expert
-nomifactory.quest.expert.db.412.title=Lunar Mining Station
-nomifactory.quest.expert.db.412.desc=The §3Lunar Mining Station§r is a large multiblock structure used for mining gases from the moon. It is an excellent (though not the only) source of §9Deuterium§r or §9Helium-3§r, depending on what kind of §6Rover§r you use.%n%nRovers only have a 10%% chance to break while mining, so a stack of them will last quite a while.%n%nWhile both available recipes require §eMV power§r, you can overclock it with higher tiers of power. The positions of hatches and buses can be swapped with any §6LuV Machine Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.%n%nBecause this structure must be placed on the Moon, it is a good idea to use mechanisms like §aEnder Tanks§r or a §6Quantum Link Chamber§r for teleporting the fluids back to your base.%n%nMake sure to keep it chunk-loaded!
-
 # db 413 of mode expert
 nomifactory.quest.expert.db.413.title=§2LV Extractor
 nomifactory.quest.expert.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%nWhen you have access to §6Steel§r, you can make molds and use §3Fluid Solidifiers§r to form various components more efficiently from fluids, like §6Gears§r.
@@ -5210,10 +4830,6 @@ nomifactory.quest.expert.db.490.desc=§oThis quest accepts any Autoclave from LV
 nomifactory.quest.expert.db.491.title=Veinmining Trees?
 nomifactory.quest.expert.db.491.desc=No need for Lumberaxes anymore, §dGregTech Axes§r will cut down entire trees for you. They won't destroy your Storage Drawer networks, too.%n%nThis quest accepts a §dGregTech Axe§r made from any material.
 
-# db 492 of mode expert
-nomifactory.quest.expert.db.492.title=Drill Baby Drill
-nomifactory.quest.expert.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
-
 # db 494 of mode expert
 nomifactory.quest.expert.db.494.title=Fluid Terminal
 nomifactory.quest.expert.db.494.desc=This terminal allows you to interact with fluid storage on your ME Network, like §aFluid Storage Disks§r.%n%nPut fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
@@ -5233,10 +4849,6 @@ nomifactory.quest.expert.db.497.desc=Great for automatically converting between 
 # db 498 of mode expert
 nomifactory.quest.expert.db.498.title=§2Soldering Alloy
 nomifactory.quest.expert.db.498.desc=When making circuits, you'll need either molten §9Tin§r, or molten §9Soldering Alloy§r. §2Soldering Alloy is made in the Mixer with 6 parts Tin Dust, 3 parts Lead Dust and 1 part Antimony Dust.§r You then process it in an §3Extractor §rfor the usual 144mB of fluid per unit.%n%nThe §2Circuit Assembler§r will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff.%n%n§2Antimony can be directly smelted from Stibnite Ore, allowing you to skip ore processing for this.
-
-# db 499 of mode expert
-nomifactory.quest.expert.db.499.title=Fine Copper Wire
-nomifactory.quest.expert.db.499.desc=Now that you have a §3Wiremill§r, you can turn one §6Copper Wire§r into four §6Fine Copper Wire§r. The recipes for §6Resistors§r, §6LV Motors§r and §6Vacuum Tubes§r all accept either type, so doing this extra processing step will make your §6Copper Ingots§r go §efour times further§r when making circuits.%n%nYou'll be making a lot more circuits from here on out, so it's definitely worthwhile to save your copper!
 
 # db 500 of mode expert
 nomifactory.quest.expert.db.500.title=§2The Third And Final Tier Three Circuits
@@ -5302,17 +4914,9 @@ nomifactory.quest.expert.db.517.desc=§6Robot Arms§r are components of several 
 nomifactory.quest.expert.db.519.title=Naquadah Reactor
 nomifactory.quest.expert.db.519.desc=The §3Naquadah Reactor§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%nIt has two versions, §3Naquadah Reactor Mk1§r and §3Naquadah Reactor Mk2§r, the latter produces significantly more power while costing a large amounts of §dOmnium§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
 
-# db 520 of mode expert
-nomifactory.quest.expert.db.520.title=The Second Tier Four Circuits
-nomifactory.quest.expert.db.520.desc=Four §6Microprocessors§r combined with §6Titanium Plates§r and a few other standard components will make a §6MicroSupercomputer§r.
-
 # db 521 of mode expert
 nomifactory.quest.expert.db.521.title=Resonant Upgrade Kit
 nomifactory.quest.expert.db.521.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a1000%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a1250 buckets§r.%n%nMachines operate at §a600%% of base speed§r.
-
-# db 522 of mode expert
-nomifactory.quest.expert.db.522.title=LuV Compressor
-nomifactory.quest.expert.db.522.desc=This compressor is needed for making §6Iridium Heavy Plating§r and §6Enderium Heavy Plating§r.
 
 # db 523 of mode expert
 nomifactory.quest.expert.db.523.title=§2The Second Tier Five Circuits
@@ -5413,10 +5017,6 @@ nomifactory.quest.expert.db.548.desc=§aMolds§r are used in a §3Fluid Solidifi
 # db 549 of mode expert
 nomifactory.quest.expert.db.549.title=§2Fluid Rig
 nomifactory.quest.expert.db.549.desc=§2Fluid Rigs will harvest fluids from underground fluid veins. Note that the fluid veins are simply simulated and don't exist in the world. §r%n%nShift-right-click while holding the §3Prospector's Scanner§r to set it to fluid mode, then right click it in order to see the type and amount of fluid underground and to check the depletion state of the vein. The first number represents the base amount of fluid extracted per second. You can also check the §eFluid Vein Information JEI§r page for information on where they spawn.%n%nIn the §eOverworld§r, it can harvest: §9Oil, Light Oil, Heavy Oil, Raw Oil, Natural Gas%nSalt Water§r (only in Ocean biomes)%n%nIn the §eNether§r: §eLava, Natural Gas§r%n%nOn the §eMoon§r: §9Deuterium, Helium-3§r%n%nIn the §eVoid§r: §9Raw Oil§r%n%nAs Fluid Rigs work, they will deplete the vein under them, reducing their yields. When a vein is depleted, it still yields a small amount of its fluid. The first tier of Fluid Rig takes §d100,000 operations§r to deplete a vein. Higher tier Fluid Rigs harvest fluids far faster and deplete veins slower.%n%nNote that regular oil veins and raw oil veins in the §eOverworld§r have §aequivalent§r depleted yield to the raw oil veins in the §eVoid§r: 40 regular oil or 80 raw oil, respectively.
-
-# db 550 of mode expert
-nomifactory.quest.expert.db.550.title=Vertical Digger
-nomifactory.quest.expert.db.550.desc=Place the §3Vertical Digger§r over an ore vein, feed it RF, and it will mine up the entire vein for you.%n%nFor drills, you will need a §6GregTech Drill§r (any LV drill will work), a §6Fluxbore§r (Reinforced tier is required) and an §6Actually Additions Drill§r (any color is fine, but take out any augments you wish to keep).%n%nThe GregTech Drill will not be consumed, but everything else will be.
 
 # db 551 of mode expert
 nomifactory.quest.expert.db.551.title=Phantom Booster
@@ -5550,10 +5150,6 @@ nomifactory.quest.expert.db.604.desc=No hypothetical aliens were harmed in the h
 nomifactory.quest.expert.db.605.title=Tier Ten Micro Miner
 nomifactory.quest.expert.db.605.desc=You are become Death, destroyer of Universes.%n%nMight probably be obvious, but this miner gathers §6Heart of a Universe§r.
 
-# db 606 of mode expert
-nomifactory.quest.expert.db.606.title=§2Neutronium Double Plates
-nomifactory.quest.expert.db.606.desc=Kind of redundant, really.%n%nThese §2Double Plates§r are used exclusively for the Tier Ten Micro Miner. You need some serious protection from forces when harvesting a whole microverse.
-
 # db 607 of mode expert
 nomifactory.quest.expert.db.607.title=Neutronium Ingot
 nomifactory.quest.expert.db.607.desc=§6Neutronium§r is a hyper-dense material normally found in the hearts of neutron stars: the collapsed cores of stars between ten and thirty times the size of the sun.%n%nFun fact: a single neutronium block is approximately 2884 million metric tons and somewhere around 600000K, yet you're somehow capable of holding one with your bare hands. Don't think about it too much.%n%nNeutronium is made from fusing molten §9Naquadria§r, a super-enriched form of §6Naquadah§r, with molten §9Americium§r.%n%nAfter getting §6Chaotic Fusion Injectors§r, you might consider using Tier Nine Micro Miners to supplement the fusion, as it is net-positive for Neutronium. These miners are expensive though, so it's up to you.
@@ -5566,17 +5162,9 @@ nomifactory.quest.expert.db.608.desc=Coating §6Draconium Wire§r with §9Molten
 nomifactory.quest.expert.db.609.title=Reinforced Upgrade Kit
 nomifactory.quest.expert.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
 
-# db 610 of mode expert
-nomifactory.quest.expert.db.610.title=Ferroboron
-nomifactory.quest.expert.db.610.desc=An alloy of §6Steel§r and §6Boron§r. Pretty simple.
-
 # db 611 of mode expert
 nomifactory.quest.expert.db.611.title=Tough Alloy
 nomifactory.quest.expert.db.611.desc=§6Ferroboron§r is an alloy of §6Steel§r and §6Boron§r.%n%nAlloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
-
-# db 612 of mode expert
-nomifactory.quest.expert.db.612.title=ZPM Compressor
-nomifactory.quest.expert.db.612.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
 
 # db 613 of mode expert
 nomifactory.quest.expert.db.613.title=Element 001: Hydrogen
@@ -5854,41 +5442,13 @@ nomifactory.quest.expert.db.680.desc=Now that you have all the basic building bl
 nomifactory.quest.expert.db.681.title=§2Implosion Compressor
 nomifactory.quest.expert.db.681.desc=The §aImplosion Compressor§r is like an autoclave that uses explosions instead of water. It is the only way to turn most gem dusts into gemstones.%n%nPlease note that for recipes, like §6Apatite Dust -> Apatite§r, an §3Autoclave§r with §6Distilled Water§r is more efficient than the Implosion Compressor.%n%nIt will also be vital for processing §5Motes of Omnium§r.%n%nIn addition to the controller and casings, you will need one §eLV or better §6Item Input Bus§r, §6Item Output Bus§r, and §6Energy Input Hatch§r.%n%n§2If desired, you may upgrade this directly to an Electric Implosion Compressor, which is no different than an Implosion Compressor at the moment.
 
-# db 682 of mode expert
-nomifactory.quest.expert.db.682.title=Hard Mode
-nomifactory.quest.expert.db.682.desc=The §2CEu§r version of Nomi is already slightly harder than the original, due to various progression changes CEu makes.%n%nBut if you want a §charder§r, or perhaps a more "§5true§r" §dGregTech§r experience, check out the §cExpert§r mode. This pack mode is based on the §bSelf-Torture Edition fork§r of the original pack.%n%nHighlights include:%n%n- No §bDML§r for easy infinite resources%n- §6Omnicoins§r can't be spent%n- The §7Steam Age§r%n- No §3Creative Tank§r; instead...%n- §6Stabilized Micro Miners§r for late-game infinite resources%n- Harder recipes for assorted things like §6Iridium§r, §3Numismatic Dynamos§r, and more%n%nTo enable §cExpert§r mode, change the pack mode (Options -> Pack Mode) to Expert, then run §e/bq_admin default load ExpertQuests§r. The same command should be used for updating the quest book on Expert mode.%nTo go back, change the pack mode to §aNormal§r and run §e/bq_admin default load§r.%n%nTo tune your challenge even further, check out the various recipe configs in the GregTech config file.
-
-# db 683 of mode expert
-nomifactory.quest.expert.db.683.title=Overworldian Matter
-nomifactory.quest.expert.db.683.desc=Provide your §3Simulation Chamber§r with RF power and §6Pulsating Polymer Clay§r. Then insert a §6Data Model§r of your choice. The Simulation Chamber will consume Polymer Clay and a decent amount of power to begin simulating mob kills. This will generate §6Overworldian Matter§r and may occasionally provide you with §6Pristine Matter§r.%n%n§6Overworldian Matter§r can be eaten to gain experience, or can be combined with other materials to obtain drops from Overworld mobs. With these drops, you can then create Data Models for other mob types as well.
-
-# db 685 of mode expert
-nomifactory.quest.expert.db.685.title=Loot Fabricator
-nomifactory.quest.expert.db.685.desc=Simulating mob kills will occasionally result in §6Pristine Matter§r of that mob's type.%n%nPutting Pristine matter into a §3Loot Fabricator§r will allow you to obtain one of various items related to that mob.%n%nMuch like §3Simulation Chambers§r, Loot Fabricators are §asided§r, accepting input from §athe top side§r and allowing extraction from §aall sides except the top§r.
-
-# db 686 of mode expert
-nomifactory.quest.expert.db.686.title=Overworldian Mobs
-nomifactory.quest.expert.db.686.desc=There's no rush to get these all done and leveled up, but they do provide a good source of some of the basic resources in exchange for RF.%n%nLook at what the §6Pristine Matter§r for each mob provides, and set up simulators for all the ones you're interested in. If your power can handle it, it can even be advantageous to run several of the same model.
-
 # db 687 of mode expert
 nomifactory.quest.expert.db.687.title=§2Infinite Water
 nomifactory.quest.expert.db.687.desc=Feeding §3Steam producers§r with water by hand is a pretty silly idea.%n%nA §2Primitive Water Pump§r will take care of that for you.
 
-# db 688 of mode expert
-nomifactory.quest.expert.db.688.title=Hellish Matter
-nomifactory.quest.expert.db.688.desc=§6Overworldian Matter§r and §6Netherrack§r can be crafted into §6Hellish Matter§r.%n%nNetherrack can be obtained by combining a §6Dust Block§r and §cLava§r in a §3Chemical Reactor§r.
-
-# db 689 of mode expert
-nomifactory.quest.expert.db.689.title=Hellish Mobs
-nomifactory.quest.expert.db.689.desc=Just as with Overworldian mob data, there's no huge rush or need to focus on these. Just run them while you work on other projects.
-
 # db 690 of mode expert
 nomifactory.quest.expert.db.690.title=Graphene
 nomifactory.quest.expert.db.690.desc=§6Graphene§r is the cable material required for §6IV Motors§r, and it's not trivial to make anymore.%n%nPresently, you can make it by reducing §6Graphene Oxide§r with §9Argon§r and §9Hydrazine§r. §9Hydrazine§r is produced in multiple steps using §9Ammonia§r and §9Hydrogen Peroxide§r with §9Acetone§r as a recycled reagent.%n%nLater, you can use a §6Magnetron§r to make it from §6Graphite§r directly. Note that the other recipe requires no §6Graphite§r.
-
-# db 691 of mode expert
-nomifactory.quest.expert.db.691.title=Extraterrestrial Mobs
-nomifactory.quest.expert.db.691.desc=Some of these simulations will start to consume tremendous amounts of power at this point, so if you're finding it a struggle, don't be afraid to hold off on progressing through these data models until a later time.
 
 # db 692 of mode expert
 nomifactory.quest.expert.db.692.title=§2Wrenches Galore
@@ -6022,10 +5582,6 @@ nomifactory.quest.expert.db.763.desc=A good, but slightly gated way of teleporti
 nomifactory.quest.expert.db.764.title=LV Circuits
 nomifactory.quest.expert.db.764.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§2Electronic Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2Integrated Circuits§r are the middle layer between §2Electronic Circuits and Microprocessors.§r%n%nAnd finally, §2Microprocessors§r, which take the lowest effort.
 
-# db 765 of mode expert
-nomifactory.quest.expert.db.765.title=What is This?
-nomifactory.quest.expert.db.765.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
-
 # db 766 of mode expert
 nomifactory.quest.expert.db.766.title=MV Circuits
 nomifactory.quest.expert.db.766.desc=Circuits along this line are MV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
@@ -6090,10 +5646,6 @@ nomifactory.quest.expert.db.780.desc=The §eNether§r contains quite a few usefu
 nomifactory.quest.expert.db.781.title=§2Cleaner Room
 nomifactory.quest.expert.db.781.desc=§2Wetware and crystal-related processes require some stronger sterilisation.§r%n%nYou will need to build another §3Cleanroom§r to run these recipes inside. Instead of §3Filter Casings§r, use §3Sterilizing Filter Casings§r in the top face.%n%nNote that a Sterile Cleanroom cannot handle recipes which require regular Cleanrooms.
 
-# db 782 of mode expert
-nomifactory.quest.expert.db.782.title="Deuterium" or "I Don't Like Space"
-nomifactory.quest.expert.db.782.desc=Hidden gathering quest for SMP
-
 # db 783 of mode expert
 nomifactory.quest.expert.db.783.title=§2Large Turbines
 nomifactory.quest.expert.db.783.desc=§2Large Turbines have been improved in CEu. They are quite complex to run, but can generate lots of power when done well and scale very well.§r%n%nRight now, you can make the §6Large Steam Turbine§r and §6Large Gas Turbine§r. Once you get a §3Fusion Reactor§r going, you can make the §6Large Plasma Turbine§r.%n%nEach Large Turbine will need a §3Rotor Holder§r of the same or higher tier than the Large Turbine itself, and a §3Dynamo Hatch§r capable of handling the energy output. Each §3Rotor Holder§r tier above the Large Turbine §ddoubles§r the energy production and adds 10%% to fuel efficiency.%n%nYou will need a §aRotor§r to go into each §3Rotor Holder§r. The Rotor will grant multiplicative Power and Efficiency bonuses depending on its material. Each Rotor also has a Durability, which is the number of seconds it will last.%n%n§aExample: §6Large Gas Turbine§r, with §3HSS-E Rotor§r and §3IV Rotor Holder§r:%n§aProduction:§r 4096 * 2.80 * 2 = 22938 EU/t (91752 RF/t)%n§aEfficiency:§r 1.40 * 1.10 = 154.0%%%n§aDurability:§r 205,600 s (57.1 h)%n%nYou can run the §6Large Gas Turbine§r off §9LPG§r and §9Methane§r from §3Fluid Rigs§r, or §9Nitrobenzene§r from §6Wood§r.%nThe best §6Large Steam Turbine§r fuel is a closely-guarded government secret.
@@ -6149,10 +5701,6 @@ nomifactory.quest.expert.db.795.desc=The §6Advanced System-on-Chip§r (or §6AS
 # db 796 of mode expert
 nomifactory.quest.expert.db.796.title=Naquadah Boules
 nomifactory.quest.expert.db.796.desc=The §6Naquadah-Doped Boule§r produces even more wafers per boule. It also is relatively cheap, due to the abundance of Naquadah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
-
-# db 797 of mode expert
-nomifactory.quest.expert.db.797.title=System-on-Chip
-nomifactory.quest.expert.db.797.desc=The §6System-on-Chip§r (or §6SoC§r) is a specialty component that miniaturizes all the typical circuit components (like §6SMDs§r) onto a single chip.%n%nThese are very useful as they unlock the most efficient recipes for creating §6Refined§r, §6Micro§r, and §6Nano Circuits§r.%n%nEach SoC-based circuit recipe requires a different minimum tier of §aAssembling Machine§r, with the Nano Circuits requiring §eLuV§r.
 
 # db 798 of mode expert
 nomifactory.quest.expert.db.798.title=Sunnarium
@@ -6320,7 +5868,7 @@ nomifactory.quest.expert.db.838.desc=§2Systems on Chip can be engraved with HV 
 
 # db 839 of mode expert
 nomifactory.quest.expert.db.839.title=§2Crystal Growing
-nomifactory.quest.expert.db.839.desc=§2Your first few Raw Crystal Chips must be grown in an Autoclave from liquid Europium, and Exquisite Emeralds or Exquisite Olivine.%n%nAfter the first few, you can smash them into pieces using a Forge Hammer, and duplicate them with Bacterial Sludge, Mutagen, or more Europium.%n%nBacterial Sludge can later be obtained in the byproducts of getting Stem Cells.
+nomifactory.quest.expert.db.839.desc=Your first few §6Raw Crystal Chips§r must be grown in an §bAutoclave§r from liquid §9Europium§r, and §6Exquisite Emeralds§r or §6Exquisite Olivine§r.%n%nAfter the first few, you can smash them into pieces using a §bForge Hammer§r, and duplicate them with §9Bacterial Sludge§r, §9Mutagen§r, or more §9Europium§r.%n%n§9Bacterial Sludge§r can later be obtained in the byproducts of getting §6Stem Cells§r.
 
 # db 840 of mode expert
 nomifactory.quest.expert.db.840.title=§2Advanced Processing Array
@@ -6401,10 +5949,6 @@ nomifactory.quest.expert.db.858.desc=§2The Alloy Blast Smelter directly smelts 
 # db 859 of mode expert
 nomifactory.quest.expert.db.859.title=§2Gregicality Multiblocks
 nomifactory.quest.expert.db.859.desc=§2With advanced alloys from the Alloy Blast Smelter and IV Machines, you can make large versions of most GT machines.%n%n§rThese are formed like multiblocks. You can add a §3Parallel Control Hatch§r in order to allow them to process §dmore recipes§r at the same time, similarly to a §3Processing Array§r. The highest tier of Parallel Control Hatch can facilitate processing §d256 recipes§r at once!%n%nSearch "@gregicality" or look up the usages of Parallel Hatches in JEI to see details of all the multiblock machines. The §6Pattern Multi-Tool§r can be used to easily multiply patterns to fully benefit from multiblock parallel capabilities.
-
-# db 860 of mode expert
-nomifactory.quest.expert.db.860.title=§2Chemical Plant
-nomifactory.quest.expert.db.860.desc=§2The ultimate reactor. It is compatible with Parallel Control Hatches and can be configured to run Large Chemical Reactor or normal Chemical Reactor recipes.
 
 # db 861 of mode expert
 nomifactory.quest.expert.db.861.title=§2Upgraded EBF and Freezer
@@ -6490,10 +6034,6 @@ nomifactory.quest.expert.db.880.desc=An upgrade from the §6Creative RF Source§
 nomifactory.quest.expert.db.881.title=§2Polyphenylene Sulfide
 nomifactory.quest.expert.db.881.desc=§2Thin Polyphenylene Sulfide Sheets are required for wrapping LuV+ cables.
 
-# db 882 of mode expert
-nomifactory.quest.expert.db.882.title="Enderium Ingot" or "Europium Ingot"
-nomifactory.quest.expert.db.882.desc=Hidden gathering quest for Crystals
-
 # db 883 of mode expert
 nomifactory.quest.expert.db.883.title=§2Element 110: Darmstadtium
 nomifactory.quest.expert.db.883.desc=§2This element is now required in Omnium.
@@ -6518,17 +6058,13 @@ nomifactory.quest.expert.db.887.desc=§2A new, oily path to Polyethylene is avai
 nomifactory.quest.expert.db.888.title=§2Gasoline
 nomifactory.quest.expert.db.888.desc=§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid.%n%nGasoline is made of:%n- 16 parts Naphtha%n- 2 parts Refinery Gas%n- 1 part Toluene%n- 1 part Methanol%n- 1 part Acetone%n%nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.
 
-# db 889 of mode expert
-nomifactory.quest.expert.db.889.title=Platinum Group Processing
-nomifactory.quest.expert.db.889.desc=No Description
-
 # db 890 of mode expert
 nomifactory.quest.expert.db.890.title=§2GT Power Management
 nomifactory.quest.expert.db.890.desc=§dGregTech Power§r can be tricky to handle. Luckily, there are several tools you can use to tackle some of the problems.%n%n- §aDiode§r: A block which accepts energy on 5 sides, and outputs it on a single side. Its main purpose is to limit Amperage flow through it - adjust it by right-clicking it with a Soft Hammer. Not to be confused with the Diodes used as crafting components.%n%n- §aTransformer§r: A block which changes between 4A of a lower voltage and 1A of a voltage one tier higher.%n%n- §2Adjustable Transformer§r: Similar to the Transformer, but can be configured to transform up to 64A Low <-> 16A High.%n%n- §aBattery Buffer§r: A block which can hold GregTech Batteries. Each battery accepts up to 2A and can provide up to 1A. §2They have been reworked in CEu to not be as terrible to use.
 
 # db 891 of mode expert
 nomifactory.quest.expert.db.891.title=§2Chemical Dyes
-nomifactory.quest.expert.db.891.desc=§2Chemical Dyes are made with 1 unit of dye, 2 Salt and Sulfuric Acid. Each yields 4 dyes when solidified, so you can create an infinite loop of dyes with only 1 initial dye item.%n%nTheir main use is to dye Glass Lenses for production of advanced wafers.%n%nYou may also wish to make a Spray Can and fill it with Chemical Dye. This allows you to paint basically all GT tile entities.
+nomifactory.quest.expert.db.891.desc=§oThis quest accepts any Chemical Dye.§r%n%n§6Chemical Dyes§r are made with 1 unit of dye, 2 Salt and Sulfuric Acid. Each yields 4 dyes when solidified, so you can create an §einfinite loop of dyes§r with only 1 initial dye item.%n%nYou can do many things with them, from making materials for your base, such as in creating §bXTones Blocks§r, to dying §6Glass Lenses§r for §eLaser Engraving§r.%n%nYou may also wish to make a §6Spray Can§r and fill it with Chemical Dye. This allows you to paint basically all §bGT tile entities§r.
 
 # db 892 of mode expert
 nomifactory.quest.expert.db.892.title=§2Large Miners
@@ -6553,10 +6089,6 @@ nomifactory.quest.expert.db.896.desc=§2Sodium Potassium is an alloy of... take 
 # db 897 of mode expert
 nomifactory.quest.expert.db.897.title=§2HV Energy Hatch
 nomifactory.quest.expert.db.897.desc=With §6Silver, LPICs§r, §9NaK§r, and an §6HV Assembler§r, you can finally make HV Energy and Dynamo hatches.%n%nYou should get the gist of making these now, so there will not be further quests on Energy and Dynamo hatches.%n%nLook out for a new more efficient EV-tier recipe for §6Steel§r in the EBF.
-
-# db 898 of mode expert
-nomifactory.quest.expert.db.898.title=§2HV Chemical Bath
-nomifactory.quest.expert.db.898.desc=§2Required for staining Glass Lenses with Chemical Dyes.
 
 # db 899 of mode expert
 nomifactory.quest.expert.db.899.title=§2Hydrofluoric Acid
@@ -6593,10 +6125,6 @@ nomifactory.quest.expert.db.906.desc=§2Multiblock version of the Circuit Assemb
 # db 907 of mode expert
 nomifactory.quest.expert.db.907.title=ZPM or Large Circuit Assembler
 nomifactory.quest.expert.db.907.desc=No Description
-
-# db 908 of mode expert
-nomifactory.quest.expert.db.908.title=Tritanium Ingot
-nomifactory.quest.expert.db.908.desc=No Description
 
 # db 909 of mode expert
 nomifactory.quest.expert.db.909.title=§2Primitive Steelworks
