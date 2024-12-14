@@ -589,3 +589,4 @@ nomifactory.quest.normal.db.286.desc=La §3Ligne d'Assemblage§r est un grand mu
 nomifactory.quest.normal.db.286.title=§2Ligne d'Assemblage§r
 nomifactory.quest.normal.db.285.desc=A partir du tier §5EV§r, les §aQuadruples§r et §aNonuples Trappes d'Entrées§r et de §aSortie§r sont disponibles. Elles agissent essentiellement comme 4 ou 9 Trappes d'Entrée pour les multiblocks dans un seul block. Cela peut être pratique pour faire fonctionner les §3Grands Réacteurs Chimiques§r.%n%nLes trappes de plus haut tier ont une capacité augmentée, comme les trappes normales.%n%nNotez que certains multiblocks, comme la §3Tour de Distillation§r, n'acceptent pas ces trappes. Verifiez avec §bJEI§r si vous avez des problèmes.
 nomifactory.quest.normal.db.285.title=§2Trappes de Fluides Multiples§r
+nomifactory.quest.normal.db.287.title=§2Réacteur à Fusion MK1§r
