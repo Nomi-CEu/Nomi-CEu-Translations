@@ -741,8 +741,8 @@ nomifactory.quest.normal.db.196.title=§2Tritanium Ingot§r
 nomifactory.quest.normal.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
 
 # db 197 of mode normal
-nomifactory.quest.normal.db.197.title=RTM-Alloy
-nomifactory.quest.normal.db.197.desc=§6RTM-Alloy§r is an alloy of §6Ruthenium, Tungsten§r and §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
+nomifactory.quest.normal.db.197.title=RTM Alloy
+nomifactory.quest.normal.db.197.desc=§6RTM Alloy§r is an alloy of §6Ruthenium, Tungsten§r and §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
 
 # db 198 of mode normal
 nomifactory.quest.normal.db.198.title=§2IV Machine Hulls§r
@@ -754,7 +754,7 @@ nomifactory.quest.normal.db.199.desc=§6Yttrium Barium Cuprate§r (more accurate
 
 # db 201 of mode normal
 nomifactory.quest.normal.db.201.title=§2Tungsten§r
-nomifactory.quest.normal.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer, §2Chemical Bath§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r.%n%nIt is only found from §6Tungstate §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then electrolyzed§r to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.
+nomifactory.quest.normal.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer§r, §2Chemical Bath§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r.%n%nIt is only found from §6Tungstate §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then electrolyzed§r to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.
 
 # db 202 of mode normal
 nomifactory.quest.normal.db.202.title=Apollo Program
@@ -1153,8 +1153,8 @@ nomifactory.quest.normal.db.310.title=Phytogenic Insolator
 nomifactory.quest.normal.db.310.desc=Praise the sun. \[T]/%n%nThis machine uses various tiers of §6Phyto-Gro§r and §9Water§r to grow plants.%n%nIt can be customized with various §aAugments§r.
 
 # db 311 of mode normal
-nomifactory.quest.normal.db.311.title=RTM-Alloy Coil Blocks
-nomifactory.quest.normal.db.311.desc=§6RTM-Alloy§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
+nomifactory.quest.normal.db.311.title=RTM Alloy Coil Blocks
+nomifactory.quest.normal.db.311.desc=§6RTM Alloy§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
 
 # db 312 of mode normal
 nomifactory.quest.normal.db.312.title=High Speed Steel Type G
@@ -2522,7 +2522,7 @@ nomifactory.quest.normal.db.826.desc=§2The Large Chemical Reactor (LCR) is a mu
 
 # db 827 of mode normal
 nomifactory.quest.normal.db.827.title=§2Platinum Group Metals§r
-nomifactory.quest.normal.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM-Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more.%n%nYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
+nomifactory.quest.normal.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more.%n%nYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
 
 # db 828 of mode normal
 nomifactory.quest.normal.db.828.title=§2Polybenzimidazole (PBI)§r
@@ -2626,7 +2626,7 @@ nomifactory.quest.normal.db.852.desc=§6Americium Ingots§r are obtained by plac
 
 # db 853 of mode normal
 nomifactory.quest.normal.db.853.title=§2Advanced LuV Alloys§r
-nomifactory.quest.normal.db.853.desc=Coming into §dLudicrous Voltage§r, many new advanced materials will be required to craft items and components. Most of these materials require §6RTM-Alloy Coils§r.%n%n§6Ruridit§r is an alloy of Ruthenium and Iridium. It is used in LuV components alongside §6HSS-S§r.%n%n§6Niobium-Titanium§r is the main LuV cable material. Later on, large quantities are required for §6Wetware Circuits§r.%n%n§6Vanadium-Gallium§r is the main ZPM cable material, but it is used now as an advanced conductive material for certain recipes.%n%n§6Osmiridium§r (not from the ore) is used to make the §6Ludicrous Voltage Coil§r, for LuV-tier energy I/O. It is later used to make ZPM components.%n%n§6Indium Tin Barium Titanium Cuprate§r is an LuV superconductor. Its uses are more limited, but it is used in places like the §3Fusion Reactor§r.%n%nFinally, §6Samarium§r is used for LuV+ motors. It is obtained from §6Rare Earth§r.%n%nThese materials take a long time at high temperatures to smelt, so find a way to keep a stock of them.
+nomifactory.quest.normal.db.853.desc=Coming into §dLudicrous Voltage§r, many new advanced materials will be required to craft items and components. Most of these materials require §6RTM Alloy Coils§r.%n%n§6Ruridit§r is an alloy of Ruthenium and Iridium. It is used in LuV components alongside §6HSS-S§r.%n%n§6Niobium-Titanium§r is the main LuV cable material. Later on, large quantities are required for §6Wetware Circuits§r.%n%n§6Vanadium-Gallium§r is the main ZPM cable material, but it is used now as an advanced conductive material for certain recipes.%n%n§6Osmiridium§r (not from the ore) is used to make the §6Ludicrous Voltage Coil§r, for LuV-tier energy I/O. It is later used to make ZPM components.%n%n§6Indium Tin Barium Titanium Cuprate§r is an LuV superconductor. Its uses are more limited, but it is used in places like the §3Fusion Reactor§r.%n%nFinally, §6Samarium§r is used for LuV+ motors. It is obtained from §6Rare Earth§r.%n%nThese materials take a long time at high temperatures to smelt, so find a way to keep a stock of them.
 
 # db 854 of mode normal
 nomifactory.quest.normal.db.854.title=§2Tritanium Coils§r
@@ -4079,8 +4079,8 @@ nomifactory.quest.expert.db.196.title=§2Tritanium Ingot§r
 nomifactory.quest.expert.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
 
 # db 197 of mode expert
-nomifactory.quest.expert.db.197.title=RTM-Alloy
-nomifactory.quest.expert.db.197.desc=§6RTM-Alloy§r is an alloy of §6Ruthenium, Tungsten§r and §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
+nomifactory.quest.expert.db.197.title=RTM Alloy
+nomifactory.quest.expert.db.197.desc=§6RTM Alloy§r is an alloy of §6Ruthenium, Tungsten§r and §6Molybdenum§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.
 
 # db 198 of mode expert
 nomifactory.quest.expert.db.198.title=§2IV Machine Hulls§r
@@ -4092,7 +4092,7 @@ nomifactory.quest.expert.db.199.desc=§6Yttrium Barium Cuprate§r (more accurate
 
 # db 201 of mode expert
 nomifactory.quest.expert.db.201.title=§2Tungsten§r
-nomifactory.quest.expert.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer, §ca LV Extractor§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r. §cAn EV Chemical Reactor can also be used, if you want Tungsten Dust§r.%n%nIt is only found from §6Tungstate §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then §cextracted§r to get to §cTungsten Trioxide.%n%nThis can either be cooked in an EBF with Carbon to get Tungsten, or chemically reacted with Hydrogen to achieve Tungsten Dust.%n%nThe first option is recommended, as it saves Hydrogen, and takes less time to cook in the EBF than the latter option.§r
+nomifactory.quest.expert.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer§r, §ca LV Extractor§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r. §cAn EV Chemical Reactor can also be used, if you want Tungsten Dust§r.%n%nIt is only found from §6Tungstate §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then §cextracted§r to get to §cTungsten Trioxide.%n%nThis can either be cooked in an EBF with Carbon to get Tungsten, or chemically reacted with Hydrogen to achieve Tungsten Dust.%n%nThe first option is recommended, as it saves Hydrogen, and takes less time to cook in the EBF than the latter option.§r
 
 # db 202 of mode expert
 nomifactory.quest.expert.db.202.title=Apollo Program
@@ -4487,8 +4487,8 @@ nomifactory.quest.expert.db.310.title=Phytogenic Insolator
 nomifactory.quest.expert.db.310.desc=Praise the sun. \[T]/%n%nThis machine uses various tiers of §6Phyto-Gro§r and §9Water§r to grow plants.%n%nIt can be customized with various §aAugments§r.
 
 # db 311 of mode expert
-nomifactory.quest.expert.db.311.title=RTM-Alloy Coil Blocks
-nomifactory.quest.expert.db.311.desc=§6RTM-Alloy§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
+nomifactory.quest.expert.db.311.title=RTM Alloy Coil Blocks
+nomifactory.quest.expert.db.311.desc=§6RTM Alloy§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
 
 # db 312 of mode expert
 nomifactory.quest.expert.db.312.title=High Speed Steel Type G
@@ -5820,7 +5820,7 @@ nomifactory.quest.expert.db.826.desc=§2The Large Chemical Reactor (LCR) is a mu
 
 # db 827 of mode expert
 nomifactory.quest.expert.db.827.title=§2Platinum Group Metals§r
-nomifactory.quest.expert.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM-Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more. You will also need to process PGS for your initial yields of §6Iridium§r, as §6Osmiridium Ore§r and §6Iridosmine Ore§r are only available with the §6Tier Five Micro Miner§r. The mission also gives only small amounts, so processing PGS is the better option.%n%nYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
+nomifactory.quest.expert.db.827.desc=The §6Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum§r - are rare materials used in upcoming recipes. §6Ruthenium§r will be required now for the next tier of coils.%n%nThese materials can be obtained from ores exclusive to Microverse missions - §6Laurite Ore§r for Ruthenium, §6Cuprorhodsite Ore§r for Rhodium, and §6Osmiridium Ore§r and §6Iridosmine Ore§r for Osmium and Iridium. This should be enough for your initial needs, such as for §6RTM Alloy Coils§r, especially when using §6Tier Three Micro Miners§r.%n%nHowever, the yields of these ores from Microverse missions may not be enough in the long term, so you should consider processing §6Platinum Group Sludge (PGS)§r for more. You will also need to process PGS for your initial yields of §6Iridium§r, as §6Osmiridium Ore§r and §6Iridosmine Ore§r are only available with the §6Tier Five Micro Miner§r. The mission also gives only small amounts, so processing PGS is the better option.%n%nYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nIf you get stuck, check out the excellent flowcharts on the §eDiscord§r.
 
 # db 828 of mode expert
 nomifactory.quest.expert.db.828.title=§2Polybenzimidazole (PBI)§r
