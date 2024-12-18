@@ -30,13 +30,13 @@ This contains Lang Files from the `gregtech-drawers` module.
 ### Language Support Table
 This table captures the support of languages, at the state of nightly builds on this repository.
 
-| Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina) | Turkish |
-| --------------------- | ------- | ------- | -------- | ------ | --------------- | ------------------- | ------- |
-| Nomi-CEu (Main)       | 🔵      | 🟢      | 🟢       | 🟡     | 🔵              | 🔵                    | 🟡      |
-| Nomi-CEu (Quest Book) | 🔵      | 🔴      | 🟡       | 🟤     | 🟤              | 🔴                    | 🟤      |
+| Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina)   | Turkish |
+| --------------------- | ------- | ------- | -------- | ------ | --------------- | --------------------- | ------- |
+| Nomi-CEu (Main)       | 🔵      | 🔵      | 🔵       | 🔵     | 🟢              | 🔵                    | 🟡      |
+| Nomi-CEu (Quest Book) | 🟢      | 🔴      | 🟠       | 🔴     | 🟤              | 🔴                    | 🟤      |
 | Gregtech Drawers      | 🔵      | 🔵      | 🔵       | 🔵     | 🔵              | 🔵                    | 🔵      |
-| Nomi Labs             | 🔵      | 🔵      | 🔵       | 🟤     | 🔵              | 🔵                    | 🟡      |
-| **Overall**           | 🔵      | 🟠      | 🟡       | 🟤     | 🟠              | 🟠                    | 🟤      |
+| Nomi Labs             | 🔵      | 🔵      | 🔵       | 🟢     | 🔵              | 🔵                    | 🟡      |
+| **Overall**           | 🟢      | 🟠      | 🟡       | 🟠     | 🟠              | 🟠                    | 🟤      |
 
 #### Key:
 - 🔵: Extremely Well Supported, Fully Complete (~90%+)
