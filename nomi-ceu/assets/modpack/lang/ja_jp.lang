@@ -83,3 +83,19 @@ nomiceu.tooltip.projectred.wire=§eProjectRed で使用します。§r
 
 # XTones
 nomiceu.tooltip.xtones.lamp=§e点灯するにはレッドストーン信号が必要です。§r
+nomiceu.tooltip.mixed.fillable=§bCanning Machine§rで充填できる。
+nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.2=§Fluid SolidifierかExperience Solidifierで作成も可能。§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.1=§aモブを倒すことで入手可能。もしくは、§r
+nomiceu.tooltip.ae2.hyper_acceleration_card.1=§bAcceleration Cardの上位バージョン！§r
+nomiceu.tooltip.ae2.storage_exposer.warning=§cフィルターなしで大きなネットワークを構築した場合、TPSのラグが発生する可能性があります！§r
+nomiceu.tooltip.ae2.matter_cannon.2=§bStorage Cellと同じ方法で弾を充填する。§r
+nomiceu.tooltip.ae2.color_applicator.1=§eStorage Cellと同じ方法でペイントボールを搬入できる。§r
+nomiceu.tooltip.mc.xp_bottle=§e25経験値もしくは1レベルを付与！§r
+nomiceu.tooltip.ae2.hyper_acceleration_card.2=§cME IOポートでのみ動作。§r
+nomiceu.tooltip.ae2.tiny_tnt.1=§c火打石とスチールでは点火できません！
+nomiceu.tooltip.ae2.tiny_tnt.2=§bその代わりレッドストーンシグナルで点火できます！§r
+nomiceu.tooltip.ae2.tiny_tnt.3=§eブロックは破壊しません！§r
+nomiceu.tooltip.actuallyadditions.solidifed_xp.amount=§eレベル1に必要な経験値の32%%にあたる8経験値を付与！§r
+nomiceu.tooltip.ae2.p2p.type=タイプ: %s
+nomiceu.tooltip.ae2.buses.warning=§c過度に使用するとTPSのラグを起こす可能性があります！代わりにインターフェースを使おう！§r
+nomiceu.tooltip.ae2.matter_cannon.1=§e弾としてマターボール、ペイントボール、金属ナゲットが使える。§r
