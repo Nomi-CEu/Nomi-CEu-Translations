@@ -160,6 +160,8 @@ nomilabs.gui.better_p2p.input=Input
 nomilabs.gui.better_p2p.output=Output
 nomilabs.gui.better_p2p.error.same_output=P2P is already an {}.
 
+nomilabs.gui.advanced_memory_card.button.refresh=Refresh List
+
 nomilabs.gui.advanced_memory_card.info.dist=Distance: %sm
 nomilabs.gui.advanced_memory_card.info.type=Type: %s - %s
 
@@ -172,6 +174,10 @@ nomilabs.gui.advanced_memory_card.hover_info.connections.input.multi=§b%s Input
 nomilabs.gui.advanced_memory_card.hover_info.connections.output.none=§cNo Outputs
 nomilabs.gui.advanced_memory_card.hover_info.connections.output.one=§a%s Output
 nomilabs.gui.advanced_memory_card.hover_info.connections.output.multi=§b%s Outputs
+
+nomilabs.gui.advanced_memory_card.sort.default=Sorting Mode: §bDefault
+nomilabs.gui.advanced_memory_card.sort.distance=Sorting Mode: §bDistance
+nomilabs.gui.advanced_memory_card.sort.name=Sorting Mode: §bName
 
 gui.advanced_memory_card.mode.add_as_input=Current Mode: Add as Input
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
