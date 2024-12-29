@@ -70,6 +70,10 @@ config.nomilabs.mod_integration.ae2_terminal.cfg_interface=Interface Configurati
 config.nomilabs.mod_integration.ae2_terminal.cfg_fluid_interface=Fluid Interface Configuration Terminal Auto-Focusing
 config.nomilabs.mod_integration.ae2_terminal.cfg_interface_save=Save Interface Configuration Terminal Searches
 
+config.nomilabs.mod_integration.better_p2p=Better P2P Options
+config.nomilabs.mod_integration.better_p2p.blink=Blink Selected P2P
+config.nomilabs.mod_integration.better_p2p.blink_speed=Blink Selected P2P Speed
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
