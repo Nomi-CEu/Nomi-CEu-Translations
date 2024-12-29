@@ -175,6 +175,13 @@ nomilabs.gui.advanced_memory_card.hover_info.connections.output.none=§cNo Outpu
 nomilabs.gui.advanced_memory_card.hover_info.connections.output.one=§a%s Output
 nomilabs.gui.advanced_memory_card.hover_info.connections.output.multi=§b%s Outputs
 
+nomilabs.gui.advanced_memory_card.filter.title=Filtering Tags:
+nomilabs.gui.advanced_memory_card.filter.distless=Set a Maximum Distance
+nomilabs.gui.advanced_memory_card.filter.distmore=Set a Minimum Distance
+nomilabs.gui.advanced_memory_card.filter.type=Filter by Type
+nomilabs.gui.advanced_memory_card.filter.name=Filter by Name
+nomilabs.gui.advanced_memory_card.filter.end=Tags are Separated by Spaces.
+
 nomilabs.gui.advanced_memory_card.sort.default=Sorting Mode: §bDefault
 nomilabs.gui.advanced_memory_card.sort.distance=Sorting Mode: §bDistance
 nomilabs.gui.advanced_memory_card.sort.name=Sorting Mode: §bName
