@@ -630,3 +630,5 @@ tooltip.nomilabs.info.ae2-stuff.4=§eблоки и их использовани
 tooltip.nomilabs.tiny_fuels=Плавит ровно один предмет в печи!
 tooltip.nomilabs.growth_chamber.description=§8Мощная камера УФ-излучения, способная массово выращивать даже самые непонятные растения.§r
 tooltip.nomilabs.universal_crystallizer.description_laser=Может использовать §bЛазерные люки§r
+config.nomilabs.mod_integration.jei_ing_empty_line=Добавить пустую строку подсказки о ингредиентах JEI
+config.nomilabs.content.gt_content.items=Включить уникальные GT предметы
