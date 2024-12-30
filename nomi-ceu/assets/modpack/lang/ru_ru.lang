@@ -84,3 +84,7 @@ nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Поместите в �
 nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=Улучшения будут §aСохранены§r!
 nomiceu.tooltip.xtones.lamp=§eТребуется редстоун сигнал чтобы включить.§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=Поместите в Сетку создания, чтобы §eУбрать охладитель§r!
+nomiceu.tooltip.mixed.accepts_fluid_container=§7Принимает §aВедра§7, §aЯчейки§7, §aБочки§7, и другие §aЖидкостные хранилища§7!
+nomiceu.tooltip.mixed.mirrorable=§7Рецепт можно отзеркалить.§r
+nomiceu.tooltip.mixed.accepts_fluid=§7Жидкость: §b%s§r
+nomiceu.tooltip.mixed.not_consumed=Ингредиент не расходуется!
