@@ -168,9 +168,11 @@ nomilabs.gui.better_p2p.error.same_output=P2P is already an {}.
 nomilabs.gui.advanced_memory_card.button.refresh=Refresh List
 
 nomilabs.gui.advanced_memory_card.info.dist=Distance: %sm
+nomilabs.gui.advanced_memory_card.info.dim=In Dim: %s (%s)
 nomilabs.gui.advanced_memory_card.info.type=Type: %s - %s
 
 nomilabs.gui.advanced_memory_card.hover_info.title=§bP2P - %s
+nomilabs.gui.advanced_memory_card.hover_info.dim=Dim: %s (%s)
 
 nomilabs.gui.advanced_memory_card.hover_info.connections.input.none=§cNo Inputs
 nomilabs.gui.advanced_memory_card.hover_info.connections.input.one=§a1 Input
