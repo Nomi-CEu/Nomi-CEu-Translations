@@ -1,1 +1,4 @@
 topaddons.fluid_display.tank.display.default=Tank
+
+topaddons.fluid_display.tank.display.input=Input
+topaddons.fluid_display.tank.display.output=Output
