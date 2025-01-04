@@ -68,7 +68,7 @@ nomiceu.tooltip.darkutils.ender_tether=Блокирует телепортаци
 nomiceu.tooltip.dme.glitch_fragment=§bПолучено путем раздавливания Глитч-Сердец об Обсидиан.§r
 nomiceu.tooltip.dme.matter=§eДаёт %s%% уровней Опыта!§r
 nomiceu.tooltip.dme.matter.full_level=§eДаёт 1 уровень Опыта!§r
-nomiceu.tooltip.thermalexpansion.capacitors=§cНе может быть разряжен в GT Батарейных буферах!§r
+nomiceu.tooltip.thermalexpansion.capacitors=§cНе может быть разряжен в GT Батарейных буферах или Механизмах!§r
 nomiceu.tooltip.gregtech.prospector.1=§6§lИспользование:§r
 nomiceu.tooltip.gregtech.prospector.2=Квадраты сетки = 1 чанк, вверх — это север.
 nomiceu.tooltip.gregtech.prospector.3=Нажмите на руду в боковой панели, чтобы показать только её.
