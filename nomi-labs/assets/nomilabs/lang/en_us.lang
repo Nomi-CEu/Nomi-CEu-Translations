@@ -49,6 +49,7 @@ config.nomilabs.mod_integration.ftb_utils=Enable FTB Utilities Integration
 config.nomilabs.mod_integration.top_addons=Enable TOP Addons Integration
 config.nomilabs.mod_integration.jei_ing_empty_line=Add JEI Ingredient Tooltip Empty Line
 config.nomilabs.mod_integration.bqu_fluid_task_fixes=Enable BQu Fluid Task Fixes
+config.nomilabs.mod_integration.screwdrive_aa_relays=Allow GT Screwdrivers for AA Laser Relays
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
@@ -70,10 +71,19 @@ config.nomilabs.mod_integration.ae2_terminal.cfg_interface=Interface Configurati
 config.nomilabs.mod_integration.ae2_terminal.cfg_fluid_interface=Fluid Interface Configuration Terminal Auto-Focusing
 config.nomilabs.mod_integration.ae2_terminal.cfg_interface_save=Save Interface Configuration Terminal Searches
 
+config.nomilabs.mod_integration.better_p2p=Better P2P Options
+config.nomilabs.mod_integration.better_p2p.blink=Blink Selected P2P
+config.nomilabs.mod_integration.better_p2p.blink_speed=Blink Selected P2P Speed
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
 config.nomilabs.groovy.recipe_search_mode=GregTech Recipe Output Search Mode
+
+config.nomilabs.top=The One Probe Settings
+config.nomilabs.top.tooltip=The One Probe Settings
+config.nomilabs.top.rf_provider=Labs RF Provider Mode
+config.nomilabs.top.gt_recipe_output=Show GT Machine Recipe Outputs
 
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Integration Settings
@@ -136,8 +146,10 @@ config.nomilabs.advanced.difficulty.expert_override=Difficulty Override Expert
 # GUI
 nomilabs.top.steam_heating_up=Heating Up:
 nomilabs.top.steam_cooling_down=Cooling Down
-nomilabs.top.steam_venting_stuck.1=Steam Vent Stuck!
+nomilabs.top.steam_venting_stuck.1=Steam Vent Blocked!
 nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
+
+nomilabs.top.recipe_outputs=Producing:
 
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
@@ -160,11 +172,46 @@ nomilabs.gui.better_p2p.input=Input
 nomilabs.gui.better_p2p.output=Output
 nomilabs.gui.better_p2p.error.same_output=P2P is already an {}.
 
-nomilabs.gui.advanced_memory_card.mode.add_input=Add as Input
+nomilabs.gui.advanced_memory_card.button.refresh=Refresh List
+
+nomilabs.gui.advanced_memory_card.info.dist=Distance: %sm
+nomilabs.gui.advanced_memory_card.info.dim=In Dim: %s (%s)
+nomilabs.gui.advanced_memory_card.info.type=Type: %s - %s
+
+nomilabs.gui.advanced_memory_card.hover_info.title=§bP2P - %s
+nomilabs.gui.advanced_memory_card.hover_info.dim=Dim: %s (%s)
+
+nomilabs.gui.advanced_memory_card.hover_info.connections.input.none=§cNo Inputs
+nomilabs.gui.advanced_memory_card.hover_info.connections.input.one=§a1 Input
+nomilabs.gui.advanced_memory_card.hover_info.connections.input.multi=§b%s Inputs
+
+nomilabs.gui.advanced_memory_card.hover_info.connections.output.none=§cNo Outputs
+nomilabs.gui.advanced_memory_card.hover_info.connections.output.one=§a1 Output
+nomilabs.gui.advanced_memory_card.hover_info.connections.output.multi=§b%s Outputs
+
+nomilabs.gui.advanced_memory_card.filter.title=Filtering Tags:
+nomilabs.gui.advanced_memory_card.filter.input=Show Inputs Only
+nomilabs.gui.advanced_memory_card.filter.output=Show Outputs Only
+nomilabs.gui.advanced_memory_card.filter.bound=Show Bound and Valid Only
+nomilabs.gui.advanced_memory_card.filter.unbound=Show Unbound or Invalid Only
+nomilabs.gui.advanced_memory_card.filter.distless=Set a Maximum Distance
+nomilabs.gui.advanced_memory_card.filter.distmore=Set a Minimum Distance
+nomilabs.gui.advanced_memory_card.filter.type=Filter by Type
+nomilabs.gui.advanced_memory_card.filter.name=Filter by Name
+nomilabs.gui.advanced_memory_card.filter.end=Tags are Separated by Spaces.
+
+nomilabs.gui.advanced_memory_card.sort.default=Sorting Mode: §bDefault
+nomilabs.gui.advanced_memory_card.sort.distance=Sorting Mode: §bDistance
+nomilabs.gui.advanced_memory_card.sort.name=Sorting Mode: §bName
+
+nomilabs.gui.advanced_memory_card.sort_direction.normal=Sorting Order: §bNormal
+nomilabs.gui.advanced_memory_card.sort_direction.reversed=Sorting Order: §dReversed
+
+gui.advanced_memory_card.mode.add_as_input=Current Mode: Add as Input
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency.
 
-nomilabs.gui.advanced_memory_card.mode.add_output=Add as Output
+gui.advanced_memory_card.mode.add_as_output=Current Mode: Add as Output
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency.
 
