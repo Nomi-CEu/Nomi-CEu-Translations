@@ -80,6 +80,11 @@ config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Setting
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
 config.nomilabs.groovy.recipe_search_mode=GregTech Recipe Output Search Mode
 
+config.nomilabs.top=The One Probe Settings
+config.nomilabs.top.tooltip=The One Probe Settings
+config.nomilabs.top.rf_provider=Labs RF Provider Mode
+config.nomilabs.top.gt_recipe_output=Show GT Machine Recipe Outputs
+
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.enable=Enable Draconic Evolution Integration
@@ -143,6 +148,8 @@ nomilabs.top.steam_heating_up=Heating Up:
 nomilabs.top.steam_cooling_down=Cooling Down
 nomilabs.top.steam_venting_stuck.1=Steam Vent Blocked!
 nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
+
+nomilabs.top.recipe_outputs=Producing:
 
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
