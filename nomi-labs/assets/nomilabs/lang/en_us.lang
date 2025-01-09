@@ -79,6 +79,7 @@ config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
 config.nomilabs.groovy.recipe_search_mode=GregTech Recipe Output Search Mode
+config.nomilabs.groovy.crafting_output_cache=Crafting Output Cache Mode
 
 config.nomilabs.top=The One Probe Settings
 config.nomilabs.top.tooltip=The One Probe Settings
