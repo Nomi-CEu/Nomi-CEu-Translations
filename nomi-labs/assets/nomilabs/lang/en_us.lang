@@ -75,6 +75,12 @@ config.nomilabs.mod_integration.better_p2p=Better P2P Options
 config.nomilabs.mod_integration.better_p2p.blink=Blink Selected P2P
 config.nomilabs.mod_integration.better_p2p.blink_speed=Blink Selected P2P Speed
 
+config.nomilabs.mod_integration.solar_flux=Solar Flux Performance Options
+config.nomilabs.mod_integration.solar_flux.enable=Enable Solar Flux Performance Improvements
+config.nomilabs.mod_integration.solar_flux.auto_balancing_freq=Auto Balancing Frequency
+config.nomilabs.mod_integration.solar_flux.extra_balancing=Enable Extra Balancing
+config.nomilabs.mod_integration.solar_flux.extra_balancing_amount=Max Extra Balancing Amount
+
 config.nomilabs.groovy=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.tooltip=GroovyScript Extensions and Script Helper Settings
 config.nomilabs.groovy.hand=Enable GroovyScript Hand Command Additions
