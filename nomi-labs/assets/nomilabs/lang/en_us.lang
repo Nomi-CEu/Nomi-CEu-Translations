@@ -543,9 +543,6 @@ item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 item.nomilabs.industrial_rebreather_kit.name=Industrial Rebreather Kit
 command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
 command.nomilabs.difficulty.labs_locked_2=§cThis is because you are playing on %s §6Mode§c!
-
-#----------------Multiblocks----------------#
-
 # Names
 nomilabs.machine.microverse_projector_1.name=Microverse Projector I
 nomilabs.machine.microverse_projector_2.name=Microverse Projector II
