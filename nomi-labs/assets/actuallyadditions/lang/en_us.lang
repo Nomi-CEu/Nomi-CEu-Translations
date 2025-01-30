@@ -1,0 +1,18 @@
+# Error
+aa.message.phantom_connector.different_dim=§cStored position is in a different dimension! Cannot connect!§r
+
+# Basic Information
+aa.gui.hover.phantom.range=§6Range: %s§r
+
+# Connection Status + Debug Tips
+aa.gui.hover.phantom.not_connected=Status: §cNot Connected§r
+aa,gui.hover.phantom.not_connected.info=Use a §bPhantom Connector§r to connect Phanto a block!
+aa.gui.hover.phantom.connected=Status: §aConnected§r
+aa.gui.hover.phantom.connected_failed=Status: §cBad Connection§r
+aa.gui.hover.phantom.connected_failed.info=The connection point may be out of range, not in loaded chunks, or does not work with this device.
+
+# Connection Information
+aa.gui.hover.phantom.bound_block=Block: %s
+aa.gui.hover.phantom.unknown_block=§eSomething Unrecognizable§r
+aa.gui.hover.phantom.bound_pos=Pos: %s, %s, %s
+aa.gui.hover.phantom.bound_dist=Distance: %,.1fm
