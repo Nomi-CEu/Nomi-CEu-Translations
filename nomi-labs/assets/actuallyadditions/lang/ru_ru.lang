@@ -1,0 +1,11 @@
+aa.gui.hover.phantom.range=§6Радиус: %s§r
+aa.gui.hover.phantom.not_connected=Статус: §cНе подключенно§r
+aa.gui.hover.phantom.connected=Статус: §cПодключенно§r
+aa.gui.hover.phantom.bound_block=Блок: %s
+aa.gui.hover.phantom.unknown_block=§eЧто-то Неопознанное§r
+aa.gui.hover.phantom.bound_pos=Коорд.: %s, %s, %s
+aa.gui.hover.phantom.bound_dist=Расстояние: %,.1fм
+aa.message.phantom_connector.different_dim=§cСохраненная позиция находится в другом измерении! Невозможно подключиться!§r
+aa,gui.hover.phantom.not_connected.info=Используйте §bПризрачный соединитель§r для подключения к Фантома к блоку!
+aa.gui.hover.phantom.connected_failed=Статус: §cПлохое подключение§r
+aa.gui.hover.phantom.connected_failed.info=Точка подключения может находиться вне зоны действия, в незагруженных чанках или не совместима с этим устройством.
