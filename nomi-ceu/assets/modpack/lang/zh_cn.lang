@@ -126,3 +126,7 @@ nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=放在合成栏来 §e�
 nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§c冷却剂将会被清空！§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=放在合成栏来 §e清空冷却剂§r！
 nomiceu.tooltip.ae2.p2p.type=类型：%s
+nomiceu.tooltip.mixed.accepts_fluid=§7流体：§b%s§r
+nomiceu.tooltip.mixed.mirrorable=§7配方可被镜像。§r
+nomiceu.tooltip.mixed.accepts_fluid_container=§7接受§a铁桶§7，§a单元§7，§a桶§7和其他§a流体容器§7！
+nomiceu.tooltip.mixed.not_consumed=原料不消耗！

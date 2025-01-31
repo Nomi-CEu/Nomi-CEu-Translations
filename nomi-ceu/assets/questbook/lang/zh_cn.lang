@@ -8,7 +8,7 @@ nomifactory.quest.normal.line.1.desc=格雷科技§b中压（MV）§r等级：�
 
 # line 2 of mode normal
 nomifactory.quest.normal.line.2.title=游戏中期（HV, EV, IV）
-nomifactory.quest.normal.line.2.desc=格雷科技§6高压（HV）§r、§5超高压（EV）§r和§1强导压（IV）§r等级：%n%n§3低温蒸馏§r，以及§6环氧树脂§r和§9硝基柴油§r的石油化工。%n%n制作§6下界之星§r并解锁§b热力膨胀§r机器。%n%n搭建一个§b核电工艺§r裂变反应堆以获得新材料。%n%n搭建一个空间站和跃迁核心。
+nomifactory.quest.normal.line.2.desc=格雷科技§6高压（HV）§r、§5超高压（EV）§r和§1强导压（IV）§r等级：%n%n§3低温蒸馏§r，以及§6环氧树脂§r和§9硝基柴油§r的石油化工。%n%n制作§6下界之星§r并解锁§b热力膨胀§r机器。%n%n搭建§b核电工艺§r裂变反应堆以获得新材料。%n%n搭建空间站和跃迁核心。
 
 # line 3 of mode normal
 nomifactory.quest.normal.line.3.title=进展之路
@@ -59,7 +59,7 @@ nomifactory.quest.normal.db.2.title=装罐机和各种物品
 nomifactory.quest.normal.db.2.desc=注意：这个任务你提交LV或者MV的装罐机都行。%n%n§aLV电池§r制作起来很简单，但更有效的能源储存方式弄起来会更复杂，所以我们现在就得打好基础。%n%n用§3离心机§r来加工§6黝铜矿§r和§6辉锑矿§r以制作出我们需要的§6锑§r。
 
 # db 3 of mode normal
-nomifactory.quest.normal.db.3.title=§2开局
+nomifactory.quest.normal.db.3.title=§2开局§r
 nomifactory.quest.normal.db.3.desc=欢迎来到§5全能工厂 §2GTCEu 版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n小提示：你可以随时使用§e波浪键（esc下面那个按键）§r打开§6任务书§r！%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于 §2GTCEu§r 的新功能和有新内容的任务将以§2深绿色（颜色 2）§r突出显示。%n%n译注：当前任务书汉化基于 zero6six 的普通版汉化，由本人（XingRen）参考 Ede1weiss 的专家版任务书汉化，针对部分无法理解的机翻文本与之前汉化缺少的内容进行了校对，可能会进一步长期维护。
 
 # db 4 of mode normal

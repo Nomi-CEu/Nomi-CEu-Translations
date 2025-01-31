@@ -68,7 +68,7 @@ nomiceu.tooltip.darkutils.ender_tether=Блокирует телепортаци
 nomiceu.tooltip.dme.glitch_fragment=§bПолучено путем раздавливания Глитч-Сердец об Обсидиан.§r
 nomiceu.tooltip.dme.matter=§eДаёт %s%% уровней Опыта!§r
 nomiceu.tooltip.dme.matter.full_level=§eДаёт 1 уровень Опыта!§r
-nomiceu.tooltip.thermalexpansion.capacitors=§cНе может быть разряжен в GT Батарейных буферах!§r
+nomiceu.tooltip.thermalexpansion.capacitors=§cНе может быть разряжен в GT Батарейных буферах или Механизмах!§r
 nomiceu.tooltip.gregtech.prospector.1=§6§lИспользование:§r
 nomiceu.tooltip.gregtech.prospector.2=Квадраты сетки = 1 чанк, вверх — это север.
 nomiceu.tooltip.gregtech.prospector.3=Нажмите на руду в боковой панели, чтобы показать только её.
@@ -84,3 +84,7 @@ nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Поместите в �
 nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=Улучшения будут §aСохранены§r!
 nomiceu.tooltip.xtones.lamp=§eТребуется редстоун сигнал чтобы включить.§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=Поместите в Сетку создания, чтобы §eУбрать охладитель§r!
+nomiceu.tooltip.mixed.accepts_fluid_container=§7Принимает §aВедра§7, §aЯчейки§7, §aБочки§7, и другие §aЖидкостные хранилища§7!
+nomiceu.tooltip.mixed.mirrorable=§7Рецепт можно отзеркалить.§r
+nomiceu.tooltip.mixed.accepts_fluid=§7Жидкость: §b%s§r
+nomiceu.tooltip.mixed.not_consumed=Ингредиент не расходуется!
