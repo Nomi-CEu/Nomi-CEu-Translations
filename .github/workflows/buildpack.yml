@@ -49,7 +49,7 @@ jobs:
           ref: ${{ inputs.tag }}
 
       - name: Restore Cached Files
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: cache
         with:
           path: |
@@ -59,10 +59,10 @@ jobs:
           key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
           restore-keys: ${{ runner.os }}-bunny-
 
-      - name: Setup NodeJS v16
-        uses: actions/setup-node@v3
+      - name: Setup NodeJS v20
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20"
           check-latest: true
 
       - name: Setup NPM Packages
@@ -74,7 +74,7 @@ jobs:
         run: npx gulp
 
       - name: Upload All Files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Built Pack
           path: |
@@ -99,7 +99,7 @@ jobs:
           ref: ${{ inputs.tag }}
 
       - name: Restore Cached Files
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: cache
         with:
           path: |
@@ -109,10 +109,10 @@ jobs:
           key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
           restore-keys: ${{ runner.os }}-bunny-
 
-      - name: Setup NodeJS v16
-        uses: actions/setup-node@v3
+      - name: Setup NodeJS v20
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20"
           check-latest: true
 
       - name: Setup NPM Packages
@@ -140,7 +140,7 @@ jobs:
           ref: ${{ inputs.tag }}
 
       - name: Restore Cached Files
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: cache
         with:
           path: |
@@ -150,10 +150,10 @@ jobs:
           key: ${{ runner.os }}-bunny-${{ hashFiles('**/.cache', '**/package-lock.json', '**/manifest.json') }}
           restore-keys: ${{ runner.os }}-bunny-
 
-      - name: Setup NodeJS v16
-        uses: actions/setup-node@v3
+      - name: Setup NodeJS v20
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20"
           check-latest: true
 
       - name: Setup NPM Packages
@@ -167,7 +167,7 @@ jobs:
           MODULE: ${{ matrix.MODULE }}
           
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.FILENAME }}
           path: ${{ format('./build/{0}/**/*', matrix.MODULE) }}
