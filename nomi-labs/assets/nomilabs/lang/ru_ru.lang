@@ -645,3 +645,7 @@ nomilabs.gui.advanced_memory_card.button.refresh=Обновить список
 nomilabs.gui.advanced_memory_card.info.dist=Расстояние: %sm
 nomilabs.gui.advanced_memory_card.info.dim=Измерение: %s (%s)
 nomilabs.gui.advanced_memory_card.hover_info.title=§bP2P - %s
+config.nomilabs.mod_integration.solar_flux.auto_balancing_freq=Частота автоматической балансировки
+config.nomilabs.mod_integration.solar_flux.extra_balancing=Включить дополнительную балансировку
+config.nomilabs.mod_integration.solar_flux=Настройки производительности Solar Flux
+config.nomilabs.mod_integration.solar_flux.enable=Включить улучшения производительности Solar Flux
