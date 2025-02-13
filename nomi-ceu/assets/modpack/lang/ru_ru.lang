@@ -88,3 +88,5 @@ nomiceu.tooltip.mixed.accepts_fluid_container=§7Принимает §aВедр�
 nomiceu.tooltip.mixed.mirrorable=§7Рецепт можно отзеркалить.§r
 nomiceu.tooltip.mixed.accepts_fluid=§7Жидкость: §b%s§r
 nomiceu.tooltip.mixed.not_consumed=Ингредиент не расходуется!
+nomiceu.tooltip.mixed.deprecated=§cПредмет устарел! Поместите в Сетку создания для конвертации!§r
+nomiceu.tooltip.mixed.deprecation=§cРецепт преобразования из устаревшего предмета в альтернативный!§r
