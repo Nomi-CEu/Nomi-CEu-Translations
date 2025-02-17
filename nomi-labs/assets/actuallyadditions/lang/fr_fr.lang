@@ -1,0 +1,11 @@
+aa.gui.hover.phantom.range=§6Portée : %s§r
+aa.gui.hover.phantom.bound_block=Block : %s
+aa.gui.hover.phantom.connected=Statut : §aConnecté§r
+aa.gui.hover.phantom.connected_failed=Statut : §cMauvaise Connection§r
+aa.gui.hover.phantom.connected_failed.info=Le point pourrait être hors de portée, pas dans un chunk chargé, ou ne fonctionne pas avec cet appareil.
+aa.gui.hover.phantom.unknown_block=§eQuelque Chose de Non Reconnaissable§r
+aa.gui.hover.phantom.bound_pos=Pos : %s, %s, %s
+aa.gui.hover.phantom.bound_dist=Distance : %,.1fm
+aa.gui.hover.phantom.not_connected=Statut : §cNon Connecté§r
+aa.message.phantom_connector.different_dim=§cLa position stockée est dans une dimension différente ! Impossible de se connecter !§r
+aa.gui.hover.phantom.not_connected.info=Utilisez un §bConnecteur de Phantom§r pour mettre en place une connexion !
