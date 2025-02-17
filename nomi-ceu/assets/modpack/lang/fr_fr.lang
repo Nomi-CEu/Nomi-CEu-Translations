@@ -87,3 +87,5 @@ nomiceu.tooltip.mixed.mirrorable=§7La recette peut être faite en miroir.§r
 nomiceu.tooltip.mixed.accepts_fluid=§7Fluide : §b%s§r
 nomiceu.tooltip.mixed.accepts_fluid_container=§7Accepte des §aSeaux§7, des §aCellules§7, des §aBatteries§7, et tout autre §aRécipient à Fluide§7 !
 nomiceu.tooltip.mixed.not_consumed=Ingrédient Non Consommé !
+nomiceu.tooltip.mixed.deprecation=§cRecette de conversion d'un Item Obsolète vers son Alternative !§r
+nomiceu.tooltip.mixed.deprecated=§cItem Obsolète ! Placez le dans une Grille de Fabrication pour le Convertir !§r
