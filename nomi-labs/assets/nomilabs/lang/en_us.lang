@@ -121,6 +121,7 @@ config.nomilabs.advanced.client_side_methods=Client Side ONLY Methods
 config.nomilabs.advanced.server_side_fields=Server Side ONLY Fields
 config.nomilabs.advanced.server_side_methods=Server Side ONLY Methods
 config.nomilabs.advanced.server_welcome_name=Server Welcome Name
+config.nomilabs.advanced.mode_check_nomi_ceu=Mode Check Nomi-CEu Link
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
