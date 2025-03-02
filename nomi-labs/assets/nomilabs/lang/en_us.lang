@@ -179,7 +179,7 @@ nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple se
 nomilabs.gui.top_override.fluid=Fluid: %s
 
 nomilabs.gui.bqu.custom.copy.tooltip=Click to Copy
-nomilabs.gui.bqu.custom.copied.tooltip=§aCopied to Clipboard!§r
+nomilabs.gui.bqu.custom.copied.tooltip=§eCopied to Clipboard!§r
 nomilabs.gui.bqu.custom.link.tooltip=Click to Open Link
 
 nomilabs.gui.better_p2p.input=Input
