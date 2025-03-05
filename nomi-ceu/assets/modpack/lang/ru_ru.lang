@@ -80,7 +80,7 @@ nomiceu.tooltip.eio.liquid_xp=§e20Л = 1 ед. опыта, 500Л = 1 урове
 nomiceu.tooltip.projectred.wire=§eДля использования с ProjectRed.§r
 nomiceu.tooltip.eio.facade=§cМожет вызвать задержку FPS при чрезмерном использовании!§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§cОхладитель будет уничтожен!§r
-nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Поместите в сетку создания, чтобы §eОчистить содержимое§r!
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=Поместите в Cетку создания, чтобы §eОчистить содержимое§r!
 nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=Улучшения будут §aСохранены§r!
 nomiceu.tooltip.xtones.lamp=§eТребуется редстоун сигнал чтобы включить.§r
 nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=Поместите в Сетку создания, чтобы §eУбрать охладитель§r!
@@ -88,3 +88,5 @@ nomiceu.tooltip.mixed.accepts_fluid_container=§7Принимает §aВедр�
 nomiceu.tooltip.mixed.mirrorable=§7Рецепт можно отзеркалить.§r
 nomiceu.tooltip.mixed.accepts_fluid=§7Жидкость: §b%s§r
 nomiceu.tooltip.mixed.not_consumed=Ингредиент не расходуется!
+nomiceu.tooltip.mixed.deprecated=§cПредмет устарел! Поместите в Сетку создания для конвертации!§r
+nomiceu.tooltip.mixed.deprecation=§cРецепт преобразования из устаревшего предмета в альтернативный!§r
