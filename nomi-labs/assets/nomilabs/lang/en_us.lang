@@ -52,6 +52,7 @@ config.nomilabs.mod_integration.bqu_fluid_task_fixes=Enable BQu Fluid Task Fixes
 config.nomilabs.mod_integration.screwdrive_aa_relays=Allow GT Screwdrivers for AA Laser Relays
 config.nomilabs.mod_integration.disable_armor_plus_frag_drops=Disable Armor Plus Fragment Drops
 config.nomilabs.mod_integration.dummy_muffler_hatches=Enable Dummy Muffler Hatches
+config.nomilabs.mod_integration.prospector_dark=Default Prospector Dark Mode
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
