@@ -672,10 +672,9 @@ tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Items
 tooltip.nomilabs.drawers.item=§f- %s x%s§r
-tooltip.nomilabs.drawers.item_upgrade=§f- %s x%s §d(Upgrade)§r
-tooltip.nomilabs.drawers.stored_info=§bHold [Shift] to see stored items§r
-tooltip.nomilabs.drawers.upgrades=§eUpgrades sealed within§r
-tooltip.nomilabs.drawers.upgrades_info=§bHold [Shift] to see stored upgrades§r
+tooltip.nomilabs.drawers.stored=§eItems Sealed Within:§r
+tooltip.nomilabs.drawers.upgrades=§dUpgrades Sealed Within:§r
+tooltip.nomilabs.drawers.shift=§bHold [Shift] to See Sealed Contents§r
 
 tooltip.nomilabs.excitationcoil.description=§7Crafting Component Only... Except:§r
 tooltip.nomilabs.excitationcoil.placeable=§7Placeable!§r
