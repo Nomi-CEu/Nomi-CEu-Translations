@@ -2994,7 +2994,7 @@ nomifactory.quest.normal.db.957.desc=§oThis quest completes via checkbox or upo
 
 # db 958 of mode normal
 nomifactory.quest.normal.db.958.title=Silicon Dioxide Dust
-nomifactory.quest.normal.db.958.desc=§oThis quest completes via checkbox or upon achieving Silicon Dioxide Dust.%n%nThis step requires a Centrifuge at voltage §lLV §oor higher.§r%n%nSeperate your §6Glass Dust§r into §6Silicon Dioxide Dust§r. Can be electrolyzed into useful resources.%n%n%n%nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.
+nomifactory.quest.normal.db.958.desc=§oThis quest completes via checkbox or upon achieving Silicon Dioxide Dust.%n%nThis step requires a Centrifuge at voltage §lLV §oor higher.§r%n%nSeparate your §6Glass Dust§r into §6Silicon Dioxide Dust§r. Can be electrolyzed into useful resources.%n%n%n%nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.
 
 # db 959 of mode normal
 nomifactory.quest.normal.db.959.title=Quartz Sand
@@ -3002,7 +3002,7 @@ nomifactory.quest.normal.db.959.desc=§oThis quest completes via checkbox or upo
 
 # db 960 of mode normal
 nomifactory.quest.normal.db.960.title=Quartzite and Certus Quartz
-nomifactory.quest.normal.db.960.desc=§oThis quest completes via checkbox or upon achieving Sand.%n%nThis step requires a Centrifuge at voltage §lLV §oor higher.§r%n%nSeperate your §6Quartz Sand§r into §6Quartzite Dust§r and §6Certus Quartz Dust§r. This is a good renewable source of §6Certus Quartz§r, which you need for §bApplied Energistics 2§r.%n%n%n%nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.
+nomifactory.quest.normal.db.960.desc=§oThis quest completes via checkbox or upon achieving Sand.%n%nThis step requires a Centrifuge at voltage §lLV §oor higher.§r%n%nSeparate your §6Quartz Sand§r into §6Quartzite Dust§r and §6Certus Quartz Dust§r. This is a good renewable source of §6Certus Quartz§r, which you need for §bApplied Energistics 2§r.%n%n%n%nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.
 
 # db 961 of mode normal
 nomifactory.quest.normal.db.961.title=Silicon and Oxygen
