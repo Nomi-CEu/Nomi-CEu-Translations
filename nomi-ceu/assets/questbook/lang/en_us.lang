@@ -1510,7 +1510,7 @@ nomifactory.quest.normal.db.498.desc=When making circuits, you'll need either mo
 
 # db 500 of mode normal
 nomifactory.quest.normal.db.500.title=§2The Third And Final Tier Three Circuits§r
-nomifactory.quest.normal.db.500.desc=With your new §2Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
+nomifactory.quest.normal.db.500.desc=With your new §2Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanoprocessor§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
 
 # db 501 of mode normal
 nomifactory.quest.normal.db.501.title=Exotic Materials Catalyst
@@ -1578,7 +1578,7 @@ nomifactory.quest.normal.db.521.desc=Provides more augment slots to machines and
 
 # db 523 of mode normal
 nomifactory.quest.normal.db.523.title=§2The Second Tier Five Circuits§r
-nomifactory.quest.normal.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Lumium Wire§r and §2Fine Tungstensteel Wire.§r
+nomifactory.quest.normal.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Fine Lumium Wire§r and §2Fine Tungstensteel Wire.§r
 
 # db 524 of mode normal
 nomifactory.quest.normal.db.524.title=§2The First Tier Six Circuits§r
@@ -1586,7 +1586,7 @@ nomifactory.quest.normal.db.524.desc=The first and most expensive Tier Six Circu
 
 # db 525 of mode normal
 nomifactory.quest.normal.db.525.title=§2The Second Tier Four Circuits§r
-nomifactory.quest.normal.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanocircuits§r to make a §6Nanoprocessor§r.
+nomifactory.quest.normal.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanoprocessors§r to make a §6Nanoprocessor Assembly§r.
 
 # db 526 of mode normal
 nomifactory.quest.normal.db.526.title=§2EV Circuit Assembling Machine§r
@@ -4876,7 +4876,7 @@ nomifactory.quest.expert.db.498.desc=When making circuits, you'll need either mo
 
 # db 500 of mode expert
 nomifactory.quest.expert.db.500.title=§2The Third And Final Tier Three Circuits§r
-nomifactory.quest.expert.db.500.desc=With your new §2Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
+nomifactory.quest.expert.db.500.desc=With your new §2Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanoprocessor§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
 
 # db 501 of mode expert
 nomifactory.quest.expert.db.501.title=Exotic Materials Catalyst
@@ -4944,7 +4944,7 @@ nomifactory.quest.expert.db.521.desc=Provides more augment slots to machines and
 
 # db 523 of mode expert
 nomifactory.quest.expert.db.523.title=§2The Second Tier Five Circuits§r
-nomifactory.quest.expert.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Lumium Wire§r and §2Fine Tungstensteel Wire.§r
+nomifactory.quest.expert.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Fine Lumium Wire§r and §2Fine Tungstensteel Wire.§r
 
 # db 524 of mode expert
 nomifactory.quest.expert.db.524.title=§2The First Tier Six Circuits§r
@@ -4952,7 +4952,7 @@ nomifactory.quest.expert.db.524.desc=The first and most expensive Tier Six Circu
 
 # db 525 of mode expert
 nomifactory.quest.expert.db.525.title=§2The Second Tier Four Circuits§r
-nomifactory.quest.expert.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanocircuits§r to make a §6Nanoprocessor§r.
+nomifactory.quest.expert.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanoprocessors§r to make a §6Nanoprocessor Assembly§r.
 
 # db 526 of mode expert
 nomifactory.quest.expert.db.526.title=§2EV Circuit Assembling Machine§r
