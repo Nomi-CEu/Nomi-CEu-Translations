@@ -1202,15 +1202,15 @@ nomifactory.quest.normal.db.328.desc=§6Boron§r is currently obtainable by doin
 
 # db 329 of mode normal
 nomifactory.quest.normal.db.329.title=Wyvern Fusion Injectors
-nomifactory.quest.normal.db.329.desc=§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
+nomifactory.quest.normal.db.329.desc=§oThis quest can be completed through either task.%n%n§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
 
 # db 330 of mode normal
 nomifactory.quest.normal.db.330.title=Draconic Fusion Injectors
-nomifactory.quest.normal.db.330.desc=§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
+nomifactory.quest.normal.db.330.desc=§oThis quest can be completed through either task.%n%n§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
 
 # db 331 of mode normal
 nomifactory.quest.normal.db.331.title=Chaotic Fusion Injectors
-nomifactory.quest.normal.db.331.desc=The highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dCreative Tank§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
+nomifactory.quest.normal.db.331.desc=§oThis quest can be completed through either task.§r%n%nThe highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dCreative Tank§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
 
 # db 332 of mode normal
 nomifactory.quest.normal.db.332.title=§2The Fourth And Final Tier Six Circuits§r
@@ -4576,15 +4576,15 @@ nomifactory.quest.expert.db.328.desc=§6Boron§r is currently obtainable by doin
 
 # db 329 of mode expert
 nomifactory.quest.expert.db.329.title=Wyvern Fusion Injectors
-nomifactory.quest.expert.db.329.desc=§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
+nomifactory.quest.expert.db.329.desc=§oThis quest can be completed through either task.%n%n§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
 
 # db 330 of mode expert
 nomifactory.quest.expert.db.330.title=Draconic Fusion Injectors
-nomifactory.quest.expert.db.330.desc=§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
+nomifactory.quest.expert.db.330.desc=§oThis quest can be completed through either task.%n%n§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
 
 # db 331 of mode expert
 nomifactory.quest.expert.db.331.title=Chaotic Fusion Injectors
-nomifactory.quest.expert.db.331.desc=The highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dStabilized Micro Miners§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
+nomifactory.quest.expert.db.331.desc=§oThis quest can be completed through either task.§r%n%nThe highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dStabilized Micro Miners§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
 
 # db 332 of mode expert
 nomifactory.quest.expert.db.332.title=§2The Fourth And Final Tier Six Circuits§r
