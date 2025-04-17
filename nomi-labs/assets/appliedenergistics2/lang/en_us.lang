@@ -1,0 +1,6 @@
+gui.appliedenergistics2.CraftingLock=Crafting Locked
+
+gui.appliedenergistics2.LowRedstoneLock=Locked by Lack of Redstone Signal
+gui.appliedenergistics2.HighRedstoneLock=Locked by Redstone Signal
+gui.appliedenergistics2.UntilPulseUnlock=Waiting for Redstone Pulse to Unlock
+gui.appliedenergistics2.ResultLock=Waiting for Pattern Output to Unlock
