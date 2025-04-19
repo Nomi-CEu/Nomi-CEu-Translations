@@ -1458,7 +1458,7 @@ nomifactory.quest.normal.db.411.desc=The §3Large Microverse Projector§r is a m
 
 # db 413 of mode normal
 nomifactory.quest.normal.db.413.title=§2LV Extractor§r
-nomifactory.quest.normal.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%nWhen you have access to §6Steel§r, you can make molds and use §3Fluid Solidifiers§r to form various components more efficiently from fluids, like §6Gears§r.
+nomifactory.quest.normal.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%nThe Extractor can also feed into §3Fluid Solidifiers§r, to form various components more efficiently from fluids and corresponding §6Molds§r, like §6Gears§r and §6Rotors§r.
 
 # db 415 of mode normal
 nomifactory.quest.normal.db.415.title=Fluxomagnet
@@ -4828,7 +4828,7 @@ nomifactory.quest.expert.db.411.desc=The §3Large Microverse Projector§r is a m
 
 # db 413 of mode expert
 nomifactory.quest.expert.db.413.title=§2LV Extractor§r
-nomifactory.quest.expert.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%n§2Unlike your Steam Extractor, this one can produce fluids!§r%n%nWhen you have access to §6Steel§r, you can make molds and use §3Fluid Solidifiers§r to form various components more efficiently from fluids, like §6Gears§r.
+nomifactory.quest.expert.db.413.desc=§2The functions of the Extractor and Fluid Extractor have been combined into a single machine!%n%n§3Extractors§r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or §6Rubber Sheets§r into liquid §9Rubber§r.%n%n§2Unlike your Steam Extractor, this one can produce fluids!§r%n%nThe Extractor can also feed into §3Fluid Solidifiers§r, to form various components more efficiently from fluids and corresponding §6Molds§r, like §6Gears§r and §6Rotors§r.
 
 # db 415 of mode expert
 nomifactory.quest.expert.db.415.title=Fluxomagnet
