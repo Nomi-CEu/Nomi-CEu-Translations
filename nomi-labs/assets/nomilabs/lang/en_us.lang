@@ -573,10 +573,6 @@ recipemap.naquadah_reactor_2.name=Naquadah Decay (Mk II)
 recipemap.actualization_chamber.name=Actualization
 recipemap.universal_crystallizer.name=Crystallization
 recipemap.dme_sim_chamber.name=Simulation
-
-
-#----------------Tooltips----------------#
-
 # General
 tooltip.nomilabs.general.press_shift_for_usages=Press [Shift] for More Usages.
 tooltip.nomilabs.general.press_ctrl_for_usages=Press [Ctrl] for More Usages.
