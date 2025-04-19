@@ -33,7 +33,7 @@ This table captures the support of languages, at the state of nightly builds on 
 | Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina)   | Turkish |
 | --------------------- | ------- | ------- | -------- | ------ | --------------- | --------------------- | ------- |
 | Nomi-CEu (Main)       | 🔵      | 🔵      | 🟢       | 🔵     | 🟢              | 🟢                    | 🟠      |
-| Nomi-CEu (Quest Book) | 🟡      | 🟠      | 🟠       | 🔴     | 🟤              | 🔴                    | 🟤      |
+| Nomi-CEu (Quest Book) | 🟡      | 🟠      | 🟠       | 🟠     | 🟤              | 🔴                    | 🟤      |
 | Gregtech Drawers      | 🔵      | 🔵      | 🔵       | 🔵     | 🔵              | 🔵                    | 🔵      |
 | Nomi Labs             | 🟢      | 🔵      | 🟢       | 🟢     | 🟢              | 🟢                    | 🟤      |
 | **Overall**           | 🟢      | 🟠      | 🟡       | 🟠     | 🟠              | 🟠                    | 🟤      |
