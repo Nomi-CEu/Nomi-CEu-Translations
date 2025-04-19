@@ -3377,9 +3377,6 @@ nomifactory.quest.normal.db.1094.desc=Do you want to automate some §6Coffee§r 
 # db 1095 of mode normal
 nomifactory.quest.normal.db.1095.title=ZPM Assembling Machine
 nomifactory.quest.normal.db.1095.desc=With your §6Europium§r, you can now create a §cZPM §3Assembling Machine§r.%n%nNow, you can make §6Trinium Coils§r, §6ZPM Energy Input Hatches§r and more!
-
-# Expert Quest Lang Entries:
-
 # line 0 of mode expert
 nomifactory.quest.expert.line.0.title=The Beginning
 nomifactory.quest.expert.line.0.desc=GregTech §7Low Voltage§r Tier: start building a factory!%n%nUnlock access to early §bEnderIO§r tech and §bApplied Energistics 2§r Digital Storage.%n%nBuild an §3Electric Blast Furnace§r for smelting advanced materials and alloys.
