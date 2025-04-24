@@ -1,1 +1,5 @@
-
+gui.appliedenergistics2.HighRedstoneLock=Lukittu punakivisignaalilla
+gui.appliedenergistics2.UntilPulseUnlock=Odotetaan punakivipulssia lukituksen avaamiseksi
+gui.appliedenergistics2.ResultLock=Odotetaan mallinneulostuloa lukituksen avaamiseksi
+gui.appliedenergistics2.CraftingLock=Työstäminen lukittu
+gui.appliedenergistics2.LowRedstoneLock=Lukittu punakivisignaalin puuttumisen vuoksi
