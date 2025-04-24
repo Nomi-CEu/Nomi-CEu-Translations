@@ -2,7 +2,6 @@
 # line 1 of mode normal
 nomifactory.quest.normal.line.1.title=Etapa Inicial
 nomifactory.quest.normal.db.41.desc=¡Ahora que tienes §6Aleación Energética§r, es hora de hacer mejores conductos!%n%nCada vez que mejores tus conductos, vas a conseguir más de ellos. ¡Genial!%n%nSi no tienes una §3Máquina de Ensamblaje§r, vas a tener que hacerlos a mano. Este método no es tan eficiente como la máquina, pero ya vas a hacer una pronto.
-nomifactory.quest.normal.db.995.desc=Sin Descripción
 
 # line 6 of mode expert
 nomifactory.quest.expert.line.6.title=Genesis
@@ -83,10 +82,6 @@ nomifactory.quest.normal.db.6.desc=Antes de continuar, vas a necesitar acceso a 
 nomifactory.quest.normal.db.7.title=§2Cables
 nomifactory.quest.normal.db.7.desc=Los cables más básicos, como estos §6Cables de Aleación Roja§r, se pueden proteger a mano con aislante de §6Caucho§r.%n%nTipos de cables más avanzados van a necesitar una §3Máquina de Ensamblaje§r y §9Caucho§r líquido, pero puedes hacerlos de la manera simple por ahora.%n%n§2CEu tiene tuberías y cables como los de GT6 por defecto. §rVas a necesitar un §aCortador de Alambres§r para conectar cada lado de un cable a máquinas y a otros cables. Poniendo un cable contra una máquina u otro cable lo conecta automáticamente. Lo mismo aplica para las tuberías de GT, pero se tiene que usar una §aLlave Inglesa§r.%nEsto te puede salvar de enviar fluidos o energía a lugares incorrectos. Pero si no te gusta, puedes deshabilitar la opción "Tuberías y Cables de GT6" en el archivo de configuración de GregTech.%n%n§2¡Los cables de GT ahora pueden convertir RF automáticamente! §rConectando una máquina de §dRF§r a un cable de §dEU§r directamente convertirá la energía. Aún así no se puede conectar una fuente de poder de §dRF§r a un cable de §dEU§r.
 
-# db 8 of mode normal
-nomifactory.quest.normal.db.8.title=Los Terceros Circuitos de Nivel Tres
-nomifactory.quest.normal.db.8.desc=Con tres §6Microcircuitos§r y algunos componentes estándar, puedes mejorar tus circuitos al penúltimo circuito de Nivel Tres: un §6Microprocesador§r.
-
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2¿Duplicar Menas?
 nomifactory.quest.normal.db.9.desc=En la mayoría de packs para expertos, uno quiere procesar la menor cantidad de menas posibles antes de poder duplicar la cantidad obtenida. Es un habito que se puede tomar.%n%n§eNo te preocupes por esto en Nomifactory§r. Las vetas de mineral son masivas, y minarlas es extremadamente rápido con §aMartillos de Minería§r. Además, aún cuando consigues §3Maceradoras§r, inicialmente procesan menas lentamente y requieren energía para operar.%n%nObviamente, igual, van a haber minerales raros, como los que puedes comprar con §dMonedas Nomi§r. Estos si valen el esfuerzo de duplicar, si es posible.%n%n¡Pero por ahora, al menos, no sientas culpa por fundir las menas mas comunes sin duplicarlas! Se puede ignorar la §eduplicación de menas§r hasta que tengas la §2Moledora de Vapor§e, o Voltaje Medio, o incluso más.§r
@@ -134,10 +129,6 @@ nomifactory.quest.normal.db.19.desc=Los Fundidores de Aleaciones se utilizan par
 # db 20 of mode normal
 nomifactory.quest.normal.db.20.title=Horno v6.0
 nomifactory.quest.normal.db.20.desc=Los §3Hornos de Diamante§r son los más rápidos que puedes conseguir, tardando §a25 ticks§r para cocinar un ítem.
-
-# db 21 of mode normal
-nomifactory.quest.normal.db.21.title=§2Acero
-nomifactory.quest.normal.db.21.desc=Ya tienes §6Acero§r, pero se puede hacer mucho más rápido en el §3Fundidor de Aleaciones§r, con el costo de consumir EU. Cuando hayas construido el §3Alto Horno Eléctrico§r, puedes optar por hacer Acero con Oxígeno ahí.%n%nTal vez quieras guardar tu §6Carbón en Polvo§r para circuitos y reemplazarlo por §6Polvo de Carbón Vegetal§r. Más adelante, puedes procesar cualquiera de estos polvos, §6Polvo de Coque de Carbón§r, §2o Polvo de Diamante§r, para conseguir §6Polvo de Carbono§r, que se puede usar para Acero y otras cosas útiles.
 
 # db 22 of mode normal
 nomifactory.quest.normal.db.22.title=§2Horno de Pirólisis
@@ -225,10 +216,6 @@ nomifactory.quest.normal.db.45.desc=Es lindo ser capaz de volar. Este es el prim
 nomifactory.quest.normal.db.47.desc=Volar aun más rápido, mucho mejor aun.
 nomifactory.quest.normal.db.48.desc=Volar más rápido es mejor.
 
-# db 49 of mode normal
-nomifactory.quest.normal.db.49.title=Centrifugando Aire
-nomifactory.quest.normal.db.49.desc=Nota: Esta misión acepta cualquier Centrífuga de nivel LV, MV, o HV.%n%nCentrifugar aire es una forma segura de conseguir §9Nitrógeno§r antes de que puedas §2destilar Aire Liquido§r.
-
 # db 50 of mode normal
 nomifactory.quest.normal.db.50.title=§2Transportar Fluidos
 nomifactory.quest.normal.db.50.desc=Los §6Conductos de Fluidos Presurizados§r van a ser tu manera principal de transportar fluidos por ahora. Tienen la ventaja de ser §6Conductos§r, permitiéndoles entrar en el mismo bloque que otros §6Conductos§r.%n%nLas §2Tuberías de Fluidos de GTCEu§r también están disponibles, mejoradas desde CE. Su ventaja es una mayor §drendimiento§r, pero tienen limitaciones en cuanto a que tipo de fluidos (§eácidos, gases§r, etcétera) pueden transportar sin romperse. Investiga el cuadro emergente de cada tubería de cierto material para saber los detalles.%n%nAdemás, hay §6Tuberías Cuádruples y Nónuples§r para transportar multiples fluidos a través del mismo bloque.%n%nElige tu veneno.
@@ -242,48 +229,11 @@ nomifactory.quest.normal.db.52.title=§2Cámara Estéril
 
 # db 53 of mode normal
 nomifactory.quest.normal.db.53.title=§2Fábrica de Alambres LV
-nomifactory.quest.normal.db.812.desc=Sin Descripción
-nomifactory.quest.normal.db.889.desc=Sin Descripción
 nomifactory.quest.normal.db.901.desc=Sin Descripción
 nomifactory.quest.normal.db.907.desc=Sin Descripción
 nomifactory.quest.normal.db.908.desc=Sin Descripción
-nomifactory.quest.normal.db.915.desc=Sin Descripción
-nomifactory.quest.normal.db.916.desc=Sin Descripción
-nomifactory.quest.normal.db.917.desc=Sin Descripción
-nomifactory.quest.normal.db.920.desc=Sin Descripción
 nomifactory.quest.normal.db.954.desc=Sin Descripción
-nomifactory.quest.normal.db.955.desc=Sin Descripción
-nomifactory.quest.normal.db.956.desc=Sin Descripción
 nomifactory.quest.normal.db.973.desc=Sin Descripción
-nomifactory.quest.normal.db.975.desc=Sin Descripción
-nomifactory.quest.normal.db.976.desc=Sin Descripción
-nomifactory.quest.normal.db.977.desc=Sin Descripción
-nomifactory.quest.normal.db.978.desc=Sin Descripción
-nomifactory.quest.normal.db.979.desc=Sin Descripción
-nomifactory.quest.normal.db.980.desc=Sin Descripción
-nomifactory.quest.normal.db.981.desc=Sin Descripción
-nomifactory.quest.normal.db.982.desc=Sin Descripción
-nomifactory.quest.normal.db.983.desc=Sin Descripción
-nomifactory.quest.normal.db.984.desc=Sin Descripción
-nomifactory.quest.normal.db.985.desc=Sin Descripción
-nomifactory.quest.normal.db.986.desc=Sin Descripción
-nomifactory.quest.normal.db.987.desc=Sin Descripción
-nomifactory.quest.normal.db.988.desc=Sin Descripción
-nomifactory.quest.normal.db.990.desc=Sin Descripción
-nomifactory.quest.normal.db.991.desc=Sin Descripción
-nomifactory.quest.normal.db.992.desc=Sin Descripción
-nomifactory.quest.normal.db.993.desc=Sin Descripción
-nomifactory.quest.normal.db.996.desc=Sin Descripción
-nomifactory.quest.normal.db.998.desc=Sin Descripción
-nomifactory.quest.normal.db.999.desc=Sin Descripción
-nomifactory.quest.normal.db.1002.desc=Sin Descripción
-nomifactory.quest.normal.db.1003.desc=Sin Descripción
-nomifactory.quest.normal.db.1004.desc=Sin Descripción
-nomifactory.quest.normal.db.1005.desc=Sin Descripción
-nomifactory.quest.normal.db.1006.desc=Sin Descripción
-nomifactory.quest.normal.db.1007.desc=Sin Descripción
-nomifactory.quest.normal.db.1008.desc=Sin Descripción
-nomifactory.quest.normal.db.1009.desc=Sin Descripción
 # line 0 of mode expert
 nomifactory.quest.expert.line.0.title=El Principio
 nomifactory.quest.expert.line.0.desc=§7Voltaje Bajo (LV Tier)§r en GregTech: ¡Comienza a construir una fábrica!%n%nConsigue acceso a la tecnología inicial de §bEnderIO§r y el almacenamiento digital de §bApplied Energistics 2§r.%n%nConstruye un §3Alto Horno Eléctrico (EBF)§r para fundir materiales avanzados y aleaciones.
@@ -340,8 +290,5 @@ nomifactory.quest.expert.db.4.title=Suministro de Hierro
 nomifactory.quest.expert.db.11.desc=Un "§esubstrato§r" es la "placa" en una placa de circuitos... la base donde los componentes del circuito y los cables son colocados. Un buen substrato requiere no conducir electricidad, por obvias razones. §6Madera§r bañada con §6Resina Pegajosa§r es un material primitivo pero efectivo como un primer substrato.%n%n§2En CEu, tienes que poner cables en el substrato para que sea utilizable. En este caso, usa alambres de cobre.§r%n%nTambién vas a necesitar crear §6Tubos de Vacío§r, al igual que unos §6Resistores§r primitivos. Por ahora, se va a usar §6Papel§r como material para estos.%n%nAsegurate tener estas recetas codificadas en una §3Estación de Trabajo§r... vas a estar haciendo MUCHAS de estas cosas.
 nomifactory.quest.expert.db.29.desc=Una aleación misteriosa, hecha de §6Polvo Pulsante§r y §6Hierro§r.%n%nSi no puedes encontrar una, las §6Perlas de Ender§r se pueden craftear con Polvo Pulsante y un §6Diamante§r en un §3Horno de Aleación§r.
 nomifactory.quest.expert.db.812.desc=Sin Descripción
-nomifactory.quest.expert.db.889.desc=Sin Descripción
 nomifactory.quest.expert.db.901.desc=Sin Descripción
 nomifactory.quest.expert.db.907.desc=Sin Descripción
-nomifactory.quest.expert.db.908.desc=Sin Descripción
-nomifactory.quest.expert.db.923.desc=Sin Descripción
