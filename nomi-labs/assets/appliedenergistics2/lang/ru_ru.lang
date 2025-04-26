@@ -1,1 +1,5 @@
 gui.appliedenergistics2.ResultLock=тест
+gui.appliedenergistics2.HighRedstoneLock=Заблокировано редстоун-сигналом
+gui.appliedenergistics2.CraftingLock=Создание заблокировано
+gui.appliedenergistics2.LowRedstoneLock=Заблокировано из-за отсутствия редстоун-сигнала
+gui.appliedenergistics2.UntilPulseUnlock=Ожидание импульса редстоуна перед разблокировкой
