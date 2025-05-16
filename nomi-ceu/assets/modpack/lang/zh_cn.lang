@@ -3,8 +3,6 @@ nomiceu.tooltip.actuallyadditions.drill_core.2=§c也可以用万象币购买！
 nomiceu.tooltip.actuallyadditions.canola.1=§a油菜可以用油菜压榨机榨成菜籽油。§r
 nomiceu.tooltip.actuallyadditions.canola_press=§a把油菜榨成菜籽油。需要 RF 才能运行。§r
 nomiceu.tooltip.actuallyadditions.knife=§c制作汉堡时，确保将其最后放在工作台上！§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a或者经验固化器制作。§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.expert=§a通过流体固化器或者经验固化器制作。§r
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.3=§7消耗 §e1,000,000§r RF/t§r
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.5=§c不工作时重进存档试试。§r
 nomiceu.tooltip.advancedrocketry.basic_lens=§7用于轨道镭射钻的基础透镜。§r
@@ -27,9 +25,6 @@ nomiceu.tooltip.dimensionaledibles.island_cake.2=§a查看 GitHub 上的服务�
 nomiceu.tooltip.thermalexpansion.capacitors=§c不能在 GT 电池箱中放电！§r
 nomiceu.tooltip.gregtech.prospector.2=1 网格 = 1 区块，向上是北。
 nomiceu.tooltip.gregtech.prospector.4=使用 JEI 检查可能的矿脉深度。
-nomiceu.tooltip.gregtech.facade.1=§3GTCEu 覆盖板可以由大多数方块制作。§r
-nomiceu.tooltip.extendedcrafting.black_steel.omnium.2=§7镶有万象§r
-tooltip.eio_glass.dye=可被§b染色§r！
 
 # Project Red
 nomiceu.tooltip.projectred.wire=§e用于红石计划模组。§r
@@ -40,7 +35,6 @@ nomiceu.tooltip.xtones.lamp=§e需要红石信号来点亮。§r
 nomiceu.tooltip.actuallyadditions.drill_core.1=§c通过探索遗迹获得。§r
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.2=§7请参阅高级火箭 Wiki 了解建造说明。§r
 nomiceu.tooltip.actuallyadditions.canola.2=§a这是一台速度有点慢的机器，需要 RF 才能运行。§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.1=§a怪物掉落，也可以用流体固化器§r
 
 # AE2 & NAE2
 nomiceu.tooltip.ae2.crafting_terminal_removal.1=§c这个物品被移除了。§r
@@ -62,16 +56,9 @@ nomiceu.tooltip.dimensionaledibles.island_cake.1=§a服务器所有者使用它�
 # Dark Utils
 nomiceu.tooltip.darkutils.ender_tether=阻止末影人传送。
 
-# Deep Mob Learning
-nomiceu.tooltip.dml.glitch_fragment=§b通过将故障心脏在黑曜石上磨碎获得。§r
-
 # GregTech
 nomiceu.tooltip.gregtech.prospector.1=§6§l用法：§r
 nomiceu.tooltip.gregtech.prospector.3=单击侧栏中的矿石将其单独筛选。
-nomiceu.tooltip.gregtech.facade.2=§3单次合成数量根据所使用的金属种类而变化！§r
-
-# Ender IO
-tooltip.fused_glass.make=由§6强化玻璃§r和§7白色染料§r制成
 nomiceu.tooltip.ae2.channels_not_enabled=频道未启用！
 nomiceu.tooltip.ae2.controller=§bME 控制器能减少 AE2 系统的能量损耗！§r
 
