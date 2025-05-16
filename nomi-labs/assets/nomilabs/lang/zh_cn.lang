@@ -1,6 +1,3 @@
-# Greenhouse
-nomilabs.machine.greenhouse.name=温室
-recipemap.greenhouse.name=生长
 tile.unique_casing.growth_light.name=生长灯
 tile.unique_casing.air_vent.name=通风口
 
@@ -14,11 +11,9 @@ config.nomilabs.content.custom_content.items=启用自定义物品
 config.nomilabs.content.custom_content.blocks=启用自定义方块
 config.nomilabs.content.custom_content.fluids=启用自定义流体
 config.nomilabs.content.custom_content.complex_recipes=启用复杂配方
-config.nomilabs.content.custom_content.remap=重新映射旧版内容修改器的内容
 config.nomilabs.content.gt_content=自定义 GT 内容设置
 config.nomilabs.content.gt_content.materials=启用自定义 GT 材料
 config.nomilabs.content.gt_content.perfect_gems=启用完美宝石
-config.nomilabs.content.gt_content.remap_perfect_gems=重新映射旧版完美宝石
 config.nomilabs.content.gt_content.blocks=启用自定义 GT 方块
 config.nomilabs.content.gt_content.old_multiblocks=启用旧版多方块结构
 config.nomilabs.content.gt_content.new_multiblocks=启用新版多方块结构
@@ -36,9 +31,7 @@ config.nomilabs.mod_integration.draconicevolution.auto_destructor_speed=自动�
 config.nomilabs.advanced=高级设置
 config.nomilabs.advanced.allow_other_modes=允许其他模式
 config.nomilabs.advanced.disable_xp_scaling=禁用铁砧累计惩罚
-config.nomilabs.advanced.disable_advancements=禁用成就
 config.nomilabs.advanced.disable_narrator=[仅开发] 禁用复述功能
-config.nomilabs.advanced.enable_data_fixes=启用数据修复
 config.nomilabs.advanced.ignore_items=被忽略的缺少注册的物品列表
 config.nomilabs.advanced.ignore_blocks=被忽略的缺少注册的方块列表
 config.nomilabs.advanced.ignore_entities=被忽略的缺少注册的实体列表
@@ -65,9 +58,6 @@ fluid.moltendarksoularium=熔融玄色魂金
 nomilabs.fixer.intro.1=这个存档必须重新映射。
 nomilabs.fixer.intro.2=§l将会创建一个备份。§r
 nomilabs.fixer.intro.3=按“否”将取消世界加载。
-nomilabs.fixer.intro.4=§c请注意，您将无法撤消对存档进行的修复操作！§r
-nomilabs.fixer.intro.5=§n若要§r加载以前的版本，你必须从备份中加载！
-nomilabs.fixer.intro.6=§7必须通过数据修复程序进行的更改已打印到您的日志中。§r
 nomilabs.fixer.mode_check.1=您确定您之前使用“§e%s§r”整合包难度加载了这个存档吗？
 nomilabs.fixer.mode_check.2=使用错误的整合包难度启动§n将会§r使一些物品和方块消失！
 nomilabs.fixer.mode_check.3=§7如果你没有在旧版本中更改整合包难度，则默认的难度为“普通”。§r
@@ -414,9 +404,6 @@ tooltip.nomilabs.general.press_ctrl_for_usages=按住 [Ctrl] 查看更多用法�
 tooltip.nomilabs.general.press_shift_for_info=按住 [Shift] 查看更多信息。
 tooltip.nomilabs.general.press_ctrl_for_info=按住 [Ctrl] 查看更多信息。
 tooltip.nomilabs.general.crafting_component=§7只用于制作元件。§r
-
-# Items
-tooltip.nomilabs.excitationcoil.description_item=§7仅用于制作元件......除了：§r
 tooltip.nomilabs.excitationcoil.placeable=§7可放置！§r
 tooltip.nomilabs.excitationcoil.wearable=§7可以戴在你的头上！§r
 tooltip.nomilabs.excitationcoil.night_vision=戴上时有夜视效果！
@@ -458,13 +445,11 @@ tooltip.nomilabs.naquadah_reactor.overclock=不要超频!
 tooltip.nomilabs.actualization_chamber.description=§8一台强大的机器，可以利用最复杂的物质并将其转化为原材料。§r
 tooltip.nomilabs.universal_crystallizer.description=§8一种巨大的装置，能够将原材料转化为复杂物质。§r
 tooltip.nomilabs.dme_sim_chamber.description=§8一种高功率模拟设备，能够比以往更快地执行更复杂的模拟。§r
-tooltip.nomilabs.greenhouse.description=§8一个高功率的生长室，即使是最难以理解的植物也能大规模生长。§r
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=启用Nomi-CEu 数据修复
 
 # Items
 tooltip.nomilabs.excitationcoil.description=§7仅用于制作元件......除了：§r
 nomilabs.command.gs_hand.material_components=§a材料成分：§r
-config.nomilabs.mod_integration.groovy_hand=启用GroovyScript手共添加
 
 # Commands
 nomilabs.command.gs_hand.material=材料ID：
@@ -560,7 +545,6 @@ nomilabs-version.tooltip=Nomi Labs 整合包版本设置
 config.nomilabs.version.formatted-version=格式化的整合包版本
 config.nomilabs.advanced.difficulty=覆盖难度
 nomilabs.fixer.invalid_manual_version.1=§手动修复版本已确定！§r
-config.nomilabs.mod_integration.jei_crafting_output_empty_line=添加 JEI 合成输出信息空行
 nomilabs.gui.language_jei.title=§JEI 应该重新加载吗？§r
 nomilabs.gui.language_jei.desc.1=重载 §bJEI§r 将所选语言应用于类别名与描述。
 nomilabs.gui.language_jei.desc.2=但是，重载 JEI 需要§c几秒钟§r。
@@ -579,8 +563,6 @@ nomilabs.gui.better_p2p.output=输出
 nomilabs.gui.better_p2p.input=输入
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=在绑定之前，§a选定的 P2P§7已经移除了它的链接。
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=在绑定之前，§a选定的 P2P§7已经移除了它的链接。
-nomilabs.gui.advanced_memory_card.mode.add_output=作为输出添加
-nomilabs.gui.advanced_memory_card.mode.add_input=作为输入添加
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=§a选定的 P2P§7被设置为§9输入§7，以§b绑定对象§7的频率。
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=§a选定的 P2P§7被设置为§9输出§7，以§b绑定对象§7的频率。
 tooltip.nomilabs.drawers.upgrades=§e升级保存在内§r
