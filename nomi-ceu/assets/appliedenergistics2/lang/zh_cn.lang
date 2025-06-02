@@ -2,5 +2,10 @@
 gui.appliedenergistics2.FETunnel=FE
 gui.appliedenergistics2.GTEUTunnel=GTEU
 
+# line 379-381 of lang file in jar
+gui.tooltips.appliedenergistics2.PartialTransfer=将储存的物品移动到合成格中
+gui.tooltips.appliedenergistics2.MissingItem=§c缺少物品
+gui.tooltips.appliedenergistics2.CraftableItem=§9可合成物品
+
 # line 387 of lang file in jar
 gui.appliedenergistics2.units.gteu=GTEU
