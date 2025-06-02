@@ -1,6 +1,3 @@
-# Greenhouse
-nomilabs.machine.greenhouse.name=Invernadero
-recipemap.greenhouse.name=Creciendo
 tile.unique_casing.growth_light.name=Luz de crecimiento
 tile.unique_casing.air_vent.name=Salida de aire
 
@@ -18,12 +15,10 @@ config.nomilabs.content.custom_content.items=Habilitar objetos personalizados
 config.nomilabs.content.custom_content.blocks=Habilitar bloques personalizados
 config.nomilabs.content.custom_content.fluids=Habilitar fluidos personalizados
 config.nomilabs.content.custom_content.complex_recipes=Habilitar recetas complejas
-config.nomilabs.content.custom_content.remap=Reasignar contenido antiguo
 config.nomilabs.content.gt_content=Configuración de contenido GT personalizado
 config.nomilabs.content.gt_content.tooltip=Configuración de contenido GT personalizado
 config.nomilabs.content.gt_content.materials=Habilitar materiales GT personalizados
 config.nomilabs.content.gt_content.perfect_gems=Habilitar gemas perfectas
-config.nomilabs.content.gt_content.remap_perfect_gems=Reasignar gemas perfectas antiguas
 config.nomilabs.content.gt_content.blocks=Habilitar bloques GT personalizados
 config.nomilabs.content.gt_content.old_multiblocks=Habilitar multibloques antiguos
 config.nomilabs.content.gt_content.new_multiblocks=Habilitar multibloques nuevos
@@ -482,7 +477,6 @@ tooltip.nomilabs.naquadah_reactor.overclock=¡No hace overclock!
 tooltip.nomilabs.actualization_chamber.description=§8Una poderosa máquina que aprovecha las materias más complejas y las convierte en materiales primos.§r
 tooltip.nomilabs.universal_crystallizer.description=§8Un inmenso dispositivo, capaz de convertir materiales primos en materias complejas.§r
 tooltip.nomilabs.dme_sim_chamber.description=§8Un dispositivo de simulación de alta potencia, capaz de realizar simulaciones más complejas más rápido que nunca.§r
-tooltip.nomilabs.greenhouse.description=§8Una cámara de cultivo de alta potencia, capaz de cultivar en masa incluso las plantas más incomprensibles.§r
 config.nomilabs.version.manual-fix-version=[AVANZADO] Versión de Arreglo Manual
 config.nomilabs.mod_integration.effortlessbuilding.blocks.creative=Cantidad máxima de bloques colocables (Creativo)
 config.nomilabs.advanced.language_modify_option=Modificador del modo de la ventana de lenguaje
@@ -533,7 +527,6 @@ tooltip.nomilabs.info.ae2-stuff.4=§eBloques, y usos en recetas,§r
 tooltip.nomilabs.info.ae2-stuff.5=§efueron reemplazados por interfaces de AE2.§r
 # Growth Chamber
 nomilabs.machine.growth_chamber.name=Cámara de crecimiento
-config.nomilabs.mod_integration.jei_crafting_output_empty_line=Añadir linea vacía al cuadro emergente del resultado de la receta en JEI
 config.nomilabs.advanced.tiers=Configuración del detector de nivel de misión
 config.nomilabs.advanced.window.window_logo_16x=Reemplazar logo 16x de la ventana
 nomilabs.gui.language_pack_nomi=§b¡El paquete de traducciones para §dNomi-CEu§b esta disponible! ¡Ya lo tienes instalado!§r
@@ -560,8 +553,6 @@ config.nomilabs.advanced.server_side_methods=SOLO Métodos del Lado del Servidor
 nomilabs.gui.better_p2p.input=Entrada
 nomilabs.gui.better_p2p.output=Salida
 nomilabs.gui.better_p2p.error.same_output=P2P ya es un {}.
-nomilabs.gui.advanced_memory_card.mode.add_input=Agregar como Entrada
-nomilabs.gui.advanced_memory_card.mode.add_output=Agregar como Salida
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=El §aP2P seleccionado§7 está seteado como una §6entrada§7, con la frecuencia del §bobjetivo de vinculación§7.
 config.nomilabs.content.custom_content.custom_void=Habilitar la Dimensión Void Personalizada
 config.nomilabs.advanced.server_motd_substitutions=Habilitar Substituciones del MOTD del Server

@@ -89,3 +89,7 @@ nomiceu.tooltip.mixed.accepts_fluid_container=§7Accepte des §aSeaux§7, des §
 nomiceu.tooltip.mixed.not_consumed=Ingrédient Non Consommé !
 nomiceu.tooltip.mixed.deprecation=§cRecette de conversion d'un Item Obsolète vers son Alternative !§r
 nomiceu.tooltip.mixed.deprecated=§cItem Obsolète ! Placez le dans une Grille de Fabrication pour le Convertir !§r
+nomiceu.main_menu.discord=Rejoignez Nous Sur Discord !
+nomiceu.main_menu.update=Notes De Mise à Jour
+nomiceu.main_menu.rent_server=Louez Votre Propre Serveur Nomifactory !
+nomiceu.tooltip.nc.fission_safe=§aSûr ! Ne fusionne pas !§r

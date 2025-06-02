@@ -11,8 +11,6 @@ nomiceu.tooltip.actuallyadditions.canola.1=§aLa canola se puede hacer aceite de
 nomiceu.tooltip.actuallyadditions.canola.2=§aEsta es una máquina algo lenta y requiere RF para funcionar.§r
 nomiceu.tooltip.actuallyadditions.canola_press=§aTransforma canola a aceite de canola. Requiere RF.§r
 nomiceu.tooltip.actuallyadditions.knife=§c¡Cuando cocines hamburguesas, recuerda poner esto al final en tu mesa de trabajo!§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.1=§aSoltada por monstruos, también se puede hacer en§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.expert=§aHecho en un solidificador de fluidos o solidificador de experiencia.§r
 
 # Advanced Rocketry
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.1=§7¡Gloria al PGS!§r
@@ -43,20 +41,13 @@ nomiceu.tooltip.ae2.facade=§3Las fachadas de AE2 se pueden hacer con la mayorí
 
 # Dark Utils
 nomiceu.tooltip.darkutils.ender_tether=Inhabilita la teleportación de los Enderman.
-tooltip.eio_glass.dye=¡Puede ser §bpintado§r!
 
 # Project Red
 nomiceu.tooltip.projectred.wire=§ePara usar con ProjectRed.§r
-
-# Ender IO
-tooltip.fused_glass.make=Hecho con §6Cristal Templado§r y §7Tinte Blanco§r
 nomiceu.tooltip.ae2.storage_cell=§e¡Presiona Shift y el click derecho mientras sostienes esto para reciclarlo!§r
 nomiceu.tooltip.ae2.quartz_knife=§e¡Haz click derecho en las partes de ME puestas para renombrarlas... gratis!§r
 nomiceu.tooltip.ae2.p2p_reset_me_shapeless=§5¡Reinicia los P2Pes a ME P2Pes!§r
 nomiceu.tooltip.dimensionaledibles.island_cake.2=§a¡Mira el archivo de información del server en GitHub para más información!§r
-
-# Deep Mob Learning
-nomiceu.tooltip.dml.glitch_fragment=§bObtenido al partir corazones glitcheados contra un bloque de obsidiana.§r
 
 # Thermal Expansion
 nomiceu.tooltip.thermalexpansion.capacitors=§c¡No se puede descargar en un búfer de baterías de GT!§r
@@ -65,8 +56,6 @@ nomiceu.tooltip.thermalexpansion.capacitors=§c¡No se puede descargar en un bú
 nomiceu.tooltip.gregtech.prospector.1=§6§lUso:§r
 nomiceu.tooltip.gregtech.prospector.2=Grilla de cuadrados = 1 chunk, arriba esta el norte.
 nomiceu.tooltip.gregtech.prospector.3=Haz click en una mena en la barra del costado para aislarla.
-nomiceu.tooltip.gregtech.facade.1=§3Las fachadas de 3GTCEu se pueden hacer con la mayoría de entidades que no son mosaicos.§r
-nomiceu.tooltip.gregtech.facade.2=§3¡Distintos metales van a dar distintas cantidades!§r
 
 # XTones
 nomiceu.tooltip.xtones.lamp=§eRequiere una señal de redstone para prenderse.§r
@@ -82,7 +71,6 @@ nomiceu.tooltip.ae2.p2p.desc=§a¡Mantén apretado Shift y desplazate con la rue
 # Dimensional Edibles
 nomiceu.tooltip.dimensionaledibles.island_cake.1=§a¡Usado por los dueños de servidores para mandar equipos de FTB e individuos a sus islas personales!§r
 nomiceu.tooltip.gregtech.prospector.4=Usa JEI para encontrar la profundidad potencial de la vena.
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a un solidificador de fluidos o un solidificador de experiencia.§r
 # Mixed
 nomiceu.tooltip.mixed.fillable=Se puede rellenar con la §bMáquina de Enlatado§r.
 nomiceu.tooltip.actuallyadditions.solidifed_xp.desc.1=§aLa sueltan monstruos, y se puede hacer en§r
@@ -117,3 +105,14 @@ nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 Nivel de EXP!§r
 nomiceu.tooltip.ae2.tiny_tnt.2=§b¡En cambio, utiliza una señal de Redstone para activarlo!§r
 nomiceu.tooltip.eio.facade=§c¡Puede causar lag de FPS si se usa excesivamente!§r
 nomiceu.tooltip.ae2.matter_cannon.2=§b¡Se rellena con munición como una Célula de Almacenamiento!§r
+nomiceu.main_menu.discord=¡Únete a nosotros en Discord!
+nomiceu.main_menu.update=Aplicar cambios
+nomiceu.tooltip.mixed.mirrorable=§7La receta se puede reflejar.§r
+nomiceu.tooltip.mixed.accepts_fluid=§7Fluido: §b%s§r
+nomiceu.tooltip.mixed.not_consumed=¡Ingrediente no se consume!
+nomiceu.tooltip.mixed.deprecated=§c¡Articulo obsoleto! ¡Colócalo en la cuadricula de fabricación para convertir!§r
+nomiceu.tooltip.mixed.deprecation=§c¡Receta de conversión de articulo obsoleto a la alternativa!§r
+nomiceu.tooltip.ae2.p2p.type=Tipo: %s
+nomiceu.main_menu.rent_server=¡Alquila tu propio servidor de Nomifactory!
+nomiceu.tooltip.mixed.accepts_fluid_container=§7Acepta §aCubos§7, §aCeldas§7, §aBarriles§7, and otros §aContenedores de fluidos§7!
+nomiceu.tooltip.gregtech.facade=§3Las fachadas de GTCEu pueden hacerse de casi toda entidad-no-colocable.§r

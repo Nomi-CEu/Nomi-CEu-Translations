@@ -1,0 +1,10 @@
+effortlessbuilding.use.reach_upgrade.creative.1=Kantamapäivitykset ovat tarpeettomia Luova-pelitilalla!
+effortlessbuilding.item.reach_upgrade.tooltip.1=§7Käytä lisätäksesi:§r
+effortlessbuilding.use.reach_upgrade.success.3=§3Matkakantama§7 §c%s -->§7 §e%s§r!
+effortlessbuilding.use.reach_upgrade.success.2=§3Asetuskantama§7 §c%s -->§7 §e%s§r!
+effortlessbuilding.use.reach_upgrade.creative.2=Haluatko vielä pidemmän kantaman? Käytä asetuksia!
+effortlessbuilding.use.reach_upgrade.success.1=§aPäivitetty:§r
+effortlessbuilding.use.reach_upgrade.already_used=Tämä päivitys on jo käytetty!
+effortlessbuilding.item.reach_upgrade.tooltip.2=§3Asetuskantaman§7 §e%s§7:ksi palikaksi!§r
+effortlessbuilding.item.reach_upgrade.tooltip.3=§3Matkakantama§7 to §e%s§7:ksi palikaksi!§r
+effortlessbuilding.use.reach_upgrade.previous=Sinun on käytettävä kantamapäivitys %s ensin!

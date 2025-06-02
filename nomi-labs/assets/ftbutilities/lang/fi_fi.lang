@@ -1,0 +1,7 @@
+ftbutilities.status.chunk.no_attack=§cEt voi vahingoittaa ystävällisiä olentoja tässä lohkossa!§r
+ftbutilities.status.chunk.no_break_block=§cEt voi rikkoa palikoita tässä lohkossa!§r
+ftbutilities.status.chunk.no_place_block=§cEt voi rakentaa tässä lohkossa!§r
+ftbutilities.status.chunk.no_interact_block=§cEt voi vuorovaikuttaa palikoiden kanssa tässä lohkossa!§r
+ftbutilities.status.server.item_disabled=§cTavara poistettu käytöstä!§r
+ftbutilities.status.server.pvp=§cPvP on poissa käytöstä täällä!§r
+ftbutilities.status.chunk.no_interact_item=§cEt voi käyttää tätä tavaraa tässä lohkossa!§r

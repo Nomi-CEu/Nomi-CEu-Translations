@@ -1,0 +1,11 @@
+aa.gui.hover.phantom.range=§6Kantavuus: %s§r
+aa.gui.hover.phantom.not_connected.info=Käytä §bHaamuliitintä§r luodaksesi yhteyden!
+aa.gui.hover.phantom.connected=Status: §aYhdistetty§r
+aa.gui.hover.phantom.connected_failed=Status: §cHuono yhteys§r
+aa.gui.hover.phantom.bound_block=Palikka: %s
+aa.gui.hover.phantom.unknown_block=§eJotakin tunnistamatonta§r
+aa.gui.hover.phantom.bound_pos=Paikka: %s, %s, %s
+aa.gui.hover.phantom.bound_dist=Etäisyys: %,.1fm
+aa.message.phantom_connector.different_dim=§cTallennettu paikka on eri ulottuvuudessa, yhdistys epäonnistui!§r
+aa.gui.hover.phantom.not_connected=Status: §cEi yhdistetty§r
+aa.gui.hover.phantom.connected_failed.info=Yhteys saattaa olla kantaman ulkopuolella, lataamattomilla lohkoilla tai se ei toimi tämän laitteen kanssa.

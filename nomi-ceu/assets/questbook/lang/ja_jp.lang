@@ -46,9 +46,6 @@ nomifactory.quest.normal.db.6.desc=続行する前に、さらにいくつかの
 nomifactory.quest.normal.db.7.title=§2ケーブル
 nomifactory.quest.normal.db.7.desc=これらの§6 赤色合金ケーブル§r などの最も基本的なケーブルは、§6 ゴム§r 絶縁体で被覆することができます。%n%nより高度なタイプのケーブルには、§3 組立機§r と液体 §9 ゴム§r が必要になりますが、今のところは簡単な方法で行いましょう。%n%n§2CEu には、デフォルトで GT6 スタイルの配置のパイプとケーブルが付いています。 §rケーブルの両側を機械または他のケーブルに接続するには、§aワイヤーカッター§rを使用する必要があります。機械やケーブルに近づけると自動的に接続されます。 GT パイプでも§aレンチ§rで同じ動作が続きます。%nこれにより、エネルギーや流体が誤った方向に流れるのを防ぐことができます。ただし、これが気に入らない場合は、GregTech 構成ファイルの「GT6 スタイルのパイプとケーブル」の構成オプションを無効にしてください。%n%n§2GT ケーブルは、RF 変換をネイティブにサポートするようになりました。 §r§dRF§r マシンを §dEU§r ケーブルに直接接続すると、エネルギーが変換されます。ただし、§dRF§r 電源を §dEU§r ケーブルに直接接続することはできません。
 
-# db 8 of mode normal
-nomifactory.quest.normal.db.8.title=ティア3の3番目の回路
-
 # db 9 of mode normal
 nomifactory.quest.normal.db.9.title=§2鉱石2倍化？
 nomifactory.quest.normal.db.9.desc=ほとんどのエキスパート パックでは、鉱石を 2 倍にする前に、処理する鉱石をできるだけ少なくする必要があります。これは私たちのほとんどが身につけている習慣です。%n%n§eただし、Nomifactory ではそうしなければならないというプレッシャーを感じる必要はありません§r。鉱脈は巨大で、§a採掘用ハンマー§r を使用すると非常に速く採掘できます。さらに、§3粉砕機§r にアクセスできるようになったとしても、最初は鉱石の処理が遅く、動作するには電力が必要です。%n%n明らかな例外は、レアな材料や、見つからないために §dノミコイン§r で購入したものです。可能であれば、それらは 2 倍にする価値があります。%n%nしかし、少なくとも現時点では、より一般的な鉱石を 2 倍にせずに製錬することに罪悪感を感じる必要はありません。 §e鉱石の倍増は、§2蒸気式破砕機§e またはMVマシンを入手するまで、あるいはそれ以降になるまでは無視しても問題ありません。§r
@@ -92,9 +89,6 @@ nomifactory.quest.normal.db.19.title=LV合金製錬炉
 # db 20 of mode normal
 nomifactory.quest.normal.db.20.title=かまど v6.0
 nomifactory.quest.normal.db.20.desc=§3ダイヤモンドかまど§r は利用可能な中で最も速く、アイテムを精錬するのにわずか §a25ティック§r しかかかりません。
-
-# db 21 of mode normal
-nomifactory.quest.normal.db.21.title=§2スチール
 
 # db 22 of mode normal
 nomifactory.quest.normal.db.22.title=§2熱分解炉
@@ -169,9 +163,6 @@ nomifactory.quest.normal.db.47.title=アイアンマン3
 
 # db 48 of mode normal
 nomifactory.quest.normal.db.48.title=アイアンマン2
-
-# db 49 of mode normal
-nomifactory.quest.normal.db.49.title=空気の遠心分離
 
 # db 50 of mode normal
 nomifactory.quest.normal.db.50.title=§2液体輸送
@@ -428,9 +419,6 @@ nomifactory.quest.normal.db.147.title=§2磁化装置
 # db 148 of mode normal
 nomifactory.quest.normal.db.148.title=チタン
 
-# db 149 of mode normal
-nomifactory.quest.normal.db.149.title=熱いチタン
-
 # db 150 of mode normal
 nomifactory.quest.normal.db.150.title=真空冷却機
 
@@ -461,26 +449,11 @@ nomifactory.quest.normal.db.158.title=ニクロムインゴット
 # db 159 of mode normal
 nomifactory.quest.normal.db.159.title=§2ニクロムコイルブロック
 
-# db 161 of mode normal
-nomifactory.quest.normal.db.161.title=§2精製ガス
-
 # db 162 of mode normal
 nomifactory.quest.normal.db.162.title=Canola Press
 
 # db 163 of mode normal
 nomifactory.quest.normal.db.163.title=種油、魚油、Canola Oil
-
-# db 164 of mode normal
-nomifactory.quest.normal.db.164.title=重油
-
-# db 165 of mode normal
-nomifactory.quest.normal.db.165.title=§2軽油
-
-# db 166 of mode normal
-nomifactory.quest.normal.db.166.title=ナフサ
-
-# db 167 of mode normal
-nomifactory.quest.normal.db.167.title=§2硫化水素
 
 # db 168 of mode normal
 nomifactory.quest.normal.db.168.title=ディーゼル
@@ -502,9 +475,6 @@ nomifactory.quest.normal.db.174.title=§2基本的な空気収集
 
 # db 175 of mode normal
 nomifactory.quest.normal.db.175.title=§2貴ガス
-
-# db 176 of mode normal
-nomifactory.quest.normal.db.176.title=二酸化窒素
 
 # db 177 of mode normal
 nomifactory.quest.normal.db.177.title=§2硝酸
@@ -544,9 +514,6 @@ nomifactory.quest.normal.db.188.title=§2エポキシ製回路基板
 
 # db 190 of mode normal
 nomifactory.quest.normal.db.190.title=ナノCPU
-
-# db 191 of mode normal
-nomifactory.quest.normal.db.191.title=四つ目(最後)のTier 2回路
 
 # db 192 of mode normal
 nomifactory.quest.normal.db.192.title=§2一つ目のTier 5回路
@@ -589,9 +556,6 @@ nomifactory.quest.normal.db.206.title=Advanced Component
 
 # db 209 of mode normal
 nomifactory.quest.normal.db.209.title=発展型Extended Crafting Table
-
-# db 210 of mode normal
-nomifactory.quest.normal.db.210.title=二重スチールプレート
 
 # db 211 of mode normal
 nomifactory.quest.normal.db.211.title=月への飛行計画
@@ -679,12 +643,6 @@ nomifactory.quest.normal.db.242.title=ウェットウェア回路基板
 
 # db 244 of mode normal
 nomifactory.quest.normal.db.244.title=Draconic Reactor Core
-
-# db 245 of mode normal
-nomifactory.quest.normal.db.245.title=二重チタンプレート
-
-# db 246 of mode normal
-nomifactory.quest.normal.db.246.title=§2二重炭化タングステンプレート
 
 # db 248 of mode normal
 nomifactory.quest.normal.db.248.title=Space Station Assembler
@@ -862,15 +820,6 @@ nomifactory.quest.normal.db.312.title=高速度鋼-タイプG
 
 # db 313 of mode normal
 nomifactory.quest.normal.db.313.title=HSS-Gコイルブロック
-
-# db 314 of mode normal
-nomifactory.quest.normal.db.314.title=§2二重イリジウムプレート
-
-# db 315 of mode normal
-nomifactory.quest.normal.db.315.title=§2二重シグナルムプレート
-
-# db 316 of mode normal
-nomifactory.quest.normal.db.316.title=§2二重エンダリウムプレート
 
 # db 317 of mode normal
 nomifactory.quest.normal.db.317.title=量子メッキされた厚いエタニウムプレート
@@ -1331,9 +1280,6 @@ nomifactory.quest.normal.db.604.title=大宇宙の心臓
 # db 605 of mode normal
 nomifactory.quest.normal.db.605.title=Tier 10マイクロマイナー
 
-# db 606 of mode normal
-nomifactory.quest.normal.db.606.title=二重ニュートロニウムプレート
-
 # db 607 of mode normal
 nomifactory.quest.normal.db.607.title=§2ニュートロニウムインゴット
 
@@ -1580,9 +1526,6 @@ nomifactory.quest.normal.db.693.title=インフィニティ・ウォー
 # db 695 of mode normal
 nomifactory.quest.normal.db.695.title=エンドゲーム
 
-# db 696 of mode normal
-nomifactory.quest.normal.db.696.title=ナクアダリアクター Mk2
-
 # db 727 of mode normal
 nomifactory.quest.normal.db.727.title=§2副産物のための鉱石処理
 
@@ -1750,9 +1693,6 @@ nomifactory.quest.normal.db.795.title=発展型システムオンチップ
 
 # db 796 of mode normal
 nomifactory.quest.normal.db.796.title=ナクアダブール
-
-# db 797 of mode normal
-nomifactory.quest.normal.db.797.title=システムオンチップ
 
 # db 798 of mode normal
 nomifactory.quest.normal.db.798.title=Sunnarium
@@ -2216,9 +2156,6 @@ nomifactory.quest.normal.db.971.title=「粘土」と「脈動する粉末」
 # db 973 of mode normal
 nomifactory.quest.normal.db.973.title=MV化学反応機、硫黄、醸造機、蒸留機
 
-# db 974 of mode normal
-nomifactory.quest.normal.db.974.title=一つ目のTier 3回路
-
 # db 1000 of mode normal
 nomifactory.quest.normal.db.1000.title=拡張加工パターンターミナル
 
@@ -2266,9 +2203,6 @@ nomifactory.quest.normal.db.1031.title=§2クロノスの右手
 
 # db 1032 of mode normal
 nomifactory.quest.normal.db.1032.title=§2MEマルチブロックバス
-
-# db 1033 of mode normal
-nomifactory.quest.normal.db.1033.title=§2MEマルチブロックハッチ
 
 # db 1034 of mode normal
 nomifactory.quest.normal.db.1034.title=§2データバンク
@@ -2362,9 +2296,6 @@ nomifactory.quest.expert.db.19.title=ベンゼン
 # db 20 of mode expert
 nomifactory.quest.expert.db.20.title=かまど v6.0
 
-# db 21 of mode expert
-nomifactory.quest.expert.db.21.title=§2スチール
-
 # db 22 of mode expert
 nomifactory.quest.expert.db.22.title=§2熱分解炉
 
@@ -2436,9 +2367,6 @@ nomifactory.quest.expert.db.47.title=アイアンマン3
 
 # db 48 of mode expert
 nomifactory.quest.expert.db.48.title=アイアンマン2
-
-# db 49 of mode expert
-nomifactory.quest.expert.db.49.title=空気の遠心分離
 
 # db 50 of mode expert
 nomifactory.quest.expert.db.50.title=§2液体輸送
@@ -2665,9 +2593,6 @@ nomifactory.quest.expert.db.147.title=§2磁化装置
 # db 148 of mode expert
 nomifactory.quest.expert.db.148.title=チタン
 
-# db 149 of mode expert
-nomifactory.quest.expert.db.149.title=熱いチタン
-
 # db 150 of mode expert
 nomifactory.quest.expert.db.150.title=真空冷却機
 
@@ -2689,26 +2614,11 @@ nomifactory.quest.expert.db.158.title=ニクロムインゴット
 # db 159 of mode expert
 nomifactory.quest.expert.db.159.title=§2ニクロムコイルブロック
 
-# db 161 of mode expert
-nomifactory.quest.expert.db.161.title=§2精製ガス
-
 # db 162 of mode expert
 nomifactory.quest.expert.db.162.title=Canola Press
 
 # db 163 of mode expert
 nomifactory.quest.expert.db.163.title=種油、魚油、Canola Oil
-
-# db 164 of mode expert
-nomifactory.quest.expert.db.164.title=重油
-
-# db 165 of mode expert
-nomifactory.quest.expert.db.165.title=§2軽油
-
-# db 166 of mode expert
-nomifactory.quest.expert.db.166.title=ナフサ
-
-# db 167 of mode expert
-nomifactory.quest.expert.db.167.title=§2硫化水素
 
 # db 168 of mode expert
 nomifactory.quest.expert.db.168.title=ディーゼル
@@ -2733,9 +2643,6 @@ nomifactory.quest.expert.db.174.title=§2基本的な空気収集
 
 # db 175 of mode expert
 nomifactory.quest.expert.db.175.title=§2希ガス
-
-# db 176 of mode expert
-nomifactory.quest.expert.db.176.title=二酸化窒素
 
 # db 177 of mode expert
 nomifactory.quest.expert.db.177.title=§2硝酸
@@ -2776,9 +2683,6 @@ nomifactory.quest.expert.db.188.title=§2エポキシ製回路基板
 # db 190 of mode expert
 nomifactory.quest.expert.db.190.title=ナノCPU
 
-# db 191 of mode expert
-nomifactory.quest.expert.db.191.title=四つ目(最後)のTier 2回路
-
 # db 192 of mode expert
 nomifactory.quest.expert.db.192.title=§2一つ目のTier 5回路
 
@@ -2817,9 +2721,6 @@ nomifactory.quest.expert.db.208.title=Launch PadとRocket Assembly Machine
 
 # db 209 of mode expert
 nomifactory.quest.expert.db.209.title=発展型Extended Crafting Table
-
-# db 210 of mode expert
-nomifactory.quest.expert.db.210.title=二重スチールプレート
 
 # db 211 of mode expert
 nomifactory.quest.expert.db.211.title=月への飛行計画
@@ -2899,12 +2800,6 @@ nomifactory.quest.expert.db.242.title=§2ウェットウェア回路基板
 # db 244 of mode expert
 nomifactory.quest.expert.db.244.title=Draconic Reactor Core
 
-# db 245 of mode expert
-nomifactory.quest.expert.db.245.title=§2二重チタンプレート
-
-# db 246 of mode expert
-nomifactory.quest.expert.db.246.title=§2二重炭化タングステンプレート
-
 # db 248 of mode expert
 nomifactory.quest.expert.db.248.title=Space Station Assembler
 
@@ -2982,9 +2877,6 @@ nomifactory.quest.expert.db.274.title=Dragon Heart
 
 # db 275 of mode expert
 nomifactory.quest.expert.db.275.title=Luminessence
-
-# db 278 of mode expert
-nomifactory.quest.expert.db.278.title=シミュレートされたMob
 
 # db 279 of mode expert
 nomifactory.quest.expert.db.279.title=あの卵を割ろう
@@ -3078,12 +2970,6 @@ nomifactory.quest.expert.db.312.title=高速度鋼-タイプG
 
 # db 313 of mode expert
 nomifactory.quest.expert.db.313.title=HSS-Gコイルブロック
-
-# db 314 of mode expert
-nomifactory.quest.expert.db.314.title=§2二重イリジウムプレート
-
-# db 315 of mode expert
-nomifactory.quest.expert.db.315.title=§2二重シグナルムプレート
 
 # db 319 of mode expert
 nomifactory.quest.expert.db.319.title=農作業
@@ -3283,9 +3169,6 @@ nomifactory.quest.expert.db.416.title=魚油
 # db 417 of mode expert
 nomifactory.quest.expert.db.417.title=Combination Package Crafter
 
-# db 489 of mode expert
-nomifactory.quest.expert.db.489.title=§2LV圧縮機
-
 # db 490 of mode expert
 nomifactory.quest.expert.db.490.title=LVオートクレーブ
 
@@ -3450,9 +3333,6 @@ nomifactory.quest.expert.db.601.title=マグナリウムインゴット
 
 # db 605 of mode expert
 nomifactory.quest.expert.db.605.title=Tier 10マイクロマイナー
-
-# db 606 of mode expert
-nomifactory.quest.expert.db.606.title=§2二重ニュートロニウムプレート
 
 # db 607 of mode expert
 nomifactory.quest.expert.db.607.title=ニュートロニウムインゴット
@@ -3624,9 +3504,6 @@ nomifactory.quest.expert.db.795.title=発展型システムオンチップ
 
 # db 796 of mode expert
 nomifactory.quest.expert.db.796.title=ナクアダブール
-
-# db 797 of mode expert
-nomifactory.quest.expert.db.797.title=システムオンチップ
 
 # db 798 of mode expert
 nomifactory.quest.expert.db.798.title=Sunnarium
@@ -3879,21 +3756,13 @@ nomifactory.quest.normal.db.818.desc=回路組立機の作成に使用する、�
 # db 840 of mode normal
 nomifactory.quest.normal.db.840.title=§2発展型プロセッシングアレイ
 nomifactory.quest.normal.db.877.desc=§2この元素もオムニウムに必要になりました。
-nomifactory.quest.normal.db.889.desc=説明なし
-nomifactory.quest.normal.db.898.desc=§2化学染料を使用したガラスレンズの染色に必要です。
 nomifactory.quest.normal.db.907.desc=説明なし
 nomifactory.quest.normal.db.908.desc=説明なし
 
 # db 902 of mode normal
 nomifactory.quest.normal.db.902.title=§2ターミナル
-nomifactory.quest.normal.db.915.desc=説明なし
-nomifactory.quest.normal.db.916.desc=説明なし
-nomifactory.quest.normal.db.917.desc=説明なし
-nomifactory.quest.normal.db.920.desc=説明なし
 nomifactory.quest.normal.db.954.desc=説明なし
 nomifactory.quest.normal.db.971.desc=脈動ポリマークレイ生産ラインのための非表示クエスト。
-nomifactory.quest.normal.db.1010.desc=PTFE生産ライン用の非表示クエスト
-nomifactory.quest.normal.db.1011.desc=PTFE生産ライン用の非表示クエスト
 
 # db 1023 of mode normal
 nomifactory.quest.normal.db.1023.title=[イースターエッグ] Neeve
@@ -3962,7 +3831,6 @@ nomifactory.quest.expert.db.110.desc=ついに自動クラフトが可能にな�
 # db 102 of mode expert
 nomifactory.quest.expert.db.102.title=基本プロセッサ
 nomifactory.quest.expert.db.119.desc=AEのアイテムである§6ストレージセル§r用の最後から二番目のコンポーネント。
-nomifactory.quest.expert.db.121.desc=§6二重シグナルムプレート§rの作成のためにこの圧縮機が必要です。
 
 # db 139 of mode expert
 nomifactory.quest.expert.db.139.title=レアアース
@@ -4006,9 +3874,6 @@ nomifactory.quest.expert.db.269.desc=§2このTierについても特に言うこ
 nomifactory.quest.expert.db.276.title=リン酸
 nomifactory.quest.expert.db.294.desc=§6Empowered Restonia Crystal§rから鋳造される歯車です。%n%n液体を固めて作られます。
 
-# db 316 of mode expert
-nomifactory.quest.expert.db.316.title=§2二重エンダリウムプレート
-
 # db 317 of mode expert
 nomifactory.quest.expert.db.317.title=量子メッキされた厚いエタニウムプレート
 
@@ -4044,9 +3909,6 @@ nomifactory.quest.expert.db.398.title=マルチスメルター
 
 # db 404 of mode expert
 nomifactory.quest.expert.db.404.title=シンプルなGregTechの自動化
-
-# db 409 of mode expert
-nomifactory.quest.expert.db.409.title=§2電力入門
 
 # db 488 of mode expert
 nomifactory.quest.expert.db.488.title=ベーシックサッチェル
@@ -4116,7 +3978,6 @@ nomifactory.quest.expert.db.599.title=ソウラリウムインゴット
 nomifactory.quest.expert.db.600.title=マニュリンインゴット
 nomifactory.quest.expert.db.600.desc=§dオムニウム§rに必要。
 nomifactory.quest.expert.db.601.desc=§dオムニウム§rに必要。
-nomifactory.quest.expert.db.610.desc=§6スチール§rと§6ホウ素§rの合金です。とってもシンプル。
 
 # db 604 of mode expert
 nomifactory.quest.expert.db.604.title=大宇宙の心臓
@@ -4153,23 +4014,11 @@ nomifactory.quest.expert.db.679.title=カリホルニウムの核分裂
 # db 680 of mode expert
 nomifactory.quest.expert.db.680.title=核分裂のさらなる探究
 
-# db 683 of mode expert
-nomifactory.quest.expert.db.683.title=Overworldian Matter
-
 # db 687 of mode expert
 nomifactory.quest.expert.db.687.title=§2無限水源
 
-# db 688 of mode expert
-nomifactory.quest.expert.db.688.title=Hellish Matter
-
-# db 689 of mode expert
-nomifactory.quest.expert.db.689.title=地獄のMob
-
 # db 690 of mode expert
 nomifactory.quest.expert.db.690.title=グラフェン
-
-# db 691 of mode expert
-nomifactory.quest.expert.db.691.title=異世界のMob
 
 # db 692 of mode expert
 nomifactory.quest.expert.db.692.title=§2レンチがいっぱい
@@ -4182,9 +4031,6 @@ nomifactory.quest.expert.db.694.title=キャプテン... マーベル？ 何そ�
 
 # db 695 of mode expert
 nomifactory.quest.expert.db.695.title=エンドゲーム
-
-# db 696 of mode expert
-nomifactory.quest.expert.db.696.title=ナクアダリアクター Mk2
 
 # db 727 of mode expert
 nomifactory.quest.expert.db.727.title=§2副産物のための鉱石処理
@@ -4282,9 +4128,6 @@ nomifactory.quest.expert.db.777.title=Empowered Diamantine Gear
 
 # db 778 of mode expert
 nomifactory.quest.expert.db.778.title=§2超絶巨大な蓄電装置
-
-# db 779 of mode expert
-nomifactory.quest.expert.db.779.title=§2無限の丸石
 
 # db 780 of mode expert
 nomifactory.quest.expert.db.780.title=§2ネザーへ
@@ -4389,9 +4232,6 @@ nomifactory.quest.expert.db.866.title=§2原子番号048: カドミウム
 # db 867 of mode expert
 nomifactory.quest.expert.db.867.title=§2原子番号055: セシウム
 
-# db 882 of mode expert
-nomifactory.quest.expert.db.882.title=「エンダリウムインゴット」か「ユーロピウムインゴット」
-
 # db 883 of mode expert
 nomifactory.quest.expert.db.883.title=§2原子番号110: ダームスタチウム
 
@@ -4404,15 +4244,11 @@ nomifactory.quest.expert.db.885.title=§2ダームスタチウム
 # db 886 of mode expert
 nomifactory.quest.expert.db.886.title=§2デバッグスキャナー
 
-# db 887 of mode expert
-nomifactory.quest.expert.db.887.title=§2パトリオットのプラスチック
-
 # db 892 of mode expert
 nomifactory.quest.expert.db.892.title=§2大型採掘機
 
 # db 893 of mode expert
 nomifactory.quest.expert.db.893.title=§2メンテナンスとマフラーの仕組み
-nomifactory.quest.expert.db.898.desc=§2化学染料を使用したガラスレンズの染色に必要です。
 
 # db 894 of mode expert
 nomifactory.quest.expert.db.894.title=§2MV組立機
@@ -4440,9 +4276,6 @@ nomifactory.quest.expert.db.905.title=§2変異源
 
 # db 907 of mode expert
 nomifactory.quest.expert.db.907.title=ZPMか大型の回路組立機
-
-# db 908 of mode expert
-nomifactory.quest.expert.db.908.title=トリタニウムインゴット
 
 # db 909 of mode expert
 nomifactory.quest.expert.db.909.title=§2原始的な製鋼所
@@ -4488,7 +4321,6 @@ nomifactory.quest.expert.db.930.title=P2Pトンネル
 
 # db 938 of mode expert
 nomifactory.quest.expert.db.938.title=Storage Crate
-nomifactory.quest.normal.db.243.desc=最終TierのEBFコイル。
 nomifactory.quest.normal.db.257.desc=Tier7 マイクロマイナーにのみ使用される§2二重プレート§r 。
 
 # line 6 of mode normal
@@ -4501,10 +4333,8 @@ nomifactory.quest.normal.line.11.desc=このチャプターでは、複雑な処
 nomifactory.quest.normal.db.0.desc=この装置の主な使用用途は、§6ケルタスクォーツ§rを§6チャージドケルタスクォーツ§rへ変換することです。%n%nこの装置は、エネルギー導管によるRFか、ME導管(またはMEケーブル)によるAEエネルギーで動かすことができます。%n%n動力は2つの面から受け取ることができます。どの面でしょう？当ててみてください。%n%n%n%n%n%n%n%n%nはいはい、正解は上下です。
 nomifactory.quest.normal.db.2.desc=注:このクエストはLVとMV両方の缶詰装置を受け付けます。%n%n§aLVバッテリー§rは簡単に作成できましたが、高性能な蓄電装置にはより複雑な作成技術が必要になります。そのため、下準備をしておきましょう。%n%n§3遠心分離機§rを使用して、§6四面銅鉱鉱石§rと§6輝安鉱鉱石§rを処理し、今後必要になる§6アンチモニー§rを作成します。
 nomifactory.quest.normal.db.5.desc=§aマイニングハンマー§r は、採掘エリアをより速く採掘するための比較的安価な方法です。彼らは 3x3 のブロックを選択し(しゃがんでいない限り)、すぐに採掘することが出来ます。%n%n§2GTCEu には、採掘ハンマーがネイティブに搭載されました。任意の GT ツール素材を使用して作成できます。 §r%n%n無料の 4 ダイヤモンド マイニング ハンマーはしばらくの間使用でき、金床といくつかのダイヤモンドを使用していつでも修正できます。
-nomifactory.quest.normal.db.8.desc=3 つの §6マイクロ回路§r といくつかの標準コンポーネントを使用すると、最後から 2 番目の Tier 3 回路である §6マイクロプロセッサー§r にアップグレードできます。
 nomifactory.quest.normal.db.10.desc=マイクロマイナー第二弾！ §2LV 空間発生器でそのリンが必要になります。§r%n%nこれは、§bExtended Crafting§r テーブルを使用するため、§bApplied Energistics 2§r でマイナー自体を自動化することはまだ不可能です (これには、より高度な処理が必要です) Tier 4 のマイクロマイナーになるまでは、このテクノロジーにアクセスするのは簡単ではありません）。必要なコンポーネントを事前にストックし、拡張製作テーブルを§bJEI§rをもとに埋めることで、半自動的に作成できます。%n%nこのマイクロ マイナーで入手できるものは次のとおりです:§6%n* ボーキサイト鉱石%n§2* パイロクロア鉱石§6%n* 銅鉱石%n§2* 閃亜鉛鉱鉱石§r%n§6* 錫石鉱石%n* 灰重石鉱石%n* タングステン酸鉱石%n* ラジウム塩§r%n%nおよび§6恒星作成データ§r。これはずっと後になって役に立つでしょう。%n%n§2新しいミッションが CEu で利用可能です。このミッションには HV 電動ポンプとクライオジウムの粉が必要です。これにより、固化したネオン、キセノン、クリプトンが得られますが、このミッションで得られる有用な副産物と各元素の量が少ないため、ネザーの空気とエンドの空気を蒸留してこれらを入手する方が良いでしょう。
 nomifactory.quest.normal.db.19.desc=合金精錬所は、アイテムを一緒に溶かして改質することで合金を作成するために使用されます。%n%nこれで、金属を粉砕して粉末にし、混合して合金粉末を作る必要がなくなります。さらに、その方法では作ることができなかったより複雑な合金の多くが作れるようになりました。
-nomifactory.quest.normal.db.21.desc=すでに§6スチール§r を持っていますが、EU を犠牲にして§3合金精錬炉§r を使用するとはるかに速く作ることができます。 §3工業用電気炉§r を構築したら、代わりに酸素を使って鋼を作ることを選択できます。%n%n§6 石炭粉§r を回路用に保存し、代わりに §6 木炭粉塵§r を使用することもできます。後で、これらの粉塵、§6石炭コークス粉§r、§2またはダイヤモンド粉塵§rを加工して§6カーボン粉塵§rにすることもでき、これは鉄鋼やその他の有用なものに使用できます。
 nomifactory.quest.normal.db.22.desc=このオーブンの主な機能は、木や石炭の燃料としての価値を上げることであり、またその時、様々な種類の潜在的に有用な廃棄物が手に入ります。%n%n §6石炭§r を §6石炭コークス§r に変えることにより、燃料としてより有用になるだけでなく、回路のために必要な §9フェノール§r を生産できます。%n%n熱分解炉は数種の、蒸留することで有用な資材を手に入れられる液体の入手源ともなります。%n%nハッチやバスはどんな階級のものにでも置き換えられますが、インプットバスはLV以上にして2種以上の入力をできるようにしないといけないこと、そしてコントローラーに §6 スニーク右クリック §r することでワールド内のプレビューを使えることを覚えておいてください。%n%n§2 ツールチップで示したように、上位のコイルを用いると処理が速くなります。
 nomifactory.quest.normal.db.23.desc=§6ダークスチール§rを作るには、通常通り溶岩源ブロックを水で固めて作る§6黒曜石§rが必要です。 §aダイヤモンド ハンマー§r/§aつるはし§r またはその他のダイヤモンド レベルのツールを使用して採掘できます。%n%n§3HV ロック ブレーカー§r を使用すると、後で §6溶岩§r を消費せずに §6黒曜石§r を作成できます。 6ボイドクリスタル§rは安価な代替品として使用できます。
 nomifactory.quest.normal.db.25.desc=このクエストは一時間ごとに繰り返せるようになっており、ボイド世界か現世に飛べるケーキをタダで手に入れられます。ケーキ各種のツールチップに表示されているアイテムでケーキを充填することもできます。
@@ -4521,7 +4351,6 @@ nomifactory.quest.normal.db.42.desc=さらに多くの RF 電力を伝送する�
 nomifactory.quest.normal.db.47.desc=より速く、より快適に。
 nomifactory.quest.normal.db.48.desc=速く飛行できるのは良いことです。
 nomifactory.quest.normal.db.119.desc=AE§6アイテムストレージ§r用の3番目の素材です。%n%n§a16k MEストレージセル§rや§a16k クラフティングストレージ§rに使用されます。
-nomifactory.quest.normal.db.121.desc=§6二重シグナルムプレート§rの作成のためにこの圧縮機が必要です。
 nomifactory.quest.normal.db.207.desc=複数のコンポーネントをまとめて一つのカタリストにします。
 nomifactory.quest.normal.db.209.desc=拡張作業台により、5x5のレシピでのクラフトが可能になります。
 nomifactory.quest.normal.db.269.desc=このTierについても特に言うことはありません。
@@ -4666,42 +4495,7 @@ nomifactory.quest.normal.db.931.title=丸石
 
 # db 932 of mode normal
 nomifactory.quest.normal.db.932.title=ガラス
-nomifactory.quest.normal.db.955.desc=説明なし
-nomifactory.quest.normal.db.956.desc=説明なし
-nomifactory.quest.normal.db.972.desc=§oこのクエストはチェックを入れるかエチレンを入手することで達成できます。
 nomifactory.quest.normal.db.973.desc=説明なし
-nomifactory.quest.normal.db.974.desc=HV機械のための非表示クエスト
-nomifactory.quest.normal.db.975.desc=説明なし
-nomifactory.quest.normal.db.976.desc=説明なし
-nomifactory.quest.normal.db.977.desc=説明なし
-nomifactory.quest.normal.db.978.desc=説明なし
-nomifactory.quest.normal.db.979.desc=説明なし
-nomifactory.quest.normal.db.980.desc=説明なし
-nomifactory.quest.normal.db.981.desc=説明なし
-nomifactory.quest.normal.db.982.desc=説明なし
-nomifactory.quest.normal.db.983.desc=説明なし
-nomifactory.quest.normal.db.984.desc=説明なし
-nomifactory.quest.normal.db.985.desc=説明なし
-nomifactory.quest.normal.db.986.desc=説明なし
-nomifactory.quest.normal.db.987.desc=説明なし
-nomifactory.quest.normal.db.988.desc=説明なし
-nomifactory.quest.normal.db.990.desc=説明なし
-nomifactory.quest.normal.db.991.desc=説明なし
-nomifactory.quest.normal.db.992.desc=説明なし
-nomifactory.quest.normal.db.993.desc=説明なし
-nomifactory.quest.normal.db.995.desc=説明なし
-nomifactory.quest.normal.db.996.desc=説明なし
-nomifactory.quest.normal.db.998.desc=説明なし
-nomifactory.quest.normal.db.999.desc=説明なし
-nomifactory.quest.normal.db.1002.desc=説明なし
-nomifactory.quest.normal.db.1003.desc=説明なし
-nomifactory.quest.normal.db.1004.desc=説明なし
-nomifactory.quest.normal.db.1005.desc=説明なし
-nomifactory.quest.normal.db.1006.desc=説明なし
-nomifactory.quest.normal.db.1007.desc=説明なし
-nomifactory.quest.normal.db.1008.desc=説明なし
-nomifactory.quest.normal.db.1009.desc=説明なし
-nomifactory.quest.normal.db.1012.desc=PTFE生産ライン用の非表示クエスト
 
 # db 1019 of mode normal
 nomifactory.quest.normal.db.1019.title=Draconic Evolution Fusionの自動化
@@ -4739,7 +4533,6 @@ nomifactory.quest.expert.db.205.title=Suit Workstation
 
 # db 225 of mode expert
 nomifactory.quest.expert.db.225.title=メタノール
-nomifactory.quest.expert.db.243.desc=最終TierのEBFコイル。
 
 # db 257 of mode expert
 nomifactory.quest.expert.db.257.title=§2二重ドラコニウムプレート
@@ -4906,18 +4699,6 @@ nomifactory.quest.expert.db.678.title=バークリウムの核分裂
 # db 681 of mode expert
 nomifactory.quest.expert.db.681.title=§2内破圧縮機
 
-# db 684 of mode expert
-nomifactory.quest.expert.db.684.title=脈動メッシュ
-
-# db 685 of mode expert
-nomifactory.quest.expert.db.685.title=Loot Fabricator
-
-# db 686 of mode expert
-nomifactory.quest.expert.db.686.title=オーバーワールドのMob
-
-# db 728 of mode expert
-nomifactory.quest.expert.db.728.title=レゾナントクラスレート
-
 # db 750 of mode expert
 nomifactory.quest.expert.db.750.title=§2エンダリウムインゴット
 
@@ -4945,7 +4726,6 @@ nomifactory.quest.expert.db.769.title=IV回路群
 # db 770 of mode expert
 nomifactory.quest.expert.db.770.title=LuV回路群
 nomifactory.quest.expert.db.773.desc=どうやってここが見れてるの？
-nomifactory.quest.expert.db.782.desc=SMPのための非表示の入手クエスト
 
 # db 783 of mode expert
 nomifactory.quest.expert.db.783.title=§2大型タービン
@@ -4984,7 +4764,6 @@ nomifactory.quest.expert.db.877.desc=§2この元素もオムニウムに必要�
 nomifactory.quest.expert.db.878.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.879.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.881.desc=§2薄いポリフェニレンスルファイドシートはLuV以上のケーブルを被覆するのに必要です。
-nomifactory.quest.expert.db.882.desc=クリスタルのための非表示の入手クエスト
 nomifactory.quest.expert.db.883.desc=§2この元素もオムニウムに必要になりました。
 nomifactory.quest.expert.db.884.desc=§2この元素もオムニウムに必要になりました。
 
@@ -4993,7 +4772,6 @@ nomifactory.quest.expert.db.880.title=§2クリエイティブEU電源
 
 # db 881 of mode expert
 nomifactory.quest.expert.db.881.title=§2ポリフェニレンスルファイド
-nomifactory.quest.expert.db.889.desc=説明なし
 
 # db 890 of mode expert
 nomifactory.quest.expert.db.890.title=§2GregTechの電力管理
@@ -5005,7 +4783,6 @@ nomifactory.quest.expert.db.901.desc=説明なし
 # db 902 of mode expert
 nomifactory.quest.expert.db.902.title=§2ターミナル
 nomifactory.quest.expert.db.907.desc=説明なし
-nomifactory.quest.expert.db.908.desc=説明なし
 
 # db 906 of mode expert
 nomifactory.quest.expert.db.906.title=§2大型回路組立機
@@ -5018,7 +4795,6 @@ nomifactory.quest.expert.db.916.title=インターフェース設定用ターミ
 
 # db 917 of mode expert
 nomifactory.quest.expert.db.917.title=(だいたい)どこでもAE2
-nomifactory.quest.expert.db.923.desc=説明なし
 
 # db 919 of mode expert
 nomifactory.quest.expert.db.919.title=機械への名前付け
@@ -5056,7 +4832,6 @@ nomifactory.quest.normal.db.12.desc=このパックの奇抜な点の 1 つは�
 
 # db 230 of mode normal
 nomifactory.quest.normal.db.230.title=おっと...停電だ！
-nomifactory.quest.normal.db.812.desc=説明なし
 
 # db 392 of mode normal
 nomifactory.quest.normal.db.392.title=UHV回路...群？
@@ -5098,9 +4873,6 @@ nomifactory.quest.expert.db.1030.title=§2大型蓄電器
 # db 1031 of mode expert
 nomifactory.quest.expert.db.1031.title=§2クロノスの右手
 
-# db 1033 of mode expert
-nomifactory.quest.expert.db.1033.title=§2MEマルチブロックハッチ
-
 # db 1034 of mode expert
 nomifactory.quest.expert.db.1034.title=§2データバンク
 
@@ -5127,5 +4899,4 @@ nomifactory.quest.expert.db.1044.title=§2レーザーネットワーク
 nomifactory.quest.normal.db.45.desc=飛べるのはいいですね。これは、§bEnderIO§r マテリアルを使用する最初のジェットパックです。%n%n§b熱膨張§r マテリアルのジェットパックのクエスト チェーンもあります (§6Leadstone Jetpack§r から始まります)。最終的には両方を行う必要がありますが、それほど長い期間ではないため、飛行機が本当に好きでない限り、これらのクエスト チェーンの少なくとも 1 つは無視しても構いません。%n%n§6Jetpack§r の概要と §bThe からの情報については、 1 つのプローブ§r の競合は、それぞれ§bSimply Jetpacks 2 §e構成ファイル§r またはコマンド §6/topcfg§r を通じて調整できます。
 nomifactory.quest.normal.db.28.desc=§6脈動する塵§r は、エンダーの力を利用する神秘的な魔法の素材です。これには、§6 脈動インゴット§r や§6 エンダー パール§r を作成する機能など、あらゆる種類の奇妙で潜在的に危険な用途があります。%n%n脈動ダストの最初のソースは、§6 ウラニナイト§r です。これは、§6 ウラニナイト鉱石から入手できます。§r.後で、§6 共鳴クラスレート§r を製錬することで脈動ダストを生成できるようになります。%n%n§cエンダーパール ダストの電気分解レシピには EV 電解装置が必要ですが、その価値がない可能性が高いことに注意してください。§r
 nomifactory.quest.normal.db.44.desc=§6 基本 RF コンデンサ§r をいくつかの§6 石炭粉塵§r および§6 高エネルギー合金§r と組み合わせると、§6 二重層 RF コンデンサ§r が生成されます。%n%nこれは第 2 層コンデンサです。より高い層の RF コンデンサにより、§bEnderIO§r マシンの処理が高速になり、マシンによってはその機能 (効果範囲など) がさらに拡張されます。
-nomifactory.quest.normal.db.49.desc=注: このクエストでは LV/MV/HV 遠心分離機を使用できます。%n%n空気の遠心分離は、§2液体空気の蒸留§r にアクセスする前に§9 窒素§r を入手する確実な方法です。
 nomifactory.quest.normal.db.50.desc=§6加圧流体導管§r が、現時点では流体を輸送する主な方法になります。これらは §6Conduits§r であるという利点があり、他の §6Conduits§r と同じブロックに適合させることができます。%n%n§2GTCEu Fluid Pipes§r も利用でき、CE から大幅に改良されました。それらの利点はより高いスループット§r ですが、安全に輸送できる流体の種類 (酸、ガス§r など) には制限があります。詳細については、各パイプ マテリアルのツールチップを確認してください。%n%n同じブロックを介して複数の種類の流体を輸送するための§6四重パイプと非四重パイプ§r もあります。%n%nまあこのめんどくさい方法から選んでください。

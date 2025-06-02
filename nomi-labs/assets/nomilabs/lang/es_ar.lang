@@ -117,7 +117,6 @@ config.nomilabs.mod_integration.ender_storage=Habilitar integración de Ender St
 config.nomilabs.mod_integration.ender_io=Habilitar integración de Ender IO
 config.nomilabs.mod_integration.ftb_utils=Habilitar integración de utilidades de FTB
 config.nomilabs.mod_integration.top_addons=Habilitar integración de add-ons TOP
-config.nomilabs.mod_integration.jei_crafting_output_empty_line=Añadir linea vacía al cuadro emergente del resultado de la receta en JEI
 config.nomilabs.mod_integration.bqu_fluid_task_fixes=Habilitar Arreglos a las Tareas de Fluidos de BQu
 config.nomilabs.mod_integration.effortlessbuilding=Configuración de la integración de Effortless Building
 config.nomilabs.mod_integration.effortlessbuilding.axis.0=Distancia máxima por eje (Sin mejoras)
@@ -194,10 +193,8 @@ nomilabs.gui.top_override.fluid=Fluido: %s
 nomilabs.gui.better_p2p.input=Entrada
 nomilabs.gui.better_p2p.output=Salida
 nomilabs.gui.better_p2p.error.same_output=P2P ya es un {}.
-nomilabs.gui.advanced_memory_card.mode.add_input=Agregar como Entrada
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Antes de vincularse, el §aP2P seleccionado§7 elimina sus conexiones.
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=El §aP2P seleccionado§7 está seteado en modo §6entrada§7, en la frecuencia del §bP2P al que se va a conectar§7.
-nomilabs.gui.advanced_memory_card.mode.add_output=Agregar como Salida
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=Antes de vincularse, el §aP2P seleccionado§7 elimina sus conexiones.
 
 # Custom Fluids

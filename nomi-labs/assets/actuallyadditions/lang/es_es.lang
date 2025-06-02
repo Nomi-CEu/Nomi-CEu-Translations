@@ -1,0 +1,11 @@
+aa.gui.hover.phantom.range=§6Rango: %s§r
+aa.gui.hover.phantom.not_connected=Estado: §cSin conexión§r
+aa.gui.hover.phantom.connected_failed=Estado §cMala conexión§r
+aa.gui.hover.phantom.bound_block=Bloque: %s
+aa.gui.hover.phantom.unknown_block=§eAlgo irreconocible§r
+aa.gui.hover.phantom.bound_pos=Posición: %s, %s, %s
+aa.gui.hover.phantom.bound_dist=Distancia: %,.1fm
+aa.gui.hover.phantom.connected=Estado: §aConectado§a
+aa.message.phantom_connector.different_dim=§c ¡Posición guardada en otra dimensión! ¡Conexión fallida! §r
+aa.gui.hover.phantom.not_connected.info=¡Use un §Conector Fantasma§r para aplicar una conexión!
+aa.gui.hover.phantom.connected_failed.info=El punto de conexión puede estar fuera del rango, en chunks que no estén cargados, o no funcione con este dispositivo.

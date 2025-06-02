@@ -9,8 +9,6 @@ nomiceu.tooltip.actuallyadditions.drill_core.1=§cロストシティの建物や
 nomiceu.tooltip.actuallyadditions.drill_core.2=§cノミコインでも購入可能！§r
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.2=§7作り方はAR Wikiを参照。§r
 nomiceu.tooltip.actuallyadditions.knife=§cハンバーガーを作るときは、必ずこれを最後にクラフトテーブルに入れてください！§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.2=§a液体成型機または経験成型機。§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.expert=§a液体成型機または経験成型機で製造。§r
 nomiceu.tooltip.actuallyadditions.canola.2=§aこれはやや遅いマシンであり、機能するには RF が必要です。§r
 
 # Advanced Rocketry
@@ -24,9 +22,7 @@ nomiceu.tooltip.ae2.capacity_card=§eインポート/エクスポートバスを
 nomiceu.tooltip.ae2.pure_certus_quartz=§aケルタスクオーツの種から水晶成長室で作られる。§r
 nomiceu.tooltip.ae2.pure_fluix=§aフルーシュの種から結晶成長室で作られる。§r
 nomiceu.tooltip.ae2.channels_not_enabled=チャンネルが有効になっていません!
-nomiceu.tooltip.gregtech.facade.2=§3使用される金属に基づいて、さまざまな量にクラフトされます。§r
 nomiceu.tooltip.actuallyadditions.canola_press=§aキャノーラをキャノーラ油に変える。 RFが必要。§r
-nomiceu.tooltip.actuallyadditions.solidifed_xp.normal.1=§aモンスターからのドロップで作成可能§r
 nomiceu.tooltip.advancedrocketry.orbital_laser_drill.4=§c極めて使用が困難。 使用は自己責任で。§r
 
 # AE2 & NAE2
@@ -62,9 +58,6 @@ nomiceu.tooltip.dimensionaledibles.island_cake.2=§a詳細については、GitH
 # Dark Utils
 nomiceu.tooltip.darkutils.ender_tether=エンダーマンのテレポートをブロックします。
 
-# Deep Mob Learning
-nomiceu.tooltip.dml.glitch_fragment=§bオブシディアンに対してグリッチハートを粉砕することで入手できます。§r
-
 # Thermal Expansion
 nomiceu.tooltip.thermalexpansion.capacitors=§cGT蓄電器では放電できません。§r
 
@@ -72,11 +65,6 @@ nomiceu.tooltip.thermalexpansion.capacitors=§cGT蓄電器では放電できま�
 nomiceu.tooltip.gregtech.prospector.1=§6§l使用法：§r
 nomiceu.tooltip.gregtech.prospector.2=グリッド正方形 = 1 チャンク、上が北です。
 nomiceu.tooltip.gregtech.prospector.4=JEI を使用して鉱脈の深さを確認します。
-nomiceu.tooltip.gregtech.facade.1=§3GTCEu外装は、タイル以外のほとんどのエンティティから作成できます。§r
-
-# Ender IO
-tooltip.fused_glass.make=§6強化ガラス§rおよび§7白色染料で作られています§r
-tooltip.eio_glass.dye=§b染色§r可能!
 
 # Project Red
 nomiceu.tooltip.projectred.wire=§eProjectRed で使用します。§r
