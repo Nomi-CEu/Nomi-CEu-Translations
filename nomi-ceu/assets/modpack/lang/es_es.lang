@@ -105,3 +105,14 @@ nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 Nivel de EXP!§r
 nomiceu.tooltip.ae2.tiny_tnt.2=§b¡En cambio, utiliza una señal de Redstone para activarlo!§r
 nomiceu.tooltip.eio.facade=§c¡Puede causar lag de FPS si se usa excesivamente!§r
 nomiceu.tooltip.ae2.matter_cannon.2=§b¡Se rellena con munición como una Célula de Almacenamiento!§r
+nomiceu.main_menu.discord=¡Únete a nosotros en Discord!
+nomiceu.main_menu.update=Aplicar cambios
+nomiceu.tooltip.mixed.mirrorable=§7La receta se puede reflejar.§r
+nomiceu.tooltip.mixed.accepts_fluid=§7Fluido: §b%s§r
+nomiceu.tooltip.mixed.not_consumed=¡Ingrediente no se consume!
+nomiceu.tooltip.mixed.deprecated=§c¡Articulo obsoleto! ¡Colócalo en la cuadricula de fabricación para convertir!§r
+nomiceu.tooltip.mixed.deprecation=§c¡Receta de conversión de articulo obsoleto a la alternativa!§r
+nomiceu.tooltip.ae2.p2p.type=Tipo: %s
+nomiceu.main_menu.rent_server=¡Alquila tu propio servidor de Nomifactory!
+nomiceu.tooltip.mixed.accepts_fluid_container=§7Acepta §aCubos§7, §aCeldas§7, §aBarriles§7, and otros §aContenedores de fluidos§7!
+nomiceu.tooltip.gregtech.facade=§3Las fachadas de GTCEu pueden hacerse de casi toda entidad-no-colocable.§r
