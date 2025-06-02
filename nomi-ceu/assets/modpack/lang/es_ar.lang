@@ -94,6 +94,7 @@ nomiceu.tooltip.thermalexpansion.capacitors=§c¡No se puede descargar en un bú
 nomiceu.tooltip.gregtech.prospector.1=§6§lUso:§r
 nomiceu.tooltip.gregtech.prospector.2=Grilla de cuadrados = 1 chunk, arriba esta el norte.
 nomiceu.tooltip.gregtech.prospector.3=Haz click en un mineral en la barra del costado para aislarla.
+nomiceu.tooltip.gregtech.facade=§3Las fachadas de 3GTCEu se pueden hacer con la mayoría de entidades que no son mosaicos.§r
 
 # Ender IO
 nomiceu.tooltip.eio.fused_glass.make=Hecho con §6Vidrio Templado§r y §7Tinte Blanco§r
