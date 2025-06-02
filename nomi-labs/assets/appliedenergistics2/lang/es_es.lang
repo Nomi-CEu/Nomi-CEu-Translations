@@ -1,1 +1,5 @@
-
+gui.appliedenergistics2.CraftingLock=Fabricación bloqueada
+gui.appliedenergistics2.LowRedstoneLock=Bloqueo por falta de señal redstone
+gui.appliedenergistics2.HighRedstoneLock=Bloqueo por señal redstone
+gui.appliedenergistics2.UntilPulseUnlock=Esperando para pulso de redstone para desbloquear
+gui.appliedenergistics2.ResultLock=esperando para salida del patrón para desbloquear
