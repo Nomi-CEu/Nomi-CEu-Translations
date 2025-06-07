@@ -336,7 +336,7 @@ nomifactory.quest.normal.db.77.desc=§2完美宝石相当于8个基础宝石。%
 
 # db 78 of mode normal
 nomifactory.quest.normal.db.78.title=§2砷化镓
-nomifactory.quest.normal.db.78.desc=§2初始电路元件在GTCEu中的难度较大，除了镓之外，你还需要砷。§r%n%n对于§d镓§r，你可以从最坏到最好的方法中选择：%n%n——§3电解§a闪锌矿§r，有很低几率生成小撮镓粉。注意，相较于直接熔炼会损失锌。%n%n——将§a粉碎的铝土矿矿石§r放入§3化学反应釜§r中。注意，这需要§9过硫酸钠§r。%n%n——在§a闪锌矿§r处理流程中通过§3热力离心机§r或§3离心机§r获得。%n%n§2对于砷，你必须离心雄黄粉，或在电力高炉中熔炼辉钴矿粉尘（更复杂），并电解产生的三氧化砷。%n%n将两者放在搅拌机中，制成砷化镓。
+nomifactory.quest.normal.db.78.desc=§2初始电路元件在GTCEu中的难度较大，除了镓之外，你还需要砷。§r%n%n对于§d镓§r，你可以从最坏到最好的方法中选择：%n%n——§3电解§a闪锌矿§r，有很低几率生成小撮镓粉。注意，相较于直接熔炼会损失锌。%n%n——将§a粉碎的铝土矿矿石§r放入§3化学反应釜§r中。注意，这需要§9过硫酸钠§r。%n%n——在§a闪锌矿§r处理流程中通过§3热力离心机§r或§3离心机§r获得。%n%n§2对于砷，你必须离心雄黄粉，或在电力高炉中熔炼辉钴矿粉尘（更复杂），并电解产生的三氧化砷。%n%n将两者放在搅拌机中，制成砷化镓。§r
 
 # db 79 of mode normal
 nomifactory.quest.normal.db.79.title=§2板材切割机
@@ -368,7 +368,7 @@ nomifactory.quest.normal.db.86.desc=这并不一定比§6电子电路§r更容�
 
 # db 87 of mode normal
 nomifactory.quest.normal.db.87.title=§2第二种二阶电路
-nomifactory.quest.normal.db.87.desc=§2两个集成逻辑电路§r和其他各种元件将组建一个§2良好的集成电路§r。
+nomifactory.quest.normal.db.87.desc=§2两个集成逻辑电路§r和其他各种元件将组建一个§2良好的集成电路。§r
 
 # db 88 of mode normal
 nomifactory.quest.normal.db.88.title=§2透镜
@@ -520,7 +520,7 @@ nomifactory.quest.normal.db.126.desc=§6表面贴装器件§r，或简称§6SMD�
 
 # db 129 of mode normal
 nomifactory.quest.normal.db.129.title=§2MV发射器
-nomifactory.quest.normal.db.129.desc=§2在MV精密激光蚀刻机和MV电路组装机的结构中使用的一种昂贵的高级组件。%n%n在筛选器中处理一些绿宝石矿石，获得无瑕绿宝石来制作它。
+nomifactory.quest.normal.db.129.desc=§2在MV精密激光蚀刻机和MV电路组装机的结构中使用的一种昂贵的高级组件。%n%n在筛选器中处理一些绿宝石矿石，获得无瑕的绿宝石来制作它。§r
 
 # db 130 of mode normal
 nomifactory.quest.normal.db.130.title=退火铜
@@ -532,7 +532,7 @@ nomifactory.quest.normal.db.131.desc=§9氯乙烯§r是一种化工品，由在�
 
 # db 132 of mode normal
 nomifactory.quest.normal.db.132.title=§2第一种四阶电路
-nomifactory.quest.normal.db.132.desc=这是第一个四阶电路，用于EV级别的机器。需要一些脉冲合金。%n%n§2HV电路组装机只解锁一种电路，即电脑主机。没有与HV电路组装机相关的新一组电路。相反，HV（非电路）组装机可以更容易地解锁电路组件。下一组电路要到EV才有。
+nomifactory.quest.normal.db.132.desc=这是第一个四阶电路，用于EV级别的机器。需要一些脉冲合金。%n%n§2HV电路组装机只解锁一种电路，即电脑主机。没有与HV电路组装机相关的新一组电路。相反，HV（非电路）组装机可以更容易地解锁电路组件。下一组电路要到EV才有。§r
 
 # db 133 of mode normal
 nomifactory.quest.normal.db.133.title=§2第三种也是最后一种一阶电路
@@ -560,7 +560,7 @@ nomifactory.quest.normal.db.140.desc=§3高级压印器§r在自动化方面更�
 
 # db 141 of mode normal
 nomifactory.quest.normal.db.141.title=花掉你的硬币！
-nomifactory.quest.normal.db.141.desc=虽然没有极其罕见的矿脉类型，但你很可能会在寻找至少一种不太常见的矿脉类型上费尽心思。这其实是无法避免的。%n%n当你在玩全能工厂时你会积累很多从任务获得的§d万象币§r。不要犹豫，把它们花在你需要的东西上！%n%n搜索各种矿石（一般是 §bJEI§r 中列出的第一种），找到它们的硬币配方。或者，将你的光标悬停在一个硬币上，按 §6U§r，看看你能用它买到什么。%n%n§a不要做一个囤囤鼠！
+nomifactory.quest.normal.db.141.desc=虽然没有极其罕见的矿脉类型，但你很可能会在寻找至少一种不太常见的矿脉类型上费尽心思。这其实是无法避免的。%n%n当你在玩全能工厂时你会积累很多从任务获得的§d万象币§r。不要犹豫，把它们花在你需要的东西上！%n%n搜索各种矿石（一般是 §bJEI§r 中列出的第一种），找到它们的硬币配方。或者，将你的光标悬停在一个硬币上，按 §6U§r，看看你能用它买到什么。%n%n§a不要做一个囤囤鼠！§r
 
 # db 144 of mode normal
 nomifactory.quest.normal.db.144.title=钇
@@ -576,7 +576,7 @@ nomifactory.quest.normal.db.146.desc=任何使用流体的机器的另一个常�
 
 # db 147 of mode normal
 nomifactory.quest.normal.db.147.title=§2两极磁化机
-nomifactory.quest.normal.db.147.desc=注意：这个任务同时接受 LV 和 MV 两极磁化机。%n%n虽然你可以用§6红石§r手工对§6铁锭§r进行§e磁化§r，但这样做会消耗大量的红石，而对于更高级的材料来说，这不是一个选择。这台机器可以让你磁化§6钢杆§r，以及以后更高级的材料。n%n§2GTCEu中的两极磁化机配方最高可达到IV。
+nomifactory.quest.normal.db.147.desc=注意：这个任务同时接受 LV 和 MV 两极磁化机。%n%n虽然你可以用§6红石§r手工对§6铁锭§r进行§e磁化§r，但这样做会消耗大量的红石，而对于更高级的材料来说，这不是一个选择。这台机器可以让你磁化§6钢杆§r，以及以后更高级的材料。n%n§2GTCEu中的两极磁化机配方最高可达到IV。§r
 
 # db 148 of mode normal
 nomifactory.quest.normal.db.148.title=钛
@@ -667,7 +667,7 @@ nomifactory.quest.normal.db.178.title=四硝基甲烷
 nomifactory.quest.normal.db.178.desc=这是一种添加剂，将使我们的柴油燃料更上一层楼。%n%n将§9硝酸§r和§9乙烯酮§r在§3化学反应釜§r中混合，制成§9四硝基甲烷§r。%n%n在新增加的路线中，你也可以将§9硝酸§r和§9乙酸甲酯§r在§3化学反应釜§r中混合。
 
 # db 179 of mode normal
-nomifactory.quest.normal.db.179.title=§2高十六烷值柴油！！
+nomifactory.quest.normal.db.179.title=§2高十六烷值柴油！！§r
 nomifactory.quest.normal.db.179.desc=将§9柴油§r（或效率较低的§9生物柴油§r）与§9四硝基甲烷§r在§3HV搅拌机§2或大型化学反应釜中§r中混合，产生§9硝基柴油§r，这是一种极其有效的燃料，之后可用于§6龙素§r的生产。%n%n如果你有一个非常强大的石油化石产线，并且能够烧得起它，这种燃料连同适当的氧助燃§2是大型柴油引擎和高级大型柴油引擎的有效燃料，产生§2720EU/mB。
 
 # db 180 of mode normal
@@ -788,7 +788,7 @@ nomifactory.quest.normal.db.213.desc=拿在手中，就可以看到范围内的�
 
 # db 214 of mode normal
 nomifactory.quest.normal.db.214.title=氘和微型宇宙
-nomifactory.quest.normal.db.214.desc=如果你去了月球，就能用§6月面尘§r或者§3流体钻机§r生产氘，进而生产用于§3微型宇宙投影仪§r的§6微型宇宙§r。%n%n你也可以离心或者蒸馏§9末地空气§r或者离心§9氢§r。生产氘的方法取决于你。%n%n一旦你有了§9氘§r，就可以造一些§6微型宇宙§r了。不久之后你就会向其他宇宙发送你的§6微型采掘机§r。
+nomifactory.quest.normal.db.214.desc=如果你去了月球，就能用§6月面尘§r或者§3流体钻机§r生产氘，进而生产用于§3微型宇宙投影仪§r的§6微型宇宙锭§r。%n%n你也可以离心或者蒸馏§9末地空气§r或者离心§9氢§r。生产氘的方法取决于你。%n%n一旦你有了§9氘§r，就可以造一些§6微型宇宙锭§r了。不久之后你就会向其他宇宙发送你的§6微型采掘机§r！
 
 # db 215 of mode normal
 nomifactory.quest.normal.db.215.title=§2泵
@@ -1244,7 +1244,7 @@ nomifactory.quest.normal.db.340.desc=一个EV级别的§b格雷科技§r电池�
 
 # db 341 of mode normal
 nomifactory.quest.normal.db.341.title=§2IV电力存储
-nomifactory.quest.normal.db.341.desc=一个IV等级的§b格雷科技§r电池。§2相当于40个脉冲电容库！
+nomifactory.quest.normal.db.341.desc=一个IV等级的§b格雷科技§r电池。§2相当于40个脉冲电容库！§r
 
 # db 342 of mode normal
 nomifactory.quest.normal.db.342.title=§2LuV电力存储
@@ -1640,7 +1640,7 @@ nomifactory.quest.normal.db.540.desc=§3压模器§r是一种通用的金属加�
 
 # db 541 of mode normal
 nomifactory.quest.normal.db.541.title=§2更多高炉
-nomifactory.quest.normal.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈§2不直接§r给予速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率加成和完美超频。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电力高炉。%n%n§2作为提醒，所有方块和仓室都可以在电力高炉之间共享，除了维护仓以外！
+nomifactory.quest.normal.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈§2不直接§r给予速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率加成和完美超频。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电力高炉。%n%n§2作为提醒，所有方块和仓室都可以在电力高炉之间共享，除了维护仓以外！§r
 
 # db 542 of mode normal
 nomifactory.quest.normal.db.542.title=灵魂绑定器
@@ -1691,8 +1691,8 @@ nomifactory.quest.normal.db.555.title=充能光合堆肥
 nomifactory.quest.normal.db.555.desc=通过在§3能量灌注机§r中注入红石通量，可以进一步增强§6富集光合堆肥§r。
 
 # db 556 of mode normal
-nomifactory.quest.normal.db.556.title=§2悬赏换取万象币！
-nomifactory.quest.normal.db.556.desc=现在你有了一个§3线材轧机§r和一个§3压缩机§r，你可以考虑开始做§e悬赏§r了。§6悬赏榜§r有一个全局的任务库，其中包含交出特定物品以换取§d万象币§r的任务。这些任务的持续时间相当短，所以一定要把任务中出现的物品储存起来，否则在你完成任务之前，它们就会过期。%n%n有了可再生的§d万象币§r，你应该感到自由，把你的那些钱花在你需要的任何地方。§a花费你的硬币！
+nomifactory.quest.normal.db.556.title=§2悬赏换取万象币！§r
+nomifactory.quest.normal.db.556.desc=现在你有了一个§3线材轧机§r和一个§3压缩机§r，你可以考虑开始做§e悬赏§r了。§6悬赏榜§r有一个全局的任务库，其中包含交出特定物品以换取§d万象币§r的任务。这些任务的持续时间相当短，所以一定要把任务中出现的物品储存起来，否则在你完成任务之前，它们就会过期。%n%n有了可再生的§d万象币§r，你可以自由地将你的那些钱花在你需要的地方。§a花费你的硬币！§r
 
 # db 558 of mode normal
 nomifactory.quest.normal.db.558.title=燃料催化加速
@@ -2060,7 +2060,7 @@ nomifactory.quest.normal.db.671.desc=钍是另一种基本的裂变材料，可�
 
 # db 672 of mode normal
 nomifactory.quest.normal.db.672.title=§2核燃料基础建设
-nomifactory.quest.normal.db.672.desc=攀登裂变材料的阶段将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。%n%n如果您能够大量加工红色花岗岩以抵消低产率，您可能会发现红色花岗岩是铀238的可能来源。
+nomifactory.quest.normal.db.672.desc=攀登裂变材料的阶梯需要一些特定的原材料和机械。你可以从§6铀§r开始。%n%n§2在Nomi-CEu中，生产铀需要一个简短的浓缩链。§r%n%n这个链条始于§6晶质铀矿粉§r，这是一种基础资源，来源于§6晶质铀矿矿石§r和§6沥青铀矿矿石§r。你需要在§3化学反应釜§r中将其与§9气态氟§r和§9氢氟酸§r反应，生成§6六氟化铀§r。%n%n然后，在§3离心机§r中将六氟化铀离心为枯竭六氟化铀和富集六氟化铀。枯竭六氟化铀将产出§6铀-238§r，而富集六氟化铀将产出§6铀-235§r。%n%n如果你想获得更多的铀-238，加工粉碎后的§6红色花岗岩§r是一个不错的被动来源。由于红色花岗岩产出铀-238的概率较低，所以你需要大量处理才能获得足够的产出！
 
 # db 673 of mode normal
 nomifactory.quest.normal.db.673.title=镎裂变
@@ -2256,11 +2256,11 @@ nomifactory.quest.normal.db.760.desc=现在你已经解决了末影龙，寻找�
 
 # db 761 of mode normal
 nomifactory.quest.normal.db.761.title=用传送符咒思考
-nomifactory.quest.normal.db.761.desc=§6传送符咒基座§r是一种非常简单的维度传送方式。%n%n拿着一个§6传送符咒§r，§6潜行右击§r，将其与你的位置绑定。现在，把它放在一个基座上，这样你就可以随时前往绑定的地点。%n%n在去月球之前，你需要§两个符咒§r和§两个基座§r。%n%n将一个传送符咒绑定到主世界上的一个地方，然后带着它去月球，把它放在一个基座上。%n%n将另一个传送符咒绑定到月球上的一个位置，然后使用第一个基座来回家。将第二个传送符咒放在第二个基座上，然后你就可以随意在两个地方之间穿梭了。很好！%n%n§a提示：将传送符咒放在基座上时，不会在使用时损失耐久！
+nomifactory.quest.normal.db.761.desc=§6传送符咒基座§r是一种非常简单的维度传送方式。%n%n拿着一个§6传送符咒§r，§6潜行右击§r，将其与你的位置绑定。现在，把它放在一个基座上，这样你就可以随时前往绑定的地点。%n%n在去月球之前，你需要§两个符咒§r和§两个基座§r。%n%n将一个传送符咒绑定到主世界上的一个地方，然后带着它去月球，把它放在一个基座上。%n%n将另一个传送符咒绑定到月球上的一个位置，然后使用第一个基座来回家。将第二个传送符咒放在第二个基座上，然后你就可以随意在两个地方之间穿梭了。很好！%n%n§a提示：使用放在基座上的传送符咒不会损失耐久！§r
 
 # db 762 of mode normal
 nomifactory.quest.normal.db.762.title=跨维度传送
-nomifactory.quest.normal.db.762.desc=现在你有了§e跨维度传送§r，你可以在不发射火箭的情况下往返月球。
+nomifactory.quest.normal.db.762.desc=现在你有了§e跨维度传送§r，你可以在不发射火箭的情况下往返月球。%n%n你可以自行决定要§a设置FTB Home§r、使用§bEnderIO§6传送台§r还是使用§b龙之进化§6传送符咒§r！
 
 # db 763 of mode normal
 nomifactory.quest.normal.db.763.title=折返权杖
@@ -2824,7 +2824,7 @@ nomifactory.quest.normal.db.910.desc=§2镀铑钯金是铑、流明和钯的混�
 
 # db 911 of mode normal
 nomifactory.quest.normal.db.911.title=LV电池箱
-nomifactory.quest.normal.db.911.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！
+nomifactory.quest.normal.db.911.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r和§6通量电容§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！§r
 
 # db 913 of mode normal
 nomifactory.quest.normal.db.913.title=§2机器命名§r
@@ -3000,7 +3000,7 @@ nomifactory.quest.normal.db.961.desc=§o这个任务通过复选框或在完成�
 
 # db 962 of mode normal
 nomifactory.quest.normal.db.962.title=氢和氧
-nomifactory.quest.normal.db.962.desc=§o二氧化硅是生产线的重要组成部分。访问生产线选项卡可以获得更多信息，有用的提示以及如何被动地自动生产它的可视化演示。§r%n%n在这个时期，你将需要大量的§6氢§r和§6氧§r。%n%n首先想到的方法是电解§9水§r，但这是§c极度缓慢和低效§r的。%n%n相反，早期获得§6氧气§r的最佳方法是§6二氧化硅§r。§6氢§r有点棘手，但你可以把§6甲烷§r和§6水§r放在§3化学反应器§r中。§6甲烷§r可以通过处理§6热解副产物§r或通过§6石化线§r和很多其他来源获得。%n%n现在，你可以电解由§6离心§r多种生物材料或矿石，如§6褐铁矿§r获得的甲烷来获取最初的几桶§9氢§r来开启石油化工。电解各种粉可以提供早期的§9氧§r。
+nomifactory.quest.normal.db.962.desc=在这个阶段，你将需要大量的§6氢§r和§6氧§r。%n%n最先想到的方法是电解§9水§r，但这§c极其缓慢且效率低下§r。不过，这种方式足以满足你最初对这些元素的需求。%n%n实际上，前期获取§6氧§r的最佳方式是通过§6二氧化硅§r。可以通过将§6圆石§r加工成§6玻璃§r，再进一步变为§6玻璃粉§r轻松获得二氧化硅，速度快且效率高，但你需要用§3离心机§r将§6玻璃粉§r转化为§6二氧化硅§r。%n%n§6氢§r则稍微复杂一些，但你可以通过§b电解机§r电解§6甲烷§r获取。§6甲烷§r可以通过处理§6生物材料§r、§6热解副产物§r，或者后期的§6石油化工§r获得。还有许多其他来源，包括各种矿石如§6褐铁矿矿石§r。记得查阅JEI！%n%n在§6HV§r阶段，你可以在§b化学反应釜§r中将§6甲烷§r与§6水§r反应，快速高效地获得气态氢。%n%n建议你尽早实现这些流程的自动化！可以通过电解水简单地储备一些氢气，这很值得！
 
 # db 963 of mode normal
 nomifactory.quest.normal.db.963.title=黑曜石
@@ -3064,7 +3064,7 @@ nomifactory.quest.normal.db.1015.desc=如果你用光了勘矿仪的电，只需
 
 # db 1016 of mode normal
 nomifactory.quest.normal.db.1016.title=哪都能用AE2...基本上
-nomifactory.quest.normal.db.1016.desc=§o注意：该任务可接受无线终端、无线合成终端、无线样板终端或无线流体终端。§r%n%n无线访问§b应用能源 2 §r可节省大量时间。强烈建议你进行设置。%n%n首先，你需要一个 §6ME 安全终端§r，和一个§6无线访问点§r。将两者都连接到网络上。与§6终端§r一样，无线接入点也是一个§e微型部件§r，因此必须将其放置在 §6ME 线缆§r上。%n%n接下来，你需要一个§6无线终端§r或其变体。您可以在系统上同时使用多个无线终端或其变体。%n%n最后，将你的§6无线终端§r放入§6ME安全终端§r。这样就可以将其连接到系统。%n%n您可以将这些东西装备到饰品栏，并使用热键打开它们。搜索“应用能源2”作为§e范畴§r，查看并编辑这些热键。%n%n默认的无线信号距离只有 16 格。不过，你可以将§6无线信号增幅器§r放入§6无线访问点§r以扩大信号范围。下面的任务“AE2 无处不在！”将介绍一个更好但更昂贵的解决方案，它允许从任何地方进行访问。
+nomifactory.quest.normal.db.1016.desc=§o注意：本任务接受无线终端、无线合成终端、无线样板终端或无线流体终端。§r%n%n无线访问§b应用能源2§r可以极大地节省时间，非常推荐你进行设置。%n%n首先，你需要一个§6ME安全终端§r和一个§6无线访问点§r。将两者都连接到你的网络上。与§6终端§r一样，无线访问点是一种§e微型部件§r，因此必须放置在§6ME线缆§r上。%n%n接下来，你需要一个§6无线终端§r或其变体。你可以在系统中同时拥有多个无线终端或其变体。%n%n最后，将你的§6无线终端§r放入§6安全终端§r中，这样就能将其连接到网络上。%n%n你可以将这些设备装备到饰品栏，并通过快捷键打开。将“应用能源2”作为§e类别§r进行搜索，可以查看和编辑这些快捷键。%n%n你只能在距离16格内使用无线终端。不过，你可以将§6无线增幅器§r放入§6无线访问点§r中来增加范围。更好但更昂贵、可以实现任意地点访问的方案将在后续任务“AE2无处不在！”中介绍。%n%n你还需要手动为终端充能。虽然可以用§6通量电容§r减少充电频率，但如果能无线充电就更好了……请查看§a游戏中期§r的§a无线充电支线任务§r！
 
 # db 1017 of mode normal
 nomifactory.quest.normal.db.1017.title=AE2无处不在！
@@ -3096,7 +3096,7 @@ nomifactory.quest.normal.db.1023.desc=Neeve，野兔的主人。召唤祂，然�
 
 # db 1024 of mode normal
 nomifactory.quest.normal.db.1024.title=背包整理
-nomifactory.quest.normal.db.1024.desc=这个整合包有§bBogo物品整理器§r，允许快速，可定制，并轻松排序任何库存！%n%n默认排序键绑定是§a鼠标中键§r，§c但你可以随时更改热键。只需将鼠标悬停在库存中的任何容器上（§6箱子§r，§6板条箱§r，你的物品栏等），然后点击你的热键，瞧！一个整洁的库存。%n%n您还可以在GUI中配置它的排序方式。打开GUI的默认键是§aK§r。%n%nBogo物品整理器在默认情况下也会自动替换物品，比如方块，工具和食物。对于工具，它甚至会在它坏掉之前替换它，然后你可以修理！
+nomifactory.quest.normal.db.1024.desc=这个整合包有§bBogo物品整理器§r，允许快速，可定制，并轻松排序任何物品栏！%n%n默认快捷键为§a鼠标中键§r，但你可以随时更改它。只需将鼠标悬停在库存中的任何容器上（§e箱子§r，§e板条箱§r，§e玩家物品栏§r等），按下快捷键，瞧！一个整洁的物品栏。%n%n你还可以在配置GUI中配置它的排序方式。打开GUI的默认快捷键是§aK§r。%n%nBogo物品整理器默认还会自动替换物品，比如方块，工具和食物。对于工具，它会在它§e即将坏掉前§r替换它，以便你修复该工具。
 
 # db 1025 of mode normal
 nomifactory.quest.normal.db.1025.title=电动刷怪箱
@@ -3167,7 +3167,7 @@ nomifactory.quest.normal.db.1042.desc=§3有源变压器§r是一种可以将任
 
 # db 1043 of mode normal
 nomifactory.quest.normal.db.1043.title=太阳能板VIII
-nomifactory.quest.normal.db.1043.desc=八级§6太阳能板§r，这是制作更高层的太阳能板所必需的。这也是一个不错的电源。
+nomifactory.quest.normal.db.1043.desc=八级§6太阳能板§r，这是制作更高层的太阳能板所必需的，同时本身也是一个不错的发电来源。%n%n需要注意的是，当§d太阳能板以水平网格方式摆放时，它们会相互共享能量§r。这意味着，为了减少卡顿，你可以摆放一个大型网格，只需设置少量连接（每个连接所能连接的太阳能板数量取决于传输上限与发电上限的比例）。对于这种太阳能板，你可以§a每8块太阳能板只设置1个连接§r。%n%n§e在旧版本中，大规模网格摆放太阳能板曾经会导致卡顿，但现在已经不会了。§r实际上，将太阳能板以网格方式摆放，有时甚至会比传统的太阳能塔方式§a性能更好§r！
 
 # db 1044 of mode normal
 nomifactory.quest.normal.db.1044.title=§2激光网络
@@ -3238,7 +3238,7 @@ nomifactory.quest.expert.db.4.desc=矿石在§5全能工厂§r中分布是大量
 
 # db 5 of mode expert
 nomifactory.quest.expert.db.5.title=采矿锤
-nomifactory.quest.expert.db.5.desc=§r采矿锤§r提供了一种相对便宜、快捷的采矿方式。它们可以挖掘3x3的方块（除非你潜行）并快速采矿。%n%n§2GTCEu现在有了原生的采矿锤！你可以用任何格雷科技工具材料制作它们。§r%n%n免费的4个钻石采矿锤应当可以坚持一段时间，且您可以随时使用铁砧与钻石来修复它们。
+nomifactory.quest.expert.db.5.desc=§r采矿锤§r提供了一种相对便宜、快捷的采矿方式。它们能够快速挖掘3x3的方块（除非潜行），所以它们绝对值得你投入最初的几块金属...%n%n§2GTCEu现在有了原生的采矿锤！你可以用任何格雷科技工具材料制作它们。§r%n%n免费的钻石采矿锤应当可以坚持一段时间，且你可以随时使用铁砧与钻石来修复它们。%n%n然而，你可能还需要考虑做一把§e铲§r，可以让你挖掘3x3的、可被锹挖掘的方块，例如§6泥土§r或§6沙子§r。你将需要大量的§6沙子§r、§6粘土§r甚至是§6沙砾§r！
 
 # db 6 of mode expert
 nomifactory.quest.expert.db.6.title=§2更多材料
@@ -3418,7 +3418,7 @@ nomifactory.quest.expert.db.55.desc=§3离心机§r旋转物品，将它们分�
 
 # db 56 of mode expert
 nomifactory.quest.expert.db.56.title=所有东西聚一起
-nomifactory.quest.expert.db.56.desc=现在你已经有了为你的机器提供能量所需的一切，是时候把它们聚在一起了。%n%n你的蒸汽能源炉需要燃料（如§6煤§r）和§9水§r。它将通过励磁线圈（顶部的红色部分）输出RF能量。如果需要，蒸汽能源炉的方向可以用§a新月锤§r调整。%n%n§6能量导管§r可用于传输RF能量，但通过励磁线圈直接接触能量转换器，能源炉也可以直接向能量转换器输出RF。%n%n能量转换器将RF能量转化为EU，通过带有红点的一侧输出产生的EU。方向可以用§a扳手§r来调整。将你的§6导电铁导管§r连接到能量转换器的输出侧。%n%n现在你所需要的是一些§b格雷科技§r机器来连接到线缆上！你可以做任何你想要的东西，但建议你先得到这两样东西：%n%n§6线材轧机§r将线缆的制作变得更加容易。%n%n§2卷板机§r将制板的成本减半。
+nomifactory.quest.expert.db.56.desc=随着§dEU§r能量源源不断地输入，现在你只需要将一些§b格雷科技§r机器接入线缆即可！%n%n但首先请注意：%n%n§aRF能量§r可以安全地通过任何§6导管§r传输，但§aEU能量§r不同，其传输§e需要格外小心§r。关键在于你的§6线缆§r和机器的§e电压§r与§e电流§r必须始终§a匹配或高于§r你的能量来源。%n%n§c切勿§r将能量转换器或电池缓冲箱输出的§e电流§r高于线缆额定电流。例如，4A转换器必须使用§64x线缆§r，满16格电池缓冲箱必须使用§616x线缆§r。电流不足的线缆会§c烧毁并被摧毁§r。%n%n§2如果你来自CE——CE中的多电流源和多面输入的bug都已修复，能源网络现在可按预期工作。§r%n%n同样，你的线缆必须匹配或高于机器的§e电压§r，否则也会§c烧毁并损坏§r。%n%n§c切勿§r将机器连接到过高的§e电压§r，否则它会§c蒸发§r。触碰连接了§aEU能量§r的§6非超导体导线§r会§c伤害甚至杀死你§r，所以为了安全，§e请务必使用§6线缆或超导体§r！%n%n§e注意：超导体，即无线损导线没有线缆变体，触碰超导体导线不会对你造成伤害！§r%n%n至于机器，虽然你可以制作任何你想要的机器，但我们推荐你优先制作：%n%n§6线材轧机§r，可以让线缆制作变得更加轻松。%n%n之后你还可以考虑：%n%n- §2卷板机§r，可以将一个锭直接加工为一块板材。%n- §2电解机§r，以及后续的电弧炉，这将大大简化§6锻铁§r和§6玻璃§r的生产。%n%n你还可以将所有蒸汽机器升级为电力版本！配方耗时与高压蒸汽机相同，但它们能自动输出、无需消耗蒸汽且无蒸汽排气口，这可能更加方便。%n%n进入下一章节吧！
 
 # db 57 of mode expert
 nomifactory.quest.expert.db.57.title=末影流体导管
@@ -3434,7 +3434,7 @@ nomifactory.quest.expert.db.59.desc=镍来自几种不同的矿石，包括镍�
 
 # db 60 of mode expert
 nomifactory.quest.expert.db.60.title=§2高炉
-nomifactory.quest.expert.db.60.desc=§3电力高炉§r是你的§b格雷科技§r生涯中的一个重大的里程碑。它有能力熔炼出更多的先进材料。其一，§6铝§r，在不久的将来将是很重要的材料。%n%n在§bJEI§r中有一个如何搭建电力高炉的演示。第二层和第三层必须是一个3x3的中空线圈方块（§6白铜§r是你目前唯一能获得的线圈方块类型）。你还可以§6潜行右击§r控制器以启用多方块预览。%n%n然而，底层和顶层是可塑性很高的。§6电力高炉控制器§r必须在结构的§e底层§r，并在§e边缘的中间§r；§6消声仓§r必须在§e顶层的正中间§r。除此以外，你可以把其他仓放在任何地方，用§6殷钢隔热机器外壳§r填满每层。值得注意的是，你必须在你的布局中至少使用§29个§e殷钢隔热机器外壳，否则结构将无法成型§r。%n%n这个任务需要一个§2维护仓§r，两个能源仓，一个流体输入仓和输出仓，以及一个物品输入总线和输出总线，一共是7个位置。它们的具体顺序和位置并不重要，只要你能访问它们。第8个位置是你的电力高炉控制器，留下9个空位，由殷钢隔热机器外壳填补。如果你所做的一切都正确，结构将会成型：它的仓和外壳上的颜色将会统一，控制器会显示“待机”。%n%n你很可能想把你的能源放在离电力高炉很近的地方。它非常耗电，如果不能获得足够的能量，当前物品的熔炼进度就会开始倒退。要注意确保电力高炉有足够的能量，并在附近放一个软锤，以便在电力耗尽时通过敲击控制器来暂停它。%n%n§2在GTCEu中，除了维护仓以外，所有的仓都可以在多方块之间共享！
+nomifactory.quest.expert.db.60.desc=§3电力高炉§r是你的§b格雷科技§r生涯中的一个重大的里程碑。它有能力熔炼出更多的先进材料。其一，§6铝§r，在不久的将来将是很重要的材料。%n%n在§bJEI§r中有一个如何搭建电力高炉的演示。第二层和第三层必须是一个3x3的中空线圈方块（§6白铜§r是你目前唯一能获得的线圈方块类型）。你还可以§6潜行右击§r控制器以启用多方块预览。%n%n然而，底层和顶层是可塑性很高的。§6电力高炉控制器§r必须在结构的§e底层§r，并在§e边缘的中间§r；§6消声仓§r必须在§e顶层的正中间§r。除此以外，你可以把其他仓放在任何地方，用§6殷钢隔热机器外壳§r填满每层。值得注意的是，你必须在你的布局中至少使用§29个§e殷钢隔热机器外壳，否则结构将无法成型§r。%n%n这个任务需要一个§2维护仓§r，两个能源仓，一个流体输入仓和输出仓，以及一个物品输入总线和输出总线，一共是7个位置。它们的具体顺序和位置并不重要，只要你能访问它们。第8个位置是你的电力高炉控制器，留下9个空位，由殷钢隔热机器外壳填补。如果你所做的一切都正确，结构将会成型：它的仓和外壳上的颜色将会统一，控制器会显示“待机”。%n%n你很可能想把你的能源放在离电力高炉很近的地方。它非常耗电，如果不能获得足够的能量，当前物品的熔炼进度就会开始倒退。要注意确保电力高炉有足够的能量，并在附近放一个软锤，以便在电力耗尽时通过敲击控制器来暂停它。%n%n§2在GTCEu中，除了维护仓以外，所有的仓都可以在多方块之间共享！§r
 
 # db 61 of mode expert
 nomifactory.quest.expert.db.61.title=§2宝石探测器
@@ -3841,7 +3841,7 @@ nomifactory.quest.expert.db.178.title=四硝基甲烷
 nomifactory.quest.expert.db.178.desc=这是一种添加剂，将使我们的柴油燃料更上一层楼。%n%n将§9硝酸§r和§9乙烯酮§r在§3化学反应釜§r中混合，制成§9四硝基甲烷§r。%n%n在新增加的路线中，你也可以将§9硝酸§r和§9乙酸甲酯§r在§3化学反应釜§r中混合。
 
 # db 179 of mode expert
-nomifactory.quest.expert.db.179.title=§2高十六烷值柴油！！
+nomifactory.quest.expert.db.179.title=§2高十六烷值柴油！！§r
 nomifactory.quest.expert.db.179.desc=将§9柴油§r（或效率较低的§9生物柴油§r）与§9四硝基甲烷§r在§3HV搅拌机§r中混合，产生§9硝基柴油§r，这是一种极其有效的燃料，之后可用于§6龙素§r的生产。%n%n如果你有一个非常强大的石油化石产线，并且能够烧得起它，这种燃料连同适当的氧助燃§2是大型柴油引擎和高级大型柴油引擎的有效燃料，燃料产生§2720EU/mB。
 
 # db 180 of mode expert
@@ -3962,7 +3962,7 @@ nomifactory.quest.expert.db.213.desc=拿在手中，就可以看到范围内的�
 
 # db 214 of mode expert
 nomifactory.quest.expert.db.214.title=§2氘
-nomifactory.quest.expert.db.214.desc=月球是一块荒芜的、没有生命的岩石...那么你为什么要来这里？%n%n一个主要的好处是，构成月球表面的§6月面土§r是获得§9氘§r的一个有效手段。它对于生产§9微型宇宙锭§r、§9氚§r、聚变产生等离子以及结晶§6双锂§r都很有用。%n%n月球还含有氘和氦-3的流体储藏，你可以用流体钻机收获这些物质。然而，你要使用第二级流体钻机来提取它，因为氘和氦-3的数量太少，无法从第一级流体钻机中获得任何有价值的东西。%n%n太空探索在本包中并不是强制的，如果您不想使用§b高级火箭§r探索太空，那么您可以将§9氢§r离心以获得§e氘§r。%n%n请记住，跳过此步骤的回报要低得多，并且你需要大量的氢气来补偿，尽管你在第一个§3微型宇宙投影仪§r中不需要太多。%n%n在§6HV§r时代，甚至在§1IV§r时代更好，你还可以通过处理§9末影空气§r来获得这些，这可能比去月球更好，具体取决于你的情况。§r%n%n还有几种矿石，在地球上很罕见，但在月球上却大量存在。特别是，月球上含有大量的§6钛§r（以§6铝土矿石§r和§6钛铁矿石§r的形式）和§6钨§r（以§6白钨矿石§r和§6钨酸锂矿石§r的形式）。
+nomifactory.quest.expert.db.214.desc=如果你去了月球，就能用§6月面尘§r或者§3流体钻机§r生产氘，进而生产用于§3微型宇宙投影仪§r的§6微型宇宙锭§r。%n%n你也可以离心或者蒸馏§9末地空气§r或者离心§9氢§r。生产氘的方法取决于你。%n%n一旦你有了§9氘§r，就可以造一些§6微型宇宙锭§r了。不久之后你就会向其他宇宙发送你的§6微型采掘机§r！
 
 # db 215 of mode expert
 nomifactory.quest.expert.db.215.title=§2泵
@@ -4414,7 +4414,7 @@ nomifactory.quest.expert.db.340.desc=一个 EV 级别的§b格雷科技§r电池
 
 # db 341 of mode expert
 nomifactory.quest.expert.db.341.title=§2IV电力存储
-nomifactory.quest.expert.db.341.desc=一个IV等级的§b格雷科技§r电池。§2相当于40个脉冲电容库！
+nomifactory.quest.expert.db.341.desc=一个IV等级的§b格雷科技§r电池。§2相当于40个脉冲电容库！§r
 
 # db 342 of mode expert
 nomifactory.quest.expert.db.342.title=§2LuV电力存储
@@ -4502,7 +4502,7 @@ nomifactory.quest.expert.db.366.desc=你赢了！%n%n恭喜你！%n%n我希望�
 
 # db 367 of mode expert
 nomifactory.quest.expert.db.367.title=稳定的微型采掘机
-nomifactory.quest.expert.db.367.desc=§d稳定微型采掘机§r是在游戏末期无限生产资源的物品。%n%n“稳定化”是一个向§6微型采掘机§r注入§6宇宙之心§r的过程。这样就可以以合理的成本重复使用这些设备。%n%n与普通微型采掘机一样，稳定版本必须放入适当的§3微型宇宙投影仪§r。不过，运行稳定任务不需要任何催化剂。%n%n稳定任务不会带来物品，而会带来§d原始的微型宇宙物质§r，可以用§3实体化仓§r换取物品。%n%n由于无法取出编程电路，因此制作多个总线是个好主意，这样就能在它们之间闭环使用“原始物质”。%n%n§6稳定捌阶采掘机§R可能是最好的“投资”，但最终决定权还是在你自己。
+nomifactory.quest.expert.db.367.desc=§o现在还不是终点，甚至还不是终局的开始，但或许，这是序章的终结。%n%n§d稳定微型采掘机§r是一个重要的里程碑，干得漂亮！%n%n“稳定化”是一个向§6微型采掘机§r注入§6宇宙之心§r的过程，这样就可以以合理的成本重复使用这些设备。%n%n与普通微型采掘机一样，稳定微型采掘机必须放入对应的§3微型宇宙投影仪§r。不过，运行稳定任务不需要任何催化剂。%n%n稳定任务不会带来物品，而是带来§d原始的微型宇宙物质§r，可以用§3实体化仓§r换取物品。%n%n由于无法取出集成电路，建议你投资多个实体化仓，这样就能轮流处理原始物质，实现闭环利用。%n%n§6稳定捌阶采掘机§r或许是最值得投资的选择，但最终决定权还是在你自己。%n%n话虽如此，§e本整合包依然极具挑战性§r。可重复使用的微型采掘机固然好，但这还远远不够。并不是所有采掘机都能被稳定化，资源依然需要加工，创造物品将会极大考验你的工厂自动化与工程能力。%n%n向最终挑战——§d创造量子箱§r——进发吧！
 
 # db 368 of mode expert
 nomifactory.quest.expert.db.368.title=穿梭四方
@@ -4634,7 +4634,7 @@ nomifactory.quest.expert.db.417.desc=一个更有效的§3充能台§r版本。%
 
 # db 488 of mode expert
 nomifactory.quest.expert.db.488.title=基础背包
-nomifactory.quest.expert.db.488.desc=有助于携带更多的东西。%n%n你还指望有什么解释呢？
+nomifactory.quest.expert.db.488.desc=有助于携带更多的东西。%n%n可以拿着 shift 右击来§b配置§r，也能激活（默认键位：§bV§r）后按过滤器§a自动拾取物品§r。%n%n可以用§b附魔§r提高容量，最大用§d扩容 IV §r提高 36 格。
 
 # db 490 of mode expert
 nomifactory.quest.expert.db.490.title=LV高压釜
@@ -4802,7 +4802,7 @@ nomifactory.quest.expert.db.540.desc=§3压模器§r是一种通用的金属加�
 
 # db 541 of mode expert
 nomifactory.quest.expert.db.541.title=§2更多高炉
-nomifactory.quest.expert.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈§2不直接§r的给予速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率加成和超频的速度加成。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电力高炉。%n%n§2作为提醒，所有方块和仓室都可以在电力高炉之间共享，除了维护仓以外！
+nomifactory.quest.expert.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈§2不直接§r的给予速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率加成和超频的速度加成。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电力高炉。%n%n§2作为提醒，所有方块和仓室都可以在电力高炉之间共享，除了维护仓以外！§r
 
 # db 542 of mode expert
 nomifactory.quest.expert.db.542.title=灵魂绑定器
@@ -5218,7 +5218,7 @@ nomifactory.quest.expert.db.671.desc=钍是另一种基本的裂变材料，可�
 
 # db 672 of mode expert
 nomifactory.quest.expert.db.672.title=§2核燃料基础建设
-nomifactory.quest.expert.db.672.desc=攀登裂变材料的阶段将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。%n%n如果您能够大量加工红色花岗岩以抵消低产率，您可能会发现红色花岗岩是铀238的可能来源。
+nomifactory.quest.expert.db.672.desc=攀登裂变材料的阶梯需要一些特定的原材料和机械。你可以从§6铀§r开始。%n%n§2在Nomi-CEu中，生产铀需要一个简短的浓缩链。§r%n%n这个链条始于§6晶质铀矿粉§r，这是一种基础资源，来源于§6晶质铀矿矿石§r和§6沥青铀矿矿石§r。你需要在§3化学反应釜§r中将其与§9气态氟§r和§9氢氟酸§r反应，生成§6六氟化铀§r。%n%n然后，在§3离心机§r中将六氟化铀离心为枯竭六氟化铀和富集六氟化铀。枯竭六氟化铀将产出§6铀-238§r，而富集六氟化铀将产出§6铀-235§r。%n%n如果你想获得更多的铀-238，加工粉碎后的§6红色花岗岩§r是一个不错的被动来源。由于红色花岗岩产出铀-238的概率较低，所以你需要大量处理才能获得足够的产出！
 
 # db 673 of mode expert
 nomifactory.quest.expert.db.673.title=镎裂变
@@ -5378,11 +5378,11 @@ nomifactory.quest.expert.db.760.desc=现在你已经解决了末影龙，寻找�
 
 # db 761 of mode expert
 nomifactory.quest.expert.db.761.title=考虑使用传送符咒
-nomifactory.quest.expert.db.761.desc=§6传送符咒基座§r是一种非常简单的维度传送方式。%n%n拿着一个§6传送符咒§r，§6潜行右击§r，将其与你的位置绑定。现在，把它放在一个基座上，这样你就可以随时前往绑定的地点。%n%n在去月球之前，你需要§两个符咒§r和§两个基座§r。%n%n将一个传送符咒绑定到主世界上的一个地方，然后带着它去月球，把它放在一个基座上。%n%n将另一个传送符咒绑定到月球上的一个位置，然后使用第一个基座来回家。将第二个传送符咒放在第二个基座上，然后你就可以随意在两个地方之间穿梭了。很好！%n%n§a提示：将传送符咒放在基座上时，不会在使用时损失耐久！
+nomifactory.quest.expert.db.761.desc=§6传送符咒基座§r是一种非常简单的维度传送方式。%n%n拿着一个§6传送符咒§r，§6潜行右击§r，将其与你的位置绑定。现在，把它放在一个基座上，这样你就可以随时前往绑定的地点。%n%n在去月球之前，你需要§两个符咒§r和§两个基座§r。%n%n将一个传送符咒绑定到主世界上的一个地方，然后带着它去月球，把它放在一个基座上。%n%n将另一个传送符咒绑定到月球上的一个位置，然后使用第一个基座来回家。将第二个传送符咒放在第二个基座上，然后你就可以随意在两个地方之间穿梭了。很好！%n%n§a提示：使用放在基座上的传送符咒不会损失耐久！§r
 
 # db 762 of mode expert
 nomifactory.quest.expert.db.762.title=跨维度传送
-nomifactory.quest.expert.db.762.desc=现在你有了§e跨维度传送§r，你可以在不发射火箭的情况下往返月球。
+nomifactory.quest.expert.db.762.desc=现在你有了§e跨维度传送§r，你可以在不发射火箭的情况下往返月球。%n%n你可以自行决定要§a设置FTB Home§r、使用§bEnderIO§6传送台§r还是使用§b龙之进化§6传送符咒§r！
 
 # db 763 of mode expert
 nomifactory.quest.expert.db.763.title=折返权杖
@@ -5514,7 +5514,7 @@ nomifactory.quest.expert.db.798.desc=§6日耀素§r是由§6稳定钚§r和§6�
 
 # db 799 of mode expert
 nomifactory.quest.expert.db.799.title=信素背包
-nomifactory.quest.expert.db.799.desc=携带大量的东西！
+nomifactory.quest.expert.db.799.desc=携带大量的东西！%n%n可以拿着 shift 右击来§b配置§r，也能激活（默认键位：§bV§r）后按过滤器§a自动拾取物品§r。%n%n可以用§b附魔§r提高容量，最大用§d扩容 IV §r提高 36 格。
 
 # db 800 of mode expert
 nomifactory.quest.expert.db.800.title=“种子油”、“鱼油”或“油菜压榨机”
@@ -5538,11 +5538,11 @@ nomifactory.quest.expert.db.804.desc=从自动化的角度来看，§3装配线�
 
 # db 805 of mode expert
 nomifactory.quest.expert.db.805.title=氢和氧
-nomifactory.quest.expert.db.805.desc=§r%n%n在这一点上，你将需要大量的§6氢§r和§6氧§r。首先想到的方法是电解§9水§r，但这是缓慢的。相反，早期获得§6氧气§r的最佳方法是§6二氧化硅§r。§6氢§r有点棘手，但你可以把§6甲烷§r和§6水§r放在§3化学反应器§r中。§6甲烷§r可以通过对§6食物§r和§6木头§r进行离心、处理§6热解副产物§r或通过§6石化线§r来获得。现在，对于你需要的少量氢气，你可以简单地电解水。但别忘了其他的方式。
+nomifactory.quest.expert.db.805.desc=在这个阶段，你将需要大量的§6氢§r和§6氧§r。%n%n最先想到的方法是电解§9水§r，但这§c极其缓慢且效率低下§r。不过，这种方式足以满足你最初对这些元素的需求。%n%n实际上，前期获取§6氧§r的最佳方式是通过§6二氧化硅§r。可以通过将§6圆石§r加工成§6玻璃§r，再进一步变为§6玻璃粉§r轻松获得二氧化硅，速度快且效率高，但你需要用§3离心机§r将§6玻璃粉§r转化为§6二氧化硅§r。%n%n§6氢§r则稍微复杂一些，但你可以通过§b电解机§r电解§6甲烷§r获取。§6甲烷§r可以通过处理§6生物材料§r、§6热解副产物§r，或者后期的§6石油化工§r获得。还有许多其他来源，包括各种矿石如§6褐铁矿矿石§r。记得查阅JEI！%n%n在§6HV§r阶段，你可以在§b化学反应釜§r中将§6甲烷§r与§6水§r反应，快速高效地获得气态氢。%n%n建议你尽早实现这些流程的自动化！可以通过电解水简单地储备一些氢气，这很值得！
 
 # db 806 of mode expert
-nomifactory.quest.expert.db.806.title=§2烯丙基氯
-nomifactory.quest.expert.db.806.desc=§2只有当你使用普通的化学反应釜时，你才需要这一步。如果你使用的是大型化学反应釜，则跳过烯丙基氯步骤。%n%n§9烯丙基氯§r为生产§9环氧氯丙烷§r的§9环氧树脂§r提供了一种替代方法。%n%n让§9氯§r和§9丙烯§r反应，将产生烯丙基氯。丙烯是由各种裂解石油产物（如蒸汽裂化石脑油）在§3蒸馏塔§r中蒸馏出来。
+nomifactory.quest.expert.db.806.title=§2烯丙基氯§r
+nomifactory.quest.expert.db.806.desc=§2只有当你使用普通的化学反应釜时，你才需要这一步。如果你使用的是大型化学反应釜，则跳过烯丙基氯步骤。%n%n§9烯丙基氯§r为生产§9环氧氯丙烷§r的§9环氧树脂§r提供了一种替代方法。%n%n让§9氯§r和§9丙烯§r反应，将产生烯丙基氯。丙烯是由各种裂解石油产物（如蒸汽裂化石脑油）在§9蒸馏塔§r中蒸馏出来。
 
 # db 807 of mode expert
 nomifactory.quest.expert.db.807.title=种子油
@@ -5578,7 +5578,7 @@ nomifactory.quest.expert.db.814.desc=§2从技术上讲，这不是GTCEu的新�
 
 # db 815 of mode expert
 nomifactory.quest.expert.db.815.title=§2LV卷板机
-nomifactory.quest.expert.db.815.desc=§2卷板机§r的工作内容，取决于它内部的编程电路：%n——一个锭变成板（而不是压缩机）%n——一个板变成4个箔（而不是多辊式轧机，再也不是）%——两个板变成双重板%n——九个板变成致密板%n——一个杆变成小型弹簧%n——一个长杆变成弹簧。%n%n为什么这个方块被移除了？！
+nomifactory.quest.expert.db.815.desc=§2卷板机§r的工作内容，取决于它内部的编程电路：%n——一个锭变成板（而不是压缩机）%n——一个板变成4个箔（而不是多辊式轧机，再也不是）%——两个板变成双重板%n——九个板变成致密板%n——一个杆变成小型弹簧%n——一个长杆变成弹簧。%n%n为什么这个被移除了？！§r
 
 # db 816 of mode expert
 nomifactory.quest.expert.db.816.title=§2LV电路组装机
@@ -5878,7 +5878,7 @@ nomifactory.quest.expert.db.893.desc=§2GTCEu中的某些多方块结构将需�
 
 # db 894 of mode expert
 nomifactory.quest.expert.db.894.title=§2MV组装机
-nomifactory.quest.expert.db.894.desc=有了§6MV组装机§r，你可以为下一组§e电路§r组装一些必要的部件，以及§6MV能源仓§r，这对于§e坎塔尔合金§r是必要的
+nomifactory.quest.expert.db.894.desc=有了§6MV组装机§r，你可以为下一级别的电路组装一些必要的部件，并制作§6MV能源仓§r，这对于§e坎塔尔合金§r是必要的！
 
 # db 895 of mode expert
 nomifactory.quest.expert.db.895.title=§2MV能源仓
@@ -5938,7 +5938,7 @@ nomifactory.quest.expert.db.910.desc=§2镀铑钯金是铑、流明和钯的混�
 
 # db 911 of mode expert
 nomifactory.quest.expert.db.911.title=LV电池箱
-nomifactory.quest.expert.db.911.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！
+nomifactory.quest.expert.db.911.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r和§6通量电容§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！§r
 
 # db 912 of mode expert
 nomifactory.quest.expert.db.912.title=幻灵接口
@@ -5962,7 +5962,7 @@ nomifactory.quest.expert.db.916.desc=§a接口终端§r的一个变种，允许�
 
 # db 917 of mode expert
 nomifactory.quest.expert.db.917.title=哪都能用AE2...基本上
-nomifactory.quest.expert.db.917.desc=§o注意：该任务可接受无线终端、无线合成终端、无线样板终端或无线流体终端。§r%n%n无线访问§b应用能源2§r可节省大量时间。强烈建议您进行设置。%n%n首先，你需要一个§6ME安全终端§r，和一个§6无线访问点§r。将两者都连接到网络上。与§6终端§r一样，无线接入点也是一个§e微型部件§r，因此必须将其放置在§6ME线缆§r上。%n%n接下来，你需要一个§6无线终端§r或其变体。您可以在系统上同时安装多个无线终端或其变体。%n%n最后，将您的§6无线终端§r放入§6ME安全终端§r。这样就可以将其连接到系统。%n%n您可以将这些东西装备到饰品栏，并使用热键打开它们。搜索“Applied Energistics”作为§e类别§r，查看并编辑这些热键。%n%n距离只有16格。不过，您可以将§6无线信号增幅器§r放入§6无线访问点§r 以扩大范围。下面的任务“AE2无处不在！”将介绍一个更好但更昂贵的解决方案，它允许从任何地方进行访问。
+nomifactory.quest.expert.db.917.desc=§o注意：本任务接受无线终端、无线合成终端、无线样板终端或无线流体终端。§r%n%n无线访问§b应用能源2§r可以极大地节省时间，非常推荐你进行设置。%n%n首先，你需要一个§6ME安全终端§r和一个§6无线访问点§r。将两者都连接到你的网络上。与§6终端§r一样，无线访问点是一种§e微型部件§r，因此必须放置在§6ME线缆§r上。%n%n接下来，你需要一个§6无线终端§r或其变体。你可以在系统中同时拥有多个无线终端或其变体。%n%n最后，将你的§6无线终端§r放入§6安全终端§r中，这样就能将其连接到网络上。%n%n你可以将这些设备装备到饰品栏，并通过快捷键打开。将“应用能源2”作为§e类别§r进行搜索，可以查看和编辑这些快捷键。%n%n你只能在距离16格内使用无线终端。不过，你可以将§6无线增幅器§r放入§6无线访问点§r中来增加范围。更好但更昂贵、可以实现任意地点访问的方案将在后续任务“AE2无处不在！”中介绍。%n%n你还需要手动为终端充能。虽然可以用§6通量电容§r减少充电频率，但如果能无线充电就更好了……请查看§a游戏中期§r的§a无线充电支线任务§r！
 
 # db 918 of mode expert
 nomifactory.quest.expert.db.918.title=AE2无处不在！
@@ -5990,7 +5990,7 @@ nomifactory.quest.expert.db.924.desc=§aME控制器§r充当了§eME网络§r的
 
 # db 925 of mode expert
 nomifactory.quest.expert.db.925.title=龙研聚合自动化
-nomifactory.quest.expert.db.925.desc=你将使用§b龙之研究§6聚合§r来制作很多东西。因此，一种自动化的方法是至关重要的。%n%n首先，在每个§注入器§r上放一个§6物品激光中继器§r，再把一个放在§a核心§r上，一个放在§a物品接口§r上。你会注意到你将需要比你的注入器数量多 2 个的物品激光。%n%n用§6激光扳手§r将它们全部连接到物品接口。只要点击一个激光再点击你的物品接口。%n%n需要注意的一件重要的事情是，激光似乎被“放置”在一个特定的方块上，但它们会与所有相邻的不附着的方块相互作用。§r %n%n§c警告：不要将第二个激光器放置在靠近物品接口的激光网络上。这将立即导致游戏崩溃，因为这会在网络中造成循环。您必须从备份中恢复或直接编辑 level.dat 来删除方块解决崩溃。§r§r%n%n使用§6指南针§r将核心上的激光的优先级改为 1。%n%n最后，将§a红石钟§r放置在核心旁边。%n%n您还需要设置一些机制来将完成的物品从核心中取出。幻灵接口在这里工作得很好，因为它只输出输出物品，而不输出输入物品。%n%n要导入到物品接口。您可以使用增广样板处理终端和具有阻塞模式的 ME 接口来完成此操作。
+nomifactory.quest.expert.db.925.desc=你将使用§b龙之进化§6聚合§r来制作很多东西。因此，一种自动化的方法是至关重要的。%n%n使用§b封包龙之进化（PackagedDraconic）§r模组，DE 聚合配方可以通过封包合成简易自动化。首先，把§6聚合封包合成器§r放在§6解包机§r旁边，围绕着它摆上§6标记聚合注入器§r。%n%n注意标记聚合注入器只接收RF！%n%n现在你可以通过解包机处理配方了，和其他封包配方别无二致！
 
 # db 926 of mode expert
 nomifactory.quest.expert.db.926.title=自动雕凿机
@@ -6018,7 +6018,7 @@ nomifactory.quest.expert.db.931.desc=neeve，Neeve，野兔的主人。召唤祂
 
 # db 932 of mode expert
 nomifactory.quest.expert.db.932.title=背包整理
-nomifactory.quest.expert.db.932.desc=这个整合包包有§bBogo物品整理§r，允许快速，可定制，并轻松排序任何库存！%n%n默认排序键绑定是§a鼠标中键§r，§c但你可以随时更改热键。只需将鼠标悬停在库存中的任何插槽上（§6箱子§r，§6板条箱§r，你的物品栏等），然后点击你的热键，瞧！一个整洁的库存。%n%n您还可以在GUI中配置它的排序方式。打开GUI的默认键是§aK§r。%n%n库存Bogo分类器，默认情况下，也会替换成堆的项目，如块，工具和食物在你的工具栏。对于工具，它甚至在它坏掉之前替换它，所以你可以修理它！现在，你可以建立一个到256格的柱子，甚至都不用打开你的背包，或改变工具栏槽位！
+nomifactory.quest.expert.db.932.desc=这个整合包有§bBogo物品整理器§r，允许快速，可定制，并轻松排序任何物品栏！%n%n默认快捷键为§a鼠标中键§r，但你可以随时更改它。只需将鼠标悬停在库存中的任何容器上（§e箱子§r，§e板条箱§r，§e玩家物品栏§r等），按下快捷键，瞧！一个整洁的物品栏。%n%n你还可以在配置GUI中配置它的排序方式。打开GUI的默认快捷键是§aK§r。%n%nBogo物品整理器默认还会自动替换物品，比如方块，工具和食物。对于工具，它会在它§e即将坏掉前§r替换它，以便你修复该工具。
 
 # db 933 of mode expert
 nomifactory.quest.expert.db.933.title=§2编程电路
@@ -6097,7 +6097,7 @@ nomifactory.quest.normal.db.1055.desc=六阶 AE §6存储组件§r。用于制�
 
 # db 1056 of mode normal
 nomifactory.quest.normal.db.1056.title=4096k 物品存储
-nomifactory.quest.normal.db.1056.desc=倒数第二阶 AE §6存储组件§r。用于制作§a4096k 存储元件§r或者§a4096k 合成存储器§r。
+nomifactory.quest.normal.db.1056.desc=倒数第二阶 AE §6存储组件§r。用于制作§a4096k 存储元件§r或者§a4096k 合成存储器§r。%n%n快成功了！
 
 # db 1057 of mode normal
 nomifactory.quest.normal.db.1057.title=16384k 物品存储
@@ -6174,8 +6174,8 @@ nomifactory.quest.normal.db.1077.title=跨维度网络
 nomifactory.quest.expert.db.1079.title=跨维度网络
 nomifactory.quest.normal.db.1075.title=虚空背包
 nomifactory.quest.expert.db.1077.title=虚空背包
-nomifactory.quest.normal.db.1075.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！
-nomifactory.quest.expert.db.1077.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！
+nomifactory.quest.normal.db.1075.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！§r
+nomifactory.quest.expert.db.1077.desc=§6虚空背包§r能够自动销毁丢进去的物品。对于销毁采矿中多余的§6圆石§r和§6地狱岩§r。%n%n潜行并右键即可进行§b配置§，并且激活§a自动收集§r后即可根据过滤收集（默认键位: §bV§r）。%n%n§c请确保你背包配置正确，以免销毁贵重物品！§r
 nomifactory.quest.normal.db.1077.desc=最近制作的§3量子链接仓§r还有别的用途，包括§a跨纬度连接你的AE网络。§r%n%n首先，把一个§6奇点§r和一个§6末影珍珠粉§r丢在地上，然后用爆炸物引爆即可。这将会生成两个§6量子缠绕态奇点§r。%n%n制作两个§3量子环，§r一个放在你的基地，另一个则放在远地。把每个§6量子缠绕奇点§r§放到各自的§3量子环§r内，这样远处量子环就能够访问你的主网络。%n%n§c记得为远处的量子环提供能量，以此保证连接正常！
 nomifactory.quest.expert.db.1052.title=用离心机进行矿物处理
 nomifactory.quest.expert.db.1079.desc=最近制作的§3量子链接仓§r还有别的用途，包括§a跨纬度连接你的AE网络。§r%n%n首先，把一个§6奇点§r和一个§6末影珍珠粉§r丢在地上，然后用爆炸物引爆即可。这将会生成两个§6量子缠绕态奇点§r。%n%n制作两个§3量子环，§r一个放在你的基地，另一个则放在远地。把每个§6量子缠绕奇点§r§放到各自的§3量子环§r内，这样远处量子环就能够访问你的主网络。%n%n§c记得为远处的量子环提供能量，以此保证连接正常！
@@ -6263,7 +6263,7 @@ nomifactory.quest.expert.db.1078.title=并行机制
 nomifactory.quest.expert.db.1073.desc=§a虚空存储元件§r能塞在一切常规元件能塞进去的地方，但是§c进入元件的所有物品或者流体都会被清除§r并转化成§3物质聚合器能量§r。之后可以放入物质聚合器的特定槽位内释放。%n%n因此，你需要§c极度小心§r并通过§a元件工作台§r标记要销毁的物品或流体。%n%n你也可以把它塞进 §3ME IO 端口§r来大量清空垃圾物品。
 nomifactory.quest.expert.db.1074.desc=你可能以前已经体验过§5高级火箭§r了。这是好的！%n%n去月球§a完全是可选的§r，但是去了就有些特殊福利：%n%n——§6月面尘§r，它可以被离心成§9氘§r，以便做出第一台§3微型宇宙投影仪§r。氘还有助于更便宜地合成§6量子通量§r。%n%n——§9氘§r和§9氦-3§r矿脉，可以用§3流体钻机§r挖掘。%n%n——非常高的§a矿石密度§r。§6双锂§r和§6氟石§r矿石只能从月球和微型采掘任务中获得。%n%n——你的火箭还可以被用于设置§3空间站§r，空间站能提供§a永昼§r。不论其他，空间站也很酷！%n%n如果这不能说服你去月球的话，那么你可以通过离心或者蒸馏§9末地空气§r获得氘。早期但是更慢的获取氘的方法还有离心§9氢§r，%n%n注意你将来仍然需要造§9火箭燃料§r来启动§6 1-3 阶微型采掘机§r。
 nomifactory.quest.expert.db.1037.title=§2光缆
-nomifactory.quest.expert.db.1043.desc=八级§6太阳能板§r，这是制作更高层的太阳能板所必需的。这也是一个不错的电源。
+nomifactory.quest.expert.db.1043.desc=八级§6太阳能板§r，这是制作更高层的太阳能板所必需的，同时本身也是一个不错的发电来源。%n%n需要注意的是，当§d太阳能板以水平网格方式摆放时，它们会相互共享能量§r。这意味着，为了减少卡顿，你可以摆放一个大型网格，只需设置少量连接（每个连接所能连接的太阳能板数量取决于传输上限与发电上限的比例）。对于这种太阳能板，你可以§a每8块太阳能板只设置1个连接§r。%n%n§e在旧版本中，大规模网格摆放太阳能板曾经会导致卡顿，但现在已经不会了。§r实际上，将太阳能板以网格方式摆放，有时甚至会比传统的太阳能塔方式§a性能更好§r！
 nomifactory.quest.expert.db.1062.title=4096k 流体存储
 nomifactory.quest.expert.db.1063.title=16384k 流体存储
 nomifactory.quest.expert.db.1048.desc=免费提供的§6便携式扫描仪§r现已与 §eJourneyMap§r 联动。%n%n拾取地表矿石、右键单击矿石或使用处于矿石模式的便携式扫描仪来发现矿脉。%n%n将鼠标悬停在矿脉上时按下“操作键”（默认为：delete）可将其标记为已耗尽（或未耗尽）。%n%n双击矿脉可将其标记为路径点，再次单击可取消标记。
