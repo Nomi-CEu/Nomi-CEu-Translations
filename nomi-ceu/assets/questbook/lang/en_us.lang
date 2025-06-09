@@ -3384,6 +3384,10 @@ nomifactory.quest.normal.db.1094.desc=Do you want to automate some §6Coffee§r 
 nomifactory.quest.normal.db.1095.title=ZPM Assembling Machine
 nomifactory.quest.normal.db.1095.desc=With your §6Europium§r, you can now create a §cZPM §3Assembling Machine§r.%n%nNow, you can make §6Trinium Coils§r, §6ZPM Energy Input Hatches§r and more!
 
+# db 1096 of mode normal
+nomifactory.quest.normal.db.1096.title=AE2 Crafting Tree
+nomifactory.quest.normal.db.1096.desc=§bAE2 Crafting Tree§r is the ultimate way to debug your patterns, and to show off your AE2 crafts to your friends and enemies.%n%nTo access it, simply request a craft, and before pressing start, click on the small icon on the top right of the GUI. This will display your craft in a tree-like way.%n%nEven better, if you have missing items, then the display will automatically show only the items you are missing, making debugging easy. You can turn the display to show all items by clicking the red button on the top right.
+
 # Expert Quest Lang Entries:
 
 # line 0 of mode expert
@@ -6573,3 +6577,7 @@ nomifactory.quest.expert.db.1110.desc=Do you want to automate some §6Coffee§r 
 # db 1111 of mode expert
 nomifactory.quest.expert.db.1111.title=ZPM Assembling Machine
 nomifactory.quest.expert.db.1111.desc=With your §6Europium§r, you can now create a §cZPM §3Assembling Machine§r.%n%nNow, you can make §6Trinium Coils§r, §6ZPM Energy Input Hatches§r and more!
+
+# db 1112 of mode expert
+nomifactory.quest.expert.db.1112.title=AE2 Crafting Tree
+nomifactory.quest.expert.db.1112.desc=§bAE2 Crafting Tree§r is the ultimate way to debug your patterns, and to show off your AE2 crafts to your friends and enemies.%n%nTo access it, simply request a craft, and before pressing start, click on the small icon on the top right of the GUI. This will display your craft in a tree-like way.%n%nEven better, if you have missing items, then the display will automatically show only the items you are missing, making debugging easy. You can turn the display to show all items by clicking the red button on the top right.
