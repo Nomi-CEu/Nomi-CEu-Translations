@@ -636,11 +636,11 @@ nomifactory.quest.normal.db.168.desc=§9柴油§r是§9轻燃油§r和§9重燃�
 
 # db 170 of mode normal
 nomifactory.quest.normal.db.170.title=氢氧化钠
-nomifactory.quest.normal.db.170.desc=§6氢氧化钠§r是一种强碱，是§9生物柴油§r的成分，也是其他反应的成分。%n%n§2唯一的来源§r是在§3电解机中电解§9盐水§r——这也是§9氯§r的一个很好来源。你可以通过混合§6盐§r和§9水§r（额），溶解§2恶魂之泪§r，或从盐水油藏中开采§9盐水§r，而盐水油藏只在海洋中生成。
+nomifactory.quest.normal.db.170.desc=§6氢氧化钠§r是一种强碱，是§9生物柴油§r的成分，也是其他反应的成分。%n%n§2唯一的来源§r是在§3电解机中电解§9盐水§r——这也是§9氯§r的一个很好来源。你可以通过混合§6盐§r和§9水§r（额），溶解§2恶魂之泪§r，或从盐水油藏中开采§9盐水§r获取它，而盐水油藏只在海洋中生成。§r
 
 # db 171 of mode normal
 nomifactory.quest.normal.db.171.title=§2低温空气蒸馏
-nomifactory.quest.normal.db.171.desc=§9空气§r可以被送入§3真空冷冻机§r，变为§9液态空气§r。%n%n液态空气可以被送入§2普通蒸馏塔§r，分解为各种成分。%n%n§2液态下界空气和液态末地空气也提供了不同的有用成分。
+nomifactory.quest.normal.db.171.desc=§9空气§r可以被送入§3真空冷冻机§r，变为§9液态空气§r。%n%n液态空气可以被送入§2蒸馏塔§r，分解为各种成分。%n%n§2液态下界空气和液态末地空气也提供了不同的有用成分。§r
 
 # db 172 of mode normal
 nomifactory.quest.normal.db.172.title=生物柴油和甘油
@@ -668,7 +668,7 @@ nomifactory.quest.normal.db.178.desc=这是一种添加剂，将使我们的柴�
 
 # db 179 of mode normal
 nomifactory.quest.normal.db.179.title=§2高十六烷值柴油！！§r
-nomifactory.quest.normal.db.179.desc=将§9柴油§r（或效率较低的§9生物柴油§r）与§9四硝基甲烷§r在§3HV搅拌机§2或大型化学反应釜中§r中混合，产生§9硝基柴油§r，这是一种极其有效的燃料，之后可用于§6龙素§r的生产。%n%n如果你有一个非常强大的石油化石产线，并且能够烧得起它，这种燃料连同适当的氧助燃§2是大型柴油引擎和高级大型柴油引擎的有效燃料，产生§2720EU/mB。
+nomifactory.quest.normal.db.179.desc=将§9柴油§r（或效率较低的§9生物柴油§r）与§9四硝基甲烷§r在§3HV搅拌机§2或大型化学反应釜中§r中混合，产生§9硝基柴油§r，这是一种极其有效的燃料，之后可用于§6龙素§r的生产。%n%n如果你有一个非常强大的石油化石产线，并且能够烧得起它，这种燃料连同适当的氧助燃§2是大型柴油引擎和高级大型柴油引擎的有效燃料，每mB燃料产能720EU。§r
 
 # db 180 of mode normal
 nomifactory.quest.normal.db.180.title=乙烯酮
@@ -680,11 +680,11 @@ nomifactory.quest.normal.db.181.desc=有几条途径可以获得§9乙酸§r...�
 
 # db 182 of mode normal
 nomifactory.quest.normal.db.182.title=§2环氧氯丙烷
-nomifactory.quest.normal.db.182.desc=一种无色的流体，有刺激性的、类似蒜的气味。在生产§9环氧树脂§r的过程中需要它。%n%n§2用大型化学反应釜制作这个你可以跳过一个步骤。
+nomifactory.quest.normal.db.182.desc=一种无色的流体，有刺激性的、类似蒜的气味。在生产§9环氧树脂§r的过程中需要它。%n%n§2你可以用大型化学反应釜跳过这个步骤。§r
 
 # db 183 of mode normal
 nomifactory.quest.normal.db.183.title=§2纤维强化环氧树脂基板
-nomifactory.quest.normal.db.183.desc=§6纤维强化环氧树脂基板§r是在§3化学浸洗器§r而不是§3化学反应釜§r中制造的。不过电路板本身是在化学反应釜中制造的。%n%n除此以外，它与你到目前为止所做的其他基板非常相似。这种电路板类型可以解锁§2量子电路，它横跨第四阶至第七阶§r。
+nomifactory.quest.normal.db.183.desc=§6纤维强化环氧树脂基板§r是在§3化学浸洗器§r而不是§3化学反应釜§r中制造的。不过电路板本身是在化学反应釜中制造的。%n%n除此以外，它与你到目前为止所做的其他基板非常相似。这种电路板类型可以解锁§2量子电路，它横跨第四阶至第七阶§r。§r
 
 # db 184 of mode normal
 nomifactory.quest.normal.db.184.title=§2掌握石油化工
@@ -696,7 +696,7 @@ nomifactory.quest.normal.db.185.desc=终于啊，做出了§6环氧树脂片§r�
 
 # db 186 of mode normal
 nomifactory.quest.normal.db.186.title=§2碳纤维
-nomifactory.quest.normal.db.186.desc=§6碳纤维§r有多种用途。%n%n§2它们是用碳粉和聚合物制成的。更高级别的聚合物能提供更高的产量。这再也不是一个概率性的产出。
+nomifactory.quest.normal.db.186.desc=§6碳纤维§r有多种用途。%n%n§2它们是用碳粉和聚合物制成的。更高级别的聚合物能提供更高的产量。这个配方的产出不再是概率性的了。§r
 
 # db 187 of mode normal
 nomifactory.quest.normal.db.187.title=MV能量转换器
@@ -704,7 +704,7 @@ nomifactory.quest.normal.db.187.desc=记住要把MV区域和LV区域分开。§e
 
 # db 188 of mode normal
 nomifactory.quest.normal.db.188.title=§2环氧树脂基板
-nomifactory.quest.normal.db.188.desc=§6环氧树脂基板§r是一种更先进的基板类型，可以让你接触到§2纳米电路，它跨越了第三阶到第六阶。
+nomifactory.quest.normal.db.188.desc=§6环氧树脂基板§r是一种更先进的基板类型，可以让你接触到§2纳米电路，它跨越了第三阶到第六阶。§r
 
 # db 190 of mode normal
 nomifactory.quest.normal.db.190.title=纳米CPU
@@ -732,7 +732,7 @@ nomifactory.quest.normal.db.197.desc=§6钌钨钼合金§r是一种由§6钌、�
 
 # db 198 of mode normal
 nomifactory.quest.normal.db.198.title=§2IV机身
-nomifactory.quest.normal.db.198.desc=在完成了§6钨钢§r后，你现在可以为强导压（IV）§b格雷科技§r机器制作机身。%n%n§2从IV开始，每一级都有16A的能源仓和动力仓。
+nomifactory.quest.normal.db.198.desc=在完成了§6钨钢§r后，你现在可以为强导压（IV）§b格雷科技§r机器制作机身。%n%n§2从IV开始，每一级都有16A的能源仓和动力仓。§r
 
 # db 199 of mode normal
 nomifactory.quest.normal.db.199.title=钇钡铜氧合金
@@ -812,7 +812,7 @@ nomifactory.quest.normal.db.220.desc=将§9氧§r和§9偏二甲肼§r混合在�
 
 # db 221 of mode normal
 nomifactory.quest.normal.db.221.title=1,1-二甲基肼
-nomifactory.quest.normal.db.221.desc=§9二甲胺§r和§9氯胺§r一起结合成§91,1-二甲基肼§r。§2或者，在大型化学反应釜中混合甲醇、氨和次氯酸。
+nomifactory.quest.normal.db.221.desc=§9二甲胺§r和§9氯胺§r一起结合成§91,1-二甲基肼§r。§2或者，在大型化学反应釜中混合甲醇、氨和次氯酸。§r
 
 # db 222 of mode normal
 nomifactory.quest.normal.db.222.title=§2二甲胺
@@ -820,7 +820,7 @@ nomifactory.quest.normal.db.222.desc=§9甲醇§r和§9氨§r结合在一起，�
 
 # db 223 of mode normal
 nomifactory.quest.normal.db.223.title=§2氯胺
-nomifactory.quest.normal.db.223.desc=§9次氯酸§r和§9氨§r结合在一起，成为§9氯胺§r。§2使用大型化学反应釜可以跳过此步骤。
+nomifactory.quest.normal.db.223.desc=§9次氯酸§r和§9氨§r结合在一起，成为§9氯胺§r。§2使用大型化学反应釜可以跳过此步骤。§r
 
 # db 224 of mode normal
 nomifactory.quest.normal.db.224.title=氨
@@ -848,7 +848,7 @@ nomifactory.quest.normal.db.229.desc=在§b更多实用设备2§r中，有大量
 
 # db 230 of mode normal
 nomifactory.quest.normal.db.230.title=哎哟...怎么停电了！
-nomifactory.quest.normal.db.230.desc=如果你试图快速输入或移出大量的物品，你可能会注意到你的ME网络短暂的§e闪烁离线§r。这是因为对物品进行数字化和再物质化需要能量！%n%n你的网络自然不会储存非常多的能量，而§6能源接收器§r只是间歇性地补充网络的能量。为了保持稳定，你需要使用§6能量元件§r在你的网络中增加一些能量储存。%n%n只要在你的网络中的任何地方放置一个，它就会充满从能量接收器里收到AE能量。现在，你的网络中应该有足够的能量来防止这些能量损失。如果你继续遇到问题，请随时添加更多的能量元件，或升级到§6致密能量元件§r。%n%n如果你选择在你的应用能源2的配置中启用频道，你将原生拥有一些来自§3ME控制器§r的能量储存，但我们假设你在这一点上知道你在做什么。§e应用能源2的频道机制不在任务书的范围内，这是唯一一次提到它。
+nomifactory.quest.normal.db.230.desc=如果你试图快速输入或移出大量的物品，你可能会注意到你的ME网络短暂的§e闪烁离线§r。这是因为对物品进行数字化和再物质化需要能量！%n%n你的网络自然不会储存非常多的能量，而§6能源接收器§r只是间歇性地补充网络的能量。为了保持稳定，你需要使用§6能量元件§r在你的网络中增加一些能量储存。%n%n只要在你的网络中的任何地方放置一个，它就会充满从能量接收器里收到AE能量。现在，你的网络中应该有足够的能量来防止这些能量损失。如果你继续遇到问题，请随时添加更多的能量元件，或升级到§6致密能量元件§r。%n%n如果你选择在你的应用能源2的配置中启用频道，你将原生拥有一些来自§3ME控制器§r的能量储存，但我们假设你在这一点上知道你在做什么。§e应用能源2的频道机制不在任务书的范围内，这是唯一一次提到它。§r
 
 # db 231 of mode normal
 nomifactory.quest.normal.db.231.title=无限的水
@@ -6365,3 +6365,7 @@ nomifactory.quest.expert.db.1094.desc=§3大型青铜锅炉§r可大幅提升你
 nomifactory.quest.expert.db.1101.desc=有了§3化学反应釜§r和§3流体固化器§r，你的橡胶产量可以大幅提升。%n%n首先，在化学反应釜中用§6生橡胶粉§r和§6硫粉§r反应，得到§9液态橡胶§r。只需把这些橡胶通过管道输送到带有§e板模具§r的流体固化器中，瞧！§a6倍§r的§6橡胶板§r！%n%n你可能会想把这套流程做成半自动，因为你将需要大量橡胶！
 nomifactory.quest.expert.db.1104.desc=你现在需要大量动物肉来制作§6肉末§r。大量且被动地获取动物肉有两种选择：%n%n1. 制作一台§3捕鱼机§r。它消耗§6线§r，并且需要一个5x5的水池，捕鱼机放在上方正中央。你可能需要不止一台！%n%n2. 搭建一个§6动物农场§r。这样还能额外获得§6皮革§r（§e牛§r）和§6经验§r。%n%n要搭建农场，首先你需要一个§6破碎刷怪笼§r，可以通过破坏任意§6刷怪笼§r获得（去§a失落的城市§r试试！）。你需要在§b灵魂绑定器§r中将其与装有目标动物的§6灵魂瓶§r结合，然后再把得到的破碎刷怪笼和§6电动刷怪笼§r在§b铁砧§r中合成。%n%n现在，你可以把这个刷怪笼放在一个封闭区域。可以在地板上铺§6向量板§r，把动物集中到一起，然后只需给刷怪笼插上电容并充入RF即可。%n%n最简单的处理方式是用§b更多实用设备§6的金锥刺方块或钻石锥刺方块§r，然后用§bEnderIO§r的§e虚空箱子§r和§e虚空经验箱§r收集物品和经验。%n%n当然你也可以更有创意……不过本任务还是需要你制作这些方块。如果你想用裸露的导线电击动物也可以，但你还是要制作那些尖刺来完成这个任务。
 nomifactory.quest.expert.db.1107.desc=§e注意：像<{link}>https://github.com/Nomi-CEu/<|>这样的文本<{link}>是可点击跳转的超链接！§r%n%n由于产能反应堆非常复杂，你需要一个程序来设计它们。欢迎：§a反应堆生成器和规划器§r！（也可用于规划增殖反应堆）%n%n反应堆生成器允许程序根据你选择的燃料，用算法找到一个高效的反应堆。这些生成的反应堆§c可能不如你自己设计的反应堆§r，但它们能节省大量时间，并能提供一个不错的基础反应堆。%n%n相比之下，反应堆规划器允许你在游戏外设计反应堆，并查看其燃料消耗、发电量、热量等，从而节省你在游戏中手动建造反应堆的数小时时间。这些工具可以用来§a微调生成的反应堆§r，甚至§a从零手动设计反应堆§r，这样可以得到非常高效、针对你具体情况精细调整的反应堆。%n%n§e在设计产能反应堆时，建议使用凛冰作为主动冷却剂！§r 甚至，作为你唯一的冷却器！%n%nNomi-CEu将裂变反应堆的发电量提升至基础值的§a7倍§r。请在设计反应堆时注意这一点。燃料燃烧时间、燃料产热量和冷却器数值§c没有变化§r。%n%n§c注意，Nomi-CEu中没有氧化物燃料可用！§r%n%n对于生成反应堆，建议使用<{link}>https://leu-235.com<|>LEU-235<{link}>（程序，不是燃料）。这是一个简单的在线反应堆生成器。%n%n它允许你指定反应堆的尺寸、包含哪些方块、不包含哪些方块。它易于使用，操作简单，可以让你用很少的时间生成可用且不错的反应堆。%n%n设计反应堆可以通过两个主要程序完成：%n%n* <{link}>https://github.com/hellrage/NC-Reactor-Planner/releases<|>Hellrage's Nuclear Reactor Planner<{link}>：这是一个易于使用但功能丰富的规划器。§e请确保你下载的是最新的非overhaul版本！§c注意：它不支持Mac，且在Linux上运行不佳。§r%n%n* <{link}>https://balam314.github.io/Einsteinium/<|>Einsteinium<{link}>：这也是一个易于使用的规划器，但功能比Hellrage的少。不过它的优点是基于网页，无需下载和设置，所有操作系统都能用。§c但目前它在设计大于 10x10x10 的反应堆时有问题。§r%n%n但现在你已经设计好了反应堆，你肯定不想手动建造它，对吧？那么，请看下一个任务！
+nomifactory.quest.expert.db.1112.title=AE2合成树
+nomifactory.quest.normal.db.1096.title=AE2合成树
+nomifactory.quest.normal.db.1096.desc=§bAE2合成树§r是调试样板的终极方式，也可用来向你的朋友和敌人炫耀你的AE2合成。%n%n想查看合成树，只需要你请求一次合成，并在合成开始前点击GUI右上角的小图标。这会将你的合成过程显示为一个树状图。%n%n更好的是，如果合成过程中有缺少的物品，则该合成树只会显示你缺少的物品，使得调试更加方便。你也可以点击右上角的红色按钮来显示所有物品。
+nomifactory.quest.expert.db.1112.desc=§bAE2合成树§r是调试样板的终极方式，也可用来向你的朋友和敌人炫耀你的AE2合成。%n%n想查看合成树，只需要你请求一次合成，并在合成开始前点击GUI右上角的小图标。这会将你的合成过程显示为一个树状图。%n%n更好的是，如果合成过程中有缺少的物品，则该合成树只会显示你缺少的物品，使得调试更加方便。你也可以点击右上角的红色按钮来显示所有物品。
