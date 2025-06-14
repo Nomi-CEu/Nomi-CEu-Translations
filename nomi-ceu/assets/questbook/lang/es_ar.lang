@@ -375,3 +375,10 @@ nomifactory.quest.expert.db.938.title=Cajas de Almacenamiento
 
 # line 8 of mode normal
 nomifactory.quest.normal.line.8.title=Fusión e Investigación
+nomifactory.quest.normal.line.9.title=Simulando Recursos
+nomifactory.quest.normal.line.9.desc=¡Generá recursos con §bDeep Mob Evolution§r!%n%n¡Avanzá a MV y conseguí recursos 100%% renovables!
+nomifactory.quest.normal.line.11.desc=Un capítulo destinado a ayudarte con las lineas de procesamiento, ¡tanto complejas como simples!
+nomifactory.quest.normal.db.0.title=Cargando Cuarzo
+nomifactory.quest.normal.db.1.title=Cámara de Cultivo de Cristales
+nomifactory.quest.normal.line.8.desc=¡Descubre nuevos elementos y dale energía a tu base con donas!%n%nUtilizá el poder computacional combinado de tus circuitos para desbloquear los secretos para alcanzar componentes avanzados.
+nomifactory.quest.normal.db.0.desc=Este dispositivo sirve para energizar §6Cuarzo de Certus§r volviendolo §6Cuarzo de Certus Cargado§r.%n%nEsta máquina puede conectarse a conductos de energía con RF o usar la energía AE de una red con cables/conductos ME.%n%nRecibe energía de dos lados. ¿Cuales dos lados? Es fácil intuirlo.%n%n%n%n%n%n%n%n%nOk, ok. Son los lados de arriba y abajo.
