@@ -163,6 +163,14 @@ nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
 
 nomilabs.top.recipe_outputs=Producing:
 
+nomilabs.top.quantum_link_chamber.not_formed=§cChamber Not Formed§r
+nomilabs.top.quantum_link_chamber.formed=§aChamber Formed§r
+nomilabs.top.quantum_link_chamber.not_powered=§cChamber Not Powered§r
+nomilabs.top.quantum_link_chamber.no_operation=§cMissing Operation Item§r
+nomilabs.top.quantum_link_chamber.wireless=§dProviding Infinite Wireless Range§r
+nomilabs.top.quantum_link_chamber.bad_connection=§cChamber Not Connected§r
+nomilabs.top.quantum_link_chamber.connected=Connected To: §b%s, %s, %s§r in Dimension §d%s§r
+
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
 
@@ -225,11 +233,11 @@ nomilabs.gui.advanced_memory_card.sort_direction.reversed=Sorting Order: §dReve
 
 gui.advanced_memory_card.mode.add_as_input=Current Mode: Add as Input
 nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
-nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency.
+nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency and type.
 
 gui.advanced_memory_card.mode.add_as_output=Current Mode: Add as Output
 nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
-nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency.
+nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency and type.
 
 nomilabs.gui.dummy_muffler=Muffler hatches no longer generate ashes to improve performance. You can enable this again in config.
 
