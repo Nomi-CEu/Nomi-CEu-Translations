@@ -639,3 +639,4 @@ nomilabs.top.steam_heating_up=Calentandose:
 nomilabs.top.steam_venting_stuck.1=¡Se tapó el Respiradero de Vapor!
 nomilabs.gui.bqu.custom.link.tooltip=Hacé click para abrir el link
 config.nomilabs.advanced.mode_check_nomi_ceu=Modo de Chequeo del Link de Nomi-CEu
+nomilabs.top.quantum_link_chamber.not_formed=§cNo se Formó la Cámara§r
