@@ -163,6 +163,8 @@ nomilabs.top.steam_venting_stuck.2=Use a Wrench to Change Vent Direction!
 
 nomilabs.top.recipe_outputs=Producing:
 
+nomilabs.top.creative_tank=Providing: §d%s§r
+
 nomilabs.top.quantum_link_chamber.not_formed=§cChamber Not Formed§r
 nomilabs.top.quantum_link_chamber.formed=§aChamber Formed§r
 nomilabs.top.quantum_link_chamber.not_powered=§cChamber Not Powered§r
