@@ -94,3 +94,4 @@ nomiceu.main_menu.discord=Заходи в наш Discord!
 nomiceu.main_menu.update=Изменения обновления
 nomiceu.main_menu.rent_server=Арендуйте собственный Nomifactory сервер!
 nomiceu.tooltip.nc.fission_safe=§aБезопасно! Не расплавится!§r
+nomiceu.tooltip.gregtech.transfer_l_s=§bСкорость передачи:§r %sЛ/с
