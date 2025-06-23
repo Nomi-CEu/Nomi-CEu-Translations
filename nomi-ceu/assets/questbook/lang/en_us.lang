@@ -322,7 +322,7 @@ nomifactory.quest.normal.db.72.desc=§2Assembling Machines come early in CEu! Ci
 
 # db 73 of mode normal
 nomifactory.quest.normal.db.73.title=ME Conduit
-nomifactory.quest.normal.db.73.desc=§6ME Conduits§r have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.%n%nThe only downside is that §ethey will not connect to §bApplied Energistics §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use AE cables like §6Fluix Cables§r for those. §2Furthermore, they are known to sometimes disconnect from machine hulls and full-block interfaces, so use AE cables like §6Fluix Cables§r for those.
+nomifactory.quest.normal.db.73.desc=§6ME Conduits§r have the advantage of being able to share a block space with other conduit types, but they are more expensive to make, and §ccan sometimes cause connection issues§r, so use them wisely and only when needed.%n%nThey also §ewill not connect to §bApplied Energistics §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use §6Fluix Cables§r for those.
 
 # db 74 of mode normal
 nomifactory.quest.normal.db.74.title=Aluminium Casing
@@ -3700,7 +3700,7 @@ nomifactory.quest.expert.db.72.desc=§2Assembling Machines come early in CEu! Ci
 
 # db 73 of mode expert
 nomifactory.quest.expert.db.73.title=ME Conduit
-nomifactory.quest.expert.db.73.desc=§6ME Conduits§r have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.%n%nThe only downside is that §ethey will not connect to §bApplied Energistics §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use AE cables like §6Fluix Cable§r for those.
+nomifactory.quest.expert.db.73.desc=§6ME Conduits§r have the advantage of being able to share a block space with other conduit types, but they are more expensive to make, and §ccan sometimes cause connection issues§r, so use them wisely and only when needed.%n%nThey also §ewill not connect to §bApplied Energistics §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use §6Fluix Cables§r for those.
 
 # db 74 of mode expert
 nomifactory.quest.expert.db.74.title=Aluminium Casing
