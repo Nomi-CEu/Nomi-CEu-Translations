@@ -16,7 +16,7 @@ nomiceu.tooltip.dme.glitch_fragment=§bSe obtiene moliendo corazones de glitch c
 nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 nivel de EXP!§r
 
 # Nomi Labs
-nomiceu.tooltip.labs.hand_framing.tool=§5¡Grabá tu herramienta de marco manual a mano!§r
+nomiceu.tooltip.labs.hand_framing.tool=§5¡Grabá tu Herramienta de Enmarque Manual a mano!§r
 # No Nether Portals
 nomifactory.nonetherportals=Los portales al Nether están deshabilitados en §5Nomi-CEu§r. ¡Leé el libro de misiones para ver como conseguir la §6Tarta del Nether§r!
 # Mixed
@@ -127,3 +127,4 @@ nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§c¡El agente enfriador se va a 
 nomiceu.tooltip.nc.fission_safe=§a¡Es seguro! ¡No va a sufrir una fusión nuclear!§r
 nomiceu.tooltip.ae2.p2p.type=Tipo: %s
 nomiceu.tooltip.nc.fission_port_redirect=Deberías usar una Interfaz de NuclearCraft para eso.
+nomiceu.tooltip.gregtech.transfer_l_s=§bVelocidad de Transferencia:§r %sL/s
