@@ -4,3 +4,10 @@ gui.appliedenergistics2.LowRedstoneLock=Locked by Lack of Redstone Signal
 gui.appliedenergistics2.HighRedstoneLock=Locked by Redstone Signal
 gui.appliedenergistics2.UntilPulseUnlock=Waiting for Redstone Pulse to Unlock
 gui.appliedenergistics2.ResultLock=Waiting for Pattern Output to Unlock
+
+gui.appliedenergistics2.non_consume=Non-Consumable Items (JEI & GT)
+gui.appliedenergistics2.non_consume.append.ae2fc=/fluids
+gui.appliedenergistics2.non_consume.enable.1=Adding non-consumable items
+gui.appliedenergistics2.non_consume.enable.2=from JEI into patterns.
+gui.appliedenergistics2.non_consume.disable.1=Not adding non-consumable items
+gui.appliedenergistics2.non_consume.disable.2=from JEI into patterns.
