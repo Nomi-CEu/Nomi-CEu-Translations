@@ -233,13 +233,21 @@ nomilabs.gui.advanced_memory_card.sort.name=Sorting Mode: §bName
 nomilabs.gui.advanced_memory_card.sort_direction.normal=Sorting Order: §bNormal
 nomilabs.gui.advanced_memory_card.sort_direction.reversed=Sorting Order: §dReversed
 
+nomilabs.gui.advanced_memory_card.mode.input.desc.1=• Before binding, the §aselected P2P§7 and §bbind target§7 have their connections removed.
+nomilabs.gui.advanced_memory_card.mode.input.desc.2=• The §aselected P2P§7 becomes the §6output§7, while the §bbind target§7 becomes the §9input§7.
+nomilabs.gui.advanced_memory_card.mode.input.desc.3=• The §aselected P2P§7 becomes the same type as the §bbind target§7.
+
+nomilabs.gui.advanced_memory_card.mode.output.desc.1=• Before binding, the §aselected P2P§7 and §bbind target§7 have their connections removed.
+nomilabs.gui.advanced_memory_card.mode.output.desc.2=• The §aselected P2P§7 becomes the §9input§7, while the §bbind target§7 becomes the §6output§7.
+nomilabs.gui.advanced_memory_card.mode.output.desc.3=• The §bbind target§7 becomes the same type as the §aselected P2P§7.
+
 gui.advanced_memory_card.mode.add_as_input=Current Mode: Add as Input
-nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
-nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency and type.
+nomilabs.gui.advanced_memory_card.mode.add_input.desc.1=• Before binding, the §aselected P2P§7 has its connections removed.
+nomilabs.gui.advanced_memory_card.mode.add_input.desc.2=• The §aselected P2P§7 is set as an §9input§7, with the §bbind target's§7 frequency and type.
 
 gui.advanced_memory_card.mode.add_as_output=Current Mode: Add as Output
-nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=Before binding, the §aselected P2P§7 has its connections removed.
-nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency and type.
+nomilabs.gui.advanced_memory_card.mode.add_output.desc.1=• Before binding, the §aselected P2P§7 has its connections removed.
+nomilabs.gui.advanced_memory_card.mode.add_output.desc.2=• The §aselected P2P§7 is set as an §6output§7, with the §bbind target's§7 frequency and type.
 
 nomilabs.gui.dummy_muffler=Muffler hatches no longer generate ashes to improve performance. You can enable this again in config.
 
