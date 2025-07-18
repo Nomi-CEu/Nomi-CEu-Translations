@@ -95,6 +95,7 @@ config.nomilabs.top=The One Probe Settings
 config.nomilabs.top.tooltip=The One Probe Settings
 config.nomilabs.top.rf_provider=Labs RF Provider Mode
 config.nomilabs.top.gt_recipe_output=Show GT Machine Recipe Outputs
+config.nomilabs.top.expand_view_tank_threshold=Expanded View of Tanks Threshold
 
 config.nomilabs.mod_integration.draconicevolution=Draconic Evolution Integration Settings
 config.nomilabs.mod_integration.draconicevolution.tooltip=Draconic Evolution Integration Settings
@@ -190,6 +191,12 @@ nomilabs.gui.language_jei.desc.1=Reloading §bJEI§r ensures that category title
 nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple seconds§r to perform.
 
 nomilabs.gui.top_override.fluid=Fluid: %s
+
+nomilabs.gui.top.tank.locked=§cTank Locked§r
+
+nomilabs.gui.top.tank.default=Tank
+nomilabs.gui.top.tank.input=Input
+nomilabs.gui.top.tank.output=Output
 
 nomilabs.gui.bqu.custom.copy.tooltip=Click to Copy
 nomilabs.gui.bqu.custom.copied.tooltip=§eCopied to Clipboard!§r
