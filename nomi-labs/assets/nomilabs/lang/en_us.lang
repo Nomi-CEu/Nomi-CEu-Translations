@@ -51,7 +51,8 @@ config.nomilabs.mod_integration.jei_ing_empty_line=Add JEI Ingredient Tooltip Em
 config.nomilabs.mod_integration.bqu_fluid_task_fixes=Enable BQu Fluid Task Fixes
 config.nomilabs.mod_integration.screwdrive_aa_relays=Allow GT Screwdrivers for AA Laser Relays
 config.nomilabs.mod_integration.disable_armor_plus_frag_drops=Disable Armor Plus Fragment Drops
-config.nomilabs.mod_integration.dummy_muffler_hatches=Enable Dummy Muffler Hatches
+config.nomilabs.mod_integration.dummy_muffler_hatches=Dummy Muffler Hatch Mode
+config.nomilabs.mod_integration.muffler_hatch_particles=Disable Muffler Hatch Particles
 config.nomilabs.mod_integration.prospector_dark=Default Prospector Dark Mode
 config.nomilabs.mod_integration.pa_ex_crafting_strict_mode=PackagedExCrafting Strict Mode (JEI)
 
@@ -193,9 +194,8 @@ nomilabs.gui.language_jei.desc.2=However, Reloading JEI will take a §ccouple se
 
 nomilabs.gui.top_override.fluid=Fluid: %s
 
-nomilabs.gui.top.tank.locked=§cTank Locked§r
-
 nomilabs.gui.top.tank.default=Tank
+nomilabs.gui.top.tank.empty=(Empty)
 nomilabs.gui.top.tank.input=Input
 nomilabs.gui.top.tank.output=Output
 
