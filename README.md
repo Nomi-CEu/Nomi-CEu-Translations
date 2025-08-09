@@ -32,26 +32,33 @@ This table captures the support of languages, at the state of nightly builds on 
 
 | Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina)   | Turkish | Finnish |
 | --------------------- | ------- | ------- | -------- | ------ | --------------- | --------------------- | ------- | ------- |
-| Nomi-CEu (Main)       | 🔵      | 🔵      | 🟢       | 🔵     | 🟢              | 🟢                    | 🟠      | 🟤     |
-| Nomi-CEu (Quest Book) | 🟢      | 🟠      | 🟡       | 🟠     | 🔴              | 🔴                    | 🟤      | 🟤     |
-| Gregtech Drawers      | 🔵      | 🔵      | 🔵       | 🔵     | 🔵              | 🔵                    | 🔵      | 🟤     |
-| Nomi Labs             | 🟢      | 🔵      | 🟢       | 🟠     | 🟢              | 🟢                    | 🟤      | 🔴     |
-| **Overall**           | 🟢      | 🟢      | 🟡       | 🟢     | 🟡              | 🟡                    | 🟤      | 🟤     |
+| Nomi-CEu (Main)       | 🔵      | 🟣      | 🔵       | 🟣      | 🔵              | 🟣                     | 🟠      | 🟤     |
+| Nomi-CEu (Quest Book) | 🟣      | 🟠      | 🟡       | 🟠      | 🔴              | 🟠                     | 🟤      | 🟤     |
+| Gregtech Drawers      | 🟣      | 🟣      | 🟣       | 🟣      | 🟣              | 🟣                     | 🟣      | 🟤     |
+| Nomi Labs             | 🔵      | 🟣      | 🔵       | 🟠      | 🟣              | 🟣                     | 🟤      | 🔴     |
+| **Overall**           | 🔵      | 🟡      | 🟢       | 🟠      | 🟠              | 🟠                     | 🟤      | 🟤     |
 
 #### Key:
-- 🔵: Extremely Well Supported, Fully Complete (~90%+)
-- 🟢: Well Supported, Mostly Complete (~75%+)
+- 🟣: Extremely Well Supported, Fully Complete (~95%+)
+- 🔵: Well Supported, Mostly Complete (~80%+)
+- 🟢: Fairly Well Supported: Fairly Complete (~60%+)
 - 🟡: Moderately Supported, Half Complete (~50%+)
 - 🟠: Partially Supported, Somewhat Complete (~25%+)
 - 🔴: Slightly Supported, Slightly Complete (~10%)
 - 🟤: Not Well Supported, Work May Have Started (~0%+)
 
 ### Language Support Chart
-Note: This chart represents the state of a different repository, not this repository and the official nightly builds.
+> [!NOTE]
+> 
+> This chart is from the [Weblate Repo](https://weblate.pantsu.moe/projects/nomi-ceu-translations/) for Nomi-CEu-Translations. For the moment, this is hosted on a [fork of the main repo](https://github.com/marisathewitch/Nomi-CEu-Translations), and thus, **does not perfectly represent the official nightly builds**.
+>
+> However, in most cases the real state is not significantly different.
+>
+> This chart also includes progress on the helper glossary/dictionary of words used by translators, causing some languages (especially Chinese) to appear much less completed as in reality.
 
-![Chart](http://weblate.pantsu.moe/widget/nomi-ceu-translations/multi-blue.svg)
+![Chart](http://weblate.pantsu.moe/widget/nomi-ceu-translations/multi-auto.svg)
 
-Note: This chart is from the [Weblate Repo](https://weblate.pantsu.moe/projects/nomi-ceu-translations/) for Nomi-CEu-Translations. For the moment, this is hosted on a [fork of the main repo](https://github.com/marisathewitch/Nomi-CEu-Translations).
+
 
 ## Why are there English Lang Files?
 These are for the translators to base off, and are automatically updated when a commit occurs in that module, with a delay of 30s - 2min.
