@@ -1,0 +1,6 @@
+tile.yottank_cell.yottank_cell_2.name=Bloc de Cellule de Fluide T1
+tile.yottank_cell.yottank_cell_3.name=Bloc de Cellule de Fluide T2
+tile.yottank_cell.yottank_cell_4.name=Bloc de Cellule de Fluide T3
+nomiceu.tooltip.yottank_cell.yottank_cell.1=Pour remplir les espaces de votre YOTTank.
+tile.yottank_cell.yottank_cell_1.name=Bloc de Cellule de Fluide T0
+nomiceu.tooltip.yottank_cell.yottank_cell.2=Vous voudrez probablement utiliser des T1 ou mieux pour un vrai stockage.

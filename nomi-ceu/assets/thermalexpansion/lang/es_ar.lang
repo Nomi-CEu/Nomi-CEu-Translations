@@ -7,5 +7,5 @@ item.thermalexpansion.frame.frameCell4.name=Esqueleto de enderio de motor de mic
 item.thermalexpansion.frame.frameCell4Filled.name=Núcleo de enderio de motor de micro minero
 
 # line 409, 411 of jar file
-item.thermalexpansion.frame.frameMachine.name=Esqueleto de máquina térmica
-item.thermalexpansion.frame.frameDevice.name=Esqueleto de dispositivo térmico
+item.thermalexpansion.frame.frameMachine.name=Armazón de máquina térmica
+item.thermalexpansion.frame.frameDevice.name=Armazón de dispositivo térmico

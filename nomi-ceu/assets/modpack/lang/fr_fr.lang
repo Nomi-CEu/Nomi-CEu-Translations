@@ -93,3 +93,6 @@ nomiceu.main_menu.discord=Rejoignez Nous Sur Discord !
 nomiceu.main_menu.update=Notes De Mise à Jour
 nomiceu.main_menu.rent_server=Louez Votre Propre Serveur Nomifactory !
 nomiceu.tooltip.nc.fission_safe=§aSûr ! Ne fusionne pas !§r
+nomiceu.tooltip.nc.fission_port_redirect=Les Tampons sont Utilisés à la place.
+nomiceu.tooltip.nc.fission_port_warning=§cN'est Pas Utilisé pour Alimenter les Refroidisseurs Actifs !§r
+nomiceu.tooltip.gregtech.transfer_l_s=§bTaux de Transfert :§r %sL/s

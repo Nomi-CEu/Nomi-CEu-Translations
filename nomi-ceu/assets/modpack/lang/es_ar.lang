@@ -9,14 +9,14 @@ nomiceu.tooltip.ae2.matter_cannon.1=§eAcepta Bolas de Materia, Bolas de Pintura
 
 # Dimensional Edibles
 nomiceu.tooltip.dimensionaledibles.island_cake.1=§a¡Usado por los dueños de servidores para mandar equipos de FTB e individuos a sus islas personales!§r
-nomiceu.tooltip.gregtech.prospector.4=Usá JEI para encontrar la profundidad potencial del filón.
+nomiceu.tooltip.gregtech.prospector.4=Usá JEI para encontrar la profundidad potencial del yacimiento.
 
 # Deep Mob Evolution
 nomiceu.tooltip.dme.glitch_fragment=§bSe obtiene moliendo corazones de glitch contra obsidiana.§r
 nomiceu.tooltip.eio.liquid_xp=§e20L = 1 EXP, 500L = 1 nivel de EXP!§r
 
 # Nomi Labs
-nomiceu.tooltip.labs.hand_framing.tool=§5¡Grabá tu herramienta de marco manual a mano!§r
+nomiceu.tooltip.labs.hand_framing.tool=§5¡Grabá tu Herramienta de Enmarque Manual a mano!§r
 # No Nether Portals
 nomifactory.nonetherportals=Los portales al Nether están deshabilitados en §5Nomi-CEu§r. ¡Leé el libro de misiones para ver como conseguir la §6Tarta del Nether§r!
 # Mixed
@@ -94,7 +94,7 @@ nomiceu.tooltip.thermalexpansion.capacitors=§c¡No se puede descargar en un bú
 nomiceu.tooltip.gregtech.prospector.1=§6§lUso:§r
 nomiceu.tooltip.gregtech.prospector.2=Grilla de cuadrados = 1 chunk, arriba esta el norte.
 nomiceu.tooltip.gregtech.prospector.3=Haz click en un mineral en la barra del costado para aislarla.
-nomiceu.tooltip.gregtech.facade=§3Las fachadas de 3GTCEu se pueden hacer con la mayoría de entidades que no son mosaicos.§r
+nomiceu.tooltip.gregtech.facade=§3Las fachadas de GTCEu se pueden hacer con la mayoría de entidades que no son mosaicos.§r
 
 # Ender IO
 nomiceu.tooltip.eio.fused_glass.make=Hecho con §6Vidrio Templado§r y §7Tinte Blanco§r
@@ -110,3 +110,21 @@ nomiceu.tooltip.labs.hand_framing.drawer=§5¡Enmarcá tus cajones a mano!§r
 nomiceu.tooltip.labs.hand_framing.top_left=§5Izquierda Superior: §oLado§r
 nomiceu.tooltip.labs.hand_framing.top_right=§5Derecha Superior: §oMolde§r
 nomiceu.tooltip.labs.hand_framing.bottom_left=§5Izquierda Inferior: §oFrente§r
+nomiceu.tooltip.nc.fission_port_warning=§c¡No se usa para inyectar agentes enfriadores activos!§r
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.1=¡Ponlo en la grilla de trabajo del inventario para §eVaciar sus Contenidos§r!
+nomiceu.tooltip.drawers.nbt_clearing.drawers.can_clear.2=¡Las mejoras van a §aGuardarse§r!
+nomiceu.main_menu.rent_server=¡Alquilá tu propio servidor de Nomifactory!
+nomiceu.main_menu.discord=¡Unítenos en Discord!
+nomiceu.main_menu.update=Últimos Cambios
+nomiceu.tooltip.mixed.mirrorable=§7La receta puede ser reflejada.§r
+nomiceu.tooltip.mixed.accepts_fluid=§7Fluido: §b%s§r
+nomiceu.tooltip.mixed.accepts_fluid_container=¡§7Podés usar §aBaldes§7, §aCeldas§7, §aBarriles§7, y cualquier otro §aContenedor de Fluidos§7!
+nomiceu.tooltip.mixed.not_consumed=¡Ingrediente no consumible!
+nomiceu.tooltip.mixed.deprecated=§c¡Item obsoleto! ¡Ponlo en la grilla de trabajo del inventario para convertirlo!§r
+nomiceu.tooltip.mixed.deprecation=§c¡Receta para convertir el item deprecado a la alternativa actual!§r
+nomiceu.tooltip.nc.nbt_clearing.cooler.can_clear=¡Ponlo en la grilla de trabajo del inventario para §eSacarle el Agente Enfriador§r!
+nomiceu.tooltip.nc.nbt_clearing.cooler.warning=§c¡El agente enfriador se va a eliminar!§r
+nomiceu.tooltip.nc.fission_safe=§a¡Es seguro! ¡No va a sufrir una fusión nuclear!§r
+nomiceu.tooltip.ae2.p2p.type=Tipo: %s
+nomiceu.tooltip.nc.fission_port_redirect=Deberías usar una Interfaz de NuclearCraft para eso.
+nomiceu.tooltip.gregtech.transfer_l_s=§bVelocidad de Transferencia:§r %sL/s
