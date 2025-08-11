@@ -110,6 +110,7 @@ config.nomilabs.advanced.tooltip=Advanced Settings
 config.nomilabs.advanced.allow_other_modes=Allow Other Modes
 config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
 config.nomilabs.advanced.other_mods_linear_xp=Misc Mod Linear XP Support
+config.nomilabs.advanced.disable_bqu_window=Disable BQu Window Description Editor
 config.nomilabs.advanced.disable_narrator=[DEV ONLY] Disable Narrator
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Enable Nomi-CEu Specific Data Fixes
 config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
