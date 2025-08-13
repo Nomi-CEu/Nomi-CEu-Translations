@@ -658,6 +658,20 @@ item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 
 item.nomilabs.industrial_rebreather_kit.name=Industrial Rebreather Kit
 
+#-----------------Meta Items-----------------#
+metaitem.bronze_cell.name=%s Bronze Cell
+metaitem.gold_cell.name=%s Gold Cell
+
+metaitem.universal_circuit.ulv.name=ULV Universal Circuit
+metaitem.universal_circuit.lv.name=LV Universal Circuit
+metaitem.universal_circuit.mv.name=MV Universal Circuit
+metaitem.universal_circuit.hv.name=HV Universal Circuit
+metaitem.universal_circuit.ev.name=EV Universal Circuit
+metaitem.universal_circuit.iv.name=IV Universal Circuit
+metaitem.universal_circuit.luv.name=LuV Universal Circuit
+metaitem.universal_circuit.zpm.name=ZPM Universal Circuit
+metaitem.universal_circuit.uv.name=UV Universal Circuit
+
 #-----------------Commands-----------------#
 
 command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
@@ -698,6 +712,10 @@ tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
 tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
+
+# Meta Items
+tooltip.nomilabs.metaitem.universal_circuit.1=§7A universal circuit, representing any circuits of this tier.§r
+tooltip.nomilabs.metaitem.universal_circuit.2=§dUseful for AE2 patterning!§r
 
 # Items
 tooltip.nomilabs.drawers.item=§f- %s x%s§r
