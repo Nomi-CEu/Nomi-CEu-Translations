@@ -671,6 +671,7 @@ metaitem.universal_circuit.iv.name=IV Universal Circuit
 metaitem.universal_circuit.luv.name=LuV Universal Circuit
 metaitem.universal_circuit.zpm.name=ZPM Universal Circuit
 metaitem.universal_circuit.uv.name=UV Universal Circuit
+metaitem.universal_circuit.uhv.name=UHV Universal Circuit
 
 #-----------------Commands-----------------#
 
@@ -714,8 +715,9 @@ tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Meta Items
-tooltip.nomilabs.metaitem.universal_circuit.1=§7A universal circuit, representing any circuits of this tier.§r
-tooltip.nomilabs.metaitem.universal_circuit.2=§dUseful for AE2 patterning!§r
+tooltip.nomilabs.metaitem.universal_circuit.2=§7A universal circuit, representing any circuit of its tier.§r
+tooltip.nomilabs.metaitem.universal_circuit.3=§dUseful for AE2 patterning!§r
+tooltip.nomilabs.metaitem.universal_circuit.1=§b%s-Tier Circuit§r
 
 # Items
 tooltip.nomilabs.drawers.item=§f- %s x%s§r
