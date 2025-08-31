@@ -180,6 +180,9 @@ nomilabs.top.quantum_link_chamber.wireless=§dProviding Infinite Wireless Range�
 nomilabs.top.quantum_link_chamber.bad_connection=§cChamber Not Connected§r
 nomilabs.top.quantum_link_chamber.connected=Connected To: §b%s, %s, %s§r in Dimension §d%s§r
 
+nomilabs.gui.item_lock.tooltip.enabled=Item Locking Enabled
+nomilabs.gui.item_lock.tooltip.disabled=Item Locking Disabled
+
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
 
