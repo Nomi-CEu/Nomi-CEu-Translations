@@ -100,7 +100,7 @@ nomifactory.quest.normal.db.13.desc=如果你只在需要时才制作某个物�
 
 # db 14 of mode normal
 nomifactory.quest.normal.db.14.title=熔炉 v2.0
-nomifactory.quest.normal.db.14.desc=§3铁熔炉§r烧物品的速度为 §a150 ticks§r，比普通的§6熔炉§r要快一些，后者需要 §200 ticks§r，所有熔炉的燃料效率保持不变。%n%n译者注：tick 就是 mc 中的刻，1 秒 = 20 刻。
+nomifactory.quest.normal.db.14.desc=§3铁熔炉§r烧物品的速度为 §a150 ticks§r，比普通的§6熔炉§r要快一些，后者需要 §a200 ticks§r，所有熔炉的燃料效率保持不变。%n%n译者注：tick 就是 mc 中的刻，1 秒 = 20 刻。
 
 # db 15 of mode normal
 nomifactory.quest.normal.db.15.title=熔炉 v3.0
@@ -3270,7 +3270,7 @@ nomifactory.quest.expert.db.13.desc=如果你只在需要时才制作某个物�
 
 # db 14 of mode expert
 nomifactory.quest.expert.db.14.title=熔炉 v2.0
-nomifactory.quest.expert.db.14.desc=§3铁熔炉§r烧物品的速度为 §a150 ticks§r，比普通的§6熔炉§r要快一些，后者需要 §200 ticks§r，所有熔炉的燃料效率保持不变。%n%n译者注：tick 就是 mc 中的刻，1 秒 = 20 刻。
+nomifactory.quest.expert.db.14.desc=§3铁熔炉§r烧物品的速度为 §a150 ticks§r，比普通的§6熔炉§r要快一些，后者需要 §a200 ticks§r，所有熔炉的燃料效率保持不变。%n%n译者注：tick 就是 mc 中的刻，1 秒 = 20 刻。
 
 # db 15 of mode expert
 nomifactory.quest.expert.db.15.title=熔炉 v3.0
