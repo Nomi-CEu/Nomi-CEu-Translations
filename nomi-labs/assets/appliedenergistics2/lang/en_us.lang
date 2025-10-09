@@ -11,3 +11,5 @@ gui.appliedenergistics2.non_consume.enable.1=Adding non-consumable items
 gui.appliedenergistics2.non_consume.enable.2=from JEI into patterns.
 gui.appliedenergistics2.non_consume.disable.1=Not adding non-consumable items
 gui.appliedenergistics2.non_consume.disable.2=from JEI into patterns.
+
+theoneprobe.appliedenergistics2.stored_energy_new=§2%1$d§r / §4%2$d§r

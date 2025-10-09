@@ -110,7 +110,6 @@ config.nomilabs.advanced.tooltip=Advanced Settings
 config.nomilabs.advanced.allow_other_modes=Allow Other Modes
 config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
 config.nomilabs.advanced.other_mods_linear_xp=Misc Mod Linear XP Support
-config.nomilabs.advanced.disable_bqu_window=Disable BQu Window Description Editor
 config.nomilabs.advanced.disable_narrator=[DEV ONLY] Disable Narrator
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Enable Nomi-CEu Specific Data Fixes
 config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
@@ -129,6 +128,7 @@ config.nomilabs.advanced.server_side_methods=Server Side ONLY Methods
 config.nomilabs.advanced.server_welcome_name=Server Welcome Name
 config.nomilabs.advanced.mode_check_nomi_ceu=Mode Check Nomi-CEu Link
 config.nomilabs.advanced.binomial_threshold=Binomial Logic Threshold
+config.nomilabs.advanced.default_mipmap=Default Mipmap Level
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
 config.nomilabs.advanced.tiers.normal_qb_ids=Normal Mode Quest IDs
@@ -179,6 +179,9 @@ nomilabs.top.quantum_link_chamber.no_operation=§cMissing Operation Item§r
 nomilabs.top.quantum_link_chamber.wireless=§dProviding Infinite Wireless Range§r
 nomilabs.top.quantum_link_chamber.bad_connection=§cChamber Not Connected§r
 nomilabs.top.quantum_link_chamber.connected=Connected To: §b%s, %s, %s§r in Dimension §d%s§r
+
+nomilabs.gui.item_lock.tooltip.enabled=Item Locking Enabled
+nomilabs.gui.item_lock.tooltip.disabled=Item Locking Disabled
 
 nomilabs.gui.recipes.tooltip.ct_recipe=CraftTweaker Created Recipe
 nomilabs.gui.recipes.tooltip.gs_recipe=GroovyScript Created Recipe
@@ -659,6 +662,21 @@ item.nomilabs.pulsatingmesh.name=Pulsating Mesh
 
 item.nomilabs.industrial_rebreather_kit.name=Industrial Rebreather Kit
 
+#-----------------Meta Items-----------------#
+metaitem.bronze_cell.name=%s Bronze Cell
+metaitem.gold_cell.name=%s Gold Cell
+
+metaitem.universal_circuit.ulv.name=ULV Universal Circuit
+metaitem.universal_circuit.lv.name=LV Universal Circuit
+metaitem.universal_circuit.mv.name=MV Universal Circuit
+metaitem.universal_circuit.hv.name=HV Universal Circuit
+metaitem.universal_circuit.ev.name=EV Universal Circuit
+metaitem.universal_circuit.iv.name=IV Universal Circuit
+metaitem.universal_circuit.luv.name=LuV Universal Circuit
+metaitem.universal_circuit.zpm.name=ZPM Universal Circuit
+metaitem.universal_circuit.uv.name=UV Universal Circuit
+metaitem.universal_circuit.uhv.name=UHV Universal Circuit
+
 #-----------------Commands-----------------#
 
 command.nomilabs.difficulty.labs_locked_1=§cThe difficulty of this world is locked to %s§c!
@@ -699,6 +717,11 @@ tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
 tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
+
+# Meta Items
+tooltip.nomilabs.metaitem.universal_circuit.2=§7A universal circuit, representing any circuit of its tier.§r
+tooltip.nomilabs.metaitem.universal_circuit.3=§dUseful for AE2 patterning!§r
+tooltip.nomilabs.metaitem.universal_circuit.1=§b%s-Tier Circuit§r
 
 # Items
 tooltip.nomilabs.drawers.item=§f- %s x%s§r
