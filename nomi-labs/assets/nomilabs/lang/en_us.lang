@@ -55,6 +55,7 @@ config.nomilabs.mod_integration.dummy_muffler_hatches=Dummy Muffler Hatch Mode
 config.nomilabs.mod_integration.muffler_hatch_particles=Disable Muffler Hatch Particles
 config.nomilabs.mod_integration.prospector_dark=Default Prospector Dark Mode
 config.nomilabs.mod_integration.pa_ex_crafting_strict_mode=PackagedExCrafting Strict Mode (JEI)
+config.nomilabs.mod_integration.replace_drawers=Replace Drawer Item Display (TOP)
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
@@ -179,6 +180,13 @@ nomilabs.top.quantum_link_chamber.no_operation=§cMissing Operation Item§r
 nomilabs.top.quantum_link_chamber.wireless=§dProviding Infinite Wireless Range§r
 nomilabs.top.quantum_link_chamber.bad_connection=§cChamber Not Connected§r
 nomilabs.top.quantum_link_chamber.connected=Connected To: §b%s, %s, %s§r in Dimension §d%s§r
+
+nomilabs.top.storage_drawers.sealed=Sealed
+
+nomilabs.top.quantum_chest.cap=Item Capacity:
+
+nomilabs.top.properties.locked=§cLocked§r
+nomilabs.top.properties.voiding=§dVoiding Enabled§r
 
 nomilabs.gui.item_lock.tooltip.enabled=Item Locking Enabled
 nomilabs.gui.item_lock.tooltip.disabled=Item Locking Disabled
