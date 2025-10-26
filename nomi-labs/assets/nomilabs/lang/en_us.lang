@@ -76,6 +76,7 @@ config.nomilabs.mod_integration.ae2_terminal.interface=Interface Terminal Auto-F
 config.nomilabs.mod_integration.ae2_terminal.cfg_interface=Interface Configuration Terminal Auto-Focusing
 config.nomilabs.mod_integration.ae2_terminal.cfg_fluid_interface=Fluid Interface Configuration Terminal Auto-Focusing
 config.nomilabs.mod_integration.ae2_terminal.cfg_interface_save=Save Interface Configuration Terminal Searches
+config.nomilabs.mod_integration.ae2_terminal.ae2_prio_items=AE2 Prioritized Items
 
 config.nomilabs.mod_integration.better_p2p=Better P2P Options
 config.nomilabs.mod_integration.better_p2p.blink=Blink Selected P2P
@@ -728,9 +729,9 @@ tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
 # Meta Items
-tooltip.nomilabs.metaitem.universal_circuit.2=§7A universal circuit, representing any circuit of its tier.§r
-tooltip.nomilabs.metaitem.universal_circuit.3=§dUseful for AE2 patterning!§r
-tooltip.nomilabs.metaitem.universal_circuit.1=§b%s-Tier Circuit§r
+tooltip.nomilabs.metaitem.universal_circuit.1=§7A universal circuit, representing any circuit of its tier.§r
+tooltip.nomilabs.metaitem.universal_circuit.2=§dUseful for AE2 patterning!§r
+tooltip.nomilabs.metaitem.universal_circuit.3=§b%s-Tier Circuit§r
 
 # Items
 tooltip.nomilabs.drawers.item=§f- %s x%s§r
