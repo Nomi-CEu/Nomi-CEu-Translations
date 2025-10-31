@@ -112,7 +112,6 @@ config.nomilabs.advanced.tooltip=Advanced Settings
 config.nomilabs.advanced.allow_other_modes=Allow Other Modes
 config.nomilabs.advanced.disable_xp_scaling=Disable Anvil XP Scaling
 config.nomilabs.advanced.other_mods_linear_xp=Misc Mod Linear XP Support
-config.nomilabs.advanced.disable_narrator=[DEV ONLY] Disable Narrator
 config.nomilabs.advanced.enable_nomi_ceu_data_fixes=Enable Nomi-CEu Specific Data Fixes
 config.nomilabs.advanced.ignore_items=ITEM Missing Registry Ignore List
 config.nomilabs.advanced.ignore_blocks=BLOCK Missing Registry Ignore List
@@ -727,6 +726,8 @@ tooltip.nomilabs.general.press_ctrl_for_info=Press [Ctrl] for More Info.
 tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
+
+tooltip.nomilabs.items_stored_simple=§dItem Stored: §f%s, %,d items
 
 # Meta Items
 tooltip.nomilabs.metaitem.universal_circuit.1=§7A universal circuit, representing any circuit of its tier.§r
