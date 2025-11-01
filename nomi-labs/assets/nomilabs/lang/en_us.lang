@@ -727,7 +727,8 @@ tooltip.nomilabs.general.crafting_component=§7Crafting Component Only.§r
 tooltip.nomilabs.item.can_clear=Place in Crafting Grid to §eClear Contents§r!
 tooltip.nomilabs.recipe.clearing=§cAll Contents Will be Voided!§r
 
-tooltip.nomilabs.items_stored_simple=§dItem Stored: §f%s, %,d items
+tooltip.nomilabs.items_stored_simple=§dItem Stored:§r %s, %,d items
+tooltip.nomilabs.creative_tank.configured=§dFluid Configured:§r %s
 
 # Meta Items
 tooltip.nomilabs.metaitem.universal_circuit.1=§7A universal circuit, representing any circuit of its tier.§r
