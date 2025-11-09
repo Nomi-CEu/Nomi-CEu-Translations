@@ -657,3 +657,4 @@ nomilabs.gui.advanced_memory_card.mode.input.desc.1=• Перед привяз�
 config.nomilabs.mod_integration.pa_ex_crafting_strict_mode=Строгий режим PackagedExCrafting (JEI)
 config.nomilabs.top.expand_view_tank_threshold=Порог расширенного вида резервуаров
 nomilabs.gui.top.tank.default=Хранилище
+config.nomilabs.advanced.default_mipmap=Уровень MIP-карт по умолчанию
