@@ -658,3 +658,5 @@ config.nomilabs.mod_integration.pa_ex_crafting_strict_mode=Строгий реж
 config.nomilabs.top.expand_view_tank_threshold=Порог расширенного вида резервуаров
 nomilabs.gui.top.tank.default=Хранилище
 config.nomilabs.advanced.default_mipmap=Уровень MIP-карт по умолчанию
+nomilabs.top.storage_drawers.sealed=Запечатанно
+nomilabs.top.quantum_chest.cap=Вме
