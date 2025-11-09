@@ -97,3 +97,4 @@ nomiceu.tooltip.nc.fission_safe=§aБезопасно! Не расплавитс
 nomiceu.tooltip.gregtech.transfer_l_s=§bСкорость передачи:§r %sЛ/с
 nomiceu.tooltip.nc.fission_port_warning=§cНе используется для питания активного охлаждения!§r
 nomiceu.tooltip.nc.fission_port_redirect=Будет использоваться буфер.
+nomiceu.tooltip.mixed.dyeable=Может быть §bОкрашено§r!
