@@ -684,3 +684,5 @@ nomilabs.top.properties.locked=§cЗаблокировано§r
 nomilabs.top.properties.voiding=§dУдаление включено§r
 nomilabs.gui.item_lock.tooltip.enabled=Блокировка предметов включена
 nomilabs.gui.item_lock.tooltip.disabled=Блокировка предметов выключена
+nomilabs.gui.advanced_memory_card.mode.input.desc.2=• §aВыбранный P2P §7становится §6Выводом§7, а §bЦель привязки§7 становится §9Вводом§7.
+nomilabs.gui.advanced_memory_card.mode.input.desc.3=• Выбранный §aP2P§7 становится того же типа, что и §bЦель привязки§7.
