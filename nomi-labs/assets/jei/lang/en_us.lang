@@ -1,1 +1,9 @@
 jei.tooltip.category.id=§8Category ID: %s§r
+
+hei.tooltip.labs.group_organizer_mixin.item_group=§7Item Group
+hei.tooltip.labs.group_organizer_mixin.recipe_group=§7Recipe Group
+hei.tooltip.labs.group_organizer_mixin.press_alt=§7Press §fALT§7 to see Actions
+hei.tooltip.labs.group_organizer_mixin.organizer.1=§6CTRL + LEFT CLICK§7: Move Bookmarks Between Groups
+hei.tooltip.labs.group_organizer_mixin.organizer.2=§6UP§r or §6DOWN§7: Move Group Up or Down
+hei.tooltip.labs.group_organizer_mixin.organizer.3=§6CTRL + SCROLL§7: Change Final Output
+hei.tooltip.labs.group_organizer_mixin.organizer.4=§6%s§7: Autocraft
