@@ -2,3 +2,5 @@
 
 jei.tooltip.category.id=§8ID категории: %s§r
 hei.tooltip.labs.group_organizer_mixin.item_group=§7Группы предметов
+hei.tooltip.labs.group_organizer_mixin.recipe_group=§7Группы рецептов
+hei.tooltip.labs.group_organizer_mixin.press_alt=§7Нажмите §fALT§7 для опций
