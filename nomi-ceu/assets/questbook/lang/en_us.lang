@@ -858,7 +858,7 @@ nomifactory.quest.normal.db.230.desc=If you've tried to insert or remove a lot o
 
 # db 231 of mode normal
 nomifactory.quest.normal.db.231.title=Infiniter Water
-nomifactory.quest.normal.db.231.desc=Endervoirs are blocks that generate water much faster than basic NuclearCraft infinite water sources.%n%nEndervoirs are multiblocks formed by at least three Endervoir blocks. You can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
+nomifactory.quest.normal.db.231.desc=Endervoirs form a multiblock structure that generates water much faster than the NuclearCraft Infinite Water Source. They are formed with at least three Endervoir blocks, and you must fill two of the blocks with water to start the endervoir.%n%nYou can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
 
 # db 232 of mode normal
 nomifactory.quest.normal.db.232.title=Liftoff
@@ -4240,7 +4240,7 @@ nomifactory.quest.expert.db.230.desc=If you've tried to insert or remove a lot o
 
 # db 231 of mode expert
 nomifactory.quest.expert.db.231.title=Infiniter Water
-nomifactory.quest.expert.db.231.desc=Endervoirs are multiblocks formed by at least three Endervoir blocks. You can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
+nomifactory.quest.expert.db.231.desc=Endervoirs form a multiblock structure that generates water much faster than the NuclearCraft Infinite Water Source. They are formed with at least three Endervoir blocks, and you must fill two of the blocks with water to start the endervoir.%n%nYou can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
 
 # db 232 of mode expert
 nomifactory.quest.expert.db.232.title=Liftoff
