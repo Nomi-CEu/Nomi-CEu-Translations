@@ -102,3 +102,4 @@ nomiceu.tooltip.mixed.deprecated_no_conversion=§cПредмет устарел!
 nomiceu.tooltip.mixed.deprecation_usable.1=Вы по-прежнему можете изготовить эту предмет по старому рецепту и использовать её.
 nomiceu.tooltip.mixed.deprecation_usable.2=Однако впредь вам следует использовать §d%s§7.
 nomiceu.tooltip.advancedrocketry.copy_station_id_chips=§dПозволяет создавать копии ID чипов космических станций!§r
+nomiceu.tooltip.mixed.deprecated_recipe=§cРецепт устарел! Используйте альтернативный рецепт!§r
