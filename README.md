@@ -36,7 +36,7 @@ This table captures the support of languages, at the state of nightly builds on 
 | Nomi-CEu (Quest Book) | 🟣      | 🟠      | 🟡       | 🟠      | 🔴              | 🟠                     | 🟤      | 🟤     |
 | Gregtech Drawers      | 🟣      | 🟣      | 🟣       | 🟣      | 🟣              | 🟣                     | 🟣      | 🟤     |
 | Nomi Labs             | 🔵      | 🟣      | 🔵       | 🟠      | 🟣              | 🟣                     | 🟤      | 🔴     |
-| **Overall**           | 🔵      | 🟡      | 🟢       | 🟠      | 🟠              | 🟠                     | 🟤      | 🟤     |
+| **Overall**           | 🔵      | 🟢      | 🟢       | 🟠      | 🟠              | 🟠                     | 🟤      | 🟤     |
 
 #### Key:
 - 🟣: Extremely Well Supported, Fully Complete (~95%+)
