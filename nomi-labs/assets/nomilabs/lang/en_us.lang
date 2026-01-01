@@ -56,6 +56,7 @@ config.nomilabs.mod_integration.muffler_hatch_particles=Disable Muffler Hatch Pa
 config.nomilabs.mod_integration.prospector_dark=Default Prospector Dark Mode
 config.nomilabs.mod_integration.pa_ex_crafting_strict_mode=PackagedExCrafting Strict Mode (JEI)
 config.nomilabs.mod_integration.replace_drawers=Replace Drawer Item Display (TOP)
+config.nomilabs.mod_integration.disable_ae2_p2p_world_change=Disable AE2 P2P Tunnel In-World Type Changing
 
 config.nomilabs.mod_integration.effortlessbuilding=Effortless Building Integration Settings
 config.nomilabs.mod_integration.effortlessbuilding.enable=Enable Effortless Building Integration
