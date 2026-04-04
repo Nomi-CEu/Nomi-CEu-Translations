@@ -30,13 +30,14 @@ This contains Lang Files from the `gregtech-drawers` module.
 ### Language Support Table
 This table captures the support of languages, at the state of nightly builds on this repository.
 
-| Type                  | Chinese | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina)   | Turkish | Finnish |
-| --------------------- | ------- | ------- | -------- | ------ | --------------- | --------------------- | ------- | ------- |
-| Nomi-CEu (Main)       | 🔵      | 🟣      | 🔵       | 🟣      | 🔵              | 🟣                     | 🟠      | 🟤     |
-| Nomi-CEu (Quest Book) | 🟣      | 🟠      | 🟡       | 🟠      | 🔴              | 🟠                     | 🟤      | 🟤     |
-| Gregtech Drawers      | 🟣      | 🟣      | 🟣       | 🟣      | 🟣              | 🟣                     | 🟣      | 🟤     |
-| Nomi Labs             | 🔵      | 🟣      | 🔵       | 🟠      | 🟣              | 🟣                     | 🟤      | 🔴     |
-| **Overall**           | 🔵      | 🟢      | 🟢       | 🟠      | 🟠              | 🟠                     | 🟤      | 🟤     |
+| Type                         | Chinese (Simplified) | Chinese (Traditional) | Russian | Japanese | French | Spanish (Spain) | Spanish (Argentina) | Turkish | Finnish | Persian (Iran) |
+| ---------------------------- | -------------------- | --------------------- | ------- | -------- | ------ | --------------- | ------------------- | ------- | ------- | -------------- |
+| Nomi-CEu (Main)              | 🔵                   | 🟤                    | 🟣      | 🔵       | 🟣     | 🔵              | 🟣                  | 🟠      | 🟤      | 🔴             |
+| Nomi-CEu (Normal Quest Book) | 🟣                   | 🟤                    | 🟣      | 🟢       | 🟢     | 🔴              | 🟠                  | 🟤      | 🟤      | 🟤             |
+| Nomi-CEu (Expert Quest Book) | 🟣                   | 🟤                    | 🟤      | 🟡       | 🟤     | 🟤              | 🟠                  | 🟤      | 🟤      | 🟤             |
+| Gregtech Drawers             | 🟣                   | 🟣                    | 🟣      | 🟣       | 🟣     | 🟣              | 🟣                  | 🟣      | 🟤      | 🟤             |
+| Nomi Labs                    | 🔵                   | 🟤                    | 🟣      | 🔵       | 🟠     | 🔵              | 🟣                  | 🟤      | 🔴      | 🟤             |
+| **Overall**                  | 🔵                   | 🟤                    | 🔵      | 🟢       | 🟠     | 🟠              | 🟠                  | 🟤      | 🟤      | 🟤             |
 
 #### Key:
 - 🟣: Extremely Well Supported, Fully Complete (~95%+)
