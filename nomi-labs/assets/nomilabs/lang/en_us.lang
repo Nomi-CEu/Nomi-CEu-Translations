@@ -245,6 +245,7 @@ nomilabs.gui.advanced_memory_card.filter.input=Show Inputs Only
 nomilabs.gui.advanced_memory_card.filter.output=Show Outputs Only
 nomilabs.gui.advanced_memory_card.filter.bound=Show Bound and Valid Only
 nomilabs.gui.advanced_memory_card.filter.unbound=Show Unbound or Invalid Only
+nomilabs.gui.advanced_memory_card.filter.one=Show One P2P Per Network Only
 nomilabs.gui.advanced_memory_card.filter.distless=Set a Maximum Distance
 nomilabs.gui.advanced_memory_card.filter.distmore=Set a Minimum Distance
 nomilabs.gui.advanced_memory_card.filter.type=Filter by Type
